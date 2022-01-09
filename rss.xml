@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 09 Jan 2022 04:47:26 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[反馈请求 - 在线课程，帮助人们建立他们的应用程序或SaaS理念]]></title><description><![CDATA[我根据在IT行业15年的工作经验，编写了一个短期课程，我正在寻找真实的反馈/推荐。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 09 Jan 2022 06:28:34 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[一个Telegram群组爬行器]]></title><description><![CDATA[大家好，这是我用Python做的副业。
+https://github.com/edogab33/telegram-groups-crawler
+
+
+
+它可以自动搜索你的聊天记录中的群组或频道链接，加入其中并
+收集任何类型的数据。据我所知，目前还没有任何工作可以做。
+所以它可能对你有用...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ryzu7a/a_telegram_groups_crawler/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fryzu7a%2Fa_telegram_groups_crawler%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fryzu7a%2Fa_telegram_groups_crawler%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ryzu7a/a_telegram_groups_crawler/</guid><pubDate>Sun, 09 Jan 2022 06:11:27 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi everyone, this is my side project in Python: &amp;lt;a href=&quot;https://github.com/edogab33/telegram-groups-crawler&quot;&amp;gt;https://github.com/edogab33/telegram-groups-crawler&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It automatically searches group or channel links in your chats, join in them and collects any type of data. As far as I know there is nothing working out there so it might be useful for your side projects too. I would also like to receive feedbacks about the code and the documentation, which aren&amp;amp;#39;t that good imho&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[反馈请求 - 在线课程，帮助人们建立他们的应用程序或SaaS理念]]></title><description><![CDATA[我根据在IT行业15年的工作经验，编写了一个短期课程，我正在寻找真实的反馈/推荐。
 我正在寻找诚实的反馈/推荐。
 
 这就像一个IT项目基础知识课程。它的目标是任何有应用程序或
@@ -535,34 +547,4 @@ Some features I&amp;amp;#39;m planning to add as time goes on include:&amp;lt;/p
 &amp;lt;p&amp;gt;Happy to answer questions about the tech stack, how it works, and how it got to this point. I&amp;amp;#39;m considering turning it into a real product if I get time some day, but for now it&amp;amp;#39;s just something I&amp;amp;#39;m building on the side.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;Disclaimer:&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; &amp;lt;em&amp;gt;This is my first time sharing this, so there are likely bugs/issues I may haven&amp;amp;#39;t run into yet. I work on operating systems IRL and only do web stuff as a hobby, so the design/appearance will probably be very basic compared to other projects on here :)&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[做了一个简短的Python项目，编辑掉视频中没有任何活动的部分。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs2qps/made_a_short_python_project_to_edit_out_parts_of/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frs2qps%2Fmade_a_short_python_project_to_edit_out_parts_of%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frs2qps%2Fmade_a_short_python_project_to_edit_out_parts_of%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs2qps/made_a_short_python_project_to_edit_out_parts_of/</guid><pubDate>Thu, 30 Dec 2021 17:02:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Humbo - 旅行的IMDb]]></title><description><![CDATA[在越南冰咖啡的推动下，我和我的一个朋友，我的女朋友，在大流行期间花了我们的
-在大流行期间，我和一个朋友、我的女朋友利用晚上和周末建造Humbo。
-
-在Humbo，你可以为你想去的地方创建一个旅行清单，以及你已经去过的地方的美丽地图。
-在这里，你可以为你想去的地方创建一个旅行清单，以及一张你已经去过的地方的美丽地图。
-
-这个想法...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs44t7/humbo_the_imdb_of_travel/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frs44t7%2Fhumbo_the_imdb_of_travel%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frs44t7%2Fhumbo_the_imdb_of_travel%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs44t7/humbo_the_imdb_of_travel/</guid><pubDate>Thu, 30 Dec 2021 16:28:47 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Fueled by Vietnamese ice coffee, a friend, my girlfriend, and I have spent our evenings and weekends during the pandemic building Humbo.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Humbo is where you can create a travel bucket list for the places you want to visit, and a beautiful map of the places that you have already been to. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The idea is to be for travel what IMDb is for movies; a reference site with trustworthy ratings and reviews of places by other travelers. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Humbo is a non-commercial hobby project, there is not a single ad on the website, and it is completely free to use. For us, Humbo is a place to have a bit of fun without commercial pressure and simply build what we and other travelers will enjoy.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Today we have 684 936 photos, 275 657 places, and weather data from 3 292 weather stations. We are currently in beta and have only invited friends and family so far. Until now :)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Examples&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://humbo.io/anders/lists/bucket-list&quot;&amp;gt;My travel bucket list&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://humbo.io/anders/lists/visited-places/map&quot;&amp;gt;My map of my travels to date&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Want to help out?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://humbo.io&quot;&amp;gt;Visit Humbo&amp;lt;/a&amp;gt; and rate a few places that you have been to.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Comment here with feedback. We appreciate it more than you think!&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Please tell a friend who likes to travel about Humbo.&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[做了一个简短的Python项目，编辑掉视频中没有任何活动的部分。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs2qps/made_a_short_python_project_to_edit_out_parts_of/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frs2qps%2Fmade_a_short_python_project_to_edit_out_parts_of%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frs2qps%2Fmade_a_short_python_project_to_edit_out_parts_of%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rs2qps/made_a_short_python_project_to_edit_out_parts_of/</guid><pubDate>Thu, 30 Dec 2021 17:02:04 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
