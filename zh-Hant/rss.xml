@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Jan 2022 13:51:32 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我建立了一個小工具，利用我的SaaS輕鬆而廉價地收集客戶反饋意見]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s1bytb/i_build_a_small_tool_to_easily_and_cheaply_gather/?score=13&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1bytb%2Fi_build_a_small_tool_to_easily_and_cheaply_gather%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1bytb%2Fi_build_a_small_tool_to_easily_and_cheaply_gather%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s1bytb/i_build_a_small_tool_to_easily_and_cheaply_gather/</guid><pubDate>Tue, 11 Jan 2022 13:28:59 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[PoeticMetric: 隱私至上的谷歌分析替代品]]></title><description><![CDATA[大家好 💐
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Jan 2022 16:42:35 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[DrapCode - 定製網絡應用程序生成器]]></title><description><![CDATA[嗨，夥計們。
+
+
+
+我們最近推出了一個成熟的網絡應用程序生成器，以建立自定義的網絡應用程序
+無需編寫任何代碼。
+
+你也可以導出源代碼並將其部署到你選擇的基礎設施/服務器上。
+你選擇的基礎設施/服務器。
+
+請查看這裏：https://drapcode.com
+
+感謝任何反饋 :)]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s1e88u/drapcode_custom_web_apps_builder/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1e88u%2Fdrapcode_custom_web_apps_builder%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1e88u%2Fdrapcode_custom_web_apps_builder%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s1e88u/drapcode_custom_web_apps_builder/</guid><pubDate>Tue, 11 Jan 2022 16:21:01 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi folks,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We recently launched a full-fledged web apps builder to build custom web apps without writing any lines of code.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You can also export the source code and deploy it to the infrastructure/servers of your choice.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Please check out here: &amp;lt;a href=&quot;https://drapcode.com&quot;&amp;gt;https://drapcode.com&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Any feedback is appreciated :)&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一個小工具，利用我的SaaS輕鬆而廉價地收集客戶反饋意見]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s1bytb/i_build_a_small_tool_to_easily_and_cheaply_gather/?score=13&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1bytb%2Fi_build_a_small_tool_to_easily_and_cheaply_gather%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1bytb%2Fi_build_a_small_tool_to_easily_and_cheaply_gather%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s1bytb/i_build_a_small_tool_to_easily_and_cheaply_gather/</guid><pubDate>Tue, 11 Jan 2022 13:28:59 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[PoeticMetric: 隱私至上的谷歌分析替代品]]></title><description><![CDATA[大家好 💐
 
 在過去的幾個月裏，我一直在做以隱私爲重點的工作。
 符合法規的（也就是不需要cookie同意的橫幅）Google
@@ -449,12 +472,4 @@ Wetask幫助你處理項目管理和協作工作。輕鬆地管理
 這個應用程序可以記錄你所有的東西，還有一個好處：你可以從其他的清單中獲得靈感。
 其他清單中獲得靈感。The Byebye app [https://www.byebye.io/]。希望你
 喜歡它 🙂 很明顯，反饋是一個金礦! 乾杯!]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/rvxs46/the_byebye_app_my_side_project_to_help_organize/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frvxs46%2Fthe_byebye_app_my_side_project_to_help_organize%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frvxs46%2Fthe_byebye_app_my_side_project_to_help_organize%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/rvxs46/the_byebye_app_my_side_project_to_help_organize/</guid><pubDate>Tue, 04 Jan 2022 20:53:14 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi there, this one should work for anyone interested in getting organized, an app to keep track of all your stuff, with a bonus: you can get inspired from other inventories as well. The &amp;lt;a href=&quot;https://www.byebye.io/&quot;&amp;gt;Byebye app&amp;lt;/a&amp;gt;. Hope you like it 🙂 Obviously, feedback is a goldmine! Cheers!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個網站，你可以添加副業的鏈接，幫助你被發現。]]></title><description><![CDATA[我創建了ListoPost，將網絡上的東西整理成清單。你可以報名參加
-將你的項目鏈接添加到其中一個列表中，或者在沒有合適列表的情況下添加一個列表。
-適當的列表。這個網站的目標是幫助人們發現更多的工具
-而不僅僅是在現有的搜索/社交網站上占主導地位的工具。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/rw18ag/i_made_a_site_where_you_can_add_links_to_side/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frw18ag%2Fi_made_a_site_where_you_can_add_links_to_side%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frw18ag%2Fi_made_a_site_where_you_can_add_links_to_side%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/rw18ag/i_made_a_site_where_you_can_add_links_to_side/</guid><pubDate>Tue, 04 Jan 2022 20:45:05 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I created ListoPost to organize the web into lists of things.  You can sign up to add a link to your project into one of the lists or add a list if there isn&amp;amp;#39;t an appropriate list.  The goal for this site is to help people discover more tools than just what dominates the existing search/social channels.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.listopost.com/&quot;&amp;gt;https://www.listopost.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Any feedback is appreciated. Thanks.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>

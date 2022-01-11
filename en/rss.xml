@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Jan 2022 13:51:32 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I build a small tool to easily and cheaply gather customer feedback using my SaaS]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1bytb/i_build_a_small_tool_to_easily_and_cheaply_gather/?score=13&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1bytb%2Fi_build_a_small_tool_to_easily_and_cheaply_gather%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1bytb%2Fi_build_a_small_tool_to_easily_and_cheaply_gather%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1bytb/i_build_a_small_tool_to_easily_and_cheaply_gather/</guid><pubDate>Tue, 11 Jan 2022 13:28:59 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[PoeticMetric: Privacy-first alternative to Google Analytics]]></title><description><![CDATA[Hello folks 💐
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Jan 2022 16:42:35 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[DrapCode - Custom Web Apps Builder]]></title><description><![CDATA[Hi folks,
+
+
+
+We recently launched a full-fledged web apps builder to build custom web apps
+without writing any lines of code.
+
+You can also export the source code and deploy it to the infrastructure/servers
+of your choice.
+
+Please check out here: https://drapcode.com
+
+Any feedback is appreciated :)]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1e88u/drapcode_custom_web_apps_builder/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1e88u%2Fdrapcode_custom_web_apps_builder%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1e88u%2Fdrapcode_custom_web_apps_builder%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1e88u/drapcode_custom_web_apps_builder/</guid><pubDate>Tue, 11 Jan 2022 16:21:01 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi folks,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We recently launched a full-fledged web apps builder to build custom web apps without writing any lines of code.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You can also export the source code and deploy it to the infrastructure/servers of your choice.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Please check out here: &amp;lt;a href=&quot;https://drapcode.com&quot;&amp;gt;https://drapcode.com&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Any feedback is appreciated :)&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I build a small tool to easily and cheaply gather customer feedback using my SaaS]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1bytb/i_build_a_small_tool_to_easily_and_cheaply_gather/?score=13&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1bytb%2Fi_build_a_small_tool_to_easily_and_cheaply_gather%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1bytb%2Fi_build_a_small_tool_to_easily_and_cheaply_gather%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1bytb/i_build_a_small_tool_to_easily_and_cheaply_gather/</guid><pubDate>Tue, 11 Jan 2022 13:28:59 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[PoeticMetric: Privacy-first alternative to Google Analytics]]></title><description><![CDATA[Hello folks 💐
 
 For the last few months I have been working on privacy-focused,
 regulation-compliant (a.k.a. no cookie consent banners are needed) Google
@@ -449,12 +472,4 @@ Just like on Reddit, there is a voting system so you always get the best…]]></
 app to keep track of all your stuff, with a bonus: you can get inspired from
 other inventories as well. The Byebye app [https://www.byebye.io/]. Hope you
 like it 🙂 Obviously, feedback is a goldmine! Cheers!]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/rvxs46/the_byebye_app_my_side_project_to_help_organize/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frvxs46%2Fthe_byebye_app_my_side_project_to_help_organize%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frvxs46%2Fthe_byebye_app_my_side_project_to_help_organize%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/rvxs46/the_byebye_app_my_side_project_to_help_organize/</guid><pubDate>Tue, 04 Jan 2022 20:53:14 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi there, this one should work for anyone interested in getting organized, an app to keep track of all your stuff, with a bonus: you can get inspired from other inventories as well. The &amp;lt;a href=&quot;https://www.byebye.io/&quot;&amp;gt;Byebye app&amp;lt;/a&amp;gt;. Hope you like it 🙂 Obviously, feedback is a goldmine! Cheers!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I made a site where you can add links to side projects to help you get discovered]]></title><description><![CDATA[I created ListoPost to organize the web into lists of things. You can sign up to
-add a link to your project into one of the lists or add a list if there isn't an
-appropriate list. The goal for this site is to help people discover more tools
-than just what dominates the existing search/social…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/rw18ag/i_made_a_site_where_you_can_add_links_to_side/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frw18ag%2Fi_made_a_site_where_you_can_add_links_to_side%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frw18ag%2Fi_made_a_site_where_you_can_add_links_to_side%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/rw18ag/i_made_a_site_where_you_can_add_links_to_side/</guid><pubDate>Tue, 04 Jan 2022 20:45:05 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I created ListoPost to organize the web into lists of things.  You can sign up to add a link to your project into one of the lists or add a list if there isn&amp;amp;#39;t an appropriate list.  The goal for this site is to help people discover more tools than just what dominates the existing search/social channels.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.listopost.com/&quot;&amp;gt;https://www.listopost.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Any feedback is appreciated. Thanks.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
