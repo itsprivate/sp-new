@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Jan 2022 05:09:47 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Introducing Sous, a Chrome plugin that transforms recipes into step-by-step, voice-navigated cards.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1toni/introducing_sous_a_chrome_plugin_that_transforms/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1toni%2Fintroducing_sous_a_chrome_plugin_that_transforms%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1toni%2Fintroducing_sous_a_chrome_plugin_that_transforms%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1toni/introducing_sous_a_chrome_plugin_that_transforms/</guid><pubDate>Wed, 12 Jan 2022 04:49:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[enthusiastic Logo designer | Brand identity designer]]></title><description><![CDATA[Hello, I'm a Logo Designer / Brand Identity Designer. I have worked on countless
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Jan 2022 07:15:07 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Web monitoring service - get instant notification when your favorite web page changes]]></title><description><![CDATA[Hey Folks!
+
+I recently published Obzrv.it [https://Obzrv.it] - simple, fast and free web
+monitoring service. It allows users to register a web page, or page's element to
+be monitored and the user will get a message once a change is detected. It also
+analyzes content changes and tracks changes…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1njfc/web_monitoring_service_get_instant_notification/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1njfc%2Fweb_monitoring_service_get_instant_notification%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1njfc%2Fweb_monitoring_service_get_instant_notification%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1njfc/web_monitoring_service_get_instant_notification/</guid><pubDate>Wed, 12 Jan 2022 06:56:22 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey Folks!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I recently published &amp;lt;a href=&quot;https://Obzrv.it&quot;&amp;gt;Obzrv.it&amp;lt;/a&amp;gt; - simple, fast and free web monitoring service. It allows users to register a web page, or page&amp;amp;#39;s element to be monitored and the user will get a message once a change is detected. It also analyzes content changes and tracks changes history.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/99m0698uy4b81.png?width=1920&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=76437700b7e87c738a3c1816733fa11a3ff1dae8&quot;&amp;gt;https://preview.redd.it/99m0698uy4b81.png?width=1920&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=76437700b7e87c738a3c1816733fa11a3ff1dae8&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It started as a Golang exercise around a year ago, and then I thought I could make it public and turn into something useful.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It&amp;amp;#39;s pretty universal and has multiple applications: monitoring prices, job offers, tracking competition, ... anything you can find on the web: &amp;lt;a href=&quot;https://youtu.be/Vcy4TQaPNrs&quot;&amp;gt;https://youtu.be/Vcy4TQaPNrs&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Happy to hear any comments!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/s1njfc/video/i2btlymay4b81/player&quot;&amp;gt;https://reddit.com/link/s1njfc/video/i2btlymay4b81/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Introducing Sous, a Chrome plugin that transforms recipes into step-by-step, voice-navigated cards.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1toni/introducing_sous_a_chrome_plugin_that_transforms/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1toni%2Fintroducing_sous_a_chrome_plugin_that_transforms%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1toni%2Fintroducing_sous_a_chrome_plugin_that_transforms%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1toni/introducing_sous_a_chrome_plugin_that_transforms/</guid><pubDate>Wed, 12 Jan 2022 04:49:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[enthusiastic Logo designer | Brand identity designer]]></title><description><![CDATA[Hello, I'm a Logo Designer / Brand Identity Designer. I have worked on countless
 logo and branding projects for start-ups and businesses all over the world and
 managed to deliver high-quality & effective design solutions.
 
@@ -430,17 +450,4 @@ Features include:
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://writemore.io/&quot;&amp;gt;Check it out&amp;lt;/a&amp;gt; and let me know your thoughts!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Dadabase - A database of dad-jokes]]></title><description><![CDATA[One of my favorite things to do in the morning is to annoy my children and wife
-with bad jokes.
-
-So this winter break I decided to gather as many as I could and create my own
-"dadabase [https://dadabase.co]", so I would have them readily available!
-
-It really did start off with a spreadsheet of…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/rwovcj/dadabase_a_database_of_dadjokes/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frwovcj%2Fdadabase_a_database_of_dadjokes%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frwovcj%2Fdadabase_a_database_of_dadjokes%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/rwovcj/dadabase_a_database_of_dadjokes/</guid><pubDate>Wed, 05 Jan 2022 15:53:35 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;One of my favorite things to do in the morning is to annoy my children and wife with bad jokes. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So this winter break I decided to gather as many as I could and create my own &amp;amp;quot;&amp;lt;a href=&quot;https://dadabase.co&quot;&amp;gt;dadabase&amp;lt;/a&amp;gt;&amp;amp;quot;, so I would have them readily available!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It really did start off with a spreadsheet of 300+ dad-jokes I found online, then while I was doing some work in zapier for my day job I saw a zap recommendation to create a new WordPress post from a google sheet, and I had an aha moment.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The entire thing is automated via zapier, htmlcsstoimage, WordPress and buffer.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>

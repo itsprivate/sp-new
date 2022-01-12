@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Jan 2022 05:09:47 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[介绍一下Sous，这是一个Chrome插件，可以将菜谱转化为按部就班的语音导航卡片。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1toni/introducing_sous_a_chrome_plugin_that_transforms/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1toni%2Fintroducing_sous_a_chrome_plugin_that_transforms%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1toni%2Fintroducing_sous_a_chrome_plugin_that_transforms%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1toni/introducing_sous_a_chrome_plugin_that_transforms/</guid><pubDate>Wed, 12 Jan 2022 04:49:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[热心的标志设计师|品牌形象设计师]]></title><description><![CDATA[你好，我是一名标志设计师/品牌形象设计师。我曾为世界各地的创业公司和企业做了无数的
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Jan 2022 07:15:07 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[网络监控服务--当你喜欢的网页发生变化时，立即获得通知]]></title><description><![CDATA[嘿，伙计们！我最近出版了Obzrv.i。
+
+我最近发布了Obzrv.it [https://Obzrv.it] - 简单、快速和免费的网络
+监控服务。它允许用户注册一个网页，或网页上的元素来进行监控。
+监视，一旦检测到变化，用户就会得到一个消息。它还
+分析内容变化和跟踪变化...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1njfc/web_monitoring_service_get_instant_notification/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1njfc%2Fweb_monitoring_service_get_instant_notification%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1njfc%2Fweb_monitoring_service_get_instant_notification%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1njfc/web_monitoring_service_get_instant_notification/</guid><pubDate>Wed, 12 Jan 2022 06:56:22 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey Folks!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I recently published &amp;lt;a href=&quot;https://Obzrv.it&quot;&amp;gt;Obzrv.it&amp;lt;/a&amp;gt; - simple, fast and free web monitoring service. It allows users to register a web page, or page&amp;amp;#39;s element to be monitored and the user will get a message once a change is detected. It also analyzes content changes and tracks changes history.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/99m0698uy4b81.png?width=1920&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=76437700b7e87c738a3c1816733fa11a3ff1dae8&quot;&amp;gt;https://preview.redd.it/99m0698uy4b81.png?width=1920&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=76437700b7e87c738a3c1816733fa11a3ff1dae8&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It started as a Golang exercise around a year ago, and then I thought I could make it public and turn into something useful.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It&amp;amp;#39;s pretty universal and has multiple applications: monitoring prices, job offers, tracking competition, ... anything you can find on the web: &amp;lt;a href=&quot;https://youtu.be/Vcy4TQaPNrs&quot;&amp;gt;https://youtu.be/Vcy4TQaPNrs&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Happy to hear any comments!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/s1njfc/video/i2btlymay4b81/player&quot;&amp;gt;https://reddit.com/link/s1njfc/video/i2btlymay4b81/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[介绍一下Sous，这是一个Chrome插件，可以将菜谱转化为按部就班的语音导航卡片。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1toni/introducing_sous_a_chrome_plugin_that_transforms/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1toni%2Fintroducing_sous_a_chrome_plugin_that_transforms%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1toni%2Fintroducing_sous_a_chrome_plugin_that_transforms%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1toni/introducing_sous_a_chrome_plugin_that_transforms/</guid><pubDate>Wed, 12 Jan 2022 04:49:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[热心的标志设计师|品牌形象设计师]]></title><description><![CDATA[你好，我是一名标志设计师/品牌形象设计师。我曾为世界各地的创业公司和企业做了无数的
 为世界各地的初创公司和企业设计了无数的标志和品牌项目，并成功地提供了高质量和有效的设计方案。
 设法提供高质量和有效的设计解决方案。
 
@@ -430,17 +450,4 @@ Flutter/Dart，并准备开始分享它和获取反馈! 你...]]></description><
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://writemore.io/&quot;&amp;gt;Check it out&amp;lt;/a&amp;gt; and let me know your thoughts!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Dadabase - 一个爸爸笑话的数据库]]></title><description><![CDATA[我早上最喜欢做的事情之一是用坏笑话来烦扰我的孩子和妻子
-用坏笑话。
-
-因此，这个寒假我决定收集尽可能多的笑话，并创造自己的笑话。
-"dadabase[https://dadabase.co]"，这样我就可以随时随地地使用它们了。
-
-它确实是从一个电子表格开始的，其中包括...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rwovcj/dadabase_a_database_of_dadjokes/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frwovcj%2Fdadabase_a_database_of_dadjokes%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frwovcj%2Fdadabase_a_database_of_dadjokes%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rwovcj/dadabase_a_database_of_dadjokes/</guid><pubDate>Wed, 05 Jan 2022 15:53:35 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;One of my favorite things to do in the morning is to annoy my children and wife with bad jokes. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So this winter break I decided to gather as many as I could and create my own &amp;amp;quot;&amp;lt;a href=&quot;https://dadabase.co&quot;&amp;gt;dadabase&amp;lt;/a&amp;gt;&amp;amp;quot;, so I would have them readily available!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It really did start off with a spreadsheet of 300+ dad-jokes I found online, then while I was doing some work in zapier for my day job I saw a zap recommendation to create a new WordPress post from a google sheet, and I had an aha moment.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The entire thing is automated via zapier, htmlcsstoimage, WordPress and buffer.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
