@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Jan 2022 07:15:07 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Web monitoring service - get instant notification when your favorite web page changes]]></title><description><![CDATA[Hey Folks!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Jan 2022 09:31:20 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Install any website as an app directly from the browser (it's free and open-source)]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s21jlj/install_any_website_as_an_app_directly_from_the/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs21jlj%2Finstall_any_website_as_an_app_directly_from_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs21jlj%2Finstall_any_website_as_an_app_directly_from_the%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s21jlj/install_any_website_as_an_app_directly_from_the/</guid><pubDate>Wed, 12 Jan 2022 09:14:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Web monitoring service - get instant notification when your favorite web page changes]]></title><description><![CDATA[Hey Folks!
 
 I recently published Obzrv.it [https://Obzrv.it] - simple, fast and free web
 monitoring service. It allows users to register a web page, or page's element to
@@ -420,34 +420,4 @@ includes:
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I would love any feedback you guys might have. I have some new feature ideas in mind but want to hear from other people for prioritisation.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[WriteMore.io - A powerful writing app with automated backups, reminders, themes, prompts, and more!]]></title><description><![CDATA[Hi folks 👋
-
-I recently launched WriteMore [https://writemore.io/], a powerful and intuitive
-writing website for writers that promotes consistent writing habits. The goal
-here is to provide a customizable and distraction free writing environment.
-
-Features include:
-
- * Automated daily backups for…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/rwrsiv/writemoreio_a_powerful_writing_app_with_automated/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frwrsiv%2Fwritemoreio_a_powerful_writing_app_with_automated%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frwrsiv%2Fwritemoreio_a_powerful_writing_app_with_automated%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/rwrsiv/writemoreio_a_powerful_writing_app_with_automated/</guid><pubDate>Wed, 05 Jan 2022 18:28:09 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi folks 👋&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I recently launched &amp;lt;a href=&quot;https://writemore.io/&quot;&amp;gt;WriteMore&amp;lt;/a&amp;gt;, a powerful and intuitive writing website for writers that promotes consistent writing habits. The goal here is to provide a customizable and distraction free writing environment. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Features include:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Automated daily backups for each new page&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Automated daily alerts via Text or Email&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Rich text writing editor&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;4 beautiful themes&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Writing analytics (writing days, pages, words) per week, month, all-time&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Saving content as you write&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I would love any feedback you guys might have! It&amp;amp;#39;s a fairly new project and i&amp;amp;#39;ve got a ton of ideas but need some feedback to prioritize accordingly. At the moment it&amp;amp;#39;s completely free and i&amp;amp;#39;m more interested in bettering the product before thinking about monetization.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://writemore.io/&quot;&amp;gt;Check it out&amp;lt;/a&amp;gt; and let me know your thoughts!&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>

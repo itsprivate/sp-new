@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Jan 2022 07:15:07 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[网络监控服务--当你喜欢的网页发生变化时，立即获得通知]]></title><description><![CDATA[嘿，伙计们！我最近出版了Obzrv.i。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Jan 2022 09:31:20 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[直接从浏览器中把任何网站安装成一个应用程序（它是免费和开源的）]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s21jlj/install_any_website_as_an_app_directly_from_the/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs21jlj%2Finstall_any_website_as_an_app_directly_from_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs21jlj%2Finstall_any_website_as_an_app_directly_from_the%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s21jlj/install_any_website_as_an_app_directly_from_the/</guid><pubDate>Wed, 12 Jan 2022 09:14:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[网络监控服务--当你喜欢的网页发生变化时，立即获得通知]]></title><description><![CDATA[嘿，伙计们！我最近出版了Obzrv.i。
 
 我最近发布了Obzrv.it [https://Obzrv.it] - 简单、快速和免费的网络
 监控服务。它允许用户注册一个网页，或网页上的元素来进行监控。
@@ -420,34 +420,4 @@ Flutter/Dart，并准备开始分享它和获取反馈! 你...]]></description><
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I would love any feedback you guys might have. I have some new feature ideas in mind but want to hear from other people for prioritisation.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[WriteMore.io - 一个强大的写作应用程序，具有自动备份、提醒、主题、提示和更多功能!]]></title><description><![CDATA[嗨，伙计们 👋
-
-我最近推出了WriteMore [https://writemore.io/]，这是一个强大而直观的作家写作网站。
-写作网站，以促进持续的写作习惯。其目标是
-这里的目标是提供一个可定制的、不受干扰的写作环境。
-
-功能包括。
-
- * 每天自动备份，以便于...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rwrsiv/writemoreio_a_powerful_writing_app_with_automated/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frwrsiv%2Fwritemoreio_a_powerful_writing_app_with_automated%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frwrsiv%2Fwritemoreio_a_powerful_writing_app_with_automated%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rwrsiv/writemoreio_a_powerful_writing_app_with_automated/</guid><pubDate>Wed, 05 Jan 2022 18:28:09 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi folks 👋&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I recently launched &amp;lt;a href=&quot;https://writemore.io/&quot;&amp;gt;WriteMore&amp;lt;/a&amp;gt;, a powerful and intuitive writing website for writers that promotes consistent writing habits. The goal here is to provide a customizable and distraction free writing environment. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Features include:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Automated daily backups for each new page&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Automated daily alerts via Text or Email&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Rich text writing editor&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;4 beautiful themes&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Writing analytics (writing days, pages, words) per week, month, all-time&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Saving content as you write&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I would love any feedback you guys might have! It&amp;amp;#39;s a fairly new project and i&amp;amp;#39;ve got a ton of ideas but need some feedback to prioritize accordingly. At the moment it&amp;amp;#39;s completely free and i&amp;amp;#39;m more interested in bettering the product before thinking about monetization.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://writemore.io/&quot;&amp;gt;Check it out&amp;lt;/a&amp;gt; and let me know your thoughts!&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
