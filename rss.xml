@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Jan 2022 16:23:20 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我找不到我喜欢的品牌，所以我建立了自己的品牌]]></title><description><![CDATA[我只是想在这里发布我的故事，希望你们中至少有一个人
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Jan 2022 18:47:23 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[复制文本或代码的一种很酷的方式]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s4grna/a_cool_way_to_copy_text_or_codes/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs4grna%2Fa_cool_way_to_copy_text_or_codes%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs4grna%2Fa_cool_way_to_copy_text_or_codes%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s4grna/a_cool_way_to_copy_text_or_codes/</guid><pubDate>Sat, 15 Jan 2022 18:27:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我为初创企业创始人在Reddit上探索利基市场寻找问题提供了一种方法。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s4po69/i_made_a_way_for_startup_founders_to_explore/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs4po69%2Fi_made_a_way_for_startup_founders_to_explore%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs4po69%2Fi_made_a_way_for_startup_founders_to_explore%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s4po69/i_made_a_way_for_startup_founders_to_explore/</guid><pubDate>Sat, 15 Jan 2022 18:27:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我找不到我喜欢的品牌，所以我建立了自己的品牌]]></title><description><![CDATA[我只是想在这里发布我的故事，希望你们中至少有一个人
 也能受到启发，迈出第一步，启动自己的创业公司。
 
 作为一个男人，很长时间以来，我一直很沮丧，当涉及到
@@ -265,29 +265,4 @@ https://communicationboard.io/]]></description><link>https://sideproject.buzzing
 &amp;lt;p&amp;gt;Gumroad: &amp;lt;a href=&quot;https://app.gumroad.com/jmavenfinance&quot;&amp;gt;https://app.gumroad.com/jmavenfinance&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I&amp;amp;#39;ll take questions, suggestions and feedback. Cheers!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[一个Telegram群组爬行器]]></title><description><![CDATA[大家好，这是我用Python做的副业。
-https://github.com/edogab33/telegram-groups-crawler
-
-
-
-它可以自动搜索你的聊天记录中的群组或频道链接，加入其中并
-收集任何类型的数据。据我所知，目前还没有任何工作可以做。
-所以它可能对你有用...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ryzu7a/a_telegram_groups_crawler/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fryzu7a%2Fa_telegram_groups_crawler%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fryzu7a%2Fa_telegram_groups_crawler%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ryzu7a/a_telegram_groups_crawler/</guid><pubDate>Sun, 09 Jan 2022 06:11:27 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi everyone, this is my side project in Python: &amp;lt;a href=&quot;https://github.com/edogab33/telegram-groups-crawler&quot;&amp;gt;https://github.com/edogab33/telegram-groups-crawler&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It automatically searches group or channel links in your chats, join in them and collects any type of data. As far as I know there is nothing working out there so it might be useful for your side projects too. I would also like to receive feedbacks about the code and the documentation, which aren&amp;amp;#39;t that good imho&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[反馈请求 - 在线课程，帮助人们建立他们的应用程序或SaaS理念]]></title><description><![CDATA[我根据在IT行业15年的工作经验，编写了一个短期课程，我正在寻找真实的反馈/推荐。
-我正在寻找诚实的反馈/推荐。
-
-这就像一个IT项目基础知识课程。它的目标是任何有应用程序或
-SaaS的想法，但又不知道如何自己编码的人。
-
-它带你了解所有的东西...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rzf3p8/feedback_request_online_course_to_help_people/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frzf3p8%2Ffeedback_request_online_course_to_help_people%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Frzf3p8%2Ffeedback_request_online_course_to_help_people%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/rzf3p8/feedback_request_online_course_to_help_people/</guid><pubDate>Sun, 09 Jan 2022 04:28:27 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I put together a short course based on 15 years in the IT industry and I&amp;amp;#39;m looking for honest feedback / testimonials.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It&amp;amp;#39;s like a IT project fundamentals course. It is aimed at anyone with an app or SaaS idea but who also has no clue how to code it themselves. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It takes you through all the stuff you can do as a non technically trained person. Stuff like defining use cases, writing requirements, hiring developers, and managing the delivery lifecycle.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I can provide access to anyone interested in checking it out.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
