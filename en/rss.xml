@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Jan 2022 16:09:38 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Sitting for long hours? Move your butt or it will be moved by the Butt Mover 🍑🚜!]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s6y4fk/sitting_for_long_hours_move_your_butt_or_it_will/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6y4fk%2Fsitting_for_long_hours_move_your_butt_or_it_will%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6y4fk%2Fsitting_for_long_hours_move_your_butt_or_it_will%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s6y4fk/sitting_for_long_hours_move_your_butt_or_it_will/</guid><pubDate>Tue, 18 Jan 2022 15:49:03 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[💡 I created a matching app to match people with shared interests in different cities around the world 🏙️]]></title><description><![CDATA[App Store Link:
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Jan 2022 21:18:06 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[We built a Rotten Tomatoes-style platform for laptops. It aggregates reviews from the most trusted sources like Reddit, Youtube, or notebookcheck.]]></title><description><![CDATA[When I was recently looking for a new laptop, I realized that I’m spending
+countless hours doing product research by reading many reviews from different
+sources.
+
+The biggest pain points are:
+
+ * Google full of SEO spam and Ads
+ * Fake reviews
+ * Fragmented trusted sources
+ * Impossible to see…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s75w70/we_built_a_rotten_tomatoesstyle_platform_for/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs75w70%2Fwe_built_a_rotten_tomatoesstyle_platform_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs75w70%2Fwe_built_a_rotten_tomatoesstyle_platform_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s75w70/we_built_a_rotten_tomatoesstyle_platform_for/</guid><pubDate>Tue, 18 Jan 2022 20:53:52 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;When I was recently looking for a new laptop, I realized that I’m spending countless hours doing product research by reading many reviews from different sources.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The biggest pain points are:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Google full of SEO spam and Ads&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Fake reviews&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Fragmented trusted sources&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Impossible to see trends across sources&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;To get trustworthy reviews, many people are adding &amp;amp;quot;reddit&amp;amp;quot; to their search queries. The challenges here are:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Many duplicate posts/requests&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Bad search&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Scattered information&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Wiki/Collections are hard to keep up-to-date&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;To solve these issues, we launched &amp;lt;a href=&quot;https://looria.com/&quot;&amp;gt;Looria.com&amp;lt;/a&amp;gt;. We surface and consolidate the most trusted reviews from across the internet.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here is what it looks like for the &amp;lt;a href=&quot;https://looria.com/review/lg-gram-17?category.subcategory=Laptops&quot;&amp;gt;LG Gram 17&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/bcsugz9g1ic81.png?width=970&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=0cff07cbba7a558c3609cf0aa900ab2f424bb5c8&quot;&amp;gt;https://preview.redd.it/bcsugz9g1ic81.png?width=970&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=0cff07cbba7a558c3609cf0aa900ab2f424bb5c8&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Why trust us?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Our sources and ranking are open source to offer full transparency. We let the community &amp;lt;a href=&quot;https://looria.com/trusted-sources&quot;&amp;gt;vote on the most trusted sources&amp;lt;/a&amp;gt;. The votes are then factored into our scoring algorithm.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/4zeti43h1ic81.png?width=904&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=2a2104f044c8b8ca62c14ed11602b40337d078e5&quot;&amp;gt;https://preview.redd.it/4zeti43h1ic81.png?width=904&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=2a2104f044c8b8ca62c14ed11602b40337d078e5&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What&amp;amp;#39;s next?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We&amp;amp;#39;re constantly improving Looria and will soon add new features like:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Improve data quality&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Expansion to other product categories&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Tracking product revisions and models&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Tracking brand deterioration&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Pros/Cons summaries&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Your favorite Laptop is not on the list yet? Just use the submission form, and we’ll collect and analyze all the reviews for it. Once we&amp;amp;#39;re done, we&amp;amp;#39;ll notify you with an email.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;What should we improve? It&amp;amp;#39;s still an MVP, so any feedback would be greatly appreciated.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Sitting for long hours? Move your butt or it will be moved by the Butt Mover 🍑🚜!]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s6y4fk/sitting_for_long_hours_move_your_butt_or_it_will/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6y4fk%2Fsitting_for_long_hours_move_your_butt_or_it_will%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6y4fk%2Fsitting_for_long_hours_move_your_butt_or_it_will%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s6y4fk/sitting_for_long_hours_move_your_butt_or_it_will/</guid><pubDate>Tue, 18 Jan 2022 15:49:03 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[💡 I created a matching app to match people with shared interests in different cities around the world 🏙️]]></title><description><![CDATA[App Store Link:
 https://apps.apple.com/us/app/plankton-people-that-tick/id1601843550
 
 
@@ -388,4 +444,4 @@ link to discuss feedback directly on…]]></description><link>https://sideprojec
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.instacap.co&quot;&amp;gt;https://www.instacap.co&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;It&amp;amp;#39;s great for QA&amp;amp;#39;ing live/dev sites, presentation feedback, numbered how-to instructions, design/marketing material proofing, dev prototype feedback and more.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Outsource your tasks and/or earn money as a freelancer with Turk. Social media @useturk]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1567v/outsource_your_tasks_andor_earn_money_as_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1567v%2Foutsource_your_tasks_andor_earn_money_as_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1567v%2Foutsource_your_tasks_andor_earn_money_as_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1567v/outsource_your_tasks_andor_earn_money_as_a/</guid><pubDate>Tue, 11 Jan 2022 06:50:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Are side projects beneficial for applications as a software engineer? (German! Podcast Episode)]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s0rvss/are_side_projects_beneficial_for_applications_as/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs0rvss%2Fare_side_projects_beneficial_for_applications_as%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs0rvss%2Fare_side_projects_beneficial_for_applications_as%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s0rvss/are_side_projects_beneficial_for_applications_as/</guid><pubDate>Mon, 10 Jan 2022 22:26:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I made an app that helps to find the best sneaker prices on the market]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s0k91a/i_made_an_app_that_helps_to_find_the_best_sneaker/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs0k91a%2Fi_made_an_app_that_helps_to_find_the_best_sneaker%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs0k91a%2Fi_made_an_app_that_helps_to_find_the_best_sneaker%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s0k91a/i_made_an_app_that_helps_to_find_the_best_sneaker/</guid><pubDate>Mon, 10 Jan 2022 21:15:02 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Outsource your tasks and/or earn money as a freelancer with Turk. Social media @useturk]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1567v/outsource_your_tasks_andor_earn_money_as_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1567v%2Foutsource_your_tasks_andor_earn_money_as_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1567v%2Foutsource_your_tasks_andor_earn_money_as_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s1567v/outsource_your_tasks_andor_earn_money_as_a/</guid><pubDate>Tue, 11 Jan 2022 06:50:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Are side projects beneficial for applications as a software engineer? (German! Podcast Episode)]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s0rvss/are_side_projects_beneficial_for_applications_as/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs0rvss%2Fare_side_projects_beneficial_for_applications_as%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs0rvss%2Fare_side_projects_beneficial_for_applications_as%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s0rvss/are_side_projects_beneficial_for_applications_as/</guid><pubDate>Mon, 10 Jan 2022 22:26:17 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
