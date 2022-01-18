@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Jan 2022 20:17:26 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[将您的任务外包给Turk!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s6578q/outsource_your_tasks_with_turk/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6578q%2Foutsource_your_tasks_with_turk%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6578q%2Foutsource_your_tasks_with_turk%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s6578q/outsource_your_tasks_with_turk/</guid><pubDate>Mon, 17 Jan 2022 19:54:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[ContentIdeas.io - 在网络上寻找表现最好的内容]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s61l28/contentideasio_find_top_performing_content_around/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs61l28%2Fcontentideasio_find_top_performing_content_around%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs61l28%2Fcontentideasio_find_top_performing_content_around%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s61l28/contentideasio_find_top_performing_content_around/</guid><pubDate>Mon, 17 Jan 2022 12:24:45 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我最后一个副业是Papertag：纸质数字书签应用。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s600o7/my_last_side_project_is_papertag_the/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs600o7%2Fmy_last_side_project_is_papertag_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs600o7%2Fmy_last_side_project_is_papertag_the%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s600o7/my_last_side_project_is_papertag_the/</guid><pubDate>Mon, 17 Jan 2022 10:44:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我是16岁，我推出了我的第一个网络应用。Socialscribe。]]></title><description><![CDATA[ * 打出你的整个电子邮件地址是非常愚蠢的。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 Jan 2022 07:08:25 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[StressCalc - 最小化的RPE计算器]]></title><description><![CDATA[https://preview.redd.it/fpdcn6fbgcc81.png?width=1270&format=png&auto=webp&s=3ee7c3f17ce832cd06d9f6bf254f101fa6526655
+
+我自学了react-native，以便能够为自己建立这个应用程序（作为一个
+初学举重的人）。这是我的第一个（希望是很多！）应用程序。就在今天，我
+就在今天，我用这个应用程序设置了一个...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s6k20r/stresscalc_minimalist_rpe_calculator/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6k20r%2Fstresscalc_minimalist_rpe_calculator%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6k20r%2Fstresscalc_minimalist_rpe_calculator%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s6k20r/stresscalc_minimalist_rpe_calculator/</guid><pubDate>Tue, 18 Jan 2022 06:49:20 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/fpdcn6fbgcc81.png?width=1270&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=3ee7c3f17ce832cd06d9f6bf254f101fa6526655&quot;&amp;gt;https://preview.redd.it/fpdcn6fbgcc81.png?width=1270&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=3ee7c3f17ce832cd06d9f6bf254f101fa6526655&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I taught myself react-native to be able to build this app for myself (as a beginner powerlifter). This is my first (of hopefully many!) apps. Just today, I used the app to set a deadlift personal record.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Problem&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;App removes the need to do math to calculate how much weight to put on the bar while exercising.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;It&amp;amp;#39;s a very niche problem (assuming most folks don&amp;amp;#39;t care about RPE or powerlifting - I estimate the TAM at 10k users globally, tops).&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Saves significant cognitive load in a stressed state.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Solution&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Extremely simple UX that is tied to the workflow ie: do one lift, rate it, and use this to regulate your &amp;amp;quot;heaviness&amp;amp;quot; for the day.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Automatically shows which plates to put on the bar - Support for kg and lbs plates for global audiences&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;The competition is either paid, has poor design (at least stuff I wouldn&amp;amp;#39;t use) or extremely complex with many options.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Background Information&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;RPE stands for Rate of perceived exertion and is frequently used by powerlifters.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;It is quite annoying to do all this math in the gym.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Can be intimidating for beginners - and this app can help those folks.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Known Issues&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;The app icon on Android is not the correct size.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Tech notes&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;React native&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;I used Expo to build this out - highly recommend!&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;My goal with this project was to learn react-native, product design and also build something useful to me (&amp;amp;amp; potentially to others...)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Check it out here: &amp;lt;a href=&quot;https://www.producthunt.com/posts/stresscalc&quot;&amp;gt;https://www.producthunt.com/posts/stresscalc&amp;lt;/a&amp;gt; !&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[将您的任务外包给Turk!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s6578q/outsource_your_tasks_with_turk/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6578q%2Foutsource_your_tasks_with_turk%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs6578q%2Foutsource_your_tasks_with_turk%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s6578q/outsource_your_tasks_with_turk/</guid><pubDate>Mon, 17 Jan 2022 19:54:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[ContentIdeas.io - 在网络上寻找表现最好的内容]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s61l28/contentideasio_find_top_performing_content_around/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs61l28%2Fcontentideasio_find_top_performing_content_around%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs61l28%2Fcontentideasio_find_top_performing_content_around%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s61l28/contentideasio_find_top_performing_content_around/</guid><pubDate>Mon, 17 Jan 2022 12:24:45 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我最后一个副业是Papertag：纸质数字书签应用。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s600o7/my_last_side_project_is_papertag_the/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs600o7%2Fmy_last_side_project_is_papertag_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs600o7%2Fmy_last_side_project_is_papertag_the%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s600o7/my_last_side_project_is_papertag_the/</guid><pubDate>Mon, 17 Jan 2022 10:44:26 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我是16岁，我推出了我的第一个网络应用。Socialscribe。]]></title><description><![CDATA[ * 打出你的整个电子邮件地址是非常愚蠢的。
  * 双重选择是令人恼火的，但也是必要的。
  * 没有办法在不使注册表格变大的情况下获得订阅者的姓名或推特账号。
    的形式。
@@ -268,14 +319,4 @@ https://i.redd.it/uzlbph9q64b81.gif]]></description><link>https://sideproject.bu
 
 &amp;lt;p&amp;gt;Thanks,&amp;lt;br/&amp;gt;
 Faiyaz&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[职业网络的Tinder]]></title><description><![CDATA[你们对这个问题怎么看？这个想法已经流传了很多年了
-但似乎没有人愿意去做。而且，我找不到任何积极的或
-好的，当然还有失败的Ripple应用。
-
-我在想做一个简单的应用程序，人们可以连接或跳过，当
-连接后，能够...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s0dukf/tinder_for_professional_networking/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs0dukf%2Ftinder_for_professional_networking%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs0dukf%2Ftinder_for_professional_networking%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s0dukf/tinder_for_professional_networking/</guid><pubDate>Mon, 10 Jan 2022 09:33:20 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;What do you guys think about this? It&amp;amp;#39;s been an idea floating around for many years but nobody seemed to nail it. Also, I couldn&amp;amp;#39;t find anything active or good, and of course the failed Ripple app.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I was thinking of making a simple app where people can Connect or Skip and when Connected, be able to book a free or paid 1-on-1 videocall with the other person (depending on their setting). &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Lemme know what u think! 🙏&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
