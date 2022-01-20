@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 20 Jan 2022 00:18:12 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我创建了一个免费的远程工作聚合器，从17个最大的招聘会中获取数据。]]></title><description><![CDATA[大家好👋👋👋，我的名字是Angel，我正在做一个帮助远程工作者的项目。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 20 Jan 2022 04:25:44 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我在谷歌表格上创建了一个投资组合跟踪器&amp; 报告生成器。免费下载! 支持多种资产类型、货币和国际股票。]]></title><description><![CDATA[你好，我是J，我对投资和个人财务充满热情。我投资于
+多种资产（股票、期权、加密货币、房地产投资信托基金、ETF），分布在不同的经纪公司
+但找不到一个能让我轻松追踪所有资产的单一平台。
+的单一平台（而且不需要每月订阅🤦♂️）。所以我...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s85rze/i_created_an_investment_portfolio_tracker_report/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs85rze%2Fi_created_an_investment_portfolio_tracker_report%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs85rze%2Fi_created_an_investment_portfolio_tracker_report%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s85rze/i_created_an_investment_portfolio_tracker_report/</guid><pubDate>Thu, 20 Jan 2022 04:08:11 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi, this is J. I&amp;amp;#39;m passionate about investing and personal finance. I invest in multiple assets (stocks, options, crypto, REITs, ETF) across different brokerage accounts but can’t find a single platform that allows me to track all of them with ease (and not for a monthly subscription 🤦‍♂️). So I made my own tracker. It’s a Google Sheets template that generates professional-looking reports that are highly customizable. Be sure to download the FREE version and try it out!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/cj95z8qxpqc81.jpg?width=2000&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=fc373149c0cd6ad0bcadd0d3e7f00283225bd172&quot;&amp;gt;https://preview.redd.it/cj95z8qxpqc81.jpg?width=2000&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=fc373149c0cd6ad0bcadd0d3e7f00283225bd172&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Quicklook&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;✅ Track all your investments in one place&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;✅ Compatible with stocks, crypto, ETF, REITs, options*&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;✅ Compatible with international stocks&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;✅ Generate highly customizable portfolio reports in PDF or other formats&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;✅ One-time price. No monthly subscription.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;✅ Supports short stock positions and short options*&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;✅ Supports multiple currencies&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;✅ Customizable base currency for your reports&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;* Available on Pro version only&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Download the template for free&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://jmavenfinance.gumroad.com/l/gportfoliotrackerfree&quot;&amp;gt;https://jmavenfinance.gumroad.com/l/gportfoliotrackerfree&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Instruction video&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://youtu.be/PIo3Fzu-iHY&quot;&amp;gt;https://youtu.be/PIo3Fzu-iHY&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Paid versions can be found here. They consist of more advanced performance metrics, and for the Pro version, an options trading workspace and logging system.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://jmavenfinance.gumroad.com&quot;&amp;gt;https://jmavenfinance.gumroad.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/xbxk6vkqqqc81.png?width=5344&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=de0d84f52b5350c584d93f25e0810d2d15d81c6f&quot;&amp;gt;https://preview.redd.it/xbxk6vkqqqc81.png?width=5344&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=de0d84f52b5350c584d93f25e0810d2d15d81c6f&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/37e9pxkqqqc81.png?width=5344&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=09f925a41b7ba796baf1b8b3a91c1021022894fe&quot;&amp;gt;https://preview.redd.it/37e9pxkqqqc81.png?width=5344&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=09f925a41b7ba796baf1b8b3a91c1021022894fe&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/r5wb7ykqqqc81.png?width=5344&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=1b6b49f2b960c9cb39e8c28cec6a935414ca4320&quot;&amp;gt;https://preview.redd.it/r5wb7ykqqqc81.png?width=5344&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=1b6b49f2b960c9cb39e8c28cec6a935414ca4320&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/ywouvvkqqqc81.png?width=5344&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=102c7b1b4684391a27e89f5f5bf55d4bcbb65146&quot;&amp;gt;https://preview.redd.it/ywouvvkqqqc81.png?width=5344&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=102c7b1b4684391a27e89f5f5bf55d4bcbb65146&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/xyhu38ssqqc81.png?width=3318&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5b57e579c625c88a18cb2aca42c3a9b9fafe882e&quot;&amp;gt;Options Workspace (Pro version only)&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/miz0uttsqqc81.png?width=3324&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=2da3fccfb267c3fdd82a64ecb9395a362a1f0176&quot;&amp;gt;Options Workspace (Pro version only)&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/ipaj79ssqqc81.png?width=2770&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=70180feb30574cca8527fe635970499b252aab59&quot;&amp;gt;Options Workspace (Pro version only)&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you&amp;amp;#39;re into options trading, watch the demos of the Pro version here&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://youtu.be/Teoc2COhYPk&quot;&amp;gt;https://youtu.be/Teoc2COhYPk&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://youtu.be/VMHgeo6JHOY&quot;&amp;gt;https://youtu.be/VMHgeo6JHOY&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I welcome any feedback and suggestions. Thank you!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我创建了一个免费的远程工作聚合器，从17个最大的招聘会中获取数据。]]></title><description><![CDATA[大家好👋👋👋，我的名字是Angel，我正在做一个帮助远程工作者的项目。
 工作者的项目。它是一个普通的远程招聘网站，但它可能是最完整的
 它是一个普通的远程招聘网站，但它可能是最完整和更新的一个（至少我没有发现其他类似的网站）。它是
 基本上是一个远程专属的工作聚合器，采购数据...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s7z4ng/i_created_a_free_remote_job_aggregator_sourcing/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs7z4ng%2Fi_created_a_free_remote_job_aggregator_sourcing%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs7z4ng%2Fi_created_a_free_remote_job_aggregator_sourcing%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s7z4ng/i_created_a_free_remote_job_aggregator_sourcing/</guid><pubDate>Wed, 19 Jan 2022 23:57:00 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi everyone👋👋👋, my name is Angel and I am working on a project helping remote workers! It&amp;amp;#39;s a plain old remote job board, but it&amp;amp;#39;s probably the most complete and well-updated one out there (at least I haven&amp;amp;#39;t found others like it). It&amp;amp;#39;s basically a remote-exclusive job aggregator, sourcing data from 17 different places.&amp;lt;br/&amp;gt;
@@ -469,4 +545,4 @@ https://i.redd.it/uzlbph9q64b81.gif]]></description><link>https://sideproject.bu
 &amp;lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSefl_pJUk40lwLEzXIZgOuXUamnlIk8JQjQ_llprpeyFOfAbg/viewform?usp=sf_link&quot;&amp;gt;https://docs.google.com/forms/d/e/1FAIpQLSefl_pJUk40lwLEzXIZgOuXUamnlIk8JQjQ_llprpeyFOfAbg/viewform?usp=sf_link&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I&amp;amp;#39;ll email you once the index is live. Good luck.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[为您的业务提供可爱的登陆页面构建器。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1d9j4/cute_landingpage_builder_for_your_business/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1d9j4%2Fcute_landingpage_builder_for_your_business%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1d9j4%2Fcute_landingpage_builder_for_your_business%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1d9j4/cute_landingpage_builder_for_your_business/</guid><pubDate>Tue, 11 Jan 2022 22:25:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[大家好，我最近看到越来越多的3D图标出现在设计中，想在自己的项目中使用它们。我不知道如何使用Figma，只想简单地给这些图标上色，所以我做了这个网站！希望大家喜欢。希望你们都觉得它有用，欢迎所有反馈意见]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1hj4e/hi_all_ive_been_seeing_more_and_more_3d_icons_pop/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1hj4e%2Fhi_all_ive_been_seeing_more_and_more_3d_icons_pop%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1hj4e%2Fhi_all_ive_been_seeing_more_and_more_3d_icons_pop%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1hj4e/hi_all_ive_been_seeing_more_and_more_3d_icons_pop/</guid><pubDate>Tue, 11 Jan 2022 22:25:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我创建了DevQuizzes，这是一个在线平台，你可以测试你在各种DEV主题上的知识。包括20个不同类别的500多个问题 ＊So_1F3C6↩🎉]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1kai8/i_created_devquizzes_an_online_platform_where_you/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1kai8%2Fi_created_devquizzes_an_online_platform_where_you%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1kai8%2Fi_created_devquizzes_an_online_platform_where_you%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1kai8/i_created_devquizzes_an_online_platform_where_you/</guid><pubDate>Tue, 11 Jan 2022 22:03:51 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[为您的业务提供可爱的登陆页面构建器。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1d9j4/cute_landingpage_builder_for_your_business/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1d9j4%2Fcute_landingpage_builder_for_your_business%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1d9j4%2Fcute_landingpage_builder_for_your_business%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1d9j4/cute_landingpage_builder_for_your_business/</guid><pubDate>Tue, 11 Jan 2022 22:25:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[大家好，我最近看到越来越多的3D图标出现在设计中，想在自己的项目中使用它们。我不知道如何使用Figma，只想简单地给这些图标上色，所以我做了这个网站！希望大家喜欢。希望你们都觉得它有用，欢迎所有反馈意见]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1hj4e/hi_all_ive_been_seeing_more_and_more_3d_icons_pop/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1hj4e%2Fhi_all_ive_been_seeing_more_and_more_3d_icons_pop%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs1hj4e%2Fhi_all_ive_been_seeing_more_and_more_3d_icons_pop%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s1hj4e/hi_all_ive_been_seeing_more_and_more_3d_icons_pop/</guid><pubDate>Tue, 11 Jan 2022 22:25:39 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
