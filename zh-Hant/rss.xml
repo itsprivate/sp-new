@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 22 Jan 2022 10:15:44 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[想找人一起做副業。]]></title><description><![CDATA[我一個人做副業有點無聊。我非常喜歡討論
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 22 Jan 2022 15:50:15 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了這個網站，允許人們創建定時器（用於鍛鍊、呼吸練習等）。]]></title><description><![CDATA[幾周前，我壓力很大，不容易入睡，所以我去了
+YouTube搜索 "緩解壓力的呼吸法"。
+
+基本上，這種呼吸法是 "吸氣4秒，保持7秒，然後呼氣。
+秒，然後呼氣8秒"。
+
+YouTube提供了很多視頻，但它們要麼太...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sa35ud/i_made_this_website_that_allows_people_to_create/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsa35ud%2Fi_made_this_website_that_allows_people_to_create%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsa35ud%2Fi_made_this_website_that_allows_people_to_create%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sa35ud/i_made_this_website_that_allows_people_to_create/</guid><pubDate>Sat, 22 Jan 2022 15:31:11 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;A few weeks ago, I was stressful and could not sleep easily, so I went to YouTube searching for &amp;amp;quot;stress relief breathing&amp;amp;quot;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Basically, this breathing technique is &amp;amp;quot;breathe in for 4 seconds, hold for 7 seconds, and breathe out for 8 seconds&amp;amp;quot;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;YouTube gave a lot of videos but they were either too short, too long or require to watch the video to know the seconds...&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So I spent a few days making this website to allow myself make my own versions with guiding voice and other sounds.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here&amp;amp;#39;s the first version of the &amp;amp;quot;relaxation breathing&amp;amp;quot; that I made: &amp;lt;a href=&quot;https://timermaker.com/timers/4-7-8-Breathing-Exercise.2&quot;&amp;gt;https://timermaker.com/timers/4-7-8-Breathing-Exercise.2&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Another common use case for these timers is for workout exercises. If you workout at home, create a timer and you don&amp;amp;#39;t have to look at the screen or calculate the time in your head anymore :)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Honestly, I think it can be better if I can make a mobile app on this, but I don&amp;amp;#39;t have enough knowledge and devices to do it. So, if you want to have a &amp;amp;quot;mobile version&amp;amp;quot;, the best way now is to record the screen and export as mp3 file and save to your phone.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I hope it&amp;amp;#39;s helpful for you :)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://timermaker.com&quot;&amp;gt;https://timermaker.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[想找人一起做副業。]]></title><description><![CDATA[我一個人做副業有點無聊。我非常喜歡討論
 戰略和解決問題。我曾經和別人一起做副業
 在過去，它只是方式方法更有趣。
 
@@ -565,4 +588,4 @@ Where are the high quality notebooks for people who don’t want a hashtag on th
 請在這裏表達愛意：...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s3ncs6/karma_by_goodera_featured_on_producthunt/?score=13&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs3ncs6%2Fkarma_by_goodera_featured_on_producthunt%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs3ncs6%2Fkarma_by_goodera_featured_on_producthunt%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s3ncs6/karma_by_goodera_featured_on_producthunt/</guid><pubDate>Fri, 14 Jan 2022 09:27:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Karma, is a Zoom App powered by Goodera which helps teams to do good, feel good during their Zoom meetings. Attendees can take simple actions together to support a cause they care about supported by nonprofit partners across 100+ countries, in just 10 minutes!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Please show some love here: &amp;lt;a href=&quot;https://www.producthunt.com/posts/karma-by-goodera&quot;&amp;gt;https://www.producthunt.com/posts/karma-by-goodera&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Crypter.dev - 輕鬆加密的文件傳輸]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s3i7xb/crypterdev_easy_and_encrypted_file_transfer/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs3i7xb%2Fcrypterdev_easy_and_encrypted_file_transfer%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs3i7xb%2Fcrypterdev_easy_and_encrypted_file_transfer%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s3i7xb/crypterdev_easy_and_encrypted_file_transfer/</guid><pubDate>Fri, 14 Jan 2022 05:09:23 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
