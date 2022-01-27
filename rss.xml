@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 27 Jan 2022 08:37:21 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[开源浏览器扩展，在悬停在某个 repo 的链接上时可以看到该 repo 的 github 星级。]]></title><description><![CDATA[我创建了一个浏览器扩展，当你在任何网站上悬停在一个github repo的链接上时，你可以看到它所获得的星星。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 27 Jan 2022 11:04:46 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我开始了一个新的冒险，因为我相信职业网络可以被重新想象]]></title><description><![CDATA[嘿，制造者们! 两周前左右，我发布了
+[https://www.reddit.com/r/SideProject/comments/s0dukf/tinder_for_professional_networking/]
+征求关于 "Tinder for professionals "的反馈。
+
+你们中的许多人给出了惊人的意见。我开始研究了很多，发现
+LinkedIn是唯一的...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sdsjn3/i_started_a_new_venture_because_i_believe/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsdsjn3%2Fi_started_a_new_venture_because_i_believe%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsdsjn3%2Fi_started_a_new_venture_because_i_believe%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sdsjn3/i_started_a_new_venture_because_i_believe/</guid><pubDate>Thu, 27 Jan 2022 10:31:13 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey makers! Two weeks ago or so, I &amp;lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/s0dukf/tinder_for_professional_networking/&quot;&amp;gt;posted&amp;lt;/a&amp;gt; here asking for feedback about &amp;amp;quot;Tinder for professionals&amp;amp;quot;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Many of you gave amazing input. I began researching a lot and found out that LinkedIn is the only recognized global player. There are copycats, but my goal would never be to build something as boring (IMO) as LinkedIn. I want to create something different, targeted towards a younger generation. TL;DR - &amp;lt;strong&amp;gt;I want to build something cool&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I started working on the project with my friend around the same time I posted (just designing some app screens and researching WebRTC), and yesterday I launched &amp;lt;a href=&quot;https://bond.so&quot;&amp;gt;the website&amp;lt;/a&amp;gt; for it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Creating the website took me roughly 15 minutes (no-code, completely free - using Notion, Popsy, and Google Forms). It&amp;amp;#39;s far from perfect, but I think it does the job, and I can continuously iterate on it later when needed.&amp;lt;/em&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Please go check it out and let me know what you think. Also, I kindly ask you to provide as much feedback as you can. We&amp;amp;#39;re still very early, so we&amp;amp;#39;re open to any feature ideas that might make the product better for YOU to use it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In case you missed the link before: &amp;lt;a href=&quot;https://bond.so&quot;&amp;gt;bond.so&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;P.S.: I intend to keep posting about major milestones to &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt;, but we&amp;amp;#39;ll probably also create some sort of blog section on our website :)&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[开源浏览器扩展，在悬停在某个 repo 的链接上时可以看到该 repo 的 github 星级。]]></title><description><![CDATA[我创建了一个浏览器扩展，当你在任何网站上悬停在一个github repo的链接上时，你可以看到它所获得的星星。
 悬停在任何网站上的github repo的链接上时，可以看到它获得的星星。你还可以启用一个
 设置来显示语言。
 
@@ -442,7 +460,4 @@ Additional Comments: &amp;lt;strong&amp;gt;This project is only a couple of mont
 &amp;lt;li&amp;gt;This opens the extension as a pop-up application as there is no programmatic way to open just the pop-up menu&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我们做了一个网络应用，整合了多个来源的业务数据。]]></title><description><![CDATA[https://preview.redd.it/6n72z5rtlmc81.png?width=2540&format=png&auto=webp&s=4675b0bf6237bba145fe9bb4f28c2d56691cf4b6]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s7nuif/we_made_a_web_app_that_integrates_business_data/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs7nuif%2Fwe_made_a_web_app_that_integrates_business_data%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs7nuif%2Fwe_made_a_web_app_that_integrates_business_data%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/s7nuif/we_made_a_web_app_that_integrates_business_data/</guid><pubDate>Wed, 19 Jan 2022 17:10:45 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/6n72z5rtlmc81.png?width=2540&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=4675b0bf6237bba145fe9bb4f28c2d56691cf4b6&quot;&amp;gt;https://preview.redd.it/6n72z5rtlmc81.png?width=2540&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=4675b0bf6237bba145fe9bb4f28c2d56691cf4b6&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
