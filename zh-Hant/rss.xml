@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 27 Jan 2022 11:04:46 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我開始了一個新的冒險，因爲我相信職業網絡可以被重新想象]]></title><description><![CDATA[嘿，製造者們! 兩週前左右，我發佈了
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 27 Jan 2022 16:13:31 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Lightence-admin。基於React 17+的免費且易於使用的管理模板]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sdzj3h/lightenceadmin_free_and_easytouse_admin_template/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsdzj3h%2Flightenceadmin_free_and_easytouse_admin_template%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsdzj3h%2Flightenceadmin_free_and_easytouse_admin_template%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sdzj3h/lightenceadmin_free_and_easytouse_admin_template/</guid><pubDate>Thu, 27 Jan 2022 15:46:41 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我開始了一個新的冒險，因爲我相信職業網絡可以被重新想象]]></title><description><![CDATA[嘿，製造者們! 兩週前左右，我發佈了
 [https://www.reddit.com/r/SideProject/comments/s0dukf/tinder_for_professional_networking/]
 徵求關於 "Tinder for professionals "的反饋。
 
@@ -427,37 +427,4 @@ Technologies Used: Next.js (web app, lambdas), NestJS (cron jobs and email servi
 Feedback Requested: I&amp;amp;#39; love literally any kind of feedback. I am doing everything on my own so UX, frontend, backend, marketing or even conceptual feedback on the idea would give me a lot of information right now!&amp;lt;br/&amp;gt;
 Seeking Beta-Testers: yes&amp;lt;br/&amp;gt;
 Additional Comments: &amp;lt;strong&amp;gt;This project is only a couple of months old and is under active development, so expect updates :)&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個瀏覽器擴展來促進股票和加密貨幣的交易和研究]]></title><description><![CDATA[嗨，r/SideProject [/r/SideProject] -
-
-在2020年初，我（像許多其他人一樣）對股票和加密貨幣市場產生了更大的興趣。
-加密貨幣市場。我發現自己在twitter、reddit。
-經紀公司和研究網站，試圖跟蹤新聞、價格走勢和
-在它們起飛之前抓住 "戲"....]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s7tesr/i_made_a_browser_extension_to_facilitate_stock/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs7tesr%2Fi_made_a_browser_extension_to_facilitate_stock%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs7tesr%2Fi_made_a_browser_extension_to_facilitate_stock%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/s7tesr/i_made_a_browser_extension_to_facilitate_stock/</guid><pubDate>Wed, 19 Jan 2022 17:49:29 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt; -&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;In early 2020 I  (like many others) took a greater interest in the stock and crypto markets. I found myself bouncing around between twitter, reddit, brokerage(s) and research websites trying to follow the news, price action and catch &amp;amp;quot;plays&amp;amp;quot; before they took off. I found this process tedious and wanted to design something that  facilitated this trading and research workflow - so I taught myself how to code and developed the &amp;lt;a href=&quot;https://mark-et-cap.com&quot;&amp;gt;mark et cap browser extension&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The extension allows you to interact with any stock or crypto ticker you encounter on any webpage by highlighting it and right-clicking. Certain sites (like twitter, stocktwits, etc) that use &amp;amp;#39;cashtags&amp;amp;#39; have been optimized to work by right-clicking the cashtag directly.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Examples:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Twitter: &amp;lt;a href=&quot;https://imgur.com/UbwCwyD&quot;&amp;gt;https://imgur.com/UbwCwyD&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Reddit: &amp;lt;a href=&quot;https://imgur.com/7iqVih7&quot;&amp;gt;https://imgur.com/7iqVih7&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The context menu (right-click menu) is fully customizable within the extensions options page of the extension so you can select the sites you most frequent. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Since launching to the Chrome Web Store in 2021, I&amp;amp;#39;ve have 7 updates to the extension and continue to look for feedback and suggestions to make the tool more effective for traders.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The code is completely opensource for all versions (&amp;lt;a href=&quot;https://github.com/mark-et-cap?tab=repositories&quot;&amp;gt;https://github.com/mark-et-cap?tab=repositories&amp;lt;/a&amp;gt;) and the extension is free to use and download directly from &amp;lt;a href=&quot;https://chrome.google.com/webstore/detail/mark-et-cap/mopmpokmfchikmphegiccjnbddicaobk/&quot;&amp;gt;chrome&amp;lt;/a&amp;gt; or &amp;lt;a href=&quot;https://microsoftedge.microsoft.com/addons/detail/mark-et-cap/lidkcbecppnkcpjefbibddifdhpoldif&quot;&amp;gt;edge&amp;lt;/a&amp;gt; web stores.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m very open to feedback, suggestions or sharing my experience with others! There are several cool features that I&amp;amp;#39;ve been able to implement that may be of use to others devs, specifically:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Displaying a tradingview chart directly in twitter when hovering over a ticker: &amp;lt;a href=&quot;https://imgur.com/a/Yqeccyg&quot;&amp;gt;https://imgur.com/a/Yqeccyg&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Opening the extension pop-up menu via right-click: &amp;lt;a href=&quot;https://imgur.com/fYPCSJz&quot;&amp;gt;https://imgur.com/fYPCSJz&amp;lt;/a&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;This opens the extension as a pop-up application as there is no programmatic way to open just the pop-up menu&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
