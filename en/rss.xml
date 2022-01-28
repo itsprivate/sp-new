@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 28 Jan 2022 14:09:00 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Cashfactory : Docker stack aggregating passive income applications (bandwidth share)]]></title><description><![CDATA[Hello,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 28 Jan 2022 14:53:21 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Simple website where you can track important info for all major cryptocoins along with the latest news for each coin]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/</guid><pubDate>Fri, 28 Jan 2022 14:10:46 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Cashfactory : Docker stack aggregating passive income applications (bandwidth share)]]></title><description><![CDATA[Hello,
 
 I've made a github including a docker swarm (need x86/amd64 + docker +
 docker-compose) that run 5 passive income applications (customizable if you
@@ -334,26 +334,4 @@ interesting links online by organizing into…]]></description><link>https://sid
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.listopost.com/&quot;&amp;gt;ListoPost&amp;lt;/a&amp;gt; was made to help people find more interesting links online by organizing into lists.  I was frustrated with seeing the same things over and over with the existing search engines and ads.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Feedback is appreciated.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I built a stock screener providing real-time trading alerts and research data!]]></title><description><![CDATA[Hi all,
-
-I have been building a stock screener and research platform over the last year
-focusing on momentum and low float stocks trading and would like to share the
-results with the community!
-
-Background: After realizing that most traders spend a lot of time, money and
-energy trying to identify…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s8r9hc/i_built_a_stock_screener_providing_realtime/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs8r9hc%2Fi_built_a_stock_screener_providing_realtime%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs8r9hc%2Fi_built_a_stock_screener_providing_realtime%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s8r9hc/i_built_a_stock_screener_providing_realtime/</guid><pubDate>Fri, 21 Jan 2022 03:01:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi all,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I have been building a stock screener and research platform over the last year focusing on momentum and low float stocks trading and would like to share the results with the community!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Background:&amp;lt;/strong&amp;gt; After realizing that most traders spend a lot of time, money and energy trying to identify opportunities using complex screeners and research tools, we decided to build an “all-in-one” platform to solve that problem.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Solution:&amp;lt;/strong&amp;gt; Our mission is to empower people to become better traders by turning trading strategies, technical and fundamental indicators and financial data into easy to understand, actionable trading alerts. Essentially, our algorithms screen markets during extended trading hours to provide you with real-time alert notifications for low-float stocks before they breakout or while doing so. In addition, we provide access to key research data about each stock (fundamental, technical and newsflow) to help you make fast, informed trading decisions to seize opportunities.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Product:&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://www.edgewall.io/&quot;&amp;gt;https://www.edgewall.io&amp;lt;/a&amp;gt;. You can sign-up for a free trial account (no need for credit card) to discover the platform! It would be great to have your feedback!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Let me know if you have any questions and feel free to join our social channels to start the discussion and follow our updates.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thank you and kind regards!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/1hvcbpcadwc81.png?width=3200&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=9d748362081a24d8c9a207f403ed9c6a174f2e0f&quot;&amp;gt;https://preview.redd.it/1hvcbpcadwc81.png?width=3200&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=9d748362081a24d8c9a207f403ed9c6a174f2e0f&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
