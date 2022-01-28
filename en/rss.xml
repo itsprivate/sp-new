@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 28 Jan 2022 03:51:58 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I built a snail-mail subscription platform. Because who doesn't love getting snail-mail? 📬]]></title><description><![CDATA[It's called StampFans [https://stampfans.com].
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 28 Jan 2022 14:09:00 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Cashfactory : Docker stack aggregating passive income applications (bandwidth share)]]></title><description><![CDATA[Hello,
+
+I've made a github including a docker swarm (need x86/amd64 + docker +
+docker-compose) that run 5 passive income applications (customizable if you
+don't want to run all 5).
+
+The stack is using minimal ressources regarding memory/cpu and disk usage.
+
+A basic webUI is included to bookmark all…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seejts/cashfactory_docker_stack_aggregating_passive/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseejts%2Fcashfactory_docker_stack_aggregating_passive%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseejts%2Fcashfactory_docker_stack_aggregating_passive%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seejts/cashfactory_docker_stack_aggregating_passive/</guid><pubDate>Fri, 28 Jan 2022 13:48:33 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;ve made a github including a docker swarm (need x86/amd64 + docker + docker-compose) that run 5 passive income applications (customizable if you don&amp;amp;#39;t want to run all 5).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The stack is using minimal ressources regarding memory/cpu and disk usage.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A basic webUI is included to bookmark all the dashboards apps, and portainer-ce is also included for easy container management.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Currently Earnapp, Honeygain, peer2profit, IProyals and packetstream are included. If some are interested you may have a look at :&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://github.com/OlivierGaland/CashFactory&quot;&amp;gt;https://github.com/OlivierGaland/CashFactory&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;m also looking for similar passive income app (not cpu / gpu / disk using, only proxy/bandwitdh share) that I can include inside (if dockerizable). If you know some others please give the link.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I will include any interesting app inside.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Best regards,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Olivier&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I made a full static and extremely fast RSS reader.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seq8vv/i_made_a_full_static_and_extremely_fast_rss_reader/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseq8vv%2Fi_made_a_full_static_and_extremely_fast_rss_reader%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseq8vv%2Fi_made_a_full_static_and_extremely_fast_rss_reader%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seq8vv/i_made_a_full_static_and_extremely_fast_rss_reader/</guid><pubDate>Fri, 28 Jan 2022 13:48:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I built a snail-mail subscription platform. Because who doesn't love getting snail-mail? 📬]]></title><description><![CDATA[It's called StampFans [https://stampfans.com].
 
 Sign up, create a publication, share your link, and let your fans subscribe to
 your snail-mail newsletter.
@@ -329,17 +356,4 @@ energy trying to identify…]]></description><link>https://sideproject.buzzing.c
 &amp;lt;p&amp;gt;Thank you and kind regards!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/1hvcbpcadwc81.png?width=3200&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=9d748362081a24d8c9a207f403ed9c6a174f2e0f&quot;&amp;gt;https://preview.redd.it/1hvcbpcadwc81.png?width=3200&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=9d748362081a24d8c9a207f403ed9c6a174f2e0f&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[How do you figure out what the bare minimum you should build?]]></title><description><![CDATA[Hey folks,
-
-First time poster here. Let's say that you've found a good problem to solve,
-when you start building the solution when & how do you know where to stop and
-that it's enough to launch the feature/product to learn?
-
-Is it mostly based of intuition or do you have a more methodical process…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s8cmpy/how_do_you_figure_out_what_the_bare_minimum_you/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs8cmpy%2Fhow_do_you_figure_out_what_the_bare_minimum_you%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs8cmpy%2Fhow_do_you_figure_out_what_the_bare_minimum_you%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s8cmpy/how_do_you_figure_out_what_the_bare_minimum_you/</guid><pubDate>Fri, 21 Jan 2022 00:00:10 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey folks, &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;First time poster here. Let&amp;amp;#39;s say that you&amp;amp;#39;ve found a good problem to solve, when you start building the solution when &amp;amp;amp; how do you know where to stop and that it&amp;amp;#39;s enough to launch the feature/product to learn? &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Is it mostly based of intuition or do you have a more methodical process for figuring when it&amp;amp;#39;s done. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thanks!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Awesome Indie just hit a new milestone of 100+ registered users and 500+ product submissions! 🙌]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s8h1qb/awesome_indie_just_hit_a_new_milestone_of_100/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs8h1qb%2Fawesome_indie_just_hit_a_new_milestone_of_100%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fs8h1qb%2Fawesome_indie_just_hit_a_new_milestone_of_100%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/s8h1qb/awesome_indie_just_hit_a_new_milestone_of_100/</guid><pubDate>Thu, 20 Jan 2022 19:49:30 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
