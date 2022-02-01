@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Feb 2022 20:35:34 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[YourTrail - 仪表板，让你的心态平和，每天都有成效。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/shwgzu/yourtrail_dashboard_for_a_mindful_calm_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fshwgzu%2Fyourtrail_dashboard_for_a_mindful_calm_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fshwgzu%2Fyourtrail_dashboard_for_a_mindful_calm_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/shwgzu/yourtrail_dashboard_for_a_mindful_calm_and/</guid><pubDate>Tue, 01 Feb 2022 20:15:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[推出了一个平台，供开发人员分享他们正在进行的项目!]]></title><description><![CDATA[介绍 skillshack(⚡); [https://skillshack.dev/]
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Feb 2022 22:16:56 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我们花了5个月的时间和3个支点来获得我们的第一个付费用户。这里是我们学到的东西，所以你不需要这样做!]]></title><description><![CDATA[2021年8月，我和我的伙伴在离开高薪工作后，坐在一张白纸前。
+辞去高薪工作，没有想法，没有研究，没有客户，但有一个明确的
+目标。我们要为内容创作者建立一个产品（espri.io）。
+
+简而言之，我们在过去5个月里学到的最大教训是：...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/si3j2m/it_took_us_5_months_and_3_pivots_to_get_our_first/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsi3j2m%2Fit_took_us_5_months_and_3_pivots_to_get_our_first%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsi3j2m%2Fit_took_us_5_months_and_3_pivots_to_get_our_first%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/si3j2m/it_took_us_5_months_and_3_pivots_to_get_our_first/</guid><pubDate>Tue, 01 Feb 2022 21:47:54 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Aug 2021, my partner and I are sitting in front of a blank page, after leaving high-paying jobs, with no idea, no research, no customers, but with a clear goal. We are going to build a product for content creators (espri.io).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In a nutshell, the biggest lessons we’ve learned over the past 5 months:
+&amp;lt;strong&amp;gt;Talk constantly with your target audience, and always choose the simplest idea.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here&amp;amp;#39;s how we didn&amp;amp;#39;t apply this lesson:&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Idea # 1&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Everyone on Twitter says web 3 is the future, we both love blockchain, Loot project is cool, why not every creator can create an NFT for himself with the option to let others build a  SubNFT on their NFT? For sure all creators will understand and want it right away (spoiler: they don’t).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We started to build without even talking to one creator (!!).
+smart contracts, UX, UI, a month and a half passed.
+We sent cold messages on Reddit and uploaded posts where possible.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;No one wanted it, not even close, people didn’t understand what the idea was, how to do it, why they should open a crypto wallet for it. It took us half an hour or more just to explain to creators the idea, not including their questions after that.
+2 months have passed. We failed.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Idea # 2&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;We talked to content creators, we realized there&amp;amp;#39;s a lot of interest around collaborations, why not build GitHub for content creators?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“Let&amp;amp;#39;s start this time differently, first we will design really beautiful mockups, we will become an all-in-one tool for all the problems we discovered. Edit the content together, publish it from within the system, and automatically split the revenue.”&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We sent the mockups to content creators, the responses were better.
+But still, something was missing, people didn’t really want it. It was too complicated for them, they didn’t know if they now want to move their whole world to one product, which they don’t yet know.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;4 months have passed. Still a failure.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Idea # 3&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;We went back to talking to content creators, we promised ourselves that now we&amp;amp;#39;re not building, not really designing, and solving &amp;lt;strong&amp;gt;one simple problem.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;After countless conversations with content creators, the picture became clearer. And it&amp;amp;#39;s pretty simple. How can we help them scale their business without scaling time?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We focused on the simplest idea that we had:
+A convenient way to see all the interactions of their audience (comments, replies, etc.) in one place.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My partner previously worked in a startup that analyzes sales calls using AI for enterprises, so he added (in 1-hour) AI model that knows how to analyze all interactions and give insights on who in the audience can become a paying customer of the creator (scaling revenue without scaling time) and what feedback the audience gives about the content (Improve the content without scaling time.)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We contacted one of the creators we spoke with, we knew he has over 5K/month on YouTube.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;” Hey! want an analysis report on your comments?”&amp;lt;/em&amp;gt;
+We prepared a simple old-fashioned report for him and sent it.
+2 hours after that, he had already paid to get a weekly report and access to the future product.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;5 months. Failure, but with light at the end of the tunnel.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Where did we go wrong and how did we fix it?&amp;lt;/h2&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;We realized too late that it is better to talk to the target audience first (No shit, Sherlock).&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;We started interviewing content creators, mostly with the help of cold messages on Reddit &amp;amp;quot;Hey, what&amp;amp;#39;s up? We&amp;amp;#39;re building a product for content creators, we&amp;amp;#39;d love to ask some questions, what are your main challenges? How do you solve them today? What frustrates you?&amp;amp;quot;.&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;We tried to solve &amp;amp;quot;bigger than life&amp;amp;quot; problems.&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;As we concentrated on a simple and annoying problem (how to go through all the comments and messages comfortably without wasting a lot of time?) Things started to clear up.&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;We built and designed because we thought that today it’s impossible to get a paying customer without a product. Mistake.&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;If the problem is real and the solution is really right, they will pay you for something you made in Word.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Learn from our mistakes - talk to as many users from your target audience as possible, and choose the simplest problem possible. It should be a real but simple problem, at a level where you feel a little uncomfortable charging money for it because it&amp;amp;#39;s so simple. Give it a try (:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Don’t give up, and learn from (others’) mistakes!&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I would love to answer more questions!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;P.S.
+We’re currently in a closed beta, but if you have a decent amount of audience interactions on YouTube / Instagram / Twitter/discord and want to try using AI to analyze it all in seconds,
+feel free to &amp;lt;a href=&quot;https://www.espri.io/?utm_source=RE&quot;&amp;gt;sign up on our site.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Or just DM me on Twitter🙂 - &amp;lt;a href=&quot;https://twitter.com/Ohad_azg&quot;&amp;gt;https://twitter.com/Ohad_azg&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[YourTrail - 仪表板，让你的心态平和，每天都有成效。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/shwgzu/yourtrail_dashboard_for_a_mindful_calm_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fshwgzu%2Fyourtrail_dashboard_for_a_mindful_calm_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fshwgzu%2Fyourtrail_dashboard_for_a_mindful_calm_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/shwgzu/yourtrail_dashboard_for_a_mindful_calm_and/</guid><pubDate>Tue, 01 Feb 2022 20:15:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[推出了一个平台，供开发人员分享他们正在进行的项目!]]></title><description><![CDATA[介绍 skillshack(⚡); [https://skillshack.dev/]
 
 > skillShack(⚡); 是一个为软件专业人员提供的社区，旨在分享他们正在进行的
 > 他们正在进行的项目并获得反馈。从副业到初创企业!
@@ -258,16 +341,4 @@ Google cal）。我试着在编辑器类型的平台上重新创建东西，如.
 &amp;lt;p&amp;gt;Today we launched on &amp;lt;strong&amp;gt;Product Hunt&amp;lt;/strong&amp;gt;🚀 Our product is hunted by a former Director of Community at Angel List.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Any feedback from you is much welcome 👉🏻 &amp;lt;a href=&quot;https://www.producthunt.com/posts/raport&quot;&amp;gt;https://www.producthunt.com/posts/raport&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[如果你能从一个地方监测和了解你所有的社交互动和粉丝，会怎么样？]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sclq59/what_if_you_could_monitor_and_understand_all_your/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsclq59%2Fwhat_if_you_could_monitor_and_understand_all_your%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsclq59%2Fwhat_if_you_could_monitor_and_understand_all_your%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sclq59/what_if_you_could_monitor_and_understand_all_your/</guid><pubDate>Tue, 25 Jan 2022 22:04:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一个服务，通过在Twitter上的回复发送提示--跨平台（Discord）正在进行中]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/scgxwn/ive_built_a_service_to_send_tips_through_replies/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fscgxwn%2Five_built_a_service_to_send_tips_through_replies%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fscgxwn%2Five_built_a_service_to_send_tips_through_replies%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/scgxwn/ive_built_a_service_to_send_tips_through_replies/</guid><pubDate>Tue, 25 Jan 2022 16:58:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我希望您能对我的新登陆页面提出反馈意见! 💪]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sccpc8/i_want_your_feedback_about_my_new_landing_page/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsccpc8%2Fi_want_your_feedback_about_my_new_landing_page%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsccpc8%2Fi_want_your_feedback_about_my_new_landing_page%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sccpc8/i_want_your_feedback_about_my_new_landing_page/</guid><pubDate>Tue, 25 Jan 2022 14:25:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我创建了一个YouTube浏览器源码叠加工具来玩。永远免费。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sbdyyp/i_created_a_youtube_browser_source_overlay_tool/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsbdyyp%2Fi_created_a_youtube_browser_source_overlay_tool%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsbdyyp%2Fi_created_a_youtube_browser_source_overlay_tool%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sbdyyp/i_created_a_youtube_browser_source_overlay_tool/</guid><pubDate>Tue, 25 Jan 2022 04:55:50 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[利用可靠和最新的数据比较Corona抗原检测试剂盒质量的网站]]></title><description><![CDATA[测试对于减轻电晕病毒的影响非常重要，测试套件广泛提供。
-可获得。然而，它们的质量存在着明显的差异。一些测试
-在检测病毒方面非常糟糕。这部分是因为市场批准是
-部分原因是为了满足巨大的需求，目前的市场审批比较宽松。因此，...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sc05mx/a_website_for_comparing_corona_antigen_testkit/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsc05mx%2Fa_website_for_comparing_corona_antigen_testkit%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsc05mx%2Fa_website_for_comparing_corona_antigen_testkit%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sc05mx/a_website_for_comparing_corona_antigen_testkit/</guid><pubDate>Tue, 25 Jan 2022 04:36:11 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Testing is important for Corona Virus mitigation and Test-Kits are widely available. However, there are stark differences in their quality: Some tests are really bad at detecting the Virus. This is partly because market approval is currently lax in order to meet the enormous demand. Consequently, customers need to make sure themselves, that they buy quality products. &amp;lt;strong&amp;gt;To do so, they need to be informed.&amp;lt;/strong&amp;gt;   &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;In Germany we have reliable official data comparing the quality of a few hundred tests you can buy for home use. It comes from the German  Federal Institute for Vaccines and Biomedicines (Paul Ehrlich Institut). Unfortunately, the data is hard to find and only available in pdf format. This makes it troublesome to stay informed as a customer and make the right decision.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;That&amp;amp;#39;s why I&amp;amp;#39;ve created the site &amp;lt;a href=&quot;https://corona.pw&quot;&amp;gt;&amp;lt;strong&amp;gt;https://corona.pw&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It automatically gets and extracts the data from the source and displays it in an interactive table. You can search for your specific test and also compare which ones are best. Also, it explains the measures used.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you are interested in the technology powering the site (Python, Flask, DataTables) everything is available in a [GitHub repo](&amp;lt;a href=&quot;https://github.com/mc51/Corona-Test-Comparison/&quot;&amp;gt;https://github.com/mc51/Corona-Test-Comparison/&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[如果你能从一个地方监测和了解你所有的社交互动和粉丝，会怎么样？]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sclq59/what_if_you_could_monitor_and_understand_all_your/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsclq59%2Fwhat_if_you_could_monitor_and_understand_all_your%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsclq59%2Fwhat_if_you_could_monitor_and_understand_all_your%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sclq59/what_if_you_could_monitor_and_understand_all_your/</guid><pubDate>Tue, 25 Jan 2022 22:04:18 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一个服务，通过在Twitter上的回复发送提示--跨平台（Discord）正在进行中]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/scgxwn/ive_built_a_service_to_send_tips_through_replies/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fscgxwn%2Five_built_a_service_to_send_tips_through_replies%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fscgxwn%2Five_built_a_service_to_send_tips_through_replies%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/scgxwn/ive_built_a_service_to_send_tips_through_replies/</guid><pubDate>Tue, 25 Jan 2022 16:58:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我希望您能对我的新登陆页面提出反馈意见! 💪]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sccpc8/i_want_your_feedback_about_my_new_landing_page/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsccpc8%2Fi_want_your_feedback_about_my_new_landing_page%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsccpc8%2Fi_want_your_feedback_about_my_new_landing_page%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sccpc8/i_want_your_feedback_about_my_new_landing_page/</guid><pubDate>Tue, 25 Jan 2022 14:25:17 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我创建了一个YouTube浏览器源码叠加工具来玩。永远免费。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sbdyyp/i_created_a_youtube_browser_source_overlay_tool/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsbdyyp%2Fi_created_a_youtube_browser_source_overlay_tool%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsbdyyp%2Fi_created_a_youtube_browser_source_overlay_tool%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sbdyyp/i_created_a_youtube_browser_source_overlay_tool/</guid><pubDate>Tue, 25 Jan 2022 04:55:50 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
