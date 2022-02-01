@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 31 Jan 2022 23:12:48 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[My side project to help suppliers create a business page and accept orders]]></title><description><![CDATA[Hey all,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Feb 2022 05:50:20 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Physically-based GPU raytracer from scratch]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/shblz2/physicallybased_gpu_raytracer_from_scratch/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fshblz2%2Fphysicallybased_gpu_raytracer_from_scratch%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fshblz2%2Fphysicallybased_gpu_raytracer_from_scratch%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/shblz2/physicallybased_gpu_raytracer_from_scratch/</guid><pubDate>Tue, 01 Feb 2022 05:30:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[My side project to help suppliers create a business page and accept orders]]></title><description><![CDATA[Hey all,
 
 Just finished a 2-week sprint working on a side-project which is meant to help
 suppliers manage their business. This first alpha version lets you create a
@@ -277,43 +277,4 @@ an incredible team to create something truly…]]></description><link>https://si
 &amp;lt;p&amp;gt;Myself and my co-founders were self-employed for 5 years and realised that whilst the freedom it gives you is incredible, it also comes with the financial burden of being on your own.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;So we created Pallo to make it that much easier, bringing everything, all your business and personal, finances, accounting and tax, into one place.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I'm building a microsaas in public]]></title><description><![CDATA[One of my 2022 goals is to build all of my projects in public. So I'm starting
-now with my newest idea, Submetrics. This is an idea I've had for a while after
-I noticed how much time I was spending every month tracking all of my social
-media, subscription, and community metrics for a few of my…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sb39n1/im_building_a_microsaas_in_public/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsb39n1%2Fim_building_a_microsaas_in_public%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsb39n1%2Fim_building_a_microsaas_in_public%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sb39n1/im_building_a_microsaas_in_public/</guid><pubDate>Mon, 24 Jan 2022 01:41:11 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;One of my 2022 goals is to build all of my projects in public. So I&amp;amp;#39;m starting now with my newest idea, Submetrics. This is an idea I&amp;amp;#39;ve had for a while after I noticed how much time I was spending every month tracking all of my social media, subscription, and community metrics for a few of my private communities I used to run.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Anytime you see yourself spending hours per day, week, or month in a spreadsheet, there is an idea for a solid microsaas project.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Now I&amp;amp;#39;m not sure if this idea is even worth building. Just because it scratches my own itch doesn&amp;amp;#39;t mean it&amp;amp;#39;s a problem others have.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;As a true entrepreneur I&amp;amp;#39;m not going to start building the actual software until I&amp;amp;#39;ve at least seen some interest. Below is my plan to verify the need of Submetrics.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Plan&amp;lt;/p&amp;gt;
-
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;Create a simple Figma UI mockup&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Build a simple landing page illustrating the basic concepts of the product&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Launch a ProductHunt ship page to collect emails&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Promote the product for 2-4 weeks&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Get 100 early access subscribers&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-
-&amp;lt;p&amp;gt;Once, or if, I get 100 early access subscribers I&amp;amp;#39;ve successfully proven out the concept of the product and will start building it.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve already done steps 1-3. Below are the costs and time invested.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Costs and Time Spent&amp;lt;/p&amp;gt;
-
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;$130 on Figma mockup&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;$79 for 1-month of ProductHunt Ship&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;5 hours total invested into building the landing page&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-
-&amp;lt;p&amp;gt;Overall I&amp;amp;#39;m in for $209 and 5 hours of my time. If everything goes well, my goal is to build this microsaas to $500/month and have a solid stream of income. If I can&amp;amp;#39;t prove out the need, then I&amp;amp;#39;m only out a small investment.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Landing page: &amp;lt;a href=&quot;https://www.submetrics.co/&quot;&amp;gt;https://www.submetrics.co/&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;
-ProductHunt Ship page: &amp;lt;a href=&quot;https://www.producthunt.com/upcoming/submetrics&quot;&amp;gt;https://www.producthunt.com/upcoming/submetrics&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Let me know if there are any questions :)&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
