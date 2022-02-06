@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 06 Feb 2022 13:19:09 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[RoastMyStartup - Get landing pages, website and apps feedback]]></title><description><![CDATA[Hi there,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 06 Feb 2022 13:36:55 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Seashot.io | Online Screenshot Tool]]></title><description><![CDATA[https://seashot.io/ is a site that can take screenshot of your desktop. I
+decided to start on web first. Then do other platforms. I plan on releasing a
+desktop version (windows, mac, linux) in like a week. I also want to release on
+mobile and browser extensions.
+
+List of feature I want to add:
+
+ *…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/slohxa/seashotio_online_screenshot_tool/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslohxa%2Fseashotio_online_screenshot_tool%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslohxa%2Fseashotio_online_screenshot_tool%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/slohxa/seashotio_online_screenshot_tool/</guid><pubDate>Sun, 06 Feb 2022 13:16:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://seashot.io/&quot;&amp;gt;https://seashot.io/&amp;lt;/a&amp;gt;  is a site that can take screenshot of your desktop. I decided to start on web first. Then do other platforms. I plan on releasing a desktop version (windows, mac, linux) in like a week. I also want to release on mobile and browser extensions.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;List of feature I want to add:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;reverse search&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;normal file upload&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;ocr&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;easer&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;blur draw&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;draw arrows&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;get color of pixel&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;custom watermark option&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;video record&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;screenshot name templates, run commands and keyboard shortcuts&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;custom link expire, text data, multiple files per link and be able to download to zip&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;full page capture&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[RoastMyStartup - Get landing pages, website and apps feedback]]></title><description><![CDATA[Hi there,
 
 I created this side project to showcase my skills. I'm a backend developer and
 wanted to build something for very long time but have not gotten stick with one
@@ -333,31 +358,4 @@ Our solution is this new app that…]]></description><link>https://sideproject.b
 &amp;lt;p&amp;gt;Our solution is this new app that can store your receipts in one place and make it easier to find them. Below we created a survey to see what people would think of our app and so we would greatly appreciate it if you took some time to fill it out. (As an incentive we offer a chance to win $25 to all those that complete the survey). Thank you so much!  &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://forms.gle/HMB1CdKxiJtvmpQ4A&quot;&amp;gt;https://forms.gle/HMB1CdKxiJtvmpQ4A&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Classification of Higgs boson decays using machine learning with Python]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sf1bix/classification_of_higgs_boson_decays_using/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsf1bix%2Fclassification_of_higgs_boson_decays_using%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsf1bix%2Fclassification_of_higgs_boson_decays_using%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sf1bix/classification_of_higgs_boson_decays_using/</guid><pubDate>Sat, 29 Jan 2022 03:32:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I built a login page for my SaaS (a todo web app) so I can connect the UI to a Supabase backend.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seol8h/i_built_a_login_page_for_my_saas_a_todo_web_app/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseol8h%2Fi_built_a_login_page_for_my_saas_a_todo_web_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseol8h%2Fi_built_a_login_page_for_my_saas_a_todo_web_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seol8h/i_built_a_login_page_for_my_saas_a_todo_web_app/</guid><pubDate>Fri, 28 Jan 2022 14:50:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Simple website where you can track important info for all major cryptocoins along with the latest news for each coin]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/</guid><pubDate>Fri, 28 Jan 2022 14:10:46 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Cashfactory : Docker stack aggregating passive income applications (bandwidth share)]]></title><description><![CDATA[Hello,
-
-I've made a github including a docker swarm (need x86/amd64 + docker +
-docker-compose) that run 5 passive income applications (customizable if you
-don't want to run all 5).
-
-The stack is using minimal ressources regarding memory/cpu and disk usage.
-
-A basic webUI is included to bookmark all…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seejts/cashfactory_docker_stack_aggregating_passive/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseejts%2Fcashfactory_docker_stack_aggregating_passive%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseejts%2Fcashfactory_docker_stack_aggregating_passive%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seejts/cashfactory_docker_stack_aggregating_passive/</guid><pubDate>Fri, 28 Jan 2022 13:48:33 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve made a github including a docker swarm (need x86/amd64 + docker + docker-compose) that run 5 passive income applications (customizable if you don&amp;amp;#39;t want to run all 5).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The stack is using minimal ressources regarding memory/cpu and disk usage.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;A basic webUI is included to bookmark all the dashboards apps, and portainer-ce is also included for easy container management.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Currently Earnapp, Honeygain, peer2profit, IProyals and packetstream are included. If some are interested you may have a look at :&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://github.com/OlivierGaland/CashFactory&quot;&amp;gt;https://github.com/OlivierGaland/CashFactory&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m also looking for similar passive income app (not cpu / gpu / disk using, only proxy/bandwitdh share) that I can include inside (if dockerizable). If you know some others please give the link.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I will include any interesting app inside.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Best regards,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Olivier&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Classification of Higgs boson decays using machine learning with Python]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sf1bix/classification_of_higgs_boson_decays_using/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsf1bix%2Fclassification_of_higgs_boson_decays_using%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsf1bix%2Fclassification_of_higgs_boson_decays_using%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sf1bix/classification_of_higgs_boson_decays_using/</guid><pubDate>Sat, 29 Jan 2022 03:32:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I built a login page for my SaaS (a todo web app) so I can connect the UI to a Supabase backend.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seol8h/i_built_a_login_page_for_my_saas_a_todo_web_app/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseol8h%2Fi_built_a_login_page_for_my_saas_a_todo_web_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseol8h%2Fi_built_a_login_page_for_my_saas_a_todo_web_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/seol8h/i_built_a_login_page_for_my_saas_a_todo_web_app/</guid><pubDate>Fri, 28 Jan 2022 14:50:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Simple website where you can track important info for all major cryptocoins along with the latest news for each coin]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/</guid><pubDate>Fri, 28 Jan 2022 14:10:46 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>

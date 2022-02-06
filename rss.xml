@@ -1,10 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 06 Feb 2022 13:19:09 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[RoastMyStartup - 获取着陆页、网站和应用程序的反馈信息]]></title><description><![CDATA[Hi there,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 06 Feb 2022 13:36:55 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[Seashot.io | 在线屏幕截图工具]]></title><description><![CDATA[https://seashot.io/ 是一个可以对你的桌面进行截图的网站。I
+决定先从网络开始。然后再做其他平台。我计划发布一个
+桌面版（windows、mac、linux），大概一周后。我还想发布在
+手机和浏览器扩展。
 
-I created this side project to showcase my skills. I'm a backend developer and
-wanted to build something for very long time but have not gotten stick with one
-idea but finally I decided to work on this idea.
+我想添加的功能列表。
 
-This is like subReddit roastmystartup but not that much heated content. I…]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slueou/roastmystartup_get_landing_pages_website_and_apps/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslueou%2Froastmystartup_get_landing_pages_website_and_apps%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslueou%2Froastmystartup_get_landing_pages_website_and_apps%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slueou/roastmystartup_get_landing_pages_website_and_apps/</guid><pubDate>Sun, 06 Feb 2022 12:56:17 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi there, &amp;lt;/p&amp;gt;
+ *...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slohxa/seashotio_online_screenshot_tool/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslohxa%2Fseashotio_online_screenshot_tool%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslohxa%2Fseashotio_online_screenshot_tool%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slohxa/seashotio_online_screenshot_tool/</guid><pubDate>Sun, 06 Feb 2022 13:16:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://seashot.io/&quot;&amp;gt;https://seashot.io/&amp;lt;/a&amp;gt;  is a site that can take screenshot of your desktop. I decided to start on web first. Then do other platforms. I plan on releasing a desktop version (windows, mac, linux) in like a week. I also want to release on mobile and browser extensions.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;List of feature I want to add:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;reverse search&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;normal file upload&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;ocr&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;easer&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;blur draw&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;draw arrows&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;get color of pixel&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;custom watermark option&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;video record&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;screenshot name templates, run commands and keyboard shortcuts&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;custom link expire, text data, multiple files per link and be able to download to zip&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;full page capture&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[RoastMyStartup - 获取着陆页、网站和应用程序的反馈信息]]></title><description><![CDATA[大家好。
+
+我创建这个副业是为了展示我的技能。我是一个后端开发员
+想做一些事情已经很久了，但一直没有坚持一个想法。
+但最后我决定在这个想法上做文章。
+
+这就像subReddit roastmystartup，但没有那么多激烈的内容。I...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slueou/roastmystartup_get_landing_pages_website_and_apps/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslueou%2Froastmystartup_get_landing_pages_website_and_apps%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslueou%2Froastmystartup_get_landing_pages_website_and_apps%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slueou/roastmystartup_get_landing_pages_website_and_apps/</guid><pubDate>Sun, 06 Feb 2022 12:56:17 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi there, &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I created this side project to showcase my skills. I&amp;amp;#39;m a backend developer and wanted to build something for very long time but have not gotten stick with one idea but finally I decided to work on this idea. &amp;lt;/p&amp;gt;
 
@@ -333,31 +358,4 @@ Github repo: https://github.com/ikassim9/Marvel-Comics
 &amp;lt;p&amp;gt;Our solution is this new app that can store your receipts in one place and make it easier to find them. Below we created a survey to see what people would think of our app and so we would greatly appreciate it if you took some time to fill it out. (As an incentive we offer a chance to win $25 to all those that complete the survey). Thank you so much!  &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://forms.gle/HMB1CdKxiJtvmpQ4A&quot;&amp;gt;https://forms.gle/HMB1CdKxiJtvmpQ4A&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[利用Python的机器学习对希格斯玻色子衰变进行分类]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sf1bix/classification_of_higgs_boson_decays_using/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsf1bix%2Fclassification_of_higgs_boson_decays_using%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsf1bix%2Fclassification_of_higgs_boson_decays_using%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sf1bix/classification_of_higgs_boson_decays_using/</guid><pubDate>Sat, 29 Jan 2022 03:32:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我为我的SaaS（一个todo web应用）建立了一个登录页面，这样我就可以将UI连接到Supabase的后台。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/seol8h/i_built_a_login_page_for_my_saas_a_todo_web_app/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseol8h%2Fi_built_a_login_page_for_my_saas_a_todo_web_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseol8h%2Fi_built_a_login_page_for_my_saas_a_todo_web_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/seol8h/i_built_a_login_page_for_my_saas_a_todo_web_app/</guid><pubDate>Fri, 28 Jan 2022 14:50:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[简单的网站，你可以跟踪所有主要加密货币的重要信息，以及每个硬币的最新新闻]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/</guid><pubDate>Fri, 28 Jan 2022 14:10:46 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Cashfactory : Docker堆栈聚合被动收入应用（带宽共享）]]></title><description><![CDATA[你好。
-
-我做了一个github，包括一个docker swarm（需要x86/amd64 + docker +
-docker-compose），运行5个被动收入的应用程序（可定制，如果你
-如果你不想运行所有的5个应用程序，可以自定义）。
-
-该堆栈在内存/CPU和磁盘使用方面使用最小的资源。
-
-包括一个基本的webUI，用于标记所有的应用程序。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/seejts/cashfactory_docker_stack_aggregating_passive/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseejts%2Fcashfactory_docker_stack_aggregating_passive%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseejts%2Fcashfactory_docker_stack_aggregating_passive%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/seejts/cashfactory_docker_stack_aggregating_passive/</guid><pubDate>Fri, 28 Jan 2022 13:48:33 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve made a github including a docker swarm (need x86/amd64 + docker + docker-compose) that run 5 passive income applications (customizable if you don&amp;amp;#39;t want to run all 5).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The stack is using minimal ressources regarding memory/cpu and disk usage.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;A basic webUI is included to bookmark all the dashboards apps, and portainer-ce is also included for easy container management.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Currently Earnapp, Honeygain, peer2profit, IProyals and packetstream are included. If some are interested you may have a look at :&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://github.com/OlivierGaland/CashFactory&quot;&amp;gt;https://github.com/OlivierGaland/CashFactory&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m also looking for similar passive income app (not cpu / gpu / disk using, only proxy/bandwitdh share) that I can include inside (if dockerizable). If you know some others please give the link.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I will include any interesting app inside.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Best regards,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Olivier&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[利用Python的机器学习对希格斯玻色子衰变进行分类]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sf1bix/classification_of_higgs_boson_decays_using/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsf1bix%2Fclassification_of_higgs_boson_decays_using%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsf1bix%2Fclassification_of_higgs_boson_decays_using%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sf1bix/classification_of_higgs_boson_decays_using/</guid><pubDate>Sat, 29 Jan 2022 03:32:16 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我为我的SaaS（一个todo web应用）建立了一个登录页面，这样我就可以将UI连接到Supabase的后台。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/seol8h/i_built_a_login_page_for_my_saas_a_todo_web_app/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseol8h%2Fi_built_a_login_page_for_my_saas_a_todo_web_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fseol8h%2Fi_built_a_login_page_for_my_saas_a_todo_web_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/seol8h/i_built_a_login_page_for_my_saas_a_todo_web_app/</guid><pubDate>Fri, 28 Jan 2022 14:50:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[简单的网站，你可以跟踪所有主要加密货币的重要信息，以及每个硬币的最新新闻]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsera2v%2Fsimple_website_where_you_can_track_important_info%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sera2v/simple_website_where_you_can_track_important_info/</guid><pubDate>Fri, 28 Jan 2022 14:10:46 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
