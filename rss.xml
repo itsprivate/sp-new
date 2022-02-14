@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Feb 2022 17:16:51 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我刚刚建造了这个。第一个同类的平台。它够清楚吗？]]></title><description><![CDATA[网址是StampFans.com [https://StampFans.com]。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Feb 2022 18:57:50 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我创建了一个多人游戏（浏览器），你扮演一个海盗，与其他玩家竞争。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ssf230/i_created_a_multiplayer_game_browser_where_you/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fssf230%2Fi_created_a_multiplayer_game_browser_where_you%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fssf230%2Fi_created_a_multiplayer_game_browser_where_you%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ssf230/i_created_a_multiplayer_game_browser_where_you/</guid><pubDate>Mon, 14 Feb 2022 18:28:31 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我刚刚建造了这个。第一个同类的平台。它够清楚吗？]]></title><description><![CDATA[网址是StampFans.com [https://StampFans.com]。
 
 我不打算在这里做任何解释。感兴趣的是你的随口一说
 反馈。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ssdcon/i_just_built_this_first_platform_of_its_kind_is/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fssdcon%2Fi_just_built_this_first_platform_of_its_kind_is%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fssdcon%2Fi_just_built_this_first_platform_of_its_kind_is%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ssdcon/i_just_built_this_first_platform_of_its_kind_is/</guid><pubDate>Mon, 14 Feb 2022 16:51:58 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;URL is &amp;lt;a href=&quot;https://StampFans.com&quot;&amp;gt;StampFans.com&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
@@ -172,29 +172,4 @@ https://phupon.com/
 如果是SaaS的话，你也可以提交你的副业项目。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slmu7p/built_this_fun_project_this_weekend_stumbleupon/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslmu7p%2Fbuilt_this_fun_project_this_weekend_stumbleupon%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslmu7p%2Fbuilt_this_fun_project_this_weekend_stumbleupon%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slmu7p/built_this_fun_project_this_weekend_stumbleupon/</guid><pubDate>Sun, 06 Feb 2022 14:28:07 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Wanted to learn Svelte. Had this side project in idealist for a long time. Browsing SaaS product landing pages like StumbleUpon. Check it out &amp;lt;a href=&quot;https://phupon.com/&quot;&amp;gt;https://phupon.com/&amp;lt;/a&amp;gt;  &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I had to manually compile the list. It was a bit exhausting. You can submit your side project too if it&amp;amp;#39;s a SaaS.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Seashot.io | 在线屏幕截图工具]]></title><description><![CDATA[https://seashot.io/ 是一个可以对你的桌面进行截图的网站。I
-决定先从网络开始。然后再做其他平台。我计划发布一个
-桌面版（windows、mac、linux），大概一周后。我还想发布在
-手机和浏览器扩展。
-
-我想添加的功能列表。
-
- *...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slohxa/seashotio_online_screenshot_tool/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslohxa%2Fseashotio_online_screenshot_tool%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fslohxa%2Fseashotio_online_screenshot_tool%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/slohxa/seashotio_online_screenshot_tool/</guid><pubDate>Sun, 06 Feb 2022 13:16:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://seashot.io/&quot;&amp;gt;https://seashot.io/&amp;lt;/a&amp;gt;  is a site that can take screenshot of your desktop. I decided to start on web first. Then do other platforms. I plan on releasing a desktop version (windows, mac, linux) in like a week. I also want to release on mobile and browser extensions.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;List of feature I want to add:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;reverse search&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;normal file upload&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;ocr&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;easer&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;blur draw&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;draw arrows&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;get color of pixel&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;custom watermark option&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;video record&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;screenshot name templates, run commands and keyboard shortcuts&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;custom link expire, text data, multiple files per link and be able to download to zip&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;full page capture&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
