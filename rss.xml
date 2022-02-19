@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Feb 2022 07:03:34 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[做了一个安卓应用，可以根据你的位置来改变你的手机!]]></title><description><![CDATA[最近发布的应用程序，将根据你当前的位置执行一些任务。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Feb 2022 15:15:40 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我为宠物失踪时建立了一个琥珀警报服务]]></title><description><![CDATA[嘿，r/sideprojects [/r/sideprojects]。我想和大家分享一下我在过去一年中建立的一个应用程序
+我想和大家分享我在过去一年中建立的一个应用程序。Spot[https://www.findspot.app]是一个琥珀色警报系统，专门用于将丢失的宠物带回家。
+系统，专门用于尽快和安全地将走失的宠物带回家。
+尽可能快地带回家。我家里有两只获救的小狗，我将会...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sw8wlo/i_built_an_amber_alerts_service_for_when_pets_go/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsw8wlo%2Fi_built_an_amber_alerts_service_for_when_pets_go%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsw8wlo%2Fi_built_an_amber_alerts_service_for_when_pets_go%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sw8wlo/i_built_an_amber_alerts_service_for_when_pets_go/</guid><pubDate>Sat, 19 Feb 2022 14:49:05 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey &amp;lt;a href=&quot;/r/sideprojects&quot;&amp;gt;r/sideprojects&amp;lt;/a&amp;gt;. I wanted to share an app that I built on the side over the last year. &amp;lt;a href=&quot;https://www.findspot.app&quot;&amp;gt;Spot&amp;lt;/a&amp;gt; is an amber alerts system built specifically for bringing lost pets home as quickly and safely as possible. I have two rescue pups in my home, and would be terrified if they ever ran off.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Currently, I have an &amp;lt;a href=&quot;https://apps.apple.com/us/app/spot-bring-pets-home-faster/id1498398482?ls=1&quot;&amp;gt;iOS app&amp;lt;/a&amp;gt; that enables you to receive notifications of lost pets in your area. You can view a feed of pets that are missing in your area, as well as globally. You can even share the alerts with others on social media, or if you know someone nearby that may have seen them. Through the app, you can contact the pet owner and let them know that you have found or seen their pet. You can also view all pets that have been found through the app.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I am now working on growing the network, so that when a pet goes missing, there is a large number of users to receive an alert of a missing pet and help them get home to their family. If you’re an iOS user and you’d like to join me on my mission to bringing missing pets home safely, I’d love to hear what you think and how I can make improvements too.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thank you!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The Spot Family&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[做了一个安卓应用，可以根据你的位置来改变你的手机!]]></title><description><![CDATA[最近发布的应用程序，将根据你当前的位置执行一些任务。
 位置。
 
 在地图上放置范围不超过500米的标记，并配置手机应该做什么。
@@ -206,35 +218,4 @@ https://byvalue.org/service-demand-board/
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/wape0mmhcfh81.png?width=2808&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=cf7a62c4def9e03bef565007fd639c33d9c074ae&quot;&amp;gt;https://preview.redd.it/wape0mmhcfh81.png?width=2808&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=cf7a62c4def9e03bef565007fd639c33d9c074ae&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[每一次...]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sqmh93/every_time/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsqmh93%2Fevery_time%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsqmh93%2Fevery_time%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sqmh93/every_time/</guid><pubDate>Sat, 12 Feb 2022 09:11:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我开发了一个简单的服务，可以将PhotoPrism（开源谷歌照片的替代品）共享相册内的所有照片渲染成地图]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sqc4wx/ive_developed_a_simple_service_that_renders_a_map/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsqc4wx%2Five_developed_a_simple_service_that_renders_a_map%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsqc4wx%2Five_developed_a_simple_service_that_renders_a_map%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sqc4wx/ive_developed_a_simple_service_that_renders_a_map/</guid><pubDate>Sat, 12 Feb 2022 04:44:25 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一个网站，人们可以报告坏掉的产品并提出修复建议]]></title><description><![CDATA[我们从未听说过破损和磨损的产品。现在几乎所有的装备
-都是基线好的，而真正让事物与众不同的是负面因素。
-
-就这一次，让我们把这一切都颠倒过来。
-
-我们应该建立一个关于事物如何破损的集合--审查破损和磨损的
-产品，以教授如何...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sq4rzz/i_built_a_website_where_people_can_report_broken/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsq4rzz%2Fi_built_a_website_where_people_can_report_broken%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsq4rzz%2Fi_built_a_website_where_people_can_report_broken%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sq4rzz/i_built_a_website_where_people_can_report_broken/</guid><pubDate>Fri, 11 Feb 2022 18:44:40 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;We never hear about broken and worn-out products. Pretty much all gear nowadays is baseline ok, it’s the negatives that really set things apart.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;For once, let&amp;amp;#39;s turn it all upside down:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We should build a collection about how things break - review broken and worn-out products to teach how to identify cheap products. That&amp;amp;#39;s why I built the free and non-profit site called &amp;lt;a href=&quot;https://failscout.co/&quot;&amp;gt;failscout.co&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It&amp;amp;#39;s simple: You upload your broken products and quickly describe how long you owned them, how often you used them, and where they failed.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;People can also suggest a fix to a broken/inconvenienced product (like a crowdsourced iFixit).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;What could we do with all this data?&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Identifying the common failure modes of products&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Collect fixes for common product failures&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;See if a product&amp;amp;#39;s quality has changed or gone down at some point&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Everything breaks eventually, but when it does, can you easily repair/fix it?&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Add a simple JSON API so other sites and projects can leverage our data.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/y7jqw3bco8h81.png?width=2134&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ab642b13d9cf32e3ceceb6204bd204d838df5f11&quot;&amp;gt;https://preview.redd.it/y7jqw3bco8h81.png?width=2134&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ab642b13d9cf32e3ceceb6204bd204d838df5f11&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Let me know what you think!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;There is also a subreddit: &amp;lt;a href=&quot;https://www.reddit.com/r/productfails/&quot;&amp;gt;r/productfails&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[每一次...]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sqmh93/every_time/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsqmh93%2Fevery_time%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsqmh93%2Fevery_time%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sqmh93/every_time/</guid><pubDate>Sat, 12 Feb 2022 09:11:48 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我开发了一个简单的服务，可以将PhotoPrism（开源谷歌照片的替代品）共享相册内的所有照片渲染成地图]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sqc4wx/ive_developed_a_simple_service_that_renders_a_map/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsqc4wx%2Five_developed_a_simple_service_that_renders_a_map%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsqc4wx%2Five_developed_a_simple_service_that_renders_a_map%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sqc4wx/ive_developed_a_simple_service_that_renders_a_map/</guid><pubDate>Sat, 12 Feb 2022 04:44:25 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
