@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 20 Feb 2022 21:47:33 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[這個鏈接會自毀]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sx7cfe/this_link_will_self_destruct/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsx7cfe%2Fthis_link_will_self_destruct%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsx7cfe%2Fthis_link_will_self_destruct%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sx7cfe/this_link_will_self_destruct/</guid><pubDate>Sun, 20 Feb 2022 21:27:21 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個評論系統SaaS，請幫助改進我的登陸頁面]]></title><description><![CDATA[鏈接：https://slickcomment.com/
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Feb 2022 07:05:22 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[嗨！我正在建立一個虛擬螞蟻農場。這個版本是前alpha版本，甚至不應該上線，但是，爲了先發貨，後問問題......它是！所以，請看看它。所以，看看吧。]]></title><description><![CDATA[https://meomix.github.io/antfarm/
+
+我喜歡螞蟻，需要一個副業。因此，我正在建立一個虛擬的螞蟻農場。I
+我找到了一些1991年用C語言爲Unix編寫的代碼，我想我應該把它移植到React。
+把它帶到網絡上，並開始爲它添加一些功能。
+
+正如標題所述，這可能不應該...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sxi8h6/hi_im_building_a_virtual_ant_farm_this_version_is/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxi8h6%2Fhi_im_building_a_virtual_ant_farm_this_version_is%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxi8h6%2Fhi_im_building_a_virtual_ant_farm_this_version_is%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sxi8h6/hi_im_building_a_virtual_ant_farm_this_version_is/</guid><pubDate>Mon, 21 Feb 2022 06:44:48 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://meomix.github.io/antfarm/&quot;&amp;gt;https://meomix.github.io/antfarm/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I like ants and needed a side project. So, I am building a virtual ant farm. I found some code written in 1991 for Unix in C and figured I&amp;amp;#39;d port it to React, bring it to the web, and begin adding some features to it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;As the title states, this probably shouldn&amp;amp;#39;t be live yet with the number of issues it has, but I wanted some sweet, sweet Internet-karma to keep me motivated. So, I shipped it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here&amp;amp;#39;s what it currently does:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Fills a space with 2/3 dirt 1/3 air and drops 20 ants onto the dirt&amp;amp;#39;s surface.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ants move around on tick intervals of 50ms.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ants can dig tunnels, carry sand, and drop sand.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Dropped sand has some basic gravity mechanism if dropped with air beneath it.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Dropped sand has some basic &amp;amp;quot;piling&amp;amp;quot; mechanism where it will form piles on the surface rather than just columns.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Runs in the background when tab isn&amp;amp;#39;t active and updates with what&amp;amp;#39;s changed when visible.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Here&amp;amp;#39;s what it currently does not do:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Save isn&amp;amp;#39;t implemented. If you refresh or close the tab - you start over.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;There are some graphical glitches when ants are over holes or in the corners of the UI.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ants can get stuck in the air and &amp;amp;quot;tumble in circles&amp;amp;quot; rather than fall to the ground.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;The UI doesn&amp;amp;#39;t scale automatically. You&amp;amp;#39;ll need to zoom in/out on your browser to get it appropriately sized.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ants are too small - they take up 1 square grid unit size, but should probably take up 1x2 so they&amp;amp;#39;re larger than the dirt cubes.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;No visual change when an ant picks up dirt and is carrying it.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Significant performance issues.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;No customizability&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;The code is bad and I feel bad.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;open source! &amp;lt;a href=&quot;https://github.com/MeoMix/antfarm&quot;&amp;gt;https://github.com/MeoMix/antfarm&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[這個鏈接會自毀]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sx7cfe/this_link_will_self_destruct/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsx7cfe%2Fthis_link_will_self_destruct%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsx7cfe%2Fthis_link_will_self_destruct%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sx7cfe/this_link_will_self_destruct/</guid><pubDate>Sun, 20 Feb 2022 21:27:21 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個評論系統SaaS，請幫助改進我的登陸頁面]]></title><description><![CDATA[鏈接：https://slickcomment.com/
 
 你好，我花了幾個月的時間來做這個項目，它已經準備好要進行市場推廣了
 :)但我發現登陸頁面看起來不是很好，我主要是一個後端
@@ -232,4 +270,4 @@ https://byvalue.org/service-demand-board/
 &amp;lt;p&amp;gt;it&amp;amp;#39;s a really easy way to get started with APIs and earning from your side project! &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;let me know what you guys think!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個chrome擴展，讓你專注於你的目標並實現深度流動]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/srknnj/i_made_a_chrome_extension_that_lets_you_focus_on/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrknnj%2Fi_made_a_chrome_extension_that_lets_you_focus_on%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrknnj%2Fi_made_a_chrome_extension_that_lets_you_focus_on%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/srknnj/i_made_a_chrome_extension_that_lets_you_focus_on/</guid><pubDate>Sun, 13 Feb 2022 17:43:28 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我創建了一個工具，讓你把靜態表情轉換爲適用於Twitch的動畫表情。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/srg7g4/i_created_a_tool_that_lets_you_convert_your/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrg7g4%2Fi_created_a_tool_that_lets_you_convert_your%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrg7g4%2Fi_created_a_tool_that_lets_you_convert_your%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/srg7g4/i_created_a_tool_that_lets_you_convert_your/</guid><pubDate>Sun, 13 Feb 2022 12:26:56 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個chrome擴展，讓你專注於你的目標並實現深度流動]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/srknnj/i_made_a_chrome_extension_that_lets_you_focus_on/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrknnj%2Fi_made_a_chrome_extension_that_lets_you_focus_on%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrknnj%2Fi_made_a_chrome_extension_that_lets_you_focus_on%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/srknnj/i_made_a_chrome_extension_that_lets_you_focus_on/</guid><pubDate>Sun, 13 Feb 2022 17:43:28 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
