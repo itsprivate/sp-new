@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Feb 2022 07:05:22 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Hi! I'm building a virtual ant farm. This version is so pre-alpha it shouldn't even be live, but, in the interest of shipping first and asking questions later... it is! So, check it out.]]></title><description><![CDATA[https://meomix.github.io/antfarm/
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Feb 2022 11:30:51 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I built (together with 3 friends) a text-based video editor called Type Studio]]></title><description><![CDATA[Edit your video by editing text
+
+Hi r/SideProject [/r/SideProject]
+I am working on an easier way to edit videos (Type Studio
+[https://typestudio.co/]). With easier i don't only mean web-based and with
+clean interface, but also about the whole editing itself.
+
+With Type Studio we decided to build an…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sxpumr/i_built_together_with_3_friends_a_textbased_video/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxpumr%2Fi_built_together_with_3_friends_a_textbased_video%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxpumr%2Fi_built_together_with_3_friends_a_textbased_video%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sxpumr/i_built_together_with_3_friends_a_textbased_video/</guid><pubDate>Mon, 21 Feb 2022 11:09:52 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Edit your video by editing text&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Hi &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;
+I am working on an easier way to edit videos (&amp;lt;a href=&quot;https://typestudio.co/&quot;&amp;gt;Type Studio&amp;lt;/a&amp;gt;). With easier i don&amp;amp;#39;t only mean web-based and with clean interface, but also about the whole editing itself.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With Type Studio we decided to build an editor, which is more focussed on the content.&amp;lt;br/&amp;gt;
+For example davinci resolve or veed are timeline based video editors. They are both awesome! I love veed and love premiere pro (sometimes). But we thought that there is an easier way to edit the videos than via a timeline. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For that reason we built a way to edit the video via the spoken text of the video.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Want to cut a sentence&amp;lt;/strong&amp;gt; from your video?&amp;lt;br/&amp;gt;
+Just highlight the sentence in the transcript and click on delete.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Want to &amp;lt;strong&amp;gt;apply an image&amp;lt;/strong&amp;gt; while talking about a specific topic?&amp;lt;br/&amp;gt;
+Just highlight the paragraph in the text and apply the image.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Want to &amp;lt;strong&amp;gt;cut all the uhms and ehms?&amp;lt;/strong&amp;gt;&amp;lt;br/&amp;gt;
+Just click on &amp;amp;quot;remove filler words&amp;amp;quot;  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Would love to hear your feedback :)&amp;lt;br/&amp;gt;
+&amp;lt;a href=&quot;https://typestudio.co/&quot;&amp;gt;https://typestudio.co/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/sxpumr/video/3eumczk3q5j81/player&quot;&amp;gt;https://reddit.com/link/sxpumr/video/3eumczk3q5j81/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Hi! I'm building a virtual ant farm. This version is so pre-alpha it shouldn't even be live, but, in the interest of shipping first and asking questions later... it is! So, check it out.]]></title><description><![CDATA[https://meomix.github.io/antfarm/
 
 I like ants and needed a side project. So, I am building a virtual ant farm. I
 found some code written in 1991 for Unix in C and figured I'd port it to React,
@@ -268,4 +300,4 @@ can offer their own…]]></description><link>https://sideproject.buzzing.cc/en/r
 &amp;lt;p&amp;gt;it&amp;amp;#39;s a really easy way to get started with APIs and earning from your side project! &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;let me know what you guys think!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I made a chrome extension that lets you focus on your goals and achieve deep flow]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/srknnj/i_made_a_chrome_extension_that_lets_you_focus_on/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrknnj%2Fi_made_a_chrome_extension_that_lets_you_focus_on%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrknnj%2Fi_made_a_chrome_extension_that_lets_you_focus_on%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/srknnj/i_made_a_chrome_extension_that_lets_you_focus_on/</guid><pubDate>Sun, 13 Feb 2022 17:43:28 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>

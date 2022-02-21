@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Feb 2022 07:05:22 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[嗨！我正在建立一个虚拟蚂蚁农场。这个版本是前alpha版本，甚至不应该上线，但是，为了先发货，后问问题......它是！所以，请看看它。所以，看看吧。]]></title><description><![CDATA[https://meomix.github.io/antfarm/
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Feb 2022 11:30:51 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我建立了（与3个朋友一起）一个基于文本的视频编辑器，称为Type Studio]]></title><description><![CDATA[通过编辑文字来编辑你的视频
+
+嗨，r/SideProject [/r/SideProject]
+我正在研究一种更简单的方法来编辑视频（Type Studio
+[https://typestudio.co/]）。我所说的更容易，不仅仅是指基于网络的和具有
+我不仅仅是指基于网络和简洁的界面，而且还指整个编辑本身。
+
+有了Type Studio，我们决定建立一种新的编辑方式。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sxpumr/i_built_together_with_3_friends_a_textbased_video/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxpumr%2Fi_built_together_with_3_friends_a_textbased_video%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxpumr%2Fi_built_together_with_3_friends_a_textbased_video%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sxpumr/i_built_together_with_3_friends_a_textbased_video/</guid><pubDate>Mon, 21 Feb 2022 11:09:52 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Edit your video by editing text&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Hi &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;
+I am working on an easier way to edit videos (&amp;lt;a href=&quot;https://typestudio.co/&quot;&amp;gt;Type Studio&amp;lt;/a&amp;gt;). With easier i don&amp;amp;#39;t only mean web-based and with clean interface, but also about the whole editing itself.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With Type Studio we decided to build an editor, which is more focussed on the content.&amp;lt;br/&amp;gt;
+For example davinci resolve or veed are timeline based video editors. They are both awesome! I love veed and love premiere pro (sometimes). But we thought that there is an easier way to edit the videos than via a timeline. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For that reason we built a way to edit the video via the spoken text of the video.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Want to cut a sentence&amp;lt;/strong&amp;gt; from your video?&amp;lt;br/&amp;gt;
+Just highlight the sentence in the transcript and click on delete.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Want to &amp;lt;strong&amp;gt;apply an image&amp;lt;/strong&amp;gt; while talking about a specific topic?&amp;lt;br/&amp;gt;
+Just highlight the paragraph in the text and apply the image.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Want to &amp;lt;strong&amp;gt;cut all the uhms and ehms?&amp;lt;/strong&amp;gt;&amp;lt;br/&amp;gt;
+Just click on &amp;amp;quot;remove filler words&amp;amp;quot;  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Would love to hear your feedback :)&amp;lt;br/&amp;gt;
+&amp;lt;a href=&quot;https://typestudio.co/&quot;&amp;gt;https://typestudio.co/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/sxpumr/video/3eumczk3q5j81/player&quot;&amp;gt;https://reddit.com/link/sxpumr/video/3eumczk3q5j81/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[嗨！我正在建立一个虚拟蚂蚁农场。这个版本是前alpha版本，甚至不应该上线，但是，为了先发货，后问问题......它是！所以，请看看它。所以，看看吧。]]></title><description><![CDATA[https://meomix.github.io/antfarm/
 
 我喜欢蚂蚁，需要一个副业。因此，我正在建立一个虚拟的蚂蚁农场。I
 我找到了一些1991年用C语言为Unix编写的代码，我想我应该把它移植到React。
@@ -270,4 +302,4 @@ https://byvalue.org/service-demand-board/
 &amp;lt;p&amp;gt;it&amp;amp;#39;s a really easy way to get started with APIs and earning from your side project! &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;let me know what you guys think!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一个chrome扩展，让你专注于你的目标并实现深度流动]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/srknnj/i_made_a_chrome_extension_that_lets_you_focus_on/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrknnj%2Fi_made_a_chrome_extension_that_lets_you_focus_on%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsrknnj%2Fi_made_a_chrome_extension_that_lets_you_focus_on%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/srknnj/i_made_a_chrome_extension_that_lets_you_focus_on/</guid><pubDate>Sun, 13 Feb 2022 17:43:28 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
