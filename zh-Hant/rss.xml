@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 27 Feb 2022 05:38:41 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[如何在網上尋找其他企業家朋友？]]></title><description><![CDATA[作爲一個企業家，可能是一個非常孤獨的經歷，對於任何一個小企業主來說，與其他人在一起真的很重要。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 27 Feb 2022 15:03:35 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Orbitron項目。一個球形輪子的車輛，有一個獨特的專利控制算法，在Mathematica中實現。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t2otbs/project_orbitron_a_sphericalwheeled_vehicle_with/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2otbs%2Fproject_orbitron_a_sphericalwheeled_vehicle_with%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2otbs%2Fproject_orbitron_a_sphericalwheeled_vehicle_with%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t2otbs/project_orbitron_a_sphericalwheeled_vehicle_with/</guid><pubDate>Sun, 27 Feb 2022 14:42:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[如何在網上尋找其他企業家朋友？]]></title><description><![CDATA[作爲一個企業家，可能是一個非常孤獨的經歷，對於任何一個小企業主來說，與其他人在一起真的很重要。
 對任何小企業主來說，與其他志同道合的人在一起以獲得支持和建議是非常重要的。
 任何小企業主都必須與其他志同道合的人在一起，以獲得支持和建議。
 
@@ -397,24 +397,4 @@ https://sideproject.rip]]></description><link>https://sideproject.buzzing.cc/zh-
 &amp;lt;p&amp;gt;After hearing this enough times and also seeing the problem myself, I built &amp;lt;a href=&quot;https://TotallyBio.io&quot;&amp;gt;TotallyBio.io&amp;lt;/a&amp;gt; . This was also a fun excuse to build a website using a tech stack I hadn&amp;amp;#39;t used before :)&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I realize TotallyBio is kind of a niche website, but if anyone has feedback or suggestions that would be awesome!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我正在爲我的域名建立一個收件箱，但想分享一個很酷的小功能]]></title><description><![CDATA[你知道你可以使用Imgur而不需要創建一個帳戶，但如果你失去了上傳鏈接，你將無法找到你的上傳。
-上傳鏈接，你將無法找到你的上傳內容？
-
-
-
-
-
- 1.把你的圖片發到[cdn@pretzelbox.cc](mailto:cdn@pretzelbox.cc)
- 2.我們會回覆可分享的鏈接
-
-這就是了。不需要賬戶...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/suwg28/im_building_an_inbox_for_my_domains_but_want_to/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsuwg28%2Fim_building_an_inbox_for_my_domains_but_want_to%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsuwg28%2Fim_building_an_inbox_for_my_domains_but_want_to%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/suwg28/im_building_an_inbox_for_my_domains_but_want_to/</guid><pubDate>Fri, 18 Feb 2022 16:22:52 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;You know how you can use Imgur without creating an account but if you lose the upload link, you won&amp;amp;#39;t be able to find your uploads?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here&amp;amp;#39;s how we solved this -&amp;lt;/p&amp;gt;
-
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;email your images to [&amp;lt;a href=&quot;mailto:cdn@pretzelbox.cc&quot;&amp;gt;cdn@pretzelbox.cc&amp;lt;/a&amp;gt;](mailto:&amp;lt;a href=&quot;mailto:cdn@pretzelbox.cc&quot;&amp;gt;cdn@pretzelbox.cc&amp;lt;/a&amp;gt;)&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;we&amp;amp;#39;ll reply with shareable links&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-
-&amp;lt;p&amp;gt;That&amp;amp;#39;s it. No account needed and you&amp;amp;#39;ll never lose a link again.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
