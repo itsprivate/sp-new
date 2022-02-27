@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 27 Feb 2022 15:39:46 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[为Netlify x Hashnode黑客马拉松创建了一个小应用程序。]]></title><description><![CDATA[Flare是我为开发者设计的一个社交网络。它是完全围绕着
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 27 Feb 2022 23:06:52 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[放松的时钟--网络应用程序更新]]></title><description><![CDATA[大家好。
+
+大约一年前，我在这里分享了
+[https://preview.redd.it/v7kf9kmbdgq51.jpg?width=5103&format=pjpg&auto=webp&s=7e4300db93b8c6802996dec2ab2a5976cdf0059d]
+这个概念应用程序的第一个版本，叫做放松时钟。
+
+它想成为一个简单的网站，你在你的侧边显示器上打开...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t2qhsm/relaxing_clock_webapp_update/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2qhsm%2Frelaxing_clock_webapp_update%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2qhsm%2Frelaxing_clock_webapp_update%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t2qhsm/relaxing_clock_webapp_update/</guid><pubDate>Sun, 27 Feb 2022 22:39:55 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi there,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;about a year ago &amp;lt;a href=&quot;https://preview.redd.it/v7kf9kmbdgq51.jpg?width=5103&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=7e4300db93b8c6802996dec2ab2a5976cdf0059d&quot;&amp;gt;I shared here&amp;lt;/a&amp;gt; the first version of this concept app called Relaxing Clock.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It wants to be a simple website that you open on your side monitor while working/studying which can also play music with Spotify&amp;amp;#39;s web client (only for premium users unfortunately)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now I have decided to re-write the whole app with Svelte.js which allows for better UX and possible future improvements.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Check it out at &amp;lt;a href=&quot;https://www.relaxingclock.com&quot;&amp;gt;relaxingclock.com&amp;lt;/a&amp;gt;, I really wish to have your feedback!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/wk0bjrk69ek81.png?width=1873&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ed26fd8a4c8a538c3fd08234e018cd5b0a187d38&quot;&amp;gt;https://preview.redd.it/wk0bjrk69ek81.png?width=1873&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=ed26fd8a4c8a538c3fd08234e018cd5b0a187d38&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[为Netlify x Hashnode黑客马拉松创建了一个小应用程序。]]></title><description><![CDATA[Flare是我为开发者设计的一个社交网络。它是完全围绕着
 它完全围绕着软件开发者的需求和兴趣而建立。Flare是我参加
 Netlify x Hashnode Hackathon 🔥
 
@@ -405,4 +426,4 @@ P.S. At the end of every newsletter there’s a “meme” related to product m
 https://sideproject.rip]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/svliye/i_made_a_graveyard_for_all_your_side_projects/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsvliye%2Fi_made_a_graveyard_for_all_your_side_projects%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsvliye%2Fi_made_a_graveyard_for_all_your_side_projects%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/svliye/i_made_a_graveyard_for_all_your_side_projects/</guid><pubDate>Fri, 18 Feb 2022 17:25:19 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;u never know, they might just wake from the dead.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://sideproject.rip&quot;&amp;gt;https://sideproject.rip&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[当你的作品不能自己销售时，该怎么办？]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/svkbxo/what_to_do_when_your_work_wont_sell_itself/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsvkbxo%2Fwhat_to_do_when_your_work_wont_sell_itself%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsvkbxo%2Fwhat_to_do_when_your_work_wont_sell_itself%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/svkbxo/what_to_do_when_your_work_wont_sell_itself/</guid><pubDate>Fri, 18 Feb 2022 17:06:57 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
