@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Feb 2022 16:40:01 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[rainbow-roads - 一个使锻炼活动生动化的工具]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t3e1by/rainbowroads_a_tool_to_animate_exercise_activities/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft3e1by%2Frainbowroads_a_tool_to_animate_exercise_activities%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft3e1by%2Frainbowroads_a_tool_to_animate_exercise_activities%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t3e1by/rainbowroads_a_tool_to_animate_exercise_activities/</guid><pubDate>Mon, 28 Feb 2022 16:09:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[刚刚在ProductHunt上发布--需要加注😊]]></title><description><![CDATA[嘿。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Feb 2022 18:40:39 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[AMA - 我的引导性Notion-2-Knowledge Base SaaS刚刚达到1000美元的MRR]]></title><description><![CDATA[我是Dominik，一个24岁的Indiehacker。
+经过五个月的努力，我的Notion相关的引导式SaaS达到了1000美元的MRR。由于没有在Product Hunt
+发布（还没有），只专注于在公众场合建立
+[https://twitter.com/sobedominik]并与Notion社区互动。这
+是一个很大的...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t3kyp5/ama_my_bootstrapped_notion2knowledge_base_saas/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft3kyp5%2Fama_my_bootstrapped_notion2knowledge_base_saas%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft3kyp5%2Fama_my_bootstrapped_notion2knowledge_base_saas%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t3kyp5/ama_my_bootstrapped_notion2knowledge_base_saas/</guid><pubDate>Mon, 28 Feb 2022 18:19:55 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I&amp;amp;#39;m Dominik, a 24-year-old Indiehacker and after five months of working super hard, my Notion-related bootstrapped SaaS hit $1000 MRR. With no Product Hunt launch (&amp;lt;em&amp;gt;yet&amp;lt;/em&amp;gt;) and focusing solely on &amp;lt;a href=&quot;https://twitter.com/sobedominik&quot;&amp;gt;building in public&amp;lt;/a&amp;gt; and engaging with the Notion community. This is a big milestone for me and honestly, a small dream came true.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For some, this might be not that much but for me, it definitely is. I have already been working on several projects before HelpKit that didn&amp;amp;#39;t even come close to this sacred MRR number. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I am extremely thankful for all the folks who have supported me so far on my journey to become ramen profitable and... beyond.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I hope I can help you a bit on your Indiehacking journey. Perhaps I have a good answer or a mistake to share that you should totally avoid. Whatever it is, throw it at me!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Ask me anything.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;~ ~ ~&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;What is HelpKit?&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In short, &amp;lt;a href=&quot;https://www.helpkit.so/&quot;&amp;gt;HelpKit&amp;lt;/a&amp;gt; is a no code tool that allows you to easily turn your Notion docs into a professional help center / documentation page. I started it because I was fed up with the existing knowledge base solutions and I am absolutely loving Notion. You can read more about the background story here in &amp;lt;a href=&quot;https://www.makerpad.co/blog/how-a-self-taught-engineer-built-a-notion-powered-knowledge-base-tool&quot;&amp;gt;this interview&amp;lt;/a&amp;gt; if you are curious.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Show me the stats!&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;👥 Total signed up users: 408&amp;lt;br/&amp;gt;
+🎯 Paying customers: 51&amp;lt;br/&amp;gt;
+💰 MRR/ARR: $1,020 / $12,240&amp;lt;br/&amp;gt;
+💸 Customers on Essential Plan ($19/m): 35%&amp;lt;br/&amp;gt;
+💸 Customers on Premium Plan ($29/m): 65%&amp;lt;br/&amp;gt;
+👋 Churn: 0%&amp;lt;br/&amp;gt;
+🥰 Happy customers: 99.88% (😉)&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[rainbow-roads - 一个使锻炼活动生动化的工具]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t3e1by/rainbowroads_a_tool_to_animate_exercise_activities/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft3e1by%2Frainbowroads_a_tool_to_animate_exercise_activities%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft3e1by%2Frainbowroads_a_tool_to_animate_exercise_activities%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t3e1by/rainbowroads_a_tool_to_animate_exercise_activities/</guid><pubDate>Mon, 28 Feb 2022 16:09:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[刚刚在ProductHunt上发布--需要加注😊]]></title><description><![CDATA[嘿。
 
 我们刚刚在ProductHunt上发布了Difree[https://www.getdifree.com]。我
 超级兴奋!
@@ -437,4 +470,4 @@ P.S. At the end of every newsletter there’s a “meme” related to product m
 &amp;lt;p&amp;gt;More features will be added as time passes!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.aj.dfm&quot;&amp;gt;Play Store&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[她让我做她的糖宝宝，我向她征求客户意见😌🙏]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/svskn2/she_asked_me_to_be_her_sugar_baby_i_asked_her_for/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsvskn2%2Fshe_asked_me_to_be_her_sugar_baby_i_asked_her_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsvskn2%2Fshe_asked_me_to_be_her_sugar_baby_i_asked_her_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/svskn2/she_asked_me_to_be_her_sugar_baby_i_asked_her_for/</guid><pubDate>Fri, 18 Feb 2022 22:47:13 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
