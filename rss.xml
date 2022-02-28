@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Feb 2022 18:40:39 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[AMA - 我的引导性Notion-2-Knowledge Base SaaS刚刚达到1000美元的MRR]]></title><description><![CDATA[我是Dominik，一个24岁的Indiehacker。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 28 Feb 2022 22:43:06 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[Rabb.it克隆了一个测试项目!]]></title><description><![CDATA[Willshare为他们的会员提供了使用虚拟浏览器与他人一起观看任何东西的选择。
+一个虚拟的浏览器，它的工作原理和Rabb.it一样，如果你们还记得的话，可惜的是
+Rabb.it被关闭了，我们决定启动一个克隆项目，其工作方式与
+遗憾的是，Rabb.it被关闭了，我们决定启动一个克隆项目，以同样的方式工作，但有更多的隐私，我们也有我们自己的VPN...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t3fjuv/rabbit_clone_a_beta_project/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft3fjuv%2Frabbit_clone_a_beta_project%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft3fjuv%2Frabbit_clone_a_beta_project%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t3fjuv/rabbit_clone_a_beta_project/</guid><pubDate>Mon, 28 Feb 2022 22:16:38 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Willshare provides their members the option to watch anything with others using a virtual browser, it works the same as Rabb.it if you guys remember it, sadly Rabb.it was shutdown and we have decided to start a clone project that works the same way, but with more privacy, we also have our own VPN that was installed in the virtual browser to be more secured! Feel free to check the website out &amp;lt;a href=&quot;https://www.willshare.live&quot;&amp;gt;https://www.willshare.live&amp;lt;/a&amp;gt; and if you guys want to join our discord to help us improve and share your feedback here is the link &amp;lt;a href=&quot;https://discord.gg/rxWTvHWEZr&quot;&amp;gt;https://discord.gg/rxWTvHWEZr&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/m9jfoa6yrkk81.png?width=1918&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=6751ecbeec7ed8060b7f8aa3e0894608baf68a6f&quot;&amp;gt;Willshare virtual browser!&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[AMA - 我的引导性Notion-2-Knowledge Base SaaS刚刚达到1000美元的MRR]]></title><description><![CDATA[我是Dominik，一个24岁的Indiehacker。
 经过五个月的努力，我的Notion相关的引导式SaaS达到了1000美元的MRR。由于没有在Product Hunt
 发布（还没有），只专注于在公众场合建立
 [https://twitter.com/sobedominik]并与Notion社区互动。这
@@ -450,24 +456,4 @@ P.S. At the end of every newsletter there’s a “meme” related to product m
 &amp;lt;p&amp;gt;Thank you!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;The Spot Family&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[做了一个安卓应用，可以根据你的位置来改变你的手机!]]></title><description><![CDATA[最近发布的应用程序，将根据你当前的位置执行一些任务。
-位置。
-
-在地图上放置范围不超过500米的标记，并配置手机应该做什么。
-一旦你进入或离开它们应该做什么。让它只改变一次或强制
-变化，只要你在里面或外面，就能保持不变......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sw1zu2/made_an_android_app_that_will_change_your_phone/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsw1zu2%2Fmade_an_android_app_that_will_change_your_phone%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsw1zu2%2Fmade_an_android_app_that_will_change_your_phone%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sw1zu2/made_an_android_app_that_will_change_your_phone/</guid><pubDate>Sat, 19 Feb 2022 06:45:31 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Recently released app that will perform some tasks based on your current location.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Place markers with up to 500m range on the map and configure what the phone should do once you either enter or leave them. Make it change only once or force the changes to stay as long as you are inside or outside the marker and configure how often should the phone retrieve your location in order to save battery! Some examples of what it can do:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- Change phone mode (normal, vibrate or silent)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- Change all the volumes&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- Start voice recording automatically&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- Change screen brightness...&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;More features will be added as time passes!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.aj.dfm&quot;&amp;gt;Play Store&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
