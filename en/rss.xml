@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Mar 2022 15:32:12 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Ukraine crisis - We open our small platform for Ukrainians to use]]></title><description><![CDATA[Hi all,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Mar 2022 16:08:40 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I am tired of Meta and mainstream social networking platforms and understand starting a new one is a herculean task. Need suggestions and feedback on starting one anyway.]]></title><description><![CDATA[A little background, I am a software engineer fresh out of college. Never
+started a business, but I understand the technical aspects of starting a social
+networking platform. I understand the following challenges and difficulties:
+
+ 1. Content Moderation.
+ 2. Scaling and funds.
+ 3. Security.
+ 4.…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/t47dma/i_am_tired_of_meta_and_mainstream_social/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft47dma%2Fi_am_tired_of_meta_and_mainstream_social%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft47dma%2Fi_am_tired_of_meta_and_mainstream_social%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/t47dma/i_am_tired_of_meta_and_mainstream_social/</guid><pubDate>Tue, 01 Mar 2022 15:28:51 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;A little background, I am a software engineer fresh out of college. Never started a business, but I understand the technical aspects of starting a social networking platform. I understand the following challenges and difficulties:&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;Content Moderation.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Scaling and funds.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Security.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Saturated marketplace.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Internationalisation.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;And a lot more.&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;Why do I still need to go for it? I have a zeal that I hate how mainstream networks are just data hoarding advertising space and not what it primarily focused on, &amp;amp;quot;connecting people together&amp;amp;quot;. Not everyone cares for privacy on a broader spectrum. I personally want to create a space that allows individuals to discover and connect with people and their content and generate revenue similar to DuckDuckGo, i.e that is through privacy-respecting advertisement, through keywords not tracking the user like sheep. I don&amp;amp;#39;t want to become a unicorn or some sellout networking platform, I just want to earn enough resources to sustain my platform and maybe switch to my own infra (A very far fetched dream). I am want to become a fully transparent and ethically right company and will stand by it, if I mess things up, I&amp;amp;#39;ll own them.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Few key features: Everything you do gets deleted after 24 hours, this does come with pros and cons but this is what I am aiming for, a privacy-focused, transparent, free platform for speech and discovering people.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I have a lot, I couldn&amp;amp;#39;t cover please let me know and I am ready to have a civilised dialogue.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Ukraine crisis - We open our small platform for Ukrainians to use]]></title><description><![CDATA[Hi all,
 We are two product builders - Lisa and Damian. Lisa's from Ukraine, I'm in
 Poland. We observe the crisis with dread, watching friends and relatives under
 attack. We need to get active.
@@ -455,17 +478,4 @@ the status check-in process…]]></description><link>https://sideproject.buzzing
 &amp;lt;p&amp;gt;The project is a Slack bot that helps keep remote teams in sync by automating the status check-in process (AKA standup meetings) for everyone on the team. On a schedule of your choosing, it sends out reminder messages to team members, collects their status, and broadcasts it to a central channel for everyone to see.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I would love any feedback on it!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Rabbit Hole 🐰- A newsletter for product managers]]></title><description><![CDATA[Hi folks, a week ago I launched Rabbit Hole
-[https://itsrabbithole.substack.com/] a free newsletter where I go through 30+
-product management publications each day & hand pick one of the best PM articles
-& send it to your inbox along with a 60 words summary every day.
-
-I started this newsletter…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sw6vhc/rabbit_hole_a_newsletter_for_product_managers/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsw6vhc%2Frabbit_hole_a_newsletter_for_product_managers%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsw6vhc%2Frabbit_hole_a_newsletter_for_product_managers%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/sw6vhc/rabbit_hole_a_newsletter_for_product_managers/</guid><pubDate>Sat, 19 Feb 2022 18:10:01 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi folks, a week ago I launched Rabbit Hole [&amp;lt;a href=&quot;https://itsrabbithole.substack.com/&quot;&amp;gt;https://itsrabbithole.substack.com/&amp;lt;/a&amp;gt;] a free newsletter where I go through 30+ product management publications each day &amp;amp;amp; hand pick one of the best PM articles &amp;amp;amp; send it to your inbox along with a 60 words summary every day.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I started this newsletter because I was overwhelmed by the amount of quality content on the internet around product management. So I thought if I can hand-pick &amp;amp;amp; send one best resource every day, it’ll help #productmanagers not miss anything great.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Plus an article a day would be a great way of learning a little each day.
-P.S. At the end of every newsletter there’s a “meme” related to product management to cheer you up!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So please shower your support by subscribing to it! Checkout here 👉🏻 [&amp;lt;a href=&quot;https://itsrabbithole.substack.com/&quot;&amp;gt;https://itsrabbithole.substack.com/&amp;lt;/a&amp;gt;]&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>

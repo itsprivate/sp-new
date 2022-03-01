@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Mar 2022 15:32:12 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[乌克兰危机--我们为乌克兰人开放小平台，供其使用]]></title><description><![CDATA[大家好。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Mar 2022 16:08:40 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我已经厌倦了Meta和主流的社交网络平台，并理解启动一个新的平台是一项艰巨的任务。无论如何，我需要关于开始一个平台的建议和反馈。]]></title><description><![CDATA[介绍一下背景，我是一名刚从大学毕业的软件工程师。从未
+创业，但我了解创办社会网络的技术方面。
+网络平台的技术方面。我了解以下的挑战和困难。
+
+ 1. 内容审核。
+ 2. 规模和资金。
+ 3. 安全性。
+ 4....]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t47dma/i_am_tired_of_meta_and_mainstream_social/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft47dma%2Fi_am_tired_of_meta_and_mainstream_social%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft47dma%2Fi_am_tired_of_meta_and_mainstream_social%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t47dma/i_am_tired_of_meta_and_mainstream_social/</guid><pubDate>Tue, 01 Mar 2022 15:28:51 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;A little background, I am a software engineer fresh out of college. Never started a business, but I understand the technical aspects of starting a social networking platform. I understand the following challenges and difficulties:&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;Content Moderation.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Scaling and funds.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Security.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Saturated marketplace.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Internationalisation.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;And a lot more.&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;Why do I still need to go for it? I have a zeal that I hate how mainstream networks are just data hoarding advertising space and not what it primarily focused on, &amp;amp;quot;connecting people together&amp;amp;quot;. Not everyone cares for privacy on a broader spectrum. I personally want to create a space that allows individuals to discover and connect with people and their content and generate revenue similar to DuckDuckGo, i.e that is through privacy-respecting advertisement, through keywords not tracking the user like sheep. I don&amp;amp;#39;t want to become a unicorn or some sellout networking platform, I just want to earn enough resources to sustain my platform and maybe switch to my own infra (A very far fetched dream). I am want to become a fully transparent and ethically right company and will stand by it, if I mess things up, I&amp;amp;#39;ll own them.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Few key features: Everything you do gets deleted after 24 hours, this does come with pros and cons but this is what I am aiming for, a privacy-focused, transparent, free platform for speech and discovering people.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I have a lot, I couldn&amp;amp;#39;t cover please let me know and I am ready to have a civilised dialogue.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[乌克兰危机--我们为乌克兰人开放小平台，供其使用]]></title><description><![CDATA[大家好。
 我们是两个产品建造者--丽莎和达米安。丽莎来自乌克兰，我在
 波兰。我们恐惧地观察着这场危机，看着朋友和亲戚受到攻击。
 攻击。我们需要积极行动起来。
@@ -455,17 +478,4 @@ Just click on &amp;amp;quot;remove filler words&amp;amp;quot;  &amp;lt;/p&amp;gt
 &amp;lt;p&amp;gt;The project is a Slack bot that helps keep remote teams in sync by automating the status check-in process (AKA standup meetings) for everyone on the team. On a schedule of your choosing, it sends out reminder messages to team members, collects their status, and broadcasts it to a central channel for everyone to see.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I would love any feedback on it!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[兔子洞🐰--产品经理的通讯]]></title><description><![CDATA[嗨，伙计们，一周前我推出了兔子洞
-[https://itsrabbithole.substack.com/]，这是一份免费的时事通讯，我每天都会翻阅30多种
-产品管理出版物，并挑选其中一篇最好的PM文章
-并将其连同每天的60字总结一起发送到你的收件箱。
-
-我开始了这份通讯...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sw6vhc/rabbit_hole_a_newsletter_for_product_managers/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsw6vhc%2Frabbit_hole_a_newsletter_for_product_managers%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsw6vhc%2Frabbit_hole_a_newsletter_for_product_managers%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sw6vhc/rabbit_hole_a_newsletter_for_product_managers/</guid><pubDate>Sat, 19 Feb 2022 18:10:01 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi folks, a week ago I launched Rabbit Hole [&amp;lt;a href=&quot;https://itsrabbithole.substack.com/&quot;&amp;gt;https://itsrabbithole.substack.com/&amp;lt;/a&amp;gt;] a free newsletter where I go through 30+ product management publications each day &amp;amp;amp; hand pick one of the best PM articles &amp;amp;amp; send it to your inbox along with a 60 words summary every day.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I started this newsletter because I was overwhelmed by the amount of quality content on the internet around product management. So I thought if I can hand-pick &amp;amp;amp; send one best resource every day, it’ll help #productmanagers not miss anything great.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Plus an article a day would be a great way of learning a little each day.
-P.S. At the end of every newsletter there’s a “meme” related to product management to cheer you up!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So please shower your support by subscribing to it! Checkout here 👉🏻 [&amp;lt;a href=&quot;https://itsrabbithole.substack.com/&quot;&amp;gt;https://itsrabbithole.substack.com/&amp;lt;/a&amp;gt;]&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
