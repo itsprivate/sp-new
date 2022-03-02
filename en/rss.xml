@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Mar 2022 16:08:40 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I am tired of Meta and mainstream social networking platforms and understand starting a new one is a herculean task. Need suggestions and feedback on starting one anyway.]]></title><description><![CDATA[A little background, I am a software engineer fresh out of college. Never
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Mar 2022 04:53:40 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Payrequest just launched on ProductHunt (and quite failed...)]]></title><description><![CDATA[SINCE IT'S IMPORTANT TO ALSO SHARE THINGS THAT DIDN'T WORK AS EXPECTED...
+
+On 1 March 2022, we launched our update on Producthunt:
+https://www.producthunt.com/posts/payrequest-4-0-1
+
+
+THE NUMBERS ARE DISAPPOINTING:
+
+ * 15 Upvotes
+ * 1 reply (but from a loyal customer)
+ * Not much…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/t4p9mx/payrequest_just_launched_on_producthunt_and_quite/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft4p9mx%2Fpayrequest_just_launched_on_producthunt_and_quite%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft4p9mx%2Fpayrequest_just_launched_on_producthunt_and_quite%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/t4p9mx/payrequest_just_launched_on_producthunt_and_quite/</guid><pubDate>Wed, 02 Mar 2022 04:29:57 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;h2&amp;gt;Since it&amp;amp;#39;s important to also share things that didn&amp;amp;#39;t work as expected...&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;On 1 March 2022, we launched our update on Producthunt: &amp;lt;a href=&quot;https://www.producthunt.com/posts/payrequest-4-0-1&quot;&amp;gt;https://www.producthunt.com/posts/payrequest-4-0-1&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;The numbers are disappointing:&amp;lt;/h2&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;15 Upvotes&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;1 reply (but from a loyal customer)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Not much traffic/conversions (we still investigate these numbers)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;h2&amp;gt;What we did to promote and try to make our launch successful:&amp;lt;/h2&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Create a custom logo&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Create custom screenshots&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Write a nice first reply&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Use our 3 Twitter accounts (2000+ followers together)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Send an email to 6000+ businesses&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Promote it on Facebook groups &amp;amp;amp; other platforms.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;We have come to the conclusion that it takes too much energy &amp;amp;amp; time to set up a product hunt launch, in the future, we will spend our energy and time on more important tasks from which we get enough recognition and growth.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We are still grateful for our previous launches which have yielded enough interaction and good feedback. Maybe we did something wrong on our end, what is your experience with ProductHunt and do you maybe have some tips and tricks you want to share with us and other people in terms of promoting your (side) project on producthunt or in general?&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I am tired of Meta and mainstream social networking platforms and understand starting a new one is a herculean task. Need suggestions and feedback on starting one anyway.]]></title><description><![CDATA[A little background, I am a software engineer fresh out of college. Never
 started a business, but I understand the technical aspects of starting a social
 networking platform. I understand the following challenges and difficulties:
 
@@ -468,14 +504,4 @@ It would be great if you can take a look give give me…]]></description><link>h
 &amp;lt;p&amp;gt;It would be great if you can take a look give give me some feedback?&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Thanks a lot guys!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I built a Slack bot that automates status check-ins (standup meetings) for teams working remotely]]></title><description><![CDATA[Hey r/SideProject [/r/SideProject], I recently launched StandupWizard
-[https://standupwizard.com] after having it in beta for a couple months and
-collecting feedback from existing customers.
-
-The project is a Slack bot that helps keep remote teams in sync by automating
-the status check-in process…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/swmbdc/i_built_a_slack_bot_that_automates_status/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fswmbdc%2Fi_built_a_slack_bot_that_automates_status%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fswmbdc%2Fi_built_a_slack_bot_that_automates_status%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/swmbdc/i_built_a_slack_bot_that_automates_status/</guid><pubDate>Sun, 20 Feb 2022 03:27:13 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt;, I recently launched &amp;lt;a href=&quot;https://standupwizard.com&quot;&amp;gt;StandupWizard&amp;lt;/a&amp;gt; after having it in beta for a couple months and collecting feedback from existing customers.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The project is a Slack bot that helps keep remote teams in sync by automating the status check-in process (AKA standup meetings) for everyone on the team. On a schedule of your choosing, it sends out reminder messages to team members, collects their status, and broadcasts it to a central channel for everyone to see.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I would love any feedback on it!&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
