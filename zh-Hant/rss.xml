@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Mar 2022 11:35:57 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我創建了一個數據庫客戶端，用於流行的SQL+noSQL數據庫 - MySQL, MS SQL, Postgres, SQLite, MongoDB。它是跨平臺的（Windows、Linux、Mac、Web），完全免費+開源的（MIT許可）。]]></title><description><![CDATA[網絡: https://dbgate.org
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Mar 2022 17:12:43 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我建立了一個應用程序來跟蹤我的雜貨清單、食譜和儲藏室物品，並在東西即將變壞時發出警報。]]></title><description><![CDATA[我已經厭倦了從冰箱後面撿起溼漉漉的東西，所以我建立了一個應用程序，讓我能夠管理雜貨清單，並在物品到達時啓動時鐘。
+因此，我建立了一個應用程序，讓我能夠管理一個雜貨清單，當物品被購買時就會啓動一個時鐘。
+購買。這個應用程序根據物品即將變質的時間對我的儲藏室/冰箱/冰櫃進行分類。
+要變壞。哦，它還可以讓你在網站上搜刮食譜......]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t557io/i_built_an_app_to_track_my_grocery_list_recipes/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft557io%2Fi_built_an_app_to_track_my_grocery_list_recipes%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft557io%2Fi_built_an_app_to_track_my_grocery_list_recipes%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t557io/i_built_an_app_to_track_my_grocery_list_recipes/</guid><pubDate>Thu, 03 Mar 2022 16:46:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I was tired of picking up soggy messes from the back of my fridge, so I built an app that lets me manage a grocery list that starts a clock when items are purchased. The app sorts my pantry/fridge/freezer based on when things are about to go bad. Oh, and it also lets you scrape websites for recipes (or enter them manually). &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://www.youtube.com/watch?v=8cKIK6Ins0Y&quot;&amp;gt;YouTube video&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://apps.apple.com/us/app/grocery-timer-pantry-alerts/id1571430329&quot;&amp;gt;iOS app&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=io.devomatic.grocerytimer.prod&quot;&amp;gt;Android app&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;You can also share your lists with your partner/roommate/etc&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I am also tracking feature requests &amp;lt;a href=&quot;https://github.com/arpit/grocerytimer-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement&quot;&amp;gt;here&amp;lt;/a&amp;gt;, so let me know if you have any ideas for improvement&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個呼叫表的建設者!]]></title><description><![CDATA[你好。
+
+我剛剛做了一個電影/攝影作品徵集表的製作者。
+
+https://avogato.co/
+
+
+
+我很高興聽到你的任何反饋 :)]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t5md2f/i_made_a_call_sheet_builder/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5md2f%2Fi_made_a_call_sheet_builder%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5md2f%2Fi_made_a_call_sheet_builder%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t5md2f/i_made_a_call_sheet_builder/</guid><pubDate>Thu, 03 Mar 2022 16:46:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello, &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I have just made a film/photoshoot call sheet builder. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://avogato.co/&quot;&amp;gt;https://avogato.co/&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I would be happy to hear any feedback from you :)&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我創建了一個數據庫客戶端，用於流行的SQL+noSQL數據庫 - MySQL, MS SQL, Postgres, SQLite, MongoDB。它是跨平臺的（Windows、Linux、Mac、Web），完全免費+開源的（MIT許可）。]]></title><description><![CDATA[網絡: https://dbgate.org
 源代碼: https://github.com/dbgate/dbgate
 演示：https://demo.dbgate.org]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t5nmfw/i_created_a_database_client_for_popular_sqlnosql/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5nmfw%2Fi_created_a_database_client_for_popular_sqlnosql%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5nmfw%2Fi_created_a_database_client_for_popular_sqlnosql%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t5nmfw/i_created_a_database_client_for_popular_sqlnosql/</guid><pubDate>Thu, 03 Mar 2022 11:13:33 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;web: &amp;lt;a href=&quot;https://dbgate.org&quot;&amp;gt;https://dbgate.org&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;
 source code: &amp;lt;a href=&quot;https://github.com/dbgate/dbgate&quot;&amp;gt;https://github.com/dbgate/dbgate&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;
@@ -438,4 +469,4 @@ Specify是爲您的設計和開發團隊提供的設計數據平臺。
 &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.decosoft.shoppinglist&quot;&amp;gt;https://play.google.com/store/apps/details?id=com.decosoft.shoppinglist&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Let me know what you think 🙂&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我有一個半成功的（對於一個創業者來說）SaaS，在過去的一年左右，我已經嘗試了幾乎所有的支持包（Zendesk、新鮮臺、對講機等等）。他們要麼是滑稽的昂貴，要麼只是普通的糟糕。我建立了我自己的解決方案，旨在爲獨立的黑客、製造商和引導者提供服務。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sy3vek/i_have_semi_successful_for_a_bootstrapper_saas/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsy3vek%2Fi_have_semi_successful_for_a_bootstrapper_saas%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsy3vek%2Fi_have_semi_successful_for_a_bootstrapper_saas%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sy3vek/i_have_semi_successful_for_a_bootstrapper_saas/</guid><pubDate>Tue, 22 Feb 2022 02:55:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[[招聘] 平面設計、標誌、傳單、海報、菜單、Photoshop工作/照片編輯]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sxtqut/for_hire_graphic_design_logos_flyers_posters/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxtqut%2Ffor_hire_graphic_design_logos_flyers_posters%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxtqut%2Ffor_hire_graphic_design_logos_flyers_posters%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/sxtqut/for_hire_graphic_design_logos_flyers_posters/</guid><pubDate>Mon, 21 Feb 2022 21:28:00 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
