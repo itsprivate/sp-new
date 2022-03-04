@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Mar 2022 21:01:57 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[一个简单的图像到ascii的API]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t5ynru/a_simple_image_to_ascii_api/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5ynru%2Fa_simple_image_to_ascii_api%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5ynru%2Fa_simple_image_to_ascii_api%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t5ynru/a_simple_image_to_ascii_api/</guid><pubDate>Thu, 03 Mar 2022 20:34:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我为宠物创建了一个移动应用程序，根据其毒性水平对食物、植物和家用物品进行分类。请在我们的网站上分享您的反馈和批评意见!]]></title><description><![CDATA[大家好!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 04 Mar 2022 08:01:06 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我创建了一个应用程序，使任何人都可以找到志同道合的人组成的小组，一起记录生活习惯。]]></title><description><![CDATA[应用程序。
+
+Dreamnocs.
+
+https://dreamnocs.com [https://dreamnocs.com/]
+
+可用性。
+
+iOS和Android
+
+关于。
+
+一个面向团队的习惯跟踪器。基本上在创建账户后，你。
+
+ * 找到一个你感兴趣的有目标和习惯的团队。
+
+ * 或者你创建你自己的团队和制作你自己的习惯
+
+ *你...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6cq3j/i_created_an_app_that_makes_it_possible_for/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6cq3j%2Fi_created_an_app_that_makes_it_possible_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6cq3j%2Fi_created_an_app_that_makes_it_possible_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6cq3j/i_created_an_app_that_makes_it_possible_for/</guid><pubDate>Fri, 04 Mar 2022 07:37:13 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;App:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Dreamnocs.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://dreamnocs.com/&quot;&amp;gt;https://dreamnocs.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Availability:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;iOS and Android&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;About:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A team oriented habit tracker. Basically after creating account you:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Find a team with goals and habits that interest you&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Or you create your own team and craft your own habits&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;You keep track of your own and your team&amp;amp;#39;s performance&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Everything else is built like a social network making it easy to communicate and encourage.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Background:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A year ago I noticed most habit trackers out there focused on single individuals. But habit tracking and goal setting is so much easier when you have the motivation and accountability of a team of people around you who want the same thing!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I was looking for something like that myself but couldn&amp;amp;#39;t find anything that was truly team oriented. So I built it!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Rayzor - 一个提供廉价专家建议的移动平台。]]></title><description><![CDATA[嘿，你们好!
+
+创业公司名称/网址。Rayzor https://rayzor.io
+
+电梯推介。Rayzor是一个移动应用程序，使用户能够快速提交。
+的移动应用，让用户向专家提交快速、小规模的意见。用户会收到价格合理、有价值的
+的建议/反馈，而专家们终于有办法将有偿教学/指导纳入他们繁忙的工作中。
+而专家们也终于有办法将有偿教学/指导纳入他们繁忙的工作中...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t676g4/rayzor_a_mobile_platform_for_affordable_expert/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft676g4%2Frayzor_a_mobile_platform_for_affordable_expert%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft676g4%2Frayzor_a_mobile_platform_for_affordable_expert%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t676g4/rayzor_a_mobile_platform_for_affordable_expert/</guid><pubDate>Fri, 04 Mar 2022 07:37:13 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey, y&amp;amp;#39;all!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Startup Name / URL&amp;lt;/strong&amp;gt;: Rayzor &amp;lt;a href=&quot;https://rayzor.io&quot;&amp;gt;https://rayzor.io&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Elevator Pitch&amp;lt;/strong&amp;gt;: Rayzor is a mobile application that lets users submit quick, bite-sized submissions to experts. Users receive affordable, valuable advice/feedback while experts finally get a way to fit paid teaching/guidance into their busy schedules. An expert could be anyone: heroes, celebrities, academic pioneers, and most importantly, you.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;More details&amp;lt;/strong&amp;gt;: Mobile app that emphasizes bite-sized submissions for affordable expert feedback. Experts are defined as anyone who believes they have experience that people would pay for, or have a community/fan base that loves them enough to pay for their response (and if you don’t fit that bill, you can offer free advice and build that experience/credibility up!). People looking for advice can only submit bite-sized text or video submissions, so they won’t be paying a lot in comparison to other expert feedback platforms. Any unread submissions after a week results in the hold being taken off the user&amp;amp;#39;s account or the submission being transferred to a different expert if wanted. Experts look through the super short submissions in a fun TikTok style format (which works because all submissions are short), which makes it fun to interact with fans, teach others, and give guidance for extra money (or for charity donations if they’d like) on their free time. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What life cycle stage is your startup at?&amp;lt;/strong&amp;gt; Discovery&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Your role?&amp;lt;/strong&amp;gt; Solo founder and Software Developer&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What goals are you trying to reach this month?&amp;lt;/strong&amp;gt; Prepare my startup for my university&amp;amp;#39;s startup competition! Interview as many people as I can and validate my idea. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How could &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt; help?&amp;lt;/strong&amp;gt; It&amp;amp;#39;d mean the WORLD to me if you checked out the site, gave feedback, and join the mailing list. Like a part of me is so scared because I&amp;amp;#39;ve never done a startup before, but this idea is something I&amp;amp;#39;m so driven to make a reality. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thank you everyone! Again, join me at &amp;lt;a href=&quot;https://rayzor.io&quot;&amp;gt;https://rayzor.io&amp;lt;/a&amp;gt; !&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[一个简单的图像到ascii的API]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t5ynru/a_simple_image_to_ascii_api/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5ynru%2Fa_simple_image_to_ascii_api%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5ynru%2Fa_simple_image_to_ascii_api%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t5ynru/a_simple_image_to_ascii_api/</guid><pubDate>Thu, 03 Mar 2022 20:34:33 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我为宠物创建了一个移动应用程序，根据其毒性水平对食物、植物和家用物品进行分类。请在我们的网站上分享您的反馈和批评意见!]]></title><description><![CDATA[大家好!
 
 我是PawsPlace的创始人，这是一个移动应用程序，对食物、植物和家畜进行分类
 和家庭用品，根据它们对猫和狗的毒性程度进行分类。我
@@ -478,4 +546,4 @@ Specify是为您的设计和开发团队提供的设计数据平台。
 &amp;lt;p&amp;gt;(If you want to collaborate upvoting it on Product Hunt, that would be awesome! &amp;lt;a href=&quot;https://www.producthunt.com/posts/ux-database-2&quot;&amp;gt;https://www.producthunt.com/posts/ux-database-2&amp;lt;/a&amp;gt;)&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Any feedback you can give me will be more than welcome!!! Thank you very much 🥰&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我的记事本侧面项目的月活跃用户数刚刚达到5万!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sxwfxf/my_notepad_side_project_just_reached_50k_monthly/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxwfxf%2Fmy_notepad_side_project_just_reached_50k_monthly%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsxwfxf%2Fmy_notepad_side_project_just_reached_50k_monthly%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/sxwfxf/my_notepad_side_project_just_reached_50k_monthly/</guid><pubDate>Tue, 22 Feb 2022 09:37:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[ProverbIt - 一个通过猜测单词来揭开秘密英语谚语的游戏。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/syitlx/proverbit_a_game_where_you_try_to_uncover_the/?score=25&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsyitlx%2Fproverbit_a_game_where_you_try_to_uncover_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fsyitlx%2Fproverbit_a_game_where_you_try_to_uncover_the%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/syitlx/proverbit_a_game_where_you_try_to_uncover_the/</guid><pubDate>Tue, 22 Feb 2022 09:13:09 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
