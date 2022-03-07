@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Mar 2022 16:09:56 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我建立了一项服务来发现快速增长的初创企业、主题和应用程序]]></title><description><![CDATA[大家好，作为一个自筹资金的创始人，我一直在寻找新兴的趋势
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Mar 2022 20:25:57 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我建立了react-creme - 一个用于React的综合UI工具包（又称组件库）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t8vfa9/i_built_reactcreme_a_comprehensive_ui_toolkit_aka/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft8vfa9%2Fi_built_reactcreme_a_comprehensive_ui_toolkit_aka%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft8vfa9%2Fi_built_reactcreme_a_comprehensive_ui_toolkit_aka%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t8vfa9/i_built_reactcreme_a_comprehensive_ui_toolkit_aka/</guid><pubDate>Mon, 07 Mar 2022 20:05:40 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一项服务来发现快速增长的初创企业、主题和应用程序]]></title><description><![CDATA[大家好，作为一个自筹资金的创始人，我一直在寻找新兴的趋势
 因为我肯定没有预算去从头创造需求。所以我
 建立了Under the Radar，[https://undertheradar.io]一个简单的工具。
 自动浮现有趣的新趋势。
@@ -567,20 +567,4 @@ https://extract.dev/ (托管在rapidapi上)]]></description><link>https://sidepr
 &amp;lt;p&amp;gt;You&amp;amp;#39;re welcome to leave your feedback here: &amp;lt;a href=&quot;https://www.reddit.com/r/Villow/&quot;&amp;gt;https://www.reddit.com/r/Villow/&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Many thanks!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[为热门行业定价的产品]]></title><description><![CDATA[许多新公司正在提供SaaS类型的产品，但他们应该如何
-定价？
-
-我正在与一个大学生团队合作，开发一个XaaS的定价。
-仪表板!
-
-公司将能够从各种输入中选择最能描述他们的服务。
-他们的服务。仪表板将输出一个 "价格"。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t0qkr8/pricing_product_for_a_hot_industry/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft0qkr8%2Fpricing_product_for_a_hot_industry%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft0qkr8%2Fpricing_product_for_a_hot_industry%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t0qkr8/pricing_product_for_a_hot_industry/</guid><pubDate>Fri, 25 Feb 2022 03:51:21 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;A lot of new companies are offering SaaS type products, but how should they price them?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I am working with a team of college students to develop an XaaS pricing dashboard!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Companies will be able to select from a variety of inputs that best describe their services. The dashboard will then output a variety of visuals that details how the company stacks up to their competitors and provide other valuable pricing insights.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;What are your thoughts on this? What kind of companies (size, focus, etc..) do you see being interested in this sort of tool?&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;IMGUR LINK IN COMMENTS&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
