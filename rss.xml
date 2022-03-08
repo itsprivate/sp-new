@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Mar 2022 15:18:54 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我放弃了一切，做了一个生产力的计时器 ☠️]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t9f9z3/i_quit_everything_to_make_a_productivity_timer/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft9f9z3%2Fi_quit_everything_to_make_a_productivity_timer%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft9f9z3%2Fi_quit_everything_to_make_a_productivity_timer%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t9f9z3/i_quit_everything_to_make_a_productivity_timer/</guid><pubDate>Tue, 08 Mar 2022 14:45:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Beacon - 当有趣的事情发生时得到通知 🎉。]]></title><description><![CDATA[你好。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Mar 2022 17:53:25 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我已经创建了一个vscode插件，为JS开发者提供所需的代码片段。]]></title><description><![CDATA[软件开发人员经常在网上搜索，这已经不是什么秘密了。
+根据一些资料，我们浪费了大约15%的编码时间在网上搜索
+代码片段。
+
+为了克服这种时间浪费，我创建了一个插件，允许开发人员
+用简单的英语输入他们想做的事情，并为他们提供...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t9jqa0/i_have_created_a_vscode_plugin_that_provides_js/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft9jqa0%2Fi_have_created_a_vscode_plugin_that_provides_js%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft9jqa0%2Fi_have_created_a_vscode_plugin_that_provides_js%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t9jqa0/i_have_created_a_vscode_plugin_that_provides_js/</guid><pubDate>Tue, 08 Mar 2022 17:28:56 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It&amp;amp;#39;s no secret software developers search the web a lot.&amp;lt;br/&amp;gt;
+According to some source, we waste about 15% of our coding time searching for code snippets online.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To overcome this time waste, I have created a plugin that allows developers to type, in plain English, what they want to do and provides them with snippet solutions for their problem.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The best part is that the solutions are tailored for the user - from matching his coding style to updating his &amp;amp;#39;require&amp;amp;#39; statements if needed.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Give it a try and let me know what you think :)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://codeattendant.com/&quot;&amp;gt;https://codeattendant.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我放弃了一切，做了一个生产力的计时器 ☠️]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t9f9z3/i_quit_everything_to_make_a_productivity_timer/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft9f9z3%2Fi_quit_everything_to_make_a_productivity_timer%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft9f9z3%2Fi_quit_everything_to_make_a_productivity_timer%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t9f9z3/i_quit_everything_to_make_a_productivity_timer/</guid><pubDate>Tue, 08 Mar 2022 14:45:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Beacon - 当有趣的事情发生时得到通知 🎉。]]></title><description><![CDATA[你好。
 
 我有一个小的侧面项目，我希望得到一些反馈，基本上它是一个超级
 简单的方法来连接你的服务器和你喜欢的平台。我刚刚
@@ -558,15 +573,4 @@ FLIX是用来寻找新的电影和电视节目的。
 &amp;lt;p&amp;gt;Thanks!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/t0mysd/video/wvwz25bwtuj81/player&quot;&amp;gt;https://reddit.com/link/t0mysd/video/wvwz25bwtuj81/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一个用于语义标记/元数据提取的api]]></title><description><![CDATA[一个用于语义标记（json-ld、microdata和opengraph）的提取器API。
-
-你可以建立一个简单的菜谱应用程序，或微小的搜索引擎来发现任何
-实体。(例如--书籍、电影、音乐、食谱、健康、人物、地点、当地企业、餐馆等）。
-企业、餐厅等)
-
-https://extract.dev/ (托管在rapidapi上)]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t0wvdd/i_made_an_api_for_semantic_markup_metadata/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft0wvdd%2Fi_made_an_api_for_semantic_markup_metadata%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft0wvdd%2Fi_made_an_api_for_semantic_markup_metadata%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t0wvdd/i_made_an_api_for_semantic_markup_metadata/</guid><pubDate>Fri, 25 Feb 2022 10:34:34 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;an extractor API for semantic markup (json-ld, microdata and opengraph).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You can build a simple recipe app, or tiny search engines to discover any entity. (for example - Book, Movie, music, Recipe, health, Person, Place, Local business, Restaurant etc)  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://extract.dev/&quot;&amp;gt;https://extract.dev/&amp;lt;/a&amp;gt;   (hosted on rapidapi)&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
