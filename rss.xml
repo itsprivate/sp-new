@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Mar 2022 17:53:25 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我已经创建了一个vscode插件，为JS开发者提供所需的代码片段。]]></title><description><![CDATA[软件开发人员经常在网上搜索，这已经不是什么秘密了。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Mar 2022 11:46:05 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我做了一个Twitter和Mastodon的机器人，发布随机的独立网站]]></title><description><![CDATA[你好 :)
+
+我做了一个机器人，每小时发布一个随机的独立网站。
+
+Twitter机器人：https://twitter.com/IndieRandWeb
+
+Mastodon机器人: https://mastodon.social/web/@FunRandWeb
+
+源代码：https://github.com/xojoc/randomwebsitebot
+
+这些网站都是从https://stumblingon.com/（由...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ta4bj6/i_made_a_twitter_and_mastodon_bot_posting_random/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fta4bj6%2Fi_made_a_twitter_and_mastodon_bot_posting_random%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fta4bj6%2Fi_made_a_twitter_and_mastodon_bot_posting_random%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ta4bj6/i_made_a_twitter_and_mastodon_bot_posting_random/</guid><pubDate>Wed, 09 Mar 2022 11:19:18 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi :)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I made a bot to post every hour a random indie website:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Twitter bot: &amp;lt;a href=&quot;https://twitter.com/IndieRandWeb&quot;&amp;gt;https://twitter.com/IndieRandWeb&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Mastodon bot: &amp;lt;a href=&quot;https://mastodon.social/web/@FunRandWeb&quot;&amp;gt;https://mastodon.social/web/@FunRandWeb&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Source code: &amp;lt;a href=&quot;https://github.com/xojoc/randomwebsitebot&quot;&amp;gt;https://github.com/xojoc/randomwebsitebot&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The websites are fetched from &amp;lt;a href=&quot;https://stumblingon.com/&quot;&amp;gt;https://stumblingon.com/&amp;lt;/a&amp;gt; (made by &amp;lt;a href=&quot;/u/yourtalllife&quot;&amp;gt;/u/yourtalllife&amp;lt;/a&amp;gt;)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thanks&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我已经创建了一个vscode插件，为JS开发者提供所需的代码片段。]]></title><description><![CDATA[软件开发人员经常在网上搜索，这已经不是什么秘密了。
 根据一些资料，我们浪费了大约15%的编码时间在网上搜索
 代码片段。
 
@@ -544,33 +567,4 @@ TL;DR: Flare是一个新型的社交网站，专门为
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://ukrainecrisis.info&quot;&amp;gt;UkraineCrisis.info&amp;lt;/a&amp;gt;  &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;If you feel something critical that could be added, feel free to comment below.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[你启动一个副业项目的过程是什么？你是如何跟踪你的进度并组织好副业工作的各个方面的？如果你能分享你的工具，将获得奖励🙏🏽。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t1nus4/whats_your_process_for_starting_a_side_project/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft1nus4%2Fwhats_your_process_for_starting_a_side_project%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft1nus4%2Fwhats_your_process_for_starting_a_side_project%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t1nus4/whats_your_process_for_starting_a_side_project/</guid><pubDate>Sat, 26 Feb 2022 06:14:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[高级新闻搜索]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t1lgnt/advanced_news_search/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft1lgnt%2Fadvanced_news_search%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft1lgnt%2Fadvanced_news_search%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t1lgnt/advanced_news_search/</guid><pubDate>Sat, 26 Feb 2022 03:45:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我发布了我的第一个应用程序FLIX!]]></title><description><![CDATA[嗨！我最近发布了我的第一个iOS应用程序，FLIX
-[https://apps.apple.com/app/id1565853318]。
-
-下载：https://apps.apple.com/app/id1565853318
-
-FLIX是用来寻找新的电影和电视节目的。
-
-你可以根据你的过滤器扫过建议的内容，并与之匹配。
-朋友。
-
-你可以看到...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t0mysd/i_released_my_first_app_flix/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft0mysd%2Fi_released_my_first_app_flix%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft0mysd%2Fi_released_my_first_app_flix%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t0mysd/i_released_my_first_app_flix/</guid><pubDate>Fri, 25 Feb 2022 19:04:19 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi! I recently released my first app for iOS, &amp;lt;a href=&quot;https://apps.apple.com/app/id1565853318&quot;&amp;gt;FLIX&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Download: &amp;lt;a href=&quot;https://apps.apple.com/app/id1565853318&quot;&amp;gt;https://apps.apple.com/app/id1565853318&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;FLIX is used for finding new Movies and TV shows. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You can swipe through suggested content based on your filters and match with friends.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You can see the streaming availability for your region and filter suggestions based on the providers you have access to!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Once you have done some swiping you will build up a liked list, you can mark which movies/tv shows you have already seen and eventually have a list of stuff to watch!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You can add friends and have a list of mutual likes and favourites, perfect for when you&amp;amp;#39;re struggling for something to watch with your partner or friends!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This is a completely solo project and my first official release. Any feedback or suggestions are greatly appreciated, you can contact me on here or there are contact options in the app!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thanks!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/t0mysd/video/wvwz25bwtuj81/player&quot;&amp;gt;https://reddit.com/link/t0mysd/video/wvwz25bwtuj81/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[你启动一个副业项目的过程是什么？你是如何跟踪你的进度并组织好副业工作的各个方面的？如果你能分享你的工具，将获得奖励🙏🏽。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t1nus4/whats_your_process_for_starting_a_side_project/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft1nus4%2Fwhats_your_process_for_starting_a_side_project%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft1nus4%2Fwhats_your_process_for_starting_a_side_project%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t1nus4/whats_your_process_for_starting_a_side_project/</guid><pubDate>Sat, 26 Feb 2022 06:14:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[高级新闻搜索]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t1lgnt/advanced_news_search/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft1lgnt%2Fadvanced_news_search%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft1lgnt%2Fadvanced_news_search%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t1lgnt/advanced_news_search/</guid><pubDate>Sat, 26 Feb 2022 03:45:47 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
