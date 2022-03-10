@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Mar 2022 14:01:35 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我有一個SaaS的想法，我應該從哪裏開始？]]></title><description><![CDATA[我是一名開發人員，我有一個關於SaaS的想法，我想創建它。I
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Mar 2022 20:42:54 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[WordPress網站佔所有網站的45%以上，所以希望他們能得到一個智能的網站搜索!]]></title><description><![CDATA[截至2021年，超過4.55億個網站使用WordPress! 默認的WordPress
+搜索工具很好，但它返回的是不相關的結果，缺乏切面的
+功能，加載緩慢，並且提供很少的自定義選項。你的
+業務，尤其是你的訪客應該在你的WordPress上獲得更好的用戶體驗...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/taw3to/wordpress_sites_make_over_45_of_all_websites_so/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftaw3to%2Fwordpress_sites_make_over_45_of_all_websites_so%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftaw3to%2Fwordpress_sites_make_over_45_of_all_websites_so%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/taw3to/wordpress_sites_make_over_45_of_all_websites_so/</guid><pubDate>Thu, 10 Mar 2022 20:18:07 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Over 455 million websites used WordPress as of 2021! The default WordPress search tool is nice but it returns irrelevant results, lacks facet functionality, loads sluggishly, and offers few customization options. Your business and, especially your visitors deserve better UX on your WordPress site.&amp;lt;br/&amp;gt;
+We wanted to improve the user experience on high-content sites such as yours, by providing a fast and precise on-site search tool with semantic power and so we created a great plugin.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://wordpress.org/plugins/site-search-360/&quot;&amp;gt;&amp;lt;strong&amp;gt;https://wordpress.org/plugins/site-search-360/&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Try it for free and tell us if it does wonder for your WP site conversion and UX!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/a0ntcbpqdjm81.png?width=940&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=565eb4400f7f1ac00b5e93ce3954b77a7aee3dcc&quot;&amp;gt;Site Search 360 for WordPress plugin: convert your site searches!&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我有一個SaaS的想法，我應該從哪裏開始？]]></title><description><![CDATA[我是一名開發人員，我有一個關於SaaS的想法，我想創建它。I
 除了這個想法，我現在什麼都沒有，我應該從哪裏開始？
 
 如果你有任何資源（書籍、課程、文章、新聞簡報......）或任何提示
@@ -557,29 +570,4 @@ TL;DR: Flare是一個新型的社交網站，專門爲
 &amp;lt;p&amp;gt;Really appreciate your support!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/p7t18go1vck81.jpg?width=1600&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=2061bdcde56b4f2bf2a47d629c795933ee6e3f6c&quot;&amp;gt;https://preview.redd.it/p7t18go1vck81.jpg?width=1600&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=2061bdcde56b4f2bf2a47d629c795933ee6e3f6c&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Orbitron項目。一個球形輪子的車輛，有一個獨特的專利控制算法，在Mathematica中實現。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t2otbs/project_orbitron_a_sphericalwheeled_vehicle_with/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2otbs%2Fproject_orbitron_a_sphericalwheeled_vehicle_with%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2otbs%2Fproject_orbitron_a_sphericalwheeled_vehicle_with%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t2otbs/project_orbitron_a_sphericalwheeled_vehicle_with/</guid><pubDate>Sun, 27 Feb 2022 14:42:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[如何在網上尋找其他企業家朋友？]]></title><description><![CDATA[作爲一個企業家，可能是一個非常孤獨的經歷，對於任何一個小企業主來說，與其他人在一起真的很重要。
-對任何小企業主來說，與其他志同道合的人在一起以獲得支持和建議是非常重要的。
-任何小企業主都必須與其他志同道合的人在一起，以獲得支持和建議。
-
-以下是在網上尋找企業家朋友的3種方法。
-
-1- Twitter [https://twitter.com]
-
-許多創業者...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t2deqm/how_to_find_other_entrepreneur_friends_online/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2deqm%2Fhow_to_find_other_entrepreneur_friends_online%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2deqm%2Fhow_to_find_other_entrepreneur_friends_online%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t2deqm/how_to_find_other_entrepreneur_friends_online/</guid><pubDate>Sun, 27 Feb 2022 05:16:34 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Being an entrepreneur can be a very lonesome experience and it is really important for any small business owner to surround themselves with other like-minded people to get support and advice.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here are 3 ways to find entrepreneur friends online:  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;1- &amp;lt;a href=&quot;https://twitter.com&quot;&amp;gt;Twitter&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Many bootstrappers and small entrepreneurs are on Twitter. It is an incredibly friendly and supportive community. You can reach out to them by engaging with their Tweets or DMing them. Use hashtags like #buildinginpublic or #startup to get started.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;2- &amp;lt;a href=&quot;https://www.indiehackers.com/&quot;&amp;gt;Indie Hackers&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Indie Hackers is a forum for bootstrappers (mostly that work digitally). It is a great place to meet other small entrepreneurs and to get advice from them.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;3- &amp;lt;a href=&quot;https://wannabe-entrepreneur.com/coworking&quot;&amp;gt;WBE Space&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This is a virtual co-working space for entrepreneurs and freelancers that work together on their own projects. Everyone is extremely friendly and you can start making new entrepreneurial friends from day one...&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;What other platform do you use to meet other entrepreneurs?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Orbitron項目。一個球形輪子的車輛，有一個獨特的專利控制算法，在Mathematica中實現。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t2otbs/project_orbitron_a_sphericalwheeled_vehicle_with/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2otbs%2Fproject_orbitron_a_sphericalwheeled_vehicle_with%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft2otbs%2Fproject_orbitron_a_sphericalwheeled_vehicle_with%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t2otbs/project_orbitron_a_sphericalwheeled_vehicle_with/</guid><pubDate>Sun, 27 Feb 2022 14:42:23 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
