@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 11 Mar 2022 21:41:18 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[pppalette：簡易調色板生成器]]></title><description><![CDATA[嘿，大家好! 👋
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Mar 2022 07:27:28 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Reactive Resume - 一個免費的、開源的簡歷製作工具，現在已經是v3版本了。]]></title><description><![CDATA[你好，r/SideProject [/r/SideProject]!
+
+你們都知道並喜愛的免費開源簡歷製作程序現在已經有了
+3.0版本，距其首次發佈已近兩年，而且它已經面世了!
+
+在這裏，我不想一下子糾纏於細節，以下是一些鏈接
+興趣。
+
+https://rxresu.me...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tc8gj0/reactive_resume_a_free_and_open_source_resume/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftc8gj0%2Freactive_resume_a_free_and_open_source_resume%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftc8gj0%2Freactive_resume_a_free_and_open_source_resume%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tc8gj0/reactive_resume_a_free_and_open_source_resume/</guid><pubDate>Sat, 12 Mar 2022 07:07:52 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello, &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt;!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The free and open-source resume builder app you all know and love is now on version 3.0, almost two years since its initial release, and it&amp;amp;#39;s out there!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Without dwelling into the details too much at once, here are the links of interest:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://rxresu.me/&quot;&amp;gt;&amp;lt;strong&amp;gt;https://rxresu.me&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;strong&amp;gt;/&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://docs.rxresu.me&quot;&amp;gt;Docs&amp;lt;/a&amp;gt; &amp;lt;strong&amp;gt;/&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://github.com/AmruthPillai/Reactive-Resume&quot;&amp;gt;GitHub&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This new update comes with a lot of new features:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Multiple Pages and Easy Layout Management&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Import data from LinkedIn, JSON Resume&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Refreshed UI with a more natural UX&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Export a PDF within 5 seconds&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Get customized links to your resume for easy access/sharing&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Custom-made backend, no more connections to Google/Firebase. Your data is safe, as it has always been.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;The purpose and mission of Reactive Resume has always been to help those who can&amp;amp;#39;t depend on expensive builders or online websites to be able to whip up a neat-looking resume for themselves, gain some confidence and apply to the companies that they aspire to be in.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;As of today, the app had a total of 75,000+ users, with a bit more than 83,000+ resumes generated. This is not data that was tracked, but merely a count of the number of documents. I&amp;amp;#39;ve gotten a couple of donations as well, a bit over $100 in two years, which I&amp;amp;#39;m extremely grateful for. The docker images to self-host Reactive Resume had a whopping 2.4M+ pulls, and finally, the number of stars on GitHub has been a shining 3.5k+ since the past week now.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;These numbers are all great, and for a project that started off as just a little idea for me, I do feel good about it. But nothing makes me feel happier than the thousands of folks who reached out to me through email, GitHub, and LinkedIn to tell me how they loved the app, how it helped them land their first job, and how it gave them the confidence in a competitive world.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My only wish is that this little project I created reaches the folks who really need it the most, and that can only happen with your help. If your friend is looking for a resume builder, don&amp;amp;#39;t make them use MS Word or pay for an expensive service, suggest Reactive Resume. They, and I, will be thankful to you.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thank you for all the love and support. Please try out the new version and let me know what you think about it and if there&amp;amp;#39;s anything I can do to make it better. Always happy to hear from the community.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[pppalette：簡易調色板生成器]]></title><description><![CDATA[嘿，大家好! 👋
 
 我做了這個調色板生成器：https://fffuel.co/pppalette/
 
@@ -518,40 +554,4 @@ demo: &amp;lt;a href=&quot;https://demo.dbgate.org&quot;&amp;gt;https://demo.dbg
 讓我知道。我期待着讀到你的評論，謝謝...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t5372g/i_created_a_website_that_helps_you_valuate_stocks/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5372g%2Fi_created_a_website_that_helps_you_valuate_stocks%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft5372g%2Fi_created_a_website_that_helps_you_valuate_stocks%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t5372g/i_created_a_website_that_helps_you_valuate_stocks/</guid><pubDate>Wed, 02 Mar 2022 16:58:51 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey guys, I created a website that helps valuate stock using discounted flow and price to sales model so please have a look. Also, since this is my first website, so if there’s any suggestions to add additional features feel free to let me know. I look forward to reading your comments, Thank you!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://stockvaluator.herokuapp.com/&quot;&amp;gt;https://stockvaluator.herokuapp.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[2年後，我們意識到遠程工作沒有Async是不完整的。所以我建立了一個招聘網站來加速這種文化。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t4v2ya/after_2_years_we_realized_remote_work_isnt/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft4v2ya%2Fafter_2_years_we_realized_remote_work_isnt%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft4v2ya%2Fafter_2_years_we_realized_remote_work_isnt%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t4v2ya/after_2_years_we_realized_remote_work_isnt/</guid><pubDate>Wed, 02 Mar 2022 13:56:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Payrequest剛剛在ProductHunt推出（而且相當失敗......）。]]></title><description><![CDATA[因爲也要分享那些沒有達到預期效果的事情......
-
-2022年3月1日，我們推出了對Producthunt的更新。
-https://www.producthunt.com/posts/payrequest-4-0-1
-
-
-數字是令人失望的。
-
- * 15個支持率
- * 1個回覆（但來自一個忠誠的客戶）
- * 沒有多少...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t4p9mx/payrequest_just_launched_on_producthunt_and_quite/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft4p9mx%2Fpayrequest_just_launched_on_producthunt_and_quite%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft4p9mx%2Fpayrequest_just_launched_on_producthunt_and_quite%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t4p9mx/payrequest_just_launched_on_producthunt_and_quite/</guid><pubDate>Wed, 02 Mar 2022 04:29:57 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;h2&amp;gt;Since it&amp;amp;#39;s important to also share things that didn&amp;amp;#39;t work as expected...&amp;lt;/h2&amp;gt;
-
-&amp;lt;p&amp;gt;On 1 March 2022, we launched our update on Producthunt: &amp;lt;a href=&quot;https://www.producthunt.com/posts/payrequest-4-0-1&quot;&amp;gt;https://www.producthunt.com/posts/payrequest-4-0-1&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;h2&amp;gt;The numbers are disappointing:&amp;lt;/h2&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;15 Upvotes&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;1 reply (but from a loyal customer)&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Not much traffic/conversions (we still investigate these numbers)&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;h2&amp;gt;What we did to promote and try to make our launch successful:&amp;lt;/h2&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Create a custom logo&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Create custom screenshots&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Write a nice first reply&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Use our 3 Twitter accounts (2000+ followers together)&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Send an email to 6000+ businesses&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Promote it on Facebook groups &amp;amp;amp; other platforms.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;We have come to the conclusion that it takes too much energy &amp;amp;amp; time to set up a product hunt launch, in the future, we will spend our energy and time on more important tasks from which we get enough recognition and growth.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We are still grateful for our previous launches which have yielded enough interaction and good feedback. Maybe we did something wrong on our end, what is your experience with ProductHunt and do you maybe have some tips and tricks you want to share with us and other people in terms of promoting your (side) project on producthunt or in general?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[2年後，我們意識到遠程工作沒有Async是不完整的。所以我建立了一個招聘網站來加速這種文化。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t4v2ya/after_2_years_we_realized_remote_work_isnt/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft4v2ya%2Fafter_2_years_we_realized_remote_work_isnt%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft4v2ya%2Fafter_2_years_we_realized_remote_work_isnt%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t4v2ya/after_2_years_we_realized_remote_work_isnt/</guid><pubDate>Wed, 02 Mar 2022 13:56:06 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
