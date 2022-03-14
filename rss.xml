@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 00:12:40 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[AMA。创业公司创始人。问我吧]]></title><description><![CDATA[25年前，我启动了一家创业公司[https://www.BungalowSoftware.com]。我一直
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 03:51:27 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[在厌倦了使用电子表格后，我们为活动和小组建立了一个互动的名册。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tde2k0/we_built_an_interactive_roster_for_activities_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftde2k0%2Fwe_built_an_interactive_roster_for_activities_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftde2k0%2Fwe_built_an_interactive_roster_for_activities_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tde2k0/we_built_an_interactive_roster_for_activities_and/</guid><pubDate>Mon, 14 Mar 2022 03:27:46 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[AMA。创业公司创始人。问我吧]]></title><description><![CDATA[25年前，我启动了一家创业公司[https://www.BungalowSoftware.com]。我一直
 从那时起，我一直在经营它。
 
 一路走来，我学到了很多东西，往往是艰难的方法:)
@@ -530,18 +530,4 @@ Habitual Money!
 
 &amp;lt;p&amp;gt;Website: &amp;lt;a href=&quot;https://www.habitual.money/&quot;&amp;gt;https://www.habitual.money/&amp;lt;/a&amp;gt; 
 PH: &amp;lt;a href=&quot;https://www.producthunt.com/posts/habitual-money-budgeting-made-easy&quot;&amp;gt;https://www.producthunt.com/posts/habitual-money-budgeting-made-easy&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一个应用程序来跟踪我的杂货清单、食谱和储藏室物品，并在东西即将变坏时发出警报。]]></title><description><![CDATA[我已经厌倦了从冰箱后面捡起湿漉漉的东西，所以我建立了一个应用程序，让我能够管理杂货清单，并在物品到达时启动时钟。
-因此，我建立了一个应用程序，让我能够管理一个杂货清单，当物品被购买时就会启动一个时钟。
-购买。这个应用程序根据物品即将变质的时间对我的储藏室/冰箱/冰柜进行分类。
-要变坏。哦，它还可以让你在网站上搜刮食谱......]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t557io/i_built_an_app_to_track_my_grocery_list_recipes/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft557io%2Fi_built_an_app_to_track_my_grocery_list_recipes%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft557io%2Fi_built_an_app_to_track_my_grocery_list_recipes%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t557io/i_built_an_app_to_track_my_grocery_list_recipes/</guid><pubDate>Thu, 03 Mar 2022 16:46:37 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I was tired of picking up soggy messes from the back of my fridge, so I built an app that lets me manage a grocery list that starts a clock when items are purchased. The app sorts my pantry/fridge/freezer based on when things are about to go bad. Oh, and it also lets you scrape websites for recipes (or enter them manually). &amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://www.youtube.com/watch?v=8cKIK6Ins0Y&quot;&amp;gt;YouTube video&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://apps.apple.com/us/app/grocery-timer-pantry-alerts/id1571430329&quot;&amp;gt;iOS app&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=io.devomatic.grocerytimer.prod&quot;&amp;gt;Android app&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;You can also share your lists with your partner/roommate/etc&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I am also tracking feature requests &amp;lt;a href=&quot;https://github.com/arpit/grocerytimer-tracker/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement&quot;&amp;gt;here&amp;lt;/a&amp;gt;, so let me know if you have any ideas for improvement&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
