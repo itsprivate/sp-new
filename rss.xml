@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 19:41:46 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我建立了一个网站，通过投票和每周通讯来发现伟大的网站。]]></title><description><![CDATA[嗨，我想这是展示我上个周末项目的地方（≈20小时的工作）。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 20:48:04 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我为网络开发者建立了一个免费的图标组织者。]]></title><description><![CDATA[作为一个网络开发者本人。我每天都会涉猎大量的SVG图标。
+建立一个简单的工具来改善图标的流程，如搜索、导入、预览、移动SVG图标。
+预览、移动SVG图标等。
+
+你可以从这里下载它 https://icon-shelf.github.io/
+
+它是免费和开源的。任何建议/反馈都是...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/te2n83/i_build_a_free_icon_organizer_for_web_developers/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fte2n83%2Fi_build_a_free_icon_organizer_for_web_developers%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fte2n83%2Fi_build_a_free_icon_organizer_for_web_developers%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/te2n83/i_build_a_free_icon_organizer_for_web_developers/</guid><pubDate>Mon, 14 Mar 2022 20:23:53 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;As a web developer myself. I dabble with a lot of SVG icons every day.&amp;lt;br/&amp;gt;
+Build a simple tool to improve the icon flows like searching, importing, previewing, moving of SVG icons etc.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You can download it from here &amp;lt;a href=&quot;https://icon-shelf.github.io/&quot;&amp;gt;https://icon-shelf.github.io/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It&amp;amp;#39;s free and open source. Any suggestions/feedbacks are always welcome. Thanks!  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/j2dxlhkxsdn81.png?width=2946&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=88b41475e06f258690983b9045e71ea241d4aed2&quot;&amp;gt;Icon Shelf&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我的副业计划的想法。重新回顾时间旅行]]></title><description><![CDATA[每个人都希望他们能回到过去，对某人说些什么。
+
+这个想法：你选择一个地点（确切的地理位置）和日期（可以是一个
+年、十年或确切日期）。添加一个 "致 "和一条信息。
+
+然后人们可以通过地点和日期（准确的或范围）搜索信息。
+
+原因是...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/te3egc/my_side_project_idea_restrospective_time_travel/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fte3egc%2Fmy_side_project_idea_restrospective_time_travel%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fte3egc%2Fmy_side_project_idea_restrospective_time_travel%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/te3egc/my_side_project_idea_restrospective_time_travel/</guid><pubDate>Mon, 14 Mar 2022 20:23:53 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Everybody wishes they could go back in time and say something to someone. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The idea: You select a location (exact geolocation) and date (it could be a year, decade or exact date). Add a &amp;amp;#39;to&amp;amp;#39; and a message. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Then people can search by location and date (exact or a range) for messages.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The reason being, if you and your &amp;amp;#39;to&amp;amp;#39; think about a time/date in the past, they could search for it and reconnect.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I came up with this while half asleep, so sounds a bit crazy. What do you think?&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一个网站，通过投票和每周通讯来发现伟大的网站。]]></title><description><![CDATA[嗨，我想这是展示我上个周末项目的地方（≈20小时的工作）。
 
 Websitehunt.co [https://www.websitehunt.co] - 你不知道的最佳网站。
 
@@ -408,12 +438,4 @@ According to some source, we waste about 15% of our coding time searching for co
 &amp;lt;p&amp;gt;We&amp;amp;#39;re hoping to meet and hang out with other builders so everything is open source and we stream on Sundays (with co-working streams on Wednesdays!).&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;You can find us here --&amp;amp;gt; &amp;lt;a href=&quot;https://12products.xyz&quot;&amp;gt;https://12products.xyz&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我为Reddit创建了一个漂亮的网络客户端，用于浏览图片和视频。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6si13/i_have_created_a_nice_web_client_for_reddit_for/?score=10&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6si13%2Fi_have_created_a_nice_web_client_for_reddit_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6si13%2Fi_have_created_a_nice_web_client_for_reddit_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6si13/i_have_created_a_nice_web_client_for_reddit_for/</guid><pubDate>Fri, 04 Mar 2022 21:45:23 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[经营极客生意不容易：采访一本关于业余爱好盈利的新书]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6oehc/its_not_easy_running_a_geeky_business_interview/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6oehc%2Fits_not_easy_running_a_geeky_business_interview%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6oehc%2Fits_not_easy_running_a_geeky_business_interview%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6oehc/its_not_easy_running_a_geeky_business_interview/</guid><pubDate>Fri, 04 Mar 2022 19:26:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[你会为了一美元而这样做吗？]]></title><description><![CDATA[我有这个想法已经很久了，叫做 "你愿意为一美元做什么？
-基本上，你发布一些人们可能为1美元（或可能更多）做的事情
-有人做了，并以图片或视频的形式发布证明，然后该
-人得到1美元的报酬（从你的账户中扣除）
-
-我知道这个想法...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6nx2h/would_you_do_it_for_a_dollar/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6nx2h%2Fwould_you_do_it_for_a_dollar%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6nx2h%2Fwould_you_do_it_for_a_dollar%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6nx2h/would_you_do_it_for_a_dollar/</guid><pubDate>Fri, 04 Mar 2022 19:26:10 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I have had this idea for a long time called Would You Do It For A Dollar? Basically you post something that people might do for $1 (or potentially more) and someone does it, post a proof in form of a pic or a video and then that person gets paid $1 (from your account)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m aware that this idea potentially brings dangerous consequences and needs to be heavily moderated. I&amp;amp;#39;ve never found a will to make it&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我为Reddit创建了一个漂亮的网络客户端，用于浏览图片和视频。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6si13/i_have_created_a_nice_web_client_for_reddit_for/?score=10&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6si13%2Fi_have_created_a_nice_web_client_for_reddit_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6si13%2Fi_have_created_a_nice_web_client_for_reddit_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6si13/i_have_created_a_nice_web_client_for_reddit_for/</guid><pubDate>Fri, 04 Mar 2022 21:45:23 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
