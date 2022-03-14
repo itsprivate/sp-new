@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 10:01:25 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個應用程序，與世界各地誌同道合的遊牧者/旅行者和遠程工作者聯繫。]]></title><description><![CDATA[我剛剛推出了我過去幾個月一直在努力的應用程序。這個想法是爲了
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 17:41:07 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Avvvatars - React的開源佔位符頭像生成器]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdu5vi/avvvatars_open_source_placeholder_avatar/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdu5vi%2Favvvatars_open_source_placeholder_avatar%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdu5vi%2Favvvatars_open_source_placeholder_avatar%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdu5vi/avvvatars_open_source_placeholder_avatar/</guid><pubDate>Mon, 14 Mar 2022 17:17:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個應用程序，與世界各地誌同道合的遊牧者/旅行者和遠程工作者聯繫。]]></title><description><![CDATA[我剛剛推出了我過去幾個月一直在努力的應用程序。這個想法是爲了
 當你去另一個國家或任何你喜歡的地方旅行時，與志同道合的人聯繫。
 你喜歡的任何地方，因爲總有一些人有興趣與你見面。應用程序
 名稱 :- "HeyNomad - Connect with Nomads" (Android version...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdra66/i_made_an_app_to_connect_with_like_minded/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdra66%2Fi_made_an_app_to_connect_with_like_minded%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdra66%2Fi_made_an_app_to_connect_with_like_minded%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdra66/i_made_an_app_to_connect_with_like_minded/</guid><pubDate>Mon, 14 Mar 2022 09:30:25 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I just launched the app which I was working for last few months. The idea is to connect with like minded people when traveling to another country as well as anywhere you like since there are always some people interested to meet you. 
@@ -462,48 +462,4 @@ test.param = 1 // Emits the mutation event&amp;lt;/p&amp;gt;
 I will improve it in the near future, but for now I hope you like it. It would be amazing if you used it and/or starred it on GH.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Even if it won&amp;amp;#39;t be widely used (it probably won&amp;amp;#39;t), I really enjoyed writing and releasing my own package. It definitely won&amp;amp;#39;t be my last.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我創建了一個應用程序，使任何人都可以找到志同道合的人組成的小組，一起記錄生活習慣。]]></title><description><![CDATA[應用程序。
-
-Dreamnocs.
-
-https://dreamnocs.com [https://dreamnocs.com/]
-
-可用性。
-
-iOS和Android
-
-關於。
-
-一個面向團隊的習慣跟蹤器。基本上在創建賬戶後，你。
-
- * 找到一個你感興趣的有目標和習慣的團隊。
-
- * 或者你創建你自己的團隊和製作你自己的習慣
-
- *你...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t6cq3j/i_created_an_app_that_makes_it_possible_for/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6cq3j%2Fi_created_an_app_that_makes_it_possible_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6cq3j%2Fi_created_an_app_that_makes_it_possible_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t6cq3j/i_created_an_app_that_makes_it_possible_for/</guid><pubDate>Fri, 04 Mar 2022 07:37:13 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;App:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Dreamnocs.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://dreamnocs.com/&quot;&amp;gt;https://dreamnocs.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Availability:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;iOS and Android&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;About:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;A team oriented habit tracker. Basically after creating account you:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Find a team with goals and habits that interest you&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Or you create your own team and craft your own habits&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;You keep track of your own and your team&amp;amp;#39;s performance&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Everything else is built like a social network making it easy to communicate and encourage.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Background:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;A year ago I noticed most habit trackers out there focused on single individuals. But habit tracking and goal setting is so much easier when you have the motivation and accountability of a team of people around you who want the same thing!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I was looking for something like that myself but couldn&amp;amp;#39;t find anything that was truly team oriented. So I built it!&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
