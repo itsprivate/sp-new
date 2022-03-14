@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 17:41:07 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Avvvatars - React的開源佔位符頭像生成器]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdu5vi/avvvatars_open_source_placeholder_avatar/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdu5vi%2Favvvatars_open_source_placeholder_avatar%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdu5vi%2Favvvatars_open_source_placeholder_avatar%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdu5vi/avvvatars_open_source_placeholder_avatar/</guid><pubDate>Mon, 14 Mar 2022 17:17:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個應用程序，與世界各地誌同道合的遊牧者/旅行者和遠程工作者聯繫。]]></title><description><![CDATA[我剛剛推出了我過去幾個月一直在努力的應用程序。這個想法是爲了
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 19:41:46 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我建立了一個網站，通過投票和每週通訊來發現偉大的網站。]]></title><description><![CDATA[嗨，我想這是展示我上個週末項目的地方（≈20小時的工作）。
+
+Websitehunt.co [https://www.websitehunt.co] - 你不知道的最佳網站。
+
+
+
+https://preview.redd.it/8jdvdgcchdn81.png?width=1228&format=png&auto=webp&s=6e54a828b727dd03b8b4de46b4e62ff2e2b6cf5e
+
+
+
+它基本上是...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/te0kkh/i_made_a_website_to_discover_great_websites/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fte0kkh%2Fi_made_a_website_to_discover_great_websites%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fte0kkh%2Fi_made_a_website_to_discover_great_websites%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/te0kkh/i_made_a_website_to_discover_great_websites/</guid><pubDate>Mon, 14 Mar 2022 19:16:43 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi, I thought this is the place to show my last weekend project (≈20h of work)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.websitehunt.co&quot;&amp;gt;Websitehunt.co&amp;lt;/a&amp;gt; - The best websites you didn&amp;amp;#39;t know.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/8jdvdgcchdn81.png?width=1228&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=6e54a828b727dd03b8b4de46b4e62ff2e2b6cf5e&quot;&amp;gt;https://preview.redd.it/8jdvdgcchdn81.png?width=1228&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=6e54a828b727dd03b8b4de46b4e62ff2e2b6cf5e&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It is basically a newsletter where you receive the most upvoted websites each week.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The websites submitted have to &amp;amp;quot;stand alone&amp;amp;quot;, like tools. It generally cannot be a landing page for an app and such.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you submit a website, there is a queue mechanism to keep things under control, 10 websites are published each day. Your website will be scheduled tomorrow if there is room. Otherwise it will be put at the end of the queue.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Avvvatars - React的開源佔位符頭像生成器]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdu5vi/avvvatars_open_source_placeholder_avatar/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdu5vi%2Favvvatars_open_source_placeholder_avatar%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdu5vi%2Favvvatars_open_source_placeholder_avatar%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdu5vi/avvvatars_open_source_placeholder_avatar/</guid><pubDate>Mon, 14 Mar 2022 17:17:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個應用程序，與世界各地誌同道合的遊牧者/旅行者和遠程工作者聯繫。]]></title><description><![CDATA[我剛剛推出了我過去幾個月一直在努力的應用程序。這個想法是爲了
 當你去另一個國家或任何你喜歡的地方旅行時，與志同道合的人聯繫。
 你喜歡的任何地方，因爲總有一些人有興趣與你見面。應用程序
 名稱 :- "HeyNomad - Connect with Nomads" (Android version...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdra66/i_made_an_app_to_connect_with_like_minded/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdra66%2Fi_made_an_app_to_connect_with_like_minded%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdra66%2Fi_made_an_app_to_connect_with_like_minded%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tdra66/i_made_an_app_to_connect_with_like_minded/</guid><pubDate>Mon, 14 Mar 2022 09:30:25 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I just launched the app which I was working for last few months. The idea is to connect with like minded people when traveling to another country as well as anywhere you like since there are always some people interested to meet you. 
@@ -391,75 +416,4 @@ According to some source, we waste about 15% of our coding time searching for co
 我知道這個想法...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t6nx2h/would_you_do_it_for_a_dollar/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6nx2h%2Fwould_you_do_it_for_a_dollar%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6nx2h%2Fwould_you_do_it_for_a_dollar%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t6nx2h/would_you_do_it_for_a_dollar/</guid><pubDate>Fri, 04 Mar 2022 19:26:10 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I have had this idea for a long time called Would You Do It For A Dollar? Basically you post something that people might do for $1 (or potentially more) and someone does it, post a proof in form of a pic or a video and then that person gets paid $1 (from your account)&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I&amp;amp;#39;m aware that this idea potentially brings dangerous consequences and needs to be heavily moderated. I&amp;amp;#39;ve never found a will to make it&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我用純Javascript寫了一個非常小的狀態管理器（Vssm）。]]></title><description><![CDATA[想和大家分享一下我的第一個認真的包。
-
-我用純Javascript寫了一個非常小的狀態管理器（Vssm）。它沒有
-它沒有任何依賴性，即插即用，並且壓縮後的重量小於2Kb。
-
-Npm [https://www.npmjs.com/package/vssm]
-
-文檔 [https://tk-ni.github.io/Vssm-docs/]
-
-源代碼...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t69sjz/i_wrote_a_very_small_state_manager_vssm_in_pure/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft69sjz%2Fi_wrote_a_very_small_state_manager_vssm_in_pure%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft69sjz%2Fi_wrote_a_very_small_state_manager_vssm_in_pure%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t69sjz/i_wrote_a_very_small_state_manager_vssm_in_pure/</guid><pubDate>Fri, 04 Mar 2022 13:53:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Wanted to share my first serious package with you.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I wrote a Very Small State Manager (Vssm) in pure Javascript. It has no dependencies, is plug-and-play and weighs &amp;amp;lt;2Kb minified.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.npmjs.com/package/vssm&quot;&amp;gt;Npm&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://tk-ni.github.io/Vssm-docs/&quot;&amp;gt;Documentation&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://github.com/tk-ni/Vssm&quot;&amp;gt;Source code&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It’s designed to give a state management solution to smaller-scale projects without having to install and configure robust libraries just to define some variables (It does work with React/Vue with minor adjustments, explained in detail in the doc site).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I did not intend it to replace popular state management libraries (they do their job very well).
-I meant to create a plug-and-play solution for smaller (or simpler) frontend projects that wish to stay small (functionality-wise) and still enjoy simple global state management.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Using Vssm is really simple, create your state with&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;```javascript&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;createVSSM({
-    test: createState(“test”, {
-            param: 0
-        })
-})&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;```&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Read your state with&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;```javascript&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;const { test } = getVSSM() 
-console.log(test.param) // 0&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;```&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Listen to changes on a specific parameter with&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;```javascript&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;const { test } = getVSSM() 
-test.param = () =&amp;amp;gt; {
-    console.log(&amp;amp;quot;New value after mutation&amp;amp;quot;, test.param)
-}&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;```&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Set your state parameters as if they were normal variables&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;```javascript&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;const { test } = getVSSM() 
-test.param = 1 // Emits the mutation event&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;```&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;No awkward configuration or robust files, no combined reducers or bloated actions. I made it as simple and as plug-and-play as I could.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Code-wise It’s far from perfect, I know. 
-I will improve it in the near future, but for now I hope you like it. It would be amazing if you used it and/or starred it on GH.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Even if it won&amp;amp;#39;t be widely used (it probably won&amp;amp;#39;t), I really enjoyed writing and releasing my own package. It definitely won&amp;amp;#39;t be my last.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
