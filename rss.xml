@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 20:48:04 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我为网络开发者建立了一个免费的图标组织者。]]></title><description><![CDATA[作为一个网络开发者本人。我每天都会涉猎大量的SVG图标。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Mar 2022 22:11:15 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我做了一个工具，在一个Twitter卡片中分享多个链接。]]></title><description><![CDATA[与其他链接共享工具如linktree、biolink等不同，这个工具将显示
+你的所有链接都在Twitter里面。
+
+https://reddit.com/link/tdtxaq/video/edwu3xxhnbn81/player
+
+你可以把它钉在你的病毒性推文下，让你的Twitter流量在一张卡片（一条推文）中看到你的所有
+链接在一张卡片上（一条推文）。此外，你还可以...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tdtxaq/i_made_a_tool_to_share_multiple_links_in_one/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdtxaq%2Fi_made_a_tool_to_share_multiple_links_in_one%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftdtxaq%2Fi_made_a_tool_to_share_multiple_links_in_one%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tdtxaq/i_made_a_tool_to_share_multiple_links_in_one/</guid><pubDate>Mon, 14 Mar 2022 21:23:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Unlike other link-sharing tools like linktree, biolink, etc, this tool will show all your links right inside Twitter. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/tdtxaq/video/edwu3xxhnbn81/player&quot;&amp;gt;https://reddit.com/link/tdtxaq/video/edwu3xxhnbn81/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You can pin it under your viral tweets and let your Twitter traffic see all your links in one card(one Tweet). Also, you can pin it in your profile for your audience to view them with less friction.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here is the link: &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://superrlink.vercel.app/&quot;&amp;gt;https://superrlink.vercel.app/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我为网络开发者建立了一个免费的图标组织者。]]></title><description><![CDATA[作为一个网络开发者本人。我每天都会涉猎大量的SVG图标。
 建立一个简单的工具来改善图标的流程，如搜索、导入、预览、移动SVG图标。
 预览、移动SVG图标等。
 
@@ -438,4 +453,4 @@ According to some source, we waste about 15% of our coding time searching for co
 &amp;lt;p&amp;gt;We&amp;amp;#39;re hoping to meet and hang out with other builders so everything is open source and we stream on Sundays (with co-working streams on Wednesdays!).&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;You can find us here --&amp;amp;gt; &amp;lt;a href=&quot;https://12products.xyz&quot;&amp;gt;https://12products.xyz&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我为Reddit创建了一个漂亮的网络客户端，用于浏览图片和视频。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6si13/i_have_created_a_nice_web_client_for_reddit_for/?score=10&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6si13%2Fi_have_created_a_nice_web_client_for_reddit_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft6si13%2Fi_have_created_a_nice_web_client_for_reddit_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/t6si13/i_have_created_a_nice_web_client_for_reddit_for/</guid><pubDate>Fri, 04 Mar 2022 21:45:23 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
