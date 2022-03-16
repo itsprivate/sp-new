@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 16 Mar 2022 11:24:28 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我剛剛推出了我的第一個SaaS，一個用於播客、廣播和音樂的簡單視頻創建者。]]></title><description><![CDATA[大家好! 👋 我剛剛推出了我的第一個SaaS，Vokal [https://vokal.co] 在
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 16 Mar 2022 13:23:02 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我創建了一個帶有附加遊戲的F1統計網站，作爲我實際工作的一個副業。]]></title><description><![CDATA[https://podiumdb.com/
+
+網站使用mySQL、C#和Angular作爲主要堆棧。當然還有大量的其他npm
+插件。
+
+只是覺得將F1數據可視化，並在上面添加一個遊戲會很有趣。
+
+很想聽聽你的意見。
+
+謝謝]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tffrck/i_created_a_formula_1_stats_site_with_with_an/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftffrck%2Fi_created_a_formula_1_stats_site_with_with_an%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftffrck%2Fi_created_a_formula_1_stats_site_with_with_an%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tffrck/i_created_a_formula_1_stats_site_with_with_an/</guid><pubDate>Wed, 16 Mar 2022 12:56:33 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://podiumdb.com/&quot;&amp;gt;https://podiumdb.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Site uses mySQL, C# and Angular as the main stack. Plus a load of other npm plugins of course.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Just thought it would be fun to visualise the F1 data, and add a game on top.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Keen to hear what you think.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thanks&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我剛剛推出了我的第一個SaaS，一個用於播客、廣播和音樂的簡單視頻創建者。]]></title><description><![CDATA[大家好! 👋 我剛剛推出了我的第一個SaaS，Vokal [https://vokal.co] 在
 Producthunt!
 
 https://www.producthunt.com/posts/vokal-2
@@ -436,25 +454,4 @@ According to some source, we waste about 15% of our coding time searching for co
 &amp;lt;p&amp;gt;The backend and frontend code is all written in Python. For the frontend I&amp;amp;#39;m using Flask.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Let me know if you have any questions, and any feedback is much appreciated!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個網站--mixmoose.com--用來生成和分析Spotify播放列表。比較曲目之間的特點，過濾播放列表中的曲目，自動排列播放列表，獲得推薦，可視化任何播放列表功能，按藝術家/流派突出顯示曲目，以及更多。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t81cvh/i_made_a_website_mixmoosecom_to_generate_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft81cvh%2Fi_made_a_website_mixmoosecom_to_generate_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft81cvh%2Fi_made_a_website_mixmoosecom_to_generate_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t81cvh/i_made_a_website_mixmoosecom_to_generate_and/</guid><pubDate>Sun, 06 Mar 2022 17:15:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個Chrome擴展，當我試圖購買另一個域名時，它會對我喊話。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t81e76/i_made_a_chrome_extension_that_shouts_at_me_when/?score=12&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft81e76%2Fi_made_a_chrome_extension_that_shouts_at_me_when%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft81e76%2Fi_made_a_chrome_extension_that_shouts_at_me_when%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t81e76/i_made_a_chrome_extension_that_shouts_at_me_when/</guid><pubDate>Sun, 06 Mar 2022 16:33:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我爲你的網站做了一個橫幅，告訴俄羅斯人在烏克蘭發生了戰爭]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t7zfb9/i_made_a_banner_for_your_site_that_informs/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft7zfb9%2Fi_made_a_banner_for_your_site_that_informs%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft7zfb9%2Fi_made_a_banner_for_your_site_that_informs%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t7zfb9/i_made_a_banner_for_your_site_that_informs/</guid><pubDate>Sun, 06 Mar 2022 16:03:43 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個應用程序，要求你爲你認爲應該解決的問題投票。]]></title><description><![CDATA[https://reddit.com/link/t7xzz6/video/6a9p413ferl81/player
-
-嗨，夥計們。
-
-什麼是Hulacorn？
-
-它是一個從潛在客戶那裏獲得反饋的工具，你可以輸入一個
-問題和問題的例子，讓人們投票決定哪一個
-對他們有吸引力。
-
-試一試吧@...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t7xzz6/i_made_an_app_that_asks_you_to_vote_for_problems/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft7xzz6%2Fi_made_an_app_that_asks_you_to_vote_for_problems%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft7xzz6%2Fi_made_an_app_that_asks_you_to_vote_for_problems%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t7xzz6/i_made_an_app_that_asks_you_to_vote_for_problems/</guid><pubDate>Sun, 06 Mar 2022 13:27:08 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/t7xzz6/video/6a9p413ferl81/player&quot;&amp;gt;https://reddit.com/link/t7xzz6/video/6a9p413ferl81/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Hi Folks,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What is Hulacorn?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It&amp;amp;#39;s a tool for getting feedback from potential customers, you can enter a problem and examples of the problem and allow people to vote on which one appeals to them.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Give it a try @ &amp;lt;a href=&quot;https://votes.hulacorn.com?utm_source=redditsideprojects&quot;&amp;gt;votes.hulacorn.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個網站--mixmoose.com--用來生成和分析Spotify播放列表。比較曲目之間的特點，過濾播放列表中的曲目，自動排列播放列表，獲得推薦，可視化任何播放列表功能，按藝術家/流派突出顯示曲目，以及更多。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t81cvh/i_made_a_website_mixmoosecom_to_generate_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft81cvh%2Fi_made_a_website_mixmoosecom_to_generate_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft81cvh%2Fi_made_a_website_mixmoosecom_to_generate_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t81cvh/i_made_a_website_mixmoosecom_to_generate_and/</guid><pubDate>Sun, 06 Mar 2022 17:15:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個Chrome擴展，當我試圖購買另一個域名時，它會對我喊話。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t81e76/i_made_a_chrome_extension_that_shouts_at_me_when/?score=12&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft81e76%2Fi_made_a_chrome_extension_that_shouts_at_me_when%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft81e76%2Fi_made_a_chrome_extension_that_shouts_at_me_when%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t81e76/i_made_a_chrome_extension_that_shouts_at_me_when/</guid><pubDate>Sun, 06 Mar 2022 16:33:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我爲你的網站做了一個橫幅，告訴俄羅斯人在烏克蘭發生了戰爭]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t7zfb9/i_made_a_banner_for_your_site_that_informs/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft7zfb9%2Fi_made_a_banner_for_your_site_that_informs%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ft7zfb9%2Fi_made_a_banner_for_your_site_that_informs%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/t7zfb9/i_made_a_banner_for_your_site_that_informs/</guid><pubDate>Sun, 06 Mar 2022 16:03:43 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
