@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 24 Mar 2022 09:52:56 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我正在建立的標誌設計和編輯工具的片段!]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tl6q28/snippet_of_the_logo_design_and_editing_tool_i_am/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftl6q28%2Fsnippet_of_the_logo_design_and_editing_tool_i_am%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftl6q28%2Fsnippet_of_the_logo_design_and_editing_tool_i_am%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tl6q28/snippet_of_the_logo_design_and_editing_tool_i_am/</guid><pubDate>Thu, 24 Mar 2022 09:31:35 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[一個用Go、Kotlin和React編寫的向你的手機/桌面發送推送通知的開源工具。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tl3j3w/an_opensource_tool_to_send_push_notifications_to/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftl3j3w%2Fan_opensource_tool_to_send_push_notifications_to%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftl3j3w%2Fan_opensource_tool_to_send_push_notifications_to%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tl3j3w/an_opensource_tool_to_send_push_notifications_to/</guid><pubDate>Wed, 23 Mar 2022 18:15:40 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一個Chrome擴展來幫助你錄製漂亮的演示視頻]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tkrl5n/i_built_a_chrome_extension_to_help_you_record/?score=10&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftkrl5n%2Fi_built_a_chrome_extension_to_help_you_record%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftkrl5n%2Fi_built_a_chrome_extension_to_help_you_record%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tkrl5n/i_built_a_chrome_extension_to_help_you_record/</guid><pubDate>Wed, 23 Mar 2022 12:35:44 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[收藏你的文章，獲得每日電子郵件摘要]]></title><description><![CDATA[爲了使人們更容易和更快地消費更多的新聞、文章和故事，我
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 24 Mar 2022 10:28:35 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我建立了一個應用程序，當一個遊戲免費時，通過推送通知來通知你!]]></title><description><![CDATA[我曾經收集過EPIC遊戲中每週提供的免費遊戲。我現在有超過
+現在，僅在我的EPIC庫中就有200多個免費遊戲。因此，每當我錯過
+錯過一個遊戲，我就會感到非常煩惱。這就是爲什麼我創建了這個應用程序。
+
+通過GG：免費遊戲和贈品通知器，你可以看到所有可用的免費遊戲。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tm1c7c/i_built_an_app_that_notifies_you_through_push/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftm1c7c%2Fi_built_an_app_that_notifies_you_through_push%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftm1c7c%2Fi_built_an_app_that_notifies_you_through_push%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tm1c7c/i_built_an_app_that_notifies_you_through_push/</guid><pubDate>Thu, 24 Mar 2022 09:50:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I used to collect the free games offered every week in EPIC games. I have more than 200 free games just in my EPIC library now. As a result, whenever I missed a game, it would really bug me. That&amp;amp;#39;s why I created this app.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With GG: Free Games And Giveaways Notifier you can see all available free games and active giveaways. You will also be notified when a game becomes free or a giveaway launches on a platform. Not only that but you will also be notified when coin, skin, battle passes are available for free. Supports games on multiple platforms, like PC, Android, iOS, Web, Nintendo, Mac, Linux, etc.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You can download the app from here: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ikramhasan.free_games_giveaways&quot;&amp;gt;Play Store&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/hr5af6vpnap81.png?width=8440&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5f5985f5aa601040c975ec7020ea75d620ae40f8&quot;&amp;gt;GG: Free Games and Giveaways Notifier&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我正在建立的標誌設計和編輯工具的片段!]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tl6q28/snippet_of_the_logo_design_and_editing_tool_i_am/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftl6q28%2Fsnippet_of_the_logo_design_and_editing_tool_i_am%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftl6q28%2Fsnippet_of_the_logo_design_and_editing_tool_i_am%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tl6q28/snippet_of_the_logo_design_and_editing_tool_i_am/</guid><pubDate>Thu, 24 Mar 2022 09:31:35 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[一個用Go、Kotlin和React編寫的向你的手機/桌面發送推送通知的開源工具。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tl3j3w/an_opensource_tool_to_send_push_notifications_to/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftl3j3w%2Fan_opensource_tool_to_send_push_notifications_to%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftl3j3w%2Fan_opensource_tool_to_send_push_notifications_to%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tl3j3w/an_opensource_tool_to_send_push_notifications_to/</guid><pubDate>Wed, 23 Mar 2022 18:15:40 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一個Chrome擴展來幫助你錄製漂亮的演示視頻]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tkrl5n/i_built_a_chrome_extension_to_help_you_record/?score=10&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftkrl5n%2Fi_built_a_chrome_extension_to_help_you_record%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftkrl5n%2Fi_built_a_chrome_extension_to_help_you_record%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tkrl5n/i_built_a_chrome_extension_to_help_you_record/</guid><pubDate>Wed, 23 Mar 2022 12:35:44 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[收藏你的文章，獲得每日電子郵件摘要]]></title><description><![CDATA[爲了使人們更容易和更快地消費更多的新聞、文章和故事，我
 創建了Digist It!
 [https://www.digistit.com/?utm_campaign=beta_announcement&utm_medium=social&utm_source=reddit&utm_content=sideproject]
 只需將有趣的網址加入書籤，就能用人工智能自動總結出這些網址的內容
@@ -445,40 +458,4 @@ https://rxresu.me...]]></description><link>https://sideproject.buzzing.cc/zh-Han
 &amp;lt;p&amp;gt;Here is the link: &amp;lt;a href=&quot;https://asynccjobs.com/&quot;&amp;gt;https://asynccjobs.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Please do support and share. Thank you.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[在產品發佈方面很糟糕？想做得更好]]></title><description><![CDATA[嘿，你們好! 👋
-
-自2013年以來，每個人都在寫他們的Product Hunt發佈故事。幸運的是。
-你不需要閱讀所有的故事，因爲我花了幾周的時間閱讀了大部分的故事。
-我花了幾個星期的時間，把所有的故事都濃縮在這個清單裏。這200多條提示被
-分爲12個檢查表：*。
-這200多個提示是...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tbvimq/suck_at_product_launches_want_to_do_better/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftbvimq%2Fsuck_at_product_launches_want_to_do_better%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftbvimq%2Fsuck_at_product_launches_want_to_do_better%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tbvimq/suck_at_product_launches_want_to_do_better/</guid><pubDate>Fri, 11 Mar 2022 18:41:47 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey there! 👋&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Everyone is writing their Product Hunt launch stories since 2013. Fortunately, you don&amp;amp;#39;t have to read all of them as I have read \&amp;lt;/em&amp;gt;most* of them by spending a few weeks and condensing all of them into this checklist.​​ These 200+ tips are divided into 12 checklists:*&amp;lt;br/&amp;gt;
-These 200+ tips are divided into 12 checklists:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ 1 month before — 12 tips&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ 1 week before — 24 tips&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ 1 day before — 16 tips&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ Launch day — 42 tips&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ After launch — 32 tips&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ Launch kit — 16 tips&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ Places to share PH launch — 67 places&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ People section — get support from your network&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ Tools — 30 tools&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ Resources — 10 tips&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;◆ Extras — 06 tips  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Would love your feedback and support ⬆️&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;✨ &amp;lt;a href=&quot;https://www.producthunt.com/posts/product-hunt-launch-checklist&quot;&amp;gt;https://www.producthunt.com/posts/product-hunt-launch-checklist&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
