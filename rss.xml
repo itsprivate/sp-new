@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 24 Mar 2022 10:28:35 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我建立了一个应用程序，当一个游戏免费时，通过推送通知来通知你!]]></title><description><![CDATA[我曾经收集过EPIC游戏中每周提供的免费游戏。我现在有超过
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Mar 2022 02:27:38 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我建立了Footybar--帮助足球迷寻找足球酒吧的应用程序]]></title><description><![CDATA[你好。
+
+我一直在努力寻找能够播放我想看的足球比赛的酒吧。
+节目的酒吧，特别是在旅行时。因此，我聘请了海外的开发人员来建立一个
+一个名为Footybar[https://footybar.app]的简单应用，它可以根据你的位置显示足球酒吧。
+它可以根据你的位置显示足球酒吧，而且用户能够...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tn4yzz/i_built_footybar_app_that_helps_soccer_fans_find/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftn4yzz%2Fi_built_footybar_app_that_helps_soccer_fans_find%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftn4yzz%2Fi_built_footybar_app_that_helps_soccer_fans_find%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tn4yzz/i_built_footybar_app_that_helps_soccer_fans_find/</guid><pubDate>Fri, 25 Mar 2022 00:25:36 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;ve always struggled to find bars that would show soccer matches that I wanted to watch, especially when traveling. So I hired overseas developers to build a simple app called &amp;lt;a href=&quot;https://footybar.app&quot;&amp;gt;Footybar&amp;lt;/a&amp;gt; that would show soccer bars based on your location, and users would be able to review them and also suggest new bars. I would love constructive criticism and feedback, so I can add new useful features. It&amp;amp;#39;s far from being a perfect/complete data, but the app would show more accurate information with more user input. Check it out and review some bars on the app if you&amp;amp;#39;re a soccer fan!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一个应用程序，当一个游戏免费时，通过推送通知来通知你!]]></title><description><![CDATA[我曾经收集过EPIC游戏中每周提供的免费游戏。我现在有超过
 现在，仅在我的EPIC库中就有200多个免费游戏。因此，每当我错过
 错过一个游戏，我就会感到非常烦恼。这就是为什么我创建了这个应用程序。
 
@@ -447,15 +455,4 @@ https://rxresu.me...]]></description><link>https://sideproject.buzzing.cc/reddit
 &amp;lt;p&amp;gt;I&amp;amp;#39;ll be using it to help me pick colors for my own designs, and hoping it&amp;amp;#39;ll be useful to others that need to pick colors for their projects.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Cheers and thanks for checking it out! ✨&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[🌏👨🏻💻🎒☀️我已经为异步工作建立了一个招聘网站]]></title><description><![CDATA[该招聘网站的目标是发布为员工提供时间灵活性的工作。
-雇员。它包括异步文化/兼职/自由工作的副业等。
-项目，等等。
-
-以下是链接：https://asynccjobs.com/
-
-请支持和分享。谢谢你。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tbtwa0/ive_built_a_job_board_for_asynchronous_jobs/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftbtwa0%2Five_built_a_job_board_for_asynchronous_jobs%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftbtwa0%2Five_built_a_job_board_for_asynchronous_jobs%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tbtwa0/ive_built_a_job_board_for_asynchronous_jobs/</guid><pubDate>Fri, 11 Mar 2022 19:03:08 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;The goal of the job board is to post jobs that offer time flexibility to employees. It includes async culture/ part-time/ the freedom to work on side projects, etc.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here is the link: &amp;lt;a href=&quot;https://asynccjobs.com/&quot;&amp;gt;https://asynccjobs.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Please do support and share. Thank you.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
