@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Mar 2022 11:17:09 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[嗨，我在go和graphQL中为我的作品（漫画）创建了第一个项目，是一个愚蠢的/简单的API，但我还是很自豪，希望你会喜欢它，或者一起工作来改进它 ⭐️]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tni5i6/hi_i_created_my_first_project_for_my_portofolio/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftni5i6%2Fhi_i_created_my_first_project_for_my_portofolio%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftni5i6%2Fhi_i_created_my_first_project_for_my_portofolio%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tni5i6/hi_i_created_my_first_project_for_my_portofolio/</guid><pubDate>Fri, 25 Mar 2022 10:53:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了Footybar--帮助足球迷寻找足球酒吧的应用程序]]></title><description><![CDATA[你好。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Mar 2022 13:53:38 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我终于完成了这个工作! 我在Windframe中添加了一个tailwind css可视化表单生成器，用于快速构建漂亮的、响应式的表单/原型/表单页面。轻松地创建一个可视化的表单，或者使用几乎可以用各种方式编辑的模板。最后，完成后你可以导出代码。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tnj9qi/i_finally_finished_this_i_added_a_tailwind_css/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftnj9qi%2Fi_finally_finished_this_i_added_a_tailwind_css%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftnj9qi%2Fi_finally_finished_this_i_added_a_tailwind_css%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tnj9qi/i_finally_finished_this_i_added_a_tailwind_css/</guid><pubDate>Fri, 25 Mar 2022 12:12:41 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[嗨，我在go和graphQL中为我的作品（漫画）创建了第一个项目，是一个愚蠢的/简单的API，但我还是很自豪，希望你会喜欢它，或者一起工作来改进它 ⭐️]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tni5i6/hi_i_created_my_first_project_for_my_portofolio/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftni5i6%2Fhi_i_created_my_first_project_for_my_portofolio%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftni5i6%2Fhi_i_created_my_first_project_for_my_portofolio%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tni5i6/hi_i_created_my_first_project_for_my_portofolio/</guid><pubDate>Fri, 25 Mar 2022 10:53:53 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了Footybar--帮助足球迷寻找足球酒吧的应用程序]]></title><description><![CDATA[你好。
 
 我一直在努力寻找能够播放我想看的足球比赛的酒吧。
 节目的酒吧，特别是在旅行时。因此，我聘请了海外的开发人员来建立一个
@@ -405,40 +405,4 @@ https://preview.redd.it/0s3qpd1n4bn81.png?width=2240&format=png&auto=webp&s=b38f
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://bhailang.js.org/&quot;&amp;gt;&amp;lt;strong&amp;gt;Bhailang&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt; is simple and made for fun language, which is written in typescript.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Try it out now at &amp;lt;a href=&quot;https://bhailang.js.org/&quot;&amp;gt;bhailang.js.org&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Reactive Resume - 一个免费的、开源的简历制作工具，现在已经是v3版本了。]]></title><description><![CDATA[你好，r/SideProject [/r/SideProject]!
-
-你们都知道并喜爱的免费开源简历制作程序现在已经有了
-3.0版本，距其首次发布已近两年，而且它已经面世了!
-
-在这里，我不想一下子纠缠于细节，以下是一些链接
-兴趣。
-
-https://rxresu.me...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tc8gj0/reactive_resume_a_free_and_open_source_resume/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftc8gj0%2Freactive_resume_a_free_and_open_source_resume%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftc8gj0%2Freactive_resume_a_free_and_open_source_resume%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tc8gj0/reactive_resume_a_free_and_open_source_resume/</guid><pubDate>Sat, 12 Mar 2022 07:07:52 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello, &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt;!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The free and open-source resume builder app you all know and love is now on version 3.0, almost two years since its initial release, and it&amp;amp;#39;s out there!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Without dwelling into the details too much at once, here are the links of interest:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://rxresu.me/&quot;&amp;gt;&amp;lt;strong&amp;gt;https://rxresu.me&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;strong&amp;gt;/&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://docs.rxresu.me&quot;&amp;gt;Docs&amp;lt;/a&amp;gt; &amp;lt;strong&amp;gt;/&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://github.com/AmruthPillai/Reactive-Resume&quot;&amp;gt;GitHub&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This new update comes with a lot of new features:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Multiple Pages and Easy Layout Management&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Import data from LinkedIn, JSON Resume&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Refreshed UI with a more natural UX&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Export a PDF within 5 seconds&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Get customized links to your resume for easy access/sharing&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Custom-made backend, no more connections to Google/Firebase. Your data is safe, as it has always been.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;The purpose and mission of Reactive Resume has always been to help those who can&amp;amp;#39;t depend on expensive builders or online websites to be able to whip up a neat-looking resume for themselves, gain some confidence and apply to the companies that they aspire to be in.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;As of today, the app had a total of 75,000+ users, with a bit more than 83,000+ resumes generated. This is not data that was tracked, but merely a count of the number of documents. I&amp;amp;#39;ve gotten a couple of donations as well, a bit over $100 in two years, which I&amp;amp;#39;m extremely grateful for. The docker images to self-host Reactive Resume had a whopping 2.4M+ pulls, and finally, the number of stars on GitHub has been a shining 3.5k+ since the past week now.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;These numbers are all great, and for a project that started off as just a little idea for me, I do feel good about it. But nothing makes me feel happier than the thousands of folks who reached out to me through email, GitHub, and LinkedIn to tell me how they loved the app, how it helped them land their first job, and how it gave them the confidence in a competitive world.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;My only wish is that this little project I created reaches the folks who really need it the most, and that can only happen with your help. If your friend is looking for a resume builder, don&amp;amp;#39;t make them use MS Word or pay for an expensive service, suggest Reactive Resume. They, and I, will be thankful to you.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thank you for all the love and support. Please try out the new version and let me know what you think about it and if there&amp;amp;#39;s anything I can do to make it better. Always happy to hear from the community.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
