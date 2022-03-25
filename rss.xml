@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Mar 2022 19:45:38 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[产品亨特是在促成仇恨、种族主义和歧视？让我们辩论一下!]]></title><description><![CDATA[我是一个小组的成员，在那里我听到了很多关于产品的有趣事情。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Mar 2022 20:08:33 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[副业项目拯救了我的生活]]></title><description><![CDATA[黑暗时代
+
+早在去年3月，我就讨厌我的工作。我工作过度，经常被忽视
+忽视（尽管我是首席技术官），并且每天都被一个深谙此道的老板贬低。
+他对所有事情都了如指掌。由于不断受到损害，我对自己和自己的能力失去了所有的信心。
+我对自己和我作为一个专业人士的能力失去了信心。我的工作就是这样。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tnqyqc/side_projects_saved_my_life/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftnqyqc%2Fside_projects_saved_my_life%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftnqyqc%2Fside_projects_saved_my_life%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tnqyqc/side_projects_saved_my_life/</guid><pubDate>Fri, 25 Mar 2022 19:42:44 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;h3&amp;gt;The Dark Times&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Back in March last year, I was hating my job. I was overworked, frequently ignored (even though I was the CTO) and undermined daily by a boss who knew better about everything. Due to the constant undermining, I had lost all confidence in myself and my ability as a professional. My brain told me that this job was as good as it was gonna get because nobody else would hire me. Anyone who has felt this way before knows how dark these times can be. They are all-consuming and make you question your entire existence.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Luckily, I had great people around me. I had my wife building me up daily. She created a jar of positive affirmations which is a mechanism for anyone who struggles with depression. I had also started with a great therapist who put me on anti-depressants. I was heading out of the dark into the light, but I wasn&amp;amp;#39;t quite there, yet.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;The Workout Montage&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;I was feeling mentally better than I did. But I needed something that would give me purpose, that was fun and that would give me the confidence to do what I really needed to do... get the fuck out of my job.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It had been over a year since I had worked on any side projects, I needed something new. Something that may actually help me better organise my day, as being overwhelmed was maybe something at this point I could fix.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I had been trying to find a tool that would integrate with everything I used daily. I was spread across multiple different Jira boards. I had items personal notes in the mac notes app. I had personal to-do&amp;amp;#39;s in the Microsoft To-Do app and then I had my meetings. That was 4 separate apps, and I was always several clicks away from anything I needed. That&amp;amp;#39;s not great at the best of times, but when you suffer from ADHD the distraction opportunities between 4 clicks are high! Nothing was working, and it was chaos.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So, I started hacking together a MacOS app that would be accessible on my mac from any screen, via the menu bar or a keyboard shortcut. It would be integrated with Jira so I could add my tasks from multiple boards/projects in one place along with my calendar via the use of the Apple Calendar API. &amp;lt;strong&amp;gt;And it worked!&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;...Well, in theory, it did. I wasn&amp;amp;#39;t actually any more organised as I was now distracted by improving my app, which would eventually be known as &amp;lt;a href=&quot;https://sprintdock.app&quot;&amp;gt;SprintDock&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Recap in a Recap. Recap-ception.&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;I had found a problem, a problem that I knew other people would, and I was already well on my way to having a solution. That was an assumption at this point, but one that proved to be right further down the line. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But equally as important, I had got my confidence and mojo back! I could tell myself again with confidence I was good at this shit, and this job that was killing me was not &amp;amp;#39;as good as it was gonna&amp;amp;#39; get&amp;amp;#39;. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I am sharing this extremely personal journey, as a reminder to myself and anyone else who is or has been in a similar boat, that &amp;lt;strong&amp;gt;you are not your job&amp;lt;/strong&amp;gt;. But also how passion project, good people, and drive is all it really takes to change your path in life. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Side projects changed my life.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[产品亨特是在促成仇恨、种族主义和歧视？让我们辩论一下!]]></title><description><![CDATA[我是一个小组的成员，在那里我听到了很多关于产品的有趣事情。
 猎头公司。
 
 其中最让我信服的是，ProductHunt的公开征集和认可的
@@ -480,4 +512,4 @@ https://preview.redd.it/0s3qpd1n4bn81.png?width=2240&format=png&auto=webp&s=b38f
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Ask me anything&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Stack Overflow CLONE（MySQL + Sequelize + Node + React）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/td5i5y/stack_overflow_clone_mysql_sequelize_node_react/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftd5i5y%2Fstack_overflow_clone_mysql_sequelize_node_react%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftd5i5y%2Fstack_overflow_clone_mysql_sequelize_node_react%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/td5i5y/stack_overflow_clone_mysql_sequelize_node_react/</guid><pubDate>Sun, 13 Mar 2022 13:06:47 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
