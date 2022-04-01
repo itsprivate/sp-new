@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 01 Apr 2022 20:44:50 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[忘記靈感。習慣是更可靠的。我想要可打印的習慣跟蹤器，所以我爲它建立了一個應用程序。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ttyu4d/forget_inspiration_habit_is_more_dependable_i/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fttyu4d%2Fforget_inspiration_habit_is_more_dependable_i%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fttyu4d%2Fforget_inspiration_habit_is_more_dependable_i%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ttyu4d/forget_inspiration_habit_is_more_dependable_i/</guid><pubDate>Fri, 01 Apr 2022 20:21:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[幫助創建你的創業公司網站--將Word文檔轉換爲單頁bootstrap網站]]></title><description><![CDATA[在過去的幾年裏，我一直在積極嘗試建立初創企業和應用程序。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 01 Apr 2022 22:26:00 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個簡單的啓動前等待名單工具，有一個內置的推薦系統，可以快速從你的登陸頁面收集註冊信息]]></title><description><![CDATA[你好。
+
+我在建立一個完整的MVP之前，通過創建一個簡單的登陸頁面來收集電子郵件地址來測試很多項目的想法。
+在建立一個完整功能的MVP之前，我通過創建一個簡單的着陸頁來測試很多項目的想法，以收集電子郵件地址。創建一個登陸頁面是
+簡單，但由於要處理數據庫和服務器，整合一個註冊表格需要很多時間。
+處理數據庫和服務器。所以，我做了...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tttqor/i_made_a_simple_prelaunch_waitlist_tool_with_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftttqor%2Fi_made_a_simple_prelaunch_waitlist_tool_with_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftttqor%2Fi_made_a_simple_prelaunch_waitlist_tool_with_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tttqor/i_made_a_simple_prelaunch_waitlist_tool_with_a/</guid><pubDate>Fri, 01 Apr 2022 21:57:19 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I test lots of project ideas by creating a simple landing page to collect email addresses before building a fully feature MVP. Creating a landing page is simple, but it takes a lot of time to integrate a signup form because of handling the database and server. So, I made &amp;lt;a href=&quot;https://getlaunchlist.com/?ref=r_sideprojects&quot;&amp;gt;LaunchList&amp;lt;/a&amp;gt; to handle email signups without spending time to build from scratch.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;LaunchList is designed for early-stage Startups and Indiehackers to quickly validate ideas and build hype around the product.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;All waitlist comes with referral management so, your signup users can refer their friend to move up the waiting list.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you’re building a product and need a signup form, please give LaunchList a try and save hours of development time.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Signup link – &amp;lt;a href=&quot;https://getlaunchlist.com/?ref=r_sideprojects&quot;&amp;gt;https://getlaunchlist.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[忘記靈感。習慣是更可靠的。我想要可打印的習慣跟蹤器，所以我爲它建立了一個應用程序。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ttyu4d/forget_inspiration_habit_is_more_dependable_i/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fttyu4d%2Fforget_inspiration_habit_is_more_dependable_i%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fttyu4d%2Fforget_inspiration_habit_is_more_dependable_i%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ttyu4d/forget_inspiration_habit_is_more_dependable_i/</guid><pubDate>Fri, 01 Apr 2022 20:21:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[幫助創建你的創業公司網站--將Word文檔轉換爲單頁bootstrap網站]]></title><description><![CDATA[在過去的幾年裏，我一直在積極嘗試建立初創企業和應用程序。
 而我最討厭的一件事就是建立登陸頁面。
 
 在嘗試了Wordpress和Wix之後，我無法讓它看起來像其他創業公司一樣有吸引力。
@@ -480,15 +496,4 @@
 &amp;lt;p&amp;gt;We haven&amp;amp;#39;t launched yet, but you can join the waitlist to get notified of our launch:&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://startupref.com/&quot;&amp;gt;https://startupref.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[由有史以來第一個用於自我跟蹤的產品推出! 看看吧。]]></title><description><![CDATA[我推出了我的第一個產品，現在正試圖搞清楚分銷。
-如果你能檢查並反饋這個產品，我將非常感激。
-我將不勝感激!
-
-我共同建立了Lyfe，其使命是以數據驅動的方式提高人們的幸福感。
-的方式改善人們的福祉。我們希望它成爲一個個人好友界面...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tjxrnu/launched_by_firstever_product_for_selftracking/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftjxrnu%2Flaunched_by_firstever_product_for_selftracking%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftjxrnu%2Flaunched_by_firstever_product_for_selftracking%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tjxrnu/launched_by_firstever_product_for_selftracking/</guid><pubDate>Tue, 22 Mar 2022 10:39:34 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I launched my first ever product and am trying to figure out distribution now. If you could check and give feedback on this product, I would greatly appreciate it!  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I co-built Lyfe with a mission to improve people&amp;amp;#39;s well-being in a data-driven way. We hope it becomes a personal buddy interface between you and the mountains of data you generate each day.  Its current main features are:&amp;lt;br/&amp;gt;
-✨Mood, activity, and anything tracking&amp;lt;br/&amp;gt;
-✨User-friendly dashboard that displays correlations, habits, you name it&amp;lt;br/&amp;gt;
-✨Check out more on &amp;lt;a href=&quot;https://lyfe.ltd&quot;&amp;gt;lyfe.ltd&amp;lt;/a&amp;gt; or &amp;lt;a href=&quot;https://www.producthunt.com/posts/lyfe-3&quot;&amp;gt;https://www.producthunt.com/posts/lyfe-3&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
