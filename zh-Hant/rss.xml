@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 01 Apr 2022 15:55:32 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[幫助創建你的創業公司網站--將Word文檔轉換爲單頁bootstrap網站]]></title><description><![CDATA[在過去的幾年裏，我一直在積極嘗試建立初創企業和應用程序。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 01 Apr 2022 20:44:50 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[忘記靈感。習慣是更可靠的。我想要可打印的習慣跟蹤器，所以我爲它建立了一個應用程序。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ttyu4d/forget_inspiration_habit_is_more_dependable_i/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fttyu4d%2Fforget_inspiration_habit_is_more_dependable_i%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fttyu4d%2Fforget_inspiration_habit_is_more_dependable_i%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ttyu4d/forget_inspiration_habit_is_more_dependable_i/</guid><pubDate>Fri, 01 Apr 2022 20:21:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[幫助創建你的創業公司網站--將Word文檔轉換爲單頁bootstrap網站]]></title><description><![CDATA[在過去的幾年裏，我一直在積極嘗試建立初創企業和應用程序。
 而我最討厭的一件事就是建立登陸頁面。
 
 在嘗試了Wordpress和Wix之後，我無法讓它看起來像其他創業公司一樣有吸引力。
@@ -491,21 +491,4 @@
 ✨Mood, activity, and anything tracking&amp;lt;br/&amp;gt;
 ✨User-friendly dashboard that displays correlations, habits, you name it&amp;lt;br/&amp;gt;
 ✨Check out more on &amp;lt;a href=&quot;https://lyfe.ltd&quot;&amp;gt;lyfe.ltd&amp;lt;/a&amp;gt; or &amp;lt;a href=&quot;https://www.producthunt.com/posts/lyfe-3&quot;&amp;gt;https://www.producthunt.com/posts/lyfe-3&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[subsets.io - 豐富數據集的平臺，在幾秒鐘內完成。]]></title><description><![CDATA[大家好!
-
-我是Erik，subsets.io的聯合創始人 [https://subsets.io] Subsets.io是一個平臺。
-在這裏你可以上傳數據集，並與相關的外部數據集進行匹配
-並將其合併到你的數據集中，只需點擊一下。
-
-demo.subsets.io [https://i.redd.it/6ys25ez7tqo81.gif]
-
-我們的目標是...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tjcenu/subsetsio_platform_to_enrich_datasets_in_seconds/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftjcenu%2Fsubsetsio_platform_to_enrich_datasets_in_seconds%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftjcenu%2Fsubsetsio_platform_to_enrich_datasets_in_seconds%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tjcenu/subsetsio_platform_to_enrich_datasets_in_seconds/</guid><pubDate>Mon, 21 Mar 2022 23:09:39 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi everyone!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I’m Erik, Co-Founder of &amp;lt;a href=&quot;https://subsets.io&quot;&amp;gt;subsets.io&amp;lt;/a&amp;gt; Subsets.io is a platform where you can upload datasets, and get matched with relevant external datasets which can be merged into your dataset with one click.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://i.redd.it/6ys25ez7tqo81.gif&quot;&amp;gt;demo.subsets.io&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Our goal is to make it easier to pull in relevant external data. No more dealing with APIs and their rate limits, pagination, etc.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Check it out on &amp;lt;a href=&quot;https://subsets.io/&quot;&amp;gt;https://subsets.io&amp;lt;/a&amp;gt;. Let me know what you think. :)&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
