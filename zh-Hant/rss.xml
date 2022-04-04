@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Apr 2022 16:35:35 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[UrgentJobs.ca - 一個由絕望的僱主在加拿大發布緊急工作的招聘網站]]></title><description><![CDATA[嘿，側面項目的製造者們，上週我建立併發布了一個工作聚合器，用於
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Apr 2022 19:40:59 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[用Doodle寫一次網頁/桌面聯繫人應用程序]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tw3rm4/webdesktop_contacts_app_written_once_with_doodle/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftw3rm4%2Fwebdesktop_contacts_app_written_once_with_doodle%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftw3rm4%2Fwebdesktop_contacts_app_written_once_with_doodle%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tw3rm4/webdesktop_contacts_app_written_once_with_doodle/</guid><pubDate>Mon, 04 Apr 2022 19:17:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[UrgentJobs.ca - 一個由絕望的僱主在加拿大發布緊急工作的招聘網站]]></title><description><![CDATA[嘿，側面項目的製造者們，上週我建立併發布了一個工作聚合器，用於
 緊急工作[https://urgentjobs.ca?ref=slashrsp]，它可以在全國各省市拉出所有的
 標有 "緊急招聘 "或 "立即開始 "字樣的所有工作，在加拿大所有省份和城市
 加拿大。
@@ -454,37 +454,4 @@ GreetPool--一個協作式團體賀卡平臺，使分佈在各地的
 &amp;lt;p&amp;gt;Unless PH has sold itself to George Soros&amp;amp;#39; investors, &amp;lt;strong&amp;gt;I personally feel ProductHunt should limit it&amp;amp;#39;s political expression and keep the platform inclusive, safe and hate-free.&amp;lt;/strong&amp;gt; Maybe political products should be fact-checked. &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;We are already over-exposed to political news on social media, business communities like Product Hunt must stop politicizing their platform. Do you agree? What do you think? Let me know.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[反饋。我們建立了一個用於辦公桌/空間管理的slack應用程序]]></title><description><![CDATA[大家好。
-
-我們建立了一個slack應用程序來解決一個簡單的問題：在一個混合辦公室中管理能力。
-辦公室。
-
-我們認爲公司會縮小他們的辦公空間，而且大多數公司的可用辦公桌會少於
-桌子的數量少於團隊中的人數。因此，在一個
-混合工作環境中的容量管理將成爲一個問題，...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tnp077/feedback_we_built_a_slack_app_for_hot_desking/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftnp077%2Ffeedback_we_built_a_slack_app_for_hot_desking%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftnp077%2Ffeedback_we_built_a_slack_app_for_hot_desking%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tnp077/feedback_we_built_a_slack_app_for_hot_desking/</guid><pubDate>Fri, 25 Mar 2022 17:23:26 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi all,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We built a slack app to solve a simple problem: Managing capacity in a hybrid office.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We figured companies would downsize their office space and most would have less desks available than number of people in the team. So managing capacity in a hybrid-work setting would become an issue, primarily for office managers. Managing this with spreadsheets, forms, emails etc would be inefficient.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We also thought that for small companies this problem will exist, but will not be big enough to start using / paying for a dedicated piece of software. So we thought Slack would be the best place to solve this.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We built something really simple. An office user can&amp;lt;br/&amp;gt;
-- Book a day in the office,&amp;lt;br/&amp;gt;
-- See who will be in the office,&amp;lt;br/&amp;gt;
-- Cancel a booking.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;An office manager can&amp;lt;br/&amp;gt;
-- create a space (a space for an office, or multiple spaces if they want to breakdown the office),&amp;lt;br/&amp;gt;
-- set a capacity per space,&amp;lt;br/&amp;gt;
-- see some analytics and so on.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Take a look here: &amp;lt;a href=&quot;https://bukadesk.com/&quot;&amp;gt;https://bukadesk.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you would be willing to offer some guidance;&amp;lt;/p&amp;gt;
-
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;Does the problem resonate with you? Have you been in a situation where you need to book a space to go to the office?&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Any input / feedback you could offer to improve the service?&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
