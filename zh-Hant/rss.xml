@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 Apr 2022 11:45:45 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我們推出了關於所有開源事物的免費週報!]]></title><description><![CDATA[嗨，你好。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 Apr 2022 12:39:44 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我的第一個輔助項目。基督徒初學者，一個供新基督徒學習和信仰成長的資源中心（MEN堆）。]]></title><description><![CDATA[皆さん、こんにちは。
+
+ここ數年、私はMongo.NETを使ったWebサイト開発の勉強をしています。
+Express、Node.jsを使用していますが、プロジェクトを立ち上げるまでには至っていません。最近。
+しかし、キリスト教への信仰が深まりつつある今、このような形で、より多くの人に知ってもらいたいと思い
+そんな人たちの助けになるようなプロジェクトを立ち上げるのが、いいアイデアだと思うんです。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/txxoow/my_first_side_project_beginner_christian_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftxxoow%2Fmy_first_side_project_beginner_christian_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftxxoow%2Fmy_first_side_project_beginner_christian_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/txxoow/my_first_side_project_beginner_christian_a/</guid><pubDate>Thu, 07 Apr 2022 11:53:28 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey all! &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Over the past few years, I&amp;amp;#39;ve been learning to develop websites with Mongo, Express, and Node.js, but never managed to launch any projects. Recently, however, I&amp;amp;#39;ve started to grow in my Christian faith, and I thought it&amp;amp;#39;d be a good idea to create a project that would help others who are in a similar position (or who are interested in Christianity). You can find it here: &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://beginnerchristian.net&quot;&amp;gt;https://beginnerchristian.net&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The website isn&amp;amp;#39;t anything crazy - it&amp;amp;#39;s a collection of articles and products I&amp;amp;#39;ve curated that I think will help new folks understand the basic concepts better. I&amp;amp;#39;m using Amazon Affiliate links for each product as well, and I&amp;amp;#39;m going to donate all the money generated through those to charity (you can check out the charities on the Charities page). The site also has a short checklist of tasks user can complete to help lead them in the right direction.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Like I said, I&amp;amp;#39;m pretty new to launching and optimizing sites, so I&amp;amp;#39;d love any feedback! Thanks for taking the time to check it out. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/4fb38qqgczr81.jpg?width=1080&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=74432c5bbb636a47c440de03206c19fcddedb36a&quot;&amp;gt;https://preview.redd.it/4fb38qqgczr81.jpg?width=1080&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=74432c5bbb636a47c440de03206c19fcddedb36a&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我們推出了關於所有開源事物的免費週報!]]></title><description><![CDATA[嗨，你好。
 
 我是Vihar；我在一家開源組織擔任開發-關係工程師。
 每一天，我都看到開源的勢頭，它可以在更多的地方響起
@@ -567,4 +583,4 @@ GreetPool--一個協作式團體賀卡平臺，使分佈在各地的
 &amp;lt;/ul&amp;gt;
 
 &amp;lt;p&amp;gt;Thant&amp;amp;#39;s all, thanks&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個應用程序，可以製作漂亮的圖片和GIF的代碼]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tpbsg5/ive_made_an_app_to_make_beautiful_images_and_gifs/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftpbsg5%2Five_made_an_app_to_make_beautiful_images_and_gifs%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftpbsg5%2Five_made_an_app_to_make_beautiful_images_and_gifs%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/tpbsg5/ive_made_an_app_to_make_beautiful_images_and_gifs/</guid><pubDate>Sun, 27 Mar 2022 05:35:22 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
