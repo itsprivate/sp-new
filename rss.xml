@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 15 Apr 2022 16:57:29 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我一直在做的一个起始页的辅助项目]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u4akke/a_startpage_side_project_that_ive_been_working_on/?score=9&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4akke%2Fa_startpage_side_project_that_ive_been_working_on%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4akke%2Fa_startpage_side_project_that_ive_been_working_on%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u4akke/a_startpage_side_project_that_ive_been_working_on/</guid><pubDate>Fri, 15 Apr 2022 16:33:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[TodoX：任务管理器和时间跟踪器]]></title><description><![CDATA[在过去的1.5年里，我一直在开发TodoX
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 15 Apr 2022 20:06:39 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[黑客新闻客户端专注于内容和可读性]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u3rbe0/hackernews_client_focused_on_content_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu3rbe0%2Fhackernews_client_focused_on_content_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu3rbe0%2Fhackernews_client_focused_on_content_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u3rbe0/hackernews_client_focused_on_content_and/</guid><pubDate>Fri, 15 Apr 2022 19:21:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[PraxisMapper - 开源的GPS游戏控制器和客户端。我自己做了一个类似Pokemon Go的游戏! 你也可以!]]></title><description><![CDATA[服务器代码 [https://github.com/drakewill-CRL/PraxisMapper] 和客户端代码
+[https://github.com/drakewill-CRL/Hypothesis]
+
+客户端图像 - 生物收集器地图
+[https://user-images.githubusercontent.com/46307022/163604513-fb2271a4-0d42-43ce-8fa2-300be87cc475.png]
+客户端图片--生物...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u4e3ub/praxismapper_open_source_gps_game_sever_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4e3ub%2Fpraxismapper_open_source_gps_game_sever_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4e3ub%2Fpraxismapper_open_source_gps_game_sever_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u4e3ub/praxismapper_open_source_gps_game_sever_and/</guid><pubDate>Fri, 15 Apr 2022 19:21:09 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://github.com/drakewill-CRL/PraxisMapper&quot;&amp;gt;Server code&amp;lt;/a&amp;gt; and &amp;lt;a href=&quot;https://github.com/drakewill-CRL/Hypothesis&quot;&amp;gt;Client code&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://user-images.githubusercontent.com/46307022/163604513-fb2271a4-0d42-43ce-8fa2-300be87cc475.png&quot;&amp;gt;Client Image - Creature Collector Map&amp;lt;/a&amp;gt;
+&amp;lt;a href=&quot;https://pbs.twimg.com/media/FQWk7C_UcAQ9VU9?format=png&quot;&amp;gt;Client Image - Creature Collected&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;PraxisMapper is a server set up to make GPS games. Or location-based game. Or maybe AR games if you insist on the latest buzzwords. You know, the kind where you walk around in realspace and interact with stuff on your phone based on where you are. Pokemon Go, Ingress, Zombie Run, that vein of game.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Most importantly: it works, it is self-contained, it is scalable, and it is cheap. I have a test server up that covers the state of Ohio for gameplay, and it has slightly more CPU power than a Raspberry Pi 3. No live stress testing has happened yet, but estimates on how many active players can play at once are somewhere between 20 and 100, depending on some client settings. Currently it supports 3 different database backends (MS Sql Server and MariaDB, though for PostgreSQL you&amp;amp;#39;ll have to set that database up manually at the moment).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The server is written entirely in C#, using OpenStreetMap data to fill in the database, and draws map tiles itself. This might be the only C# project drawing OSM maptiles in any form. I looked around and found nothing that did any drawing logic so I had to write it up myself. This is a generic server, so it only handles storing data and generating map tiles. The client is where all the game logic goes right now, though if someone wanted to make a more robust server-side game they can pull the PraxisCore.dll out of my solution and use that to power a solution that has the specific game logic.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The app is written with Solar2D, since its one of the few game engines that provides direct support for GPS data on mobile. I am not as good in Lua as I am in C#, so the client code probably has much more room for improvement. I will probably need to rewrite this to work in the HTML5 export instead of building mobile apps to support some of my projected use cases for this system, such as convention games in a small area or augmenting LARPs with some tracked/shared info, where it&amp;amp;#39;s unreasonable to jump through all the hoops for 2 mobile app stores for a short-term event.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;ve spent the last 2 years working on this side project, and yesterday was the first day where I was able to walk around my block and have the original Pokemon Go-style idea work, where creatures were scattered around the map, and I could walk around to pick them up. The original motivation came about when I quit Pokemon Go for being too heavy for my phone to run, and when it did open I spent 5 minutes waiting for popups, alerts, reminders, and notifications to go away before I could actually interact with the game itself. I just want a chill game that gives me a reason to get away from my desk and get outside when I can. I have that now.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我一直在做的一个起始页的辅助项目]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u4akke/a_startpage_side_project_that_ive_been_working_on/?score=9&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4akke%2Fa_startpage_side_project_that_ive_been_working_on%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4akke%2Fa_startpage_side_project_that_ive_been_working_on%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u4akke/a_startpage_side_project_that_ive_been_working_on/</guid><pubDate>Fri, 15 Apr 2022 16:33:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[TodoX：任务管理器和时间跟踪器]]></title><description><![CDATA[在过去的1.5年里，我一直在开发TodoX
 [https://todox.online/?utm_source=reddit&utm_medium=sideproject] 在我的空闲时间
 - 一个任务管理器和时间跟踪器。现在，这个项目已经进入了我不太羞于向别人展示的状态。
 羞于向别人展示的状态。
@@ -509,41 +528,4 @@ https://mintacademy.com
 &amp;lt;p&amp;gt;After thinking on it for a while, I came up with a growth hacking plan I think that could turn a bootstrapped side project into a profitable customer-funded business. I&amp;amp;#39;d like to offer it 100% free to the makers of &amp;lt;a href=&quot;/r/sideproject&quot;&amp;gt;r/sideproject&amp;lt;/a&amp;gt; in exchange for testimonials and case studies because ultimately, I&amp;amp;#39;d like to turn it into a consulting business or info product down the road.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Shoot me a chat if you&amp;amp;#39;re interested!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一个免费的清单产品--互动清单--分享和嵌入互动清单（即将推出测试版）。]]></title><description><![CDATA[互动列表[https://interactlist.com/]目前处于私人阿尔法阶段，并将在不久后推出公开测试版。
-列表，并将很快推出公共测试版，请看一下并让我知道你的想法。
-想法。
-
-以下是最近创建的一些检查表（注意：你可以在没有账户的情况下跟踪
-你可以在没有账户的情况下跟踪你的进展)
-
-
-搜索引擎
-
-如何...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tw4deo/i_built_a_free_checklist_product_interact_list/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftw4deo%2Fi_built_a_free_checklist_product_interact_list%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftw4deo%2Fi_built_a_free_checklist_product_interact_list%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tw4deo/i_built_a_free_checklist_product_interact_list/</guid><pubDate>Mon, 04 Apr 2022 20:05:14 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://interactlist.com/&quot;&amp;gt;Interact List&amp;lt;/a&amp;gt; is currently in private alpha and will be launching to public beta shortly, please have a look and let me know what you think:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here are some of the checklists created recently &amp;lt;em&amp;gt;(note: you can keep track of your progress without an account)&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;SEO&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://interactlist.com/aMxFh6zaLQ&quot;&amp;gt;How To Audit Any Google Ads Account - 37 ways of finding ways to make more 💰 through PPC&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;COPYWRITING&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://interactlist.com/mkeY8pFuq4&quot;&amp;gt;Landing Page Copywriting Checklist - 10 marketing tips to increase conversions and sales on your site right now&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://interactlist.com/91SqgSJ-Hr&quot;&amp;gt;10 copywriting tips to help you master marketing - Apple, Nike, Coca Cola. 3 legendary companies. 1 common marketing trait: Great copywriting&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;LANDING PAGES&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://interactlist.com/OObS7wYh8&quot;&amp;gt;Landing Page Design - A checklist to tighten your design in your Landing Page&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://interactlist.com/A98R6wWCb&quot;&amp;gt;Landing Page Testimonials - A checklist to ensure your testimonials are effective in your Landing Page&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://interactlist.com/6ZJg--z0N&quot;&amp;gt;Landing Page Pricing - A checklist to help clarify and strengthen your Landing Page pricing&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://interactlist.com/-Xfs0vIDM&quot;&amp;gt;Landing Page Pre-Launch - A final run through of checks on your production site before the big announcement&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I hope you get some good value out of these valuable lists, and if you enjoyed using the product, please &amp;lt;a href=&quot;https://interactlist.com/subscribe&quot;&amp;gt;sign up&amp;lt;/a&amp;gt; and get notified when beta is ready to roll&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[用Doodle写一次网页/桌面联系人应用程序]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tw3rm4/webdesktop_contacts_app_written_once_with_doodle/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftw3rm4%2Fwebdesktop_contacts_app_written_once_with_doodle%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftw3rm4%2Fwebdesktop_contacts_app_written_once_with_doodle%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/tw3rm4/webdesktop_contacts_app_written_once_with_doodle/</guid><pubDate>Mon, 04 Apr 2022 19:17:10 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
