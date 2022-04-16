@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 16 Apr 2022 11:40:09 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[適用於MacOS的Easing Curve Editor]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u4ucbz/easing_curve_editor_for_macos/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4ucbz%2Feasing_curve_editor_for_macos%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4ucbz%2Feasing_curve_editor_for_macos%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u4ucbz/easing_curve_editor_for_macos/</guid><pubDate>Sat, 16 Apr 2022 11:19:08 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[黑客新聞客戶端專注於內容和可讀性]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u3rbe0/hackernews_client_focused_on_content_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu3rbe0%2Fhackernews_client_focused_on_content_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu3rbe0%2Fhackernews_client_focused_on_content_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u3rbe0/hackernews_client_focused_on_content_and/</guid><pubDate>Fri, 15 Apr 2022 19:21:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[PraxisMapper - 開源的GPS遊戲控制器和客戶端。我自己做了一個類似Pokemon Go的遊戲! 你也可以!]]></title><description><![CDATA[服務器代碼 [https://github.com/drakewill-CRL/PraxisMapper] 和客戶端代碼
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 16 Apr 2022 18:49:40 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我是一名網站開發人員，我認爲大多數預訂系統有點糟糕。所以我建立了一個，而且完全免費。]]></title><description><![CDATA[爲什麼？
+
+大多數情況下，它歸結爲打電話預訂。而這並不
+在21世紀真的感覺不對。所以我做了一個免費的工具，叫做Inserve
+[https://inserve.co/for-businesses]，它應該使事情更容易。
+
+
+
+它有什麼特點？
+
+ * 客人可以在你的網站上進行預訂...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u517hl/im_webdeveloper_who_thought_that_most_reservation/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu517hl%2Fim_webdeveloper_who_thought_that_most_reservation%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu517hl%2Fim_webdeveloper_who_thought_that_most_reservation%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u517hl/im_webdeveloper_who_thought_that_most_reservation/</guid><pubDate>Sat, 16 Apr 2022 18:28:00 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Why?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Mostly it comes down to calling in order to make a reservation. And that doesn&amp;amp;#39;t really feel right in the 21st century. So I made a free tool, called &amp;lt;a href=&quot;https://inserve.co/for-businesses&quot;&amp;gt;Inserve&amp;lt;/a&amp;gt;, that should make things easier.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What are the features?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Guests can make reservations at your business by selecting seats on a user-friendly floorplan&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;You can set up your business on Inserve in just a few minutes (including the floorplan!)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Creating the floorplan works by a drag and drop builder&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;No costs, no limits, no ads! No credit card required!&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Fully fledged reservation management and monitoring system&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Widgets! So your guests can make reservations directly on your website&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Completely mobile friendly&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;For whom is it interesting?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For owners of a restaurant, bar, night club or even other businesses where a reservation is needed.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Give it a try:&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://inserve.co/for-businesses&quot;&amp;gt;&amp;lt;strong&amp;gt;inserve.co&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you wanna see the reservation system in action (from the guest&amp;amp;#39;s perspective), check out this &amp;lt;a href=&quot;https://inserve.co/businesses/76VwrYKnROTuiJLa8uh8&quot;&amp;gt;example restaurant&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/rdm69i08rwt81.png?width=1145&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=c97ea1f872b70b00948252e3a0edbe5728e0652d&quot;&amp;gt;https://preview.redd.it/rdm69i08rwt81.png?width=1145&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=c97ea1f872b70b00948252e3a0edbe5728e0652d&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[適用於MacOS的Easing Curve Editor]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u4ucbz/easing_curve_editor_for_macos/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4ucbz%2Feasing_curve_editor_for_macos%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4ucbz%2Feasing_curve_editor_for_macos%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u4ucbz/easing_curve_editor_for_macos/</guid><pubDate>Sat, 16 Apr 2022 11:19:08 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[黑客新聞客戶端專注於內容和可讀性]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u3rbe0/hackernews_client_focused_on_content_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu3rbe0%2Fhackernews_client_focused_on_content_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu3rbe0%2Fhackernews_client_focused_on_content_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u3rbe0/hackernews_client_focused_on_content_and/</guid><pubDate>Fri, 15 Apr 2022 19:21:09 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[PraxisMapper - 開源的GPS遊戲控制器和客戶端。我自己做了一個類似Pokemon Go的遊戲! 你也可以!]]></title><description><![CDATA[服務器代碼 [https://github.com/drakewill-CRL/PraxisMapper] 和客戶端代碼
 [https://github.com/drakewill-CRL/Hypothesis]
 
 客戶端圖像 - 生物收集器地圖
@@ -504,12 +547,4 @@ https://mintacademy.com
 如果你能給它一個機會，那就太好了。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/twu1sn/im_building_service_that_allows_smbs_and_startups/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftwu1sn%2Fim_building_service_that_allows_smbs_and_startups%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftwu1sn%2Fim_building_service_that_allows_smbs_and_startups%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/twu1sn/im_building_service_that_allows_smbs_and_startups/</guid><pubDate>Tue, 05 Apr 2022 14:43:58 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello fellow redditors, i&amp;amp;#39;m currently working on a side project called Denario. Businesses use Denario to pay and get paid, to significantly improve their financial processes and to facilitate the collaboration between managers, CFOs and their accountants.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Would be amazing if you could give it a try and send me some feedback. Here is the link: &amp;lt;a href=&quot;https://www.denario.io/en&quot;&amp;gt;www.denario.io/en&amp;lt;/a&amp;gt; and here you can sign up (I&amp;amp;#39;ll make you skip the waiting list): &amp;lt;a href=&quot;https://www.denario.io/en/early-access/1&quot;&amp;gt;https://www.denario.io/en/early-access/1&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我的Linux終端中的一個虛擬寵物的想法]]></title><description><![CDATA[你好，我正在尋找學習編碼的新項目思路。我已經學習了
-我已經學了6個多月了，我想要一個有趣的想法來激勵我繼續學習。
-所以我想做一個簡單的程序，創建一個虛擬寵物
-(稱爲 "terbie")，可以在終端上運行。
-
-你有什麼...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/two6y3/an_idea_for_a_virtual_pet_in_my_linux_terminal/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftwo6y3%2Fan_idea_for_a_virtual_pet_in_my_linux_terminal%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftwo6y3%2Fan_idea_for_a_virtual_pet_in_my_linux_terminal%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/two6y3/an_idea_for_a_virtual_pet_in_my_linux_terminal/</guid><pubDate>Tue, 05 Apr 2022 11:38:21 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello, I&amp;amp;#39;m looking for new project ideas to learn coding. I&amp;amp;#39;ve been learning for a little more than 6 months and I wanted a fun idea to motivate me to keep going,  so I thought about making a simple program that creates a virtual pet  (called &amp;amp;quot;termie&amp;amp;quot;) that can be run on a terminal.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;What do you think about this? What are the features you would like to see in a project like this? Also, do you maybe have any links to any tools that would help me develop this, if it isn&amp;amp;#39;t much trouble to ask?&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
