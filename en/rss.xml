@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Apr 2022 06:49:29 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Improve Your Digital Art]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u7omcw/improve_your_digital_art/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu7omcw%2Fimprove_your_digital_art%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu7omcw%2Fimprove_your_digital_art%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u7omcw/improve_your_digital_art/</guid><pubDate>Wed, 20 Apr 2022 06:24:52 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I created an application to replace the Excel with which I used to control my personal finances]]></title><description><![CDATA[A few years ago, I started taking care of my personal finances with a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Apr 2022 13:13:38 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Side project: Noobly. App for finding gamer friends. Update two years later.]]></title><description><![CDATA[Hi! It’s me again with a brief update about the progress of my side project:
+Noobly, an app designed to help gamers find gamer friends. TLDR: now it
+seemingly does a bit.
+
+Here is my original post from 2020:…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u7tgnb/side_project_noobly_app_for_finding_gamer_friends/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu7tgnb%2Fside_project_noobly_app_for_finding_gamer_friends%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu7tgnb%2Fside_project_noobly_app_for_finding_gamer_friends%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u7tgnb/side_project_noobly_app_for_finding_gamer_friends/</guid><pubDate>Wed, 20 Apr 2022 12:49:45 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi! It’s me again with a brief update about the progress of my side project: Noobly, an app designed to help gamers find gamer friends. TLDR: now it seemingly does a bit.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here is my original post from 2020: &amp;lt;a href=&quot;https://www.reddit.com/r/SideProject/comments/iyw627/side_project_noobly_mobile_app_for_meeting_gamers/&quot;&amp;gt;LINK&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;And the app itself, for anyone interested:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://noobly.xyz&quot;&amp;gt;https://noobly.xyz&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.theedo.noobly&quot;&amp;gt;Play Store&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://apps.apple.com/us/app/noobly-find-gamer-friends/id1587868646&quot;&amp;gt;App Store&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://discord.gg/jRVBuCDUjC&quot;&amp;gt;Discord&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;As of now, Noobly is over two years in the making and is still a 100% solo-dev side project. The app grew way outside my initial plan to make bare MVP to test the market niche. I was able to learn a LOT about coding over that time, improve all the initial features and add some more on top of that (shout out to Noobly users for all the amazing feature suggestions &amp;amp;amp; bug reports!), and the app itself is finally becoming stable, usable, and functional (although still not nearly bug-free:/)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;To my surprise, my work was awarded ‘Best App of 2021’ in the ‘fun’ category on the Google Play Store, and it slowly crawls toward 300k downloads. It makes me proud and happy about starting this crazy journey, as this is an outcome I never expected. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With that said, growth plateaued a bit recently as it gets harder over time to maintain &amp;amp;amp; develop the code, advertise the product, moderate user content, and keep up with other obligations/day jobs at the same time. Days are getting shorter now and keeping it all together evolved into some sort of marathon-type extreme sport, or rather a balancing act between progress and burnout.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I learned and started to practice the Stoic approach to living quite meticulously, as at times it feels like the only way to deal with solitude, frustration, criticism, anxiety, and failure. Noobly is the first thing that I did that gained any publicity - and I was not entirely prepared for that. Also, I’m still not sure if I haven’t wasted these two years and if it truly can be scaled up with my minimal resources. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;But I have to say that building a startup this way is not only a side-project activity but also a self-discovery journey to test your own limitations and face your own shortcomings. It’s rewarding regardless of the project&amp;amp;#39;s success.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This year I’m planning to focus on making this new way of meeting gamer friends more popular and perhaps finally finding some investments necessary to do so. So far I only applied to Y Combinator and I’m now anxiously awaiting the results. I also hope to create some more detailed content about this journey, problems, solutions, tech used, and my general thoughts about side-projecting from napkin sketch to a functional app if anyone is interested.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Also, I want to thank you all who encouraged me to continue this project, gave priceless feedback, and helped me with the development. I met a lot of wonderful and patient people along the way and received enough pats on the back to push through some seemingly insurmountable odds. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thanks, Reddit!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;On a side note: ironically I play fewer video games now :)&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Improve Your Digital Art]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u7omcw/improve_your_digital_art/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu7omcw%2Fimprove_your_digital_art%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu7omcw%2Fimprove_your_digital_art%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u7omcw/improve_your_digital_art/</guid><pubDate>Wed, 20 Apr 2022 06:24:52 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I created an application to replace the Excel with which I used to control my personal finances]]></title><description><![CDATA[A few years ago, I started taking care of my personal finances with a
 custom-made spreadsheet.
 
 It was working. Every month I was more aware of how I was spending my money, I
@@ -541,10 +576,4 @@ world conveniently from one…]]></description><link>https://sideproject.buzzing
 &amp;lt;p&amp;gt;We are live now over at &amp;lt;a href=&quot;https://uniquesnax.com&quot;&amp;gt;UniqueSnax.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;EDIT: Also, we have a very cute weenie mix that we would love to incorporate into our social media, but are worried how people will feel about a dog around food products&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Announcing vl - shell scripting in TypeScript]]></title><description><![CDATA[vl ls a tool for writing shell scripts using typescript with zero configuration.
-vl uses deno as its the javascript runtime.
-
-github repository [https://github.com/japiirainen/vl]]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/tzms33/announcing_vl_shell_scripting_in_typescript/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftzms33%2Fannouncing_vl_shell_scripting_in_typescript%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Ftzms33%2Fannouncing_vl_shell_scripting_in_typescript%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/tzms33/announcing_vl_shell_scripting_in_typescript/</guid><pubDate>Sat, 09 Apr 2022 08:19:44 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;vl ls a tool for writing shell scripts using typescript with zero configuration. vl uses deno as its the javascript runtime.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://github.com/japiirainen/vl&quot;&amp;gt;github repository&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
