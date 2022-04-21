@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 21 Apr 2022 14:52:20 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[№3 大数据更新 创始人 相关位置解析器 VC]]></title><description><![CDATA[可能是他们工作了6年多的最有趣的更新。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 21 Apr 2022 20:17:18 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我建立了用AI处理和标记视频的最简单方法]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u8uvo0/i_built_the_easiest_way_to_process_and_tag_videos/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu8uvo0%2Fi_built_the_easiest_way_to_process_and_tag_videos%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu8uvo0%2Fi_built_the_easiest_way_to_process_and_tag_videos%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u8uvo0/i_built_the_easiest_way_to_process_and_tag_videos/</guid><pubDate>Thu, 21 Apr 2022 19:39:10 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[№3 大数据更新 创始人 相关位置解析器 VC]]></title><description><![CDATA[可能是他们工作了6年多的最有趣的更新。
 是创始人相关地点。简而言之，就是创始人的根基。
 这是创业公司的创始人在哪些国家生活和工作的信息。
 工作过。
@@ -550,51 +550,4 @@ https://preview.redd.it/ons8ry4n17m81.jpg?width=1125&format=pjpg&auto=webp&s=e2b
 &amp;lt;p&amp;gt;I am still working out some of the other kinks and UI bugs on the website, but I am so happy with what I have built so far, but I would love to hear your thoughts good people.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Also, apologise for the giddy-ness of this post. This is a HUGE win for my project.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我刚刚发布了我的iOS卡路里计算应用程序的第一个测试版]]></title><description><![CDATA[大家好 👋。
-
-我已经在我的iOS（15）应用程序Caloree上工作了大约12个月。我花了
-中间有一些休息时间，因为同时处理工作、家庭和孩子以及一个副业并不容易。
-并不总是那么容易。
-
-但今天我很高兴地宣布，我将发布第一个早期测试版的
-版本。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u0riwp/i_just_released_the_first_beta_of_my_ios_calorie/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu0riwp%2Fi_just_released_the_first_beta_of_my_ios_calorie%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu0riwp%2Fi_just_released_the_first_beta_of_my_ios_calorie%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u0riwp/i_just_released_the_first_beta_of_my_ios_calorie/</guid><pubDate>Mon, 11 Apr 2022 00:07:10 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi all 👋,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I have been working on my iOS (15) app Caloree for around 12 months now. I took some breaks in-between as managing work, family with kids and a side-project at the same time is not always easy.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;But today I am pleased to announce that I am releasing a first, early beta version of Caloree.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What is Caloree?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I have been frustrated with existing diet trackers out there. Either they require an expensive subscription or they track you and sell your data. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Caloree is a simple Caloree tracker that respects your privacy (we don&amp;amp;#39;t track you at all and never will). Also, Caloree will never be a subscription-based app. Instead Caloree will offer 2 tiers of in-app purchases:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Pro: you will get access to hundreds of thousands of products, be able to scan the barcodes of these products&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Ultra: you gain the ability to plan several days in advance and in the future you will get nifty features, such as image recognition, Apple Watch support, Widgets, etc.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What to expect?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;As mentioned, this is an early build, so there will be rough spots. I am also working on additional features as I am writing this. The product catalog is still quite raw, currently lacking basic foods such as eggs and milk, which will follow in later beta versions. The weight screen still needs some love and also data entry could be better.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Participating&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you would like to try out Caloree on your iPhone or know some friends who would like to try it out, feel free to install it: &amp;lt;a href=&quot;https://testflight.apple.com/join/C5Cx63Ck&quot;&amp;gt;https://testflight.apple.com/join/C5Cx63Ck&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ll be scanning this post for any questions, comments or feedback that you might have. If you would like to participate more actively you can also join the Caloree Discord server (&amp;lt;a href=&quot;https://discord.gg/h4XCmkPq&quot;&amp;gt;https://discord.gg/h4XCmkPq&amp;lt;/a&amp;gt;) where I&amp;amp;#39;ll try to be available at least once a day to discuss feature requests, learn about any issues that you found or anything else that could be useful regarding Caloree.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I hope you like this early release of Caloree. Happy testing! &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Rudy&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
