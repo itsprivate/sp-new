@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Apr 2022 12:27:01 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I moved my product out of Beta with paying customers 😄]]></title><description><![CDATA[Hey guys!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Apr 2022 14:39:11 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I made a wordle (click-)bot - here the statistics for 100 games]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/ucxrha/i_made_a_wordle_clickbot_here_the_statistics_for/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fucxrha%2Fi_made_a_wordle_clickbot_here_the_statistics_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fucxrha%2Fi_made_a_wordle_clickbot_here_the_statistics_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/ucxrha/i_made_a_wordle_clickbot_here_the_statistics_for/</guid><pubDate>Wed, 27 Apr 2022 14:11:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I moved my product out of Beta with paying customers 😄]]></title><description><![CDATA[Hey guys!
 
 It's been 2 months since I've been building Famewall [https://famewall.io/] in
 public while on a full time job. Landed my first paying customer in April :)
@@ -375,57 +375,4 @@ Client Image - Creature…]]></description><link>https://sideproject.buzzing.cc/
 &amp;lt;p&amp;gt;The app is written with Solar2D, since its one of the few game engines that provides direct support for GPS data on mobile. I am not as good in Lua as I am in C#, so the client code probably has much more room for improvement. I will probably need to rewrite this to work in the HTML5 export instead of building mobile apps to support some of my projected use cases for this system, such as convention games in a small area or augmenting LARPs with some tracked/shared info, where it&amp;amp;#39;s unreasonable to jump through all the hoops for 2 mobile app stores for a short-term event.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I&amp;amp;#39;ve spent the last 2 years working on this side project, and yesterday was the first day where I was able to walk around my block and have the original Pokemon Go-style idea work, where creatures were scattered around the map, and I could walk around to pick them up. The original motivation came about when I quit Pokemon Go for being too heavy for my phone to run, and when it did open I spent 5 minutes waiting for popups, alerts, reminders, and notifications to go away before I could actually interact with the game itself. I just want a chill game that gives me a reason to get away from my desk and get outside when I can. I have that now.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[A startpage side project that I've been working on]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u4akke/a_startpage_side_project_that_ive_been_working_on/?score=9&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4akke%2Fa_startpage_side_project_that_ive_been_working_on%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4akke%2Fa_startpage_side_project_that_ive_been_working_on%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u4akke/a_startpage_side_project_that_ive_been_working_on/</guid><pubDate>Fri, 15 Apr 2022 16:33:58 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[TodoX: task manager and time tracker]]></title><description><![CDATA[For the past 1.5 years, I've been developing TodoX
-[https://todox.online/?utm_source=reddit&utm_medium=sideproject] in my free time
-– a task manager and time tracker. Now the project is in the state I am not too
-ashamed to show to other people.
-
-If you are interested in more technical details,…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u47xc8/todox_task_manager_and_time_tracker/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu47xc8%2Ftodox_task_manager_and_time_tracker%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu47xc8%2Ftodox_task_manager_and_time_tracker%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u47xc8/todox_task_manager_and_time_tracker/</guid><pubDate>Fri, 15 Apr 2022 15:24:00 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;For the past 1.5 years, I&amp;amp;#39;ve been developing &amp;lt;a href=&quot;https://todox.online/?utm_source=reddit&amp;amp;amp;utm_medium=sideproject&quot;&amp;gt;TodoX&amp;lt;/a&amp;gt; in my free time – a task manager and time tracker. Now the project is in the state I am not too ashamed to show to other people.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;If you are interested in more technical details, there is an extended verision of this post on my&amp;lt;/em&amp;gt; &amp;lt;a href=&quot;https://shallowdepth.online/posts/2022/04/todox-task-manager-and-time-tracker-rationale-stack-mistakes-and-challenges/?utm_source=reddit&amp;amp;amp;utm_medium=sideproject&quot;&amp;gt;&amp;lt;em&amp;gt;blog&amp;lt;/em&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;em&amp;gt;.&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/8jxfdqsi1pt81.png?width=2786&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=921734026083f985e97faf065bde760a5e2b536e&quot;&amp;gt;https://preview.redd.it/8jxfdqsi1pt81.png?width=2786&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=921734026083f985e97faf065bde760a5e2b536e&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;h2&amp;gt;Does the world need one more &amp;amp;quot;productivity&amp;amp;quot; tool?&amp;lt;/h2&amp;gt;
-
-&amp;lt;p&amp;gt;The main question is why create one more task manager? There is already a gazillion of them. Three reasons.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;First and foremost, for the past 10+ years (with some gaps) I track time spent on most projects, work, etc. Why I do this is a topic deserving a separate post. In short: we reach goals by (1) investing enough time and effort in (2) what matters. The results suffer if any of these two factors lags.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Tracking time increases focus, promotes self-accountability, and allows for better retrospection. In turn, all of this helps me invest time in what matters and not what feels the most urgent or easy right now.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Most productivity tools concentrate on either task management or time tracking, leaving out the second part, or having it only as an afterthought.&amp;lt;/strong&amp;gt; In addition, larger tools were too bloated with unnecessary (for me) features.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Second, &amp;lt;strong&amp;gt;in my product I can introduce some quality of life features&amp;lt;/strong&amp;gt; from smaller, like a time counter in the favicon or a global timer, to larger, like analytics and customizable widgets.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/w53476fszot81.png?width=1350&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=8f6c3b52997e89bd209afe1398ff060f8b80d45d&quot;&amp;gt;https://preview.redd.it/w53476fszot81.png?width=1350&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=8f6c3b52997e89bd209afe1398ff060f8b80d45d&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Finally, it was a rather ambitious real-life product I can learn a lot from, use myself, and add to my portfolio. Regardless of whether it turns into something more than a personal project.&amp;lt;/p&amp;gt;
-
-&amp;lt;h2&amp;gt;What to expect&amp;lt;/h2&amp;gt;
-
-&amp;lt;p&amp;gt;TodoX is a fully functional task manager and time tracker:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;usual task manager stuff: tasks, projects, deadlines, repeated tasks, notes&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;time tracking: time can be recorded separately on any task&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;customizable widgets panel: notes, time by projects, time by tasks, and general stats&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;analytics: aggregate time by tasks or projects for any period and other stats&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;background sync between devices&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;works on any platform, installable as PWA on iOS and Android&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;A complete description with screenshots is on the &amp;lt;a href=&quot;https://todox.online/features/?utm_source=reddit&amp;amp;amp;utm_medium=sideproject&quot;&amp;gt;website&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The main limitation: at the moment there are no collaboration features, although it is something on the horizon.&amp;lt;/p&amp;gt;
-
-&amp;lt;h2&amp;gt;Future&amp;lt;/h2&amp;gt;
-
-&amp;lt;p&amp;gt;There is a long list of features to be implemented, from straightforward, like tags, notifications, and reminders, to more complex, like collaboration, better analytics, performance tracking, and predictive assistance.&amp;lt;/p&amp;gt;
-
-&amp;lt;h2&amp;gt;Feedback&amp;lt;/h2&amp;gt;
-
-&amp;lt;p&amp;gt;Feel free to leave feedback in any way: comments here, email at [&amp;lt;a href=&quot;mailto:care@todox.online&quot;&amp;gt;care@todox.online&amp;lt;/a&amp;gt;](mailto:&amp;lt;a href=&quot;mailto:care@todox.online&quot;&amp;gt;care@todox.online&amp;lt;/a&amp;gt;), comments on the &amp;lt;a href=&quot;https://todox.online/contact/?utm_source=reddit&amp;amp;amp;utm_medium=sideproject&quot;&amp;gt;contacts page&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[A startpage side project that I've been working on]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u4akke/a_startpage_side_project_that_ive_been_working_on/?score=9&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4akke%2Fa_startpage_side_project_that_ive_been_working_on%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu4akke%2Fa_startpage_side_project_that_ive_been_working_on%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/u4akke/a_startpage_side_project_that_ive_been_working_on/</guid><pubDate>Fri, 15 Apr 2022 16:33:58 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
