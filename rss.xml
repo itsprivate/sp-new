@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 Apr 2022 11:38:45 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[massCode 2.0出来了--一个为开发者提供的免费和开源的代码片段管理器]]></title><description><![CDATA[https://github.com/massCodeIO/massCode
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 Apr 2022 13:49:13 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[你可以用我做的这个应用程序把你的PDF和Epubs当作有声读物来使用]]></title><description><![CDATA[因此，我建立了一个应用程序，通过它你可以收听你的PDF，电子书和MAC。
+多种其他类型的文件作为互动的音频书。你可以通过以下链接尝试
+通过这个链接免费试用https://madhur-ai.com/
+
+Madhur是一个人工智能文本到语音阅读器，它可以从文件中读取文本，如
+PDFs, word,...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ueiznq/you_can_use_your_pdfs_and_epubs_like_an_audiobook/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fueiznq%2Fyou_can_use_your_pdfs_and_epubs_like_an_audiobook%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fueiznq%2Fyou_can_use_your_pdfs_and_epubs_like_an_audiobook%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/ueiznq/you_can_use_your_pdfs_and_epubs_like_an_audiobook/</guid><pubDate>Fri, 29 Apr 2022 13:22:52 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;So I built an app through which you can listen to your PDFs , ebooks and multiple other types of documents as an interactive audio book. You can try the app for free through this link &amp;lt;a href=&quot;https://madhur-ai.com/&quot;&amp;gt;https://madhur-ai.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Madhur is an AI text to speech reader which can read text from documents like PDFs, word, EPUBs and multiple other types. It can also read text from images. So you can scan your books and documents with the AI scanner and listen to it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;How does it work?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It can extract text from documents and images which are then read in an easy to listen sentence by sentence fashion by our natural sounding AI voices. You can also paste web articles or emails in the write or paste section.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Why use a text to speech readers like Madhur?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A text to speech reader like Madhur converts your reading material into an interactive audiobook. Which can help you save time. You can listen to your homework, documents or a story book while on commute, cooking ,cleaning or any other activities. Save your time and do more by using our text to speech reader.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Why choose Madhur?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;* It helps you save time.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;* Read more by listening as listening is 2-3 times faster than reading.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;* Listen while moving or while doing other activities. Free up your time to do other things.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;* Listen and take notes for deeper learning. Understand and retain more of what you’ve heard.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;* We have natural sounding AI voices which make listening to the documents more engaging and Human like.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;* Madhur also scans images for text so that you can scan your books or papers and save them for a later read.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Important features&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Scan books, review papers and documents or any other text :&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;With Madhur you can use our AI OCR technology to read the text from images which can be then read by using natural AI voices.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Extract Text from multiple types of documents:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We use a powerful document parser which can parse multiple types of documents for text. So that the documents can be read easily.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Fast reading speeds:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You can change the reading speed of the reader which can help you listen to your document faster and save your time.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Natural sounding human like voices:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We have 20+ natural AI English voices which feel like a human is reading the document for you.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The voices have very good pronunciation and comprehension.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Why did we create Madhur?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We created Madhur so that reading may never be a barrier for anyone no matter who they are. Education empowers people and reading is an important pillar. Madhur helps people to consume their reading content with ease. It is also designed for people who are suffering with dyslexia, ADHD, Low vision acuity, concussions, and other reading disabilities.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It is for people who have reading disabilities or they are auditory learners, productivity fanatics, hobbyists, and more. We love all of our users and strive every day to create a reading assistant that empowers them to read more and succeed in life.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We strive to create a better text to speech reader that empowers our users to read more and succeed in their life.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;You can try the app for free through this link &amp;lt;a href=&quot;https://madhur-ai.com/&quot;&amp;gt;https://madhur-ai.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[massCode 2.0出来了--一个为开发者提供的免费和开源的代码片段管理器]]></title><description><![CDATA[https://github.com/massCodeIO/massCode
 
 质量代码图像
 [https://preview.redd.it/wkm5qmub6fw81.png?width=2000&format=png&auto=webp&s=143c89f66020de9e09d55acbd392abf2f4cf6e96]
@@ -404,4 +464,4 @@ Noobly，一个旨在帮助游戏玩家寻找玩家朋友的应用程序。TLDR�
 &amp;lt;p&amp;gt;While working in some template code for my prospecting pages, I realized that there wasn&amp;amp;#39;t really a good name (or at least I don&amp;amp;#39;t know one!) for the market validating put-your-email-in-here pages that smart people build before building product.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;What do other people call these pages?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我采访了十几位创始人，并将他们的建议变成了一套免费的战略指南。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u6mjjv/i_interviewed_a_dozen_founders_and_turned_their/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu6mjjv%2Fi_interviewed_a_dozen_founders_and_turned_their%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu6mjjv%2Fi_interviewed_a_dozen_founders_and_turned_their%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u6mjjv/i_interviewed_a_dozen_founders_and_turned_their/</guid><pubDate>Mon, 18 Apr 2022 21:26:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[推出Struso.com，一个Airtable的竞争者，最多可以为10个团队成员免费提供。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u5z7om/launched_strusocom_an_airtable_competitor_free/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu5z7om%2Flaunched_strusocom_an_airtable_competitor_free%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu5z7om%2Flaunched_strusocom_an_airtable_competitor_free%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u5z7om/launched_strusocom_an_airtable_competitor_free/</guid><pubDate>Mon, 18 Apr 2022 15:45:40 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我采访了十几位创始人，并将他们的建议变成了一套免费的战略指南。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u6mjjv/i_interviewed_a_dozen_founders_and_turned_their/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu6mjjv%2Fi_interviewed_a_dozen_founders_and_turned_their%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu6mjjv%2Fi_interviewed_a_dozen_founders_and_turned_their%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/u6mjjv/i_interviewed_a_dozen_founders_and_turned_their/</guid><pubDate>Mon, 18 Apr 2022 21:26:11 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
