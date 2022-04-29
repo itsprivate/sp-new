@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 Apr 2022 11:12:26 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我已經收集了50多個SaaS啓動包。20個開源的，31個付費的。]]></title><description><![CDATA[SaaS入門套件已在Product Hunt上上線。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 Apr 2022 11:38:45 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[massCode 2.0出來了--一個爲開發者提供的免費和開源的代碼片段管理器]]></title><description><![CDATA[https://github.com/massCodeIO/massCode
+
+質量代碼圖像
+[https://preview.redd.it/wkm5qmub6fw81.png?width=2000&format=png&auto=webp&s=143c89f66020de9e09d55acbd392abf2f4cf6e96]
+
+
+組織結構
+
+massCode允許你使用多級文件夾和標籤來組織片段。
+標籤。每個片段都有...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ueghu0/masscode_20_is_out_a_free_and_open_source_code/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fueghu0%2Fmasscode_20_is_out_a_free_and_open_source_code%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fueghu0%2Fmasscode_20_is_out_a_free_and_open_source_code%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ueghu0/masscode_20_is_out_a_free_and_open_source_code/</guid><pubDate>Fri, 29 Apr 2022 11:09:39 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://github.com/massCodeIO/massCode&quot;&amp;gt;https://github.com/massCodeIO/massCode&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/wkm5qmub6fw81.png?width=2000&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=143c89f66020de9e09d55acbd392abf2f4cf6e96&quot;&amp;gt;massCode image&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Organization&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;massCode allows you to organize snippets using multi-level folders as well as tags. Each snippet has fragments - tabs, which gives even greater level of organization.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Editor&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;A snippet manager must not only provide organization of snippets but also have a good code editor. That&amp;amp;#39;s why under the hood of massCode there&amp;amp;#39;s &amp;lt;a href=&quot;https://ace.c9.io/&quot;&amp;gt;Ace&amp;lt;/a&amp;gt;. Ace is a high performance code editor which supports syntax highlighting for over 170 languages. We also added a &amp;lt;a href=&quot;https://prettier.io/&quot;&amp;gt;Prettier&amp;lt;/a&amp;gt; to code formatter.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Markdown&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;massCode allows you to write in Markdown and also provide syntax highlighting inside a code block. And of course there is a preview.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Search&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;It is impossible to imagine a productive snippets manager without quick access to snippets. Therefore massCode has a fast full-text search with highlighting of the search query.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Autosave&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;massCode automatically saves any changes you make during work, so you don&amp;amp;#39;t have to worry about losing changes.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Sync&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;You can use any service that provides cloud synchronization, such as iCloud Drive, Google Drive, Dropbox or other similar.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Database&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;massCode uses a simple JSON to store your data. The database files are on your local computer.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Integrations&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;massCode supports extensions for &amp;lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=AntonReshetov.masscode-assistant&quot;&amp;gt;VS Code&amp;lt;/a&amp;gt;, &amp;lt;a href=&quot;https://www.raycast.com/antonreshetov/masscode&quot;&amp;gt;Raycast&amp;lt;/a&amp;gt; and &amp;lt;a href=&quot;https://github.com/massCodeIO/assistant-alfred&quot;&amp;gt;Alfred&amp;lt;/a&amp;gt;, which gives even more possibilities to use application. With the VS Code extension you get practically zen mode, search for the necessary snippets and insert them immediately or save the selected code sections as a snippet.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Best,Anton&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我已經收集了50多個SaaS啓動包。20個開源的，31個付費的。]]></title><description><![CDATA[SaaS入門套件已在Product Hunt上上線。
 
 嘿，你們好! 👋
 
@@ -358,21 +404,4 @@ Noobly，一個旨在幫助遊戲玩家尋找玩家朋友的應用程序。TLDR�
 &amp;lt;p&amp;gt;While working in some template code for my prospecting pages, I realized that there wasn&amp;amp;#39;t really a good name (or at least I don&amp;amp;#39;t know one!) for the market validating put-your-email-in-here pages that smart people build before building product.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;What do other people call these pages?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我採訪了十幾位創始人，並將他們的建議變成了一套免費的戰略指南。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u6mjjv/i_interviewed_a_dozen_founders_and_turned_their/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu6mjjv%2Fi_interviewed_a_dozen_founders_and_turned_their%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu6mjjv%2Fi_interviewed_a_dozen_founders_and_turned_their%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u6mjjv/i_interviewed_a_dozen_founders_and_turned_their/</guid><pubDate>Mon, 18 Apr 2022 21:26:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[推出Struso.com，一個Airtable的競爭者，最多可以爲10個團隊成員免費提供。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u5z7om/launched_strusocom_an_airtable_competitor_free/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu5z7om%2Flaunched_strusocom_an_airtable_competitor_free%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu5z7om%2Flaunched_strusocom_an_airtable_competitor_free%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u5z7om/launched_strusocom_an_airtable_competitor_free/</guid><pubDate>Mon, 18 Apr 2022 15:45:40 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[輕鬆建立網站]]></title><description><![CDATA[大家好，我正在建立PushtoCreate，這是一種簡單的方法，可以用以下方式建立網站
-電子表格建立網站的簡單方法。有很多選擇，如Shopify、etsy等，它們都非常
-般的選擇。我的目標是那些可以依靠一個產品來簡單地設置一個基本的
-網站，這樣他們就可以把注意力集中在銷售和營銷上。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u63c9h/build_websites_with_ease/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu63c9h%2Fbuild_websites_with_ease%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu63c9h%2Fbuild_websites_with_ease%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u63c9h/build_websites_with_ease/</guid><pubDate>Mon, 18 Apr 2022 15:23:39 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello  all, I&amp;amp;#39;m building PushtoCreate, an easy way to build websites out of spreadsheets. There&amp;amp;#39;s tonnes of options like Shopify, etsy etc which are very generic. I&amp;amp;#39;m targeting folks who can rely on a product to simply set a barebones website sot that they can stay laser focused on sales, marketing and businesss side of things. Here&amp;amp;#39;s what the product currently solves.&amp;lt;/p&amp;gt;
-
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;Launch  in 5 minutes, literally paste your product images and descriptions into  a Google spreadsheet and images into a folder and be done.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Painless Stripe integration, just works out the box.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Clean, smooth minimal design that works.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Customize colors, titles, fonts, prices (coming soon).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;No cuts from profits ever, you can make a $ or a million $, I&amp;amp;#39;ll charge you flat.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Not much in terms of plugins/customizations (not for power ecommerce users).&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-
-&amp;lt;p&amp;gt;Check it out -&amp;amp;gt; &amp;lt;a href=&quot;https://pushtocreate.com&quot;&amp;gt;https://pushtocreate.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Feel  free to comment on anything that you can add. If this appeals to you,  and you would like to beta test or be a user, feel free to signup or reach out. Thanks!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我採訪了十幾位創始人，並將他們的建議變成了一套免費的戰略指南。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u6mjjv/i_interviewed_a_dozen_founders_and_turned_their/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu6mjjv%2Fi_interviewed_a_dozen_founders_and_turned_their%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu6mjjv%2Fi_interviewed_a_dozen_founders_and_turned_their%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u6mjjv/i_interviewed_a_dozen_founders_and_turned_their/</guid><pubDate>Mon, 18 Apr 2022 21:26:11 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[推出Struso.com，一個Airtable的競爭者，最多可以爲10個團隊成員免費提供。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u5z7om/launched_strusocom_an_airtable_competitor_free/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu5z7om%2Flaunched_strusocom_an_airtable_competitor_free%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fu5z7om%2Flaunched_strusocom_an_airtable_competitor_free%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/u5z7om/launched_strusocom_an_airtable_competitor_free/</guid><pubDate>Mon, 18 Apr 2022 15:45:40 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
