@@ -1,4 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 14 May 2022 18:16:27 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個Windows的手勢程序，我在steam上發佈了它，這是我人生中的第一次！！。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uplc0e/i_made_a_gesture_program_for_windows_and_i/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuplc0e%2Fi_made_a_gesture_program_for_windows_and_i%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuplc0e%2Fi_made_a_gesture_program_for_windows_and_i%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uplc0e/i_made_a_gesture_program_for_windows_and_i/</guid><pubDate>Sat, 14 May 2022 17:48:41 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[將現實生活中的國際象棋棋盤數字化的開放源碼軟件。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/upapm5/open_source_software_that_digitalizes_real_life/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fupapm5%2Fopen_source_software_that_digitalizes_real_life%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fupapm5%2Fopen_source_software_that_digitalizes_real_life%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/upapm5/open_source_software_that_digitalizes_real_life/</guid><pubDate>Sat, 14 May 2022 07:23:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[DUG--結構化和流暢化互動的無代碼工具]]></title><description><![CDATA[你好，來自比利時。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 15 May 2022 14:55:17 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我向你介紹我最大的項目，Pokédexus，一個獨特的、免費的粉絲製作的Pokédex應用程序，可在Google Play Store上使用。]]></title><description><![CDATA[大家好!
+
+我非常自豪地發佈我最大的項目，這是我在過去兩年裏所做的工作。
+我非常自豪地發佈我最大的項目，即Pokédexus!
+
+Pokédexus是一個美麗和免費的粉絲製作的Pokédex應用程序，具有許多獨特的
+功能，如捕捉神奇寶貝、完成任務、與其他訓練者戰鬥、攀登排行榜等。
+訓練師，攀登排行榜，...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uq1gg6/i_present_you_my_biggest_project_yet_pok%C3%A9dexus_an/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuq1gg6%2Fi_present_you_my_biggest_project_yet_pok%C3%A9dexus_an%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuq1gg6%2Fi_present_you_my_biggest_project_yet_pok%C3%A9dexus_an%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uq1gg6/i_present_you_my_biggest_project_yet_pokédexus_an/</guid><pubDate>Sun, 15 May 2022 14:11:19 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello everyone!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I am really proud to release my biggest project yet which I worked on for the last 2 years, &amp;lt;strong&amp;gt;Pokédexus!&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Pokédexus&amp;lt;/strong&amp;gt; is a beautiful and free fan-made Pokédex app with &amp;lt;strong&amp;gt;lots of unique features&amp;lt;/strong&amp;gt; like catching Pokémon, completing quests, battle against other trainers, climb leaderboards, participate in live events and much more! &amp;lt;strong&amp;gt;Pokédexus&amp;lt;/strong&amp;gt; is completely free. It doesn&amp;amp;#39;t contain ads or any kind of monetisation!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Download &amp;lt;strong&amp;gt;Pokédexus&amp;lt;/strong&amp;gt; on Google Play Store: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.stefanm.pokedexus&quot;&amp;gt;https://play.google.com/store/apps/details?id=com.stefanm.pokedexus&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;Features:&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Pokédex&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Discover all 898 Pokémon with their variations, each with beautiful images and animations. Sort &amp;amp;amp; Filter by generation, type, attack, height, etc. See complete details such as stats, habitats, genders for every game version. View recent activity for each Pokémon such as news, events and trainers.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Move Dex&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;View more than 800 Pokémon moves with their descriptions, categories, learn methods, effects and more! Sort &amp;amp;amp; Filter by different criteria such as: generation, type, category etc.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Region Dex&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Discover each region with it&amp;amp;#39;s locations.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Find out which Pokémon can be found and caught in each area, by which method, at what levels and more!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;lt;strong&amp;gt;tem Dex&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Inspect more than 950 items with over 50 categories.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;View their descriptions, learn their effect see and which Pokémon can hold them!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Ability Dex&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Analyse over 250 abilities with their description, effects and see which Pokémon has each of them!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Type Dex&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Analyse weaknesses and resistances of each Pokémon type. Choose the right follower before trying to catch Pokémon to get an advantage!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Nature Dex&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;View all natures and how they effect your Pokémon. See which berries are recommended for each flavor!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;News feed&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;See latest news about trainers and Pokémon such as: A Pokémon was caught, a trainer reached a new level, a Quiz Battle has ended and much more! Like your favorite news, meet new trainers and inspect their profile.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Live Events&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Discover daily featured Pokémon. Participate in live events happening each couple of hours!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Online Quiz Challenges&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;See received / sent / completed challenges against other trainers. Accept received challenges and see your and opponent answers!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Catch Pokémon&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Test your knowledge and try to catch Pokémon with your follower help! Provide correct answers for an endless pool of various questions about Pokémon universe before the timer runs out. Gotta Catch ‘Em All!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Play Quiz Game&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Practice and sharpen your Pokémon catching skills!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Answer correctly to as many questions as possible in a row before the time runs out. Break records, get rewards and climb the leaderboard!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Daily Quests&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Log in daily and complete quests while exploring Pokédexus! Gain experience and Poké balls to catch Pokémon!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Trainer profile&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;See other trainers profile, including level, Pokémon, news and leaderboards rankings! Challenge trainers to quiz battle! Answer correctly more questions than your opponent before the timer runs out to win the challenge.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Pokémon leaderboard&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Help your Favorite Pokémon climb the leaderboards, see the most popular and the rarest Pokémon!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Trainer Leaderboard&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Compete in 5 different leaderboards, climb to the top and make everyone acknowledge you!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Edit profile&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Customize your trainer&amp;amp;#39;s name, gender and avatar! Caught a rare Pokémon? Make it your follower to let everyone know about your achievement!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Download &amp;lt;strong&amp;gt;Pokédexus&amp;lt;/strong&amp;gt; on Google Play Store: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.stefanm.pokedexus&quot;&amp;gt;https://play.google.com/store/apps/details?id=com.stefanm.pokedexus&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個Windows的手勢程序，我在steam上發佈了它，這是我人生中的第一次！！。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uplc0e/i_made_a_gesture_program_for_windows_and_i/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuplc0e%2Fi_made_a_gesture_program_for_windows_and_i%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuplc0e%2Fi_made_a_gesture_program_for_windows_and_i%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uplc0e/i_made_a_gesture_program_for_windows_and_i/</guid><pubDate>Sat, 14 May 2022 17:48:41 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[將現實生活中的國際象棋棋盤數字化的開放源碼軟件。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/upapm5/open_source_software_that_digitalizes_real_life/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fupapm5%2Fopen_source_software_that_digitalizes_real_life%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fupapm5%2Fopen_source_software_that_digitalizes_real_life%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/upapm5/open_source_software_that_digitalizes_real_life/</guid><pubDate>Sat, 14 May 2022 07:23:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[DUG--結構化和流暢化互動的無代碼工具]]></title><description><![CDATA[你好，來自比利時。
 我爲DUG開發了MVP。Dug是一個無代碼的工具，使用個性化的模板
 來結構化和流暢化業務互動。
 
@@ -279,15 +371,4 @@ CompreFace REST端點的預定義方法。]]></description><link>https://sidepro
 它無需註冊就可以免費使用，我很想聽到你的反饋]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uhmb53/prepform_an_ai_tutor_to_help_students_learn_more/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuhmb53%2Fprepform_an_ai_tutor_to_help_students_learn_more%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuhmb53%2Fprepform_an_ai_tutor_to_help_students_learn_more%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uhmb53/prepform_an_ai_tutor_to_help_students_learn_more/</guid><pubDate>Tue, 03 May 2022 22:08:57 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://prepform.com/&quot;&amp;gt;Prepform&amp;lt;/a&amp;gt; uses machine learning and spaced-repetition to show students what to study, how long to study, and when they&amp;amp;#39;ve mastered a concept. &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;It&amp;amp;#39;s free to use without signing up, and I would love to hear your feedback!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[對於那些喜歡《魔法：集會》並想追蹤卡片價格的人來說，我已經創建了一個Telegram機器人，以便在出現峯值時發出警報。你可以通過這個用戶名找到它：mtg_price_alert_bot]]></title><description><![CDATA[與股票市場類似，我創建了一個Telegram機器人，可以發送通知
-的通知，以通知那些價格飆升的卡片。你可以免費試用這個機器人，只要用這個用戶名添加
-它的用戶名：mtg_price_alert_bot。
-
-所有的反饋都是有效的。讓我知道你的想法。
-
-歡呼吧!]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uhm83d/for_those_who_like_magic_the_gathering_and_want/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuhm83d%2Ffor_those_who_like_magic_the_gathering_and_want%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuhm83d%2Ffor_those_who_like_magic_the_gathering_and_want%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uhm83d/for_those_who_like_magic_the_gathering_and_want/</guid><pubDate>Tue, 03 May 2022 21:10:17 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Similar to the stock market I&amp;amp;#39;ve created a Telegram bot that sends notifications for the cards that have had price spikes. You can try the bot for free, just add it using this username: mtg_price_alert_bot.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;All feedback is valid. Let me know what you think.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Cheers!&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
