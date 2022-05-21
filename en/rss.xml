@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 21 May 2022 05:21:51 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[This is what I came up with after trying many time and habit tracker apps]]></title><description><![CDATA[Hi,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 21 May 2022 08:27:16 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Created a platform for students to get help from other students]]></title><description><![CDATA[I am currently in school and thought that it would be great for other students
+to get help from other students in the same subjects. So I quickly created
+https://allouo.com Anyone can sign up for free and either give or receive help.
+Let me know what you guys thing! Any feedback would be great.]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uufsd8/created_a_platform_for_students_to_get_help_from/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuufsd8%2Fcreated_a_platform_for_students_to_get_help_from%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuufsd8%2Fcreated_a_platform_for_students_to_get_help_from%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uufsd8/created_a_platform_for_students_to_get_help_from/</guid><pubDate>Sat, 21 May 2022 07:34:14 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I am currently in school and thought that it would be great for other students to get help from other students in the same subjects. So I quickly created &amp;lt;a href=&quot;https://allouo.com&quot;&amp;gt;https://allouo.com&amp;lt;/a&amp;gt; Anyone can sign up for free and either give or receive help. Let me know what you guys thing! Any feedback would be great.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[This is what I came up with after trying many time and habit tracker apps]]></title><description><![CDATA[Hi,
 
 After using many productive apps I decided to create my own combining time,
 habit and mood tracker. The greatest difference of this app in my opinion is the
@@ -370,22 +374,4 @@ way while awesome choices get buried... I've been on both ends of…]]></descrip
 &amp;lt;p&amp;gt;It works by lightly structuring your questions, hypotheses and experiments, and then it provides you with insights on any biases that it can find. You can also have Sparel generate ideas if you&amp;amp;#39;re blocked - it uses AI, Twitter, and Google Books.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I&amp;amp;#39;m not sure how many of you are in leadership roles but I would love to know what Sparel needs to help you make decisions. You can sign up for free at &amp;lt;a href=&quot;https://sparel.app&quot;&amp;gt;https://sparel.app&amp;lt;/a&amp;gt; - please give it a shot, would love to hear back 🙏&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[My New Side Project — Free Twitch Ad Blocker Extension!]]></title><description><![CDATA[Hi guys,
-
-I'm a huge Twitch user, but I'm always tormented by pop-up ads, and my partner
-and I were discussing how to make a popular browser extension, so we decided to
-make a free Twitch ad blocker.
-
-This browser extension blocks ads by automatically reducing video resolution to
-ensure users are…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/unqkxk/my_new_side_project_free_twitch_ad_blocker/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Funqkxk%2Fmy_new_side_project_free_twitch_ad_blocker%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Funqkxk%2Fmy_new_side_project_free_twitch_ad_blocker%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/unqkxk/my_new_side_project_free_twitch_ad_blocker/</guid><pubDate>Thu, 12 May 2022 08:06:27 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi guys,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m a huge Twitch user, but I&amp;amp;#39;m always tormented by pop-up ads, and my partner and I were discussing how to make a popular browser extension, so we decided to make a free Twitch ad blocker.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This browser extension blocks ads by automatically reducing video resolution to ensure users are not interrupted by ads while watching live or VOD on twitch.tv.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This extension does not collect/share any of your personal information and the code is public.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you&amp;amp;#39;re as sick of ads on Twitch as I am, try it!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here is Chrome extension link: &amp;lt;a href=&quot;https://chrome.google.com/webstore/detail/adblocker-for-twitch/mmnpcobofmnpghjnjkfhkfbdndajgfph&quot;&amp;gt;https://chrome.google.com/webstore/detail/adblocker-for-twitch/mmnpcobofmnpghjnjkfhkfbdndajgfph&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
