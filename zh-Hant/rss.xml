@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 May 2022 05:29:35 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[在r/popular上了解了仿生文字後，做了一個仿生文字轉換器]]></title><description><![CDATA[我做了一個快速的、簡陋的、但沒有裝飾的仿生文本轉換器，在看到
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 May 2022 05:51:27 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我爲我即將推出的SaaS（Nuelink）製作了第一個宣傳片--你覺得怎麼樣？]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uuthuy/i_made_the_first_promo_video_for_my_upcoming_saas/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuuthuy%2Fi_made_the_first_promo_video_for_my_upcoming_saas%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuuthuy%2Fi_made_the_first_promo_video_for_my_upcoming_saas%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uuthuy/i_made_the_first_promo_video_for_my_upcoming_saas/</guid><pubDate>Sun, 22 May 2022 05:27:25 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[在r/popular上了解了仿生文字後，做了一個仿生文字轉換器]]></title><description><![CDATA[我做了一個快速的、簡陋的、但沒有裝飾的仿生文本轉換器，在看到
 上的帖子後，我做了一個快速的、簡陋的、但不花哨的仿生學文本轉換器。
 
 我不相信他們把這樣簡單的東西包裝在一個付費的API後面，所以
@@ -355,20 +355,4 @@ Cheers !&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;- Carpenter landing page, manage inbound requests: &amp;lt;a href=&quot;https://dugapp.com/studio19/studio19-about&quot;&amp;gt;https://dugapp.com/studio19/studio19-about&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;- Psychologist new customers landing: &amp;lt;a href=&quot;https://dugapp.com/en/psy-francoise-matagnion/template-psy&quot;&amp;gt;https://dugapp.com/psy-francoise-matagnion/template-psy&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Breves.it : 一項可以幫助你避免無趣的工作職位（和麪試）的服務]]></title><description><![CDATA[大家好。
-
-我寫了一個免費服務，可以幫助你避免無趣的工作
-崗位，要求招聘人員回答你的問卷。
-
-該服務是完全免費的。
-
-該服務可在此獲得[https://breves.it/?campaign=redis_side]
-歡迎反饋意見 :)]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uorftp/brevesit_a_service_that_can_help_you_to_avoid/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuorftp%2Fbrevesit_a_service_that_can_help_you_to_avoid%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuorftp%2Fbrevesit_a_service_that_can_help_you_to_avoid%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uorftp/brevesit_a_service_that_can_help_you_to_avoid/</guid><pubDate>Fri, 13 May 2022 17:25:56 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi all,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve written a free service that can help you to avoid uninteresting job positions by asking the recruiter to answer your questionnaire.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The service is completely free.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The service is available &amp;lt;a href=&quot;https://breves.it/?campaign=redis_side&quot;&amp;gt;here&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;
-feedbacks are appreciated :)&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>

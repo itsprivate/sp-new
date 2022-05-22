@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 May 2022 05:29:35 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Made a bionic text converter after learning about bionic text on r/popular]]></title><description><![CDATA[I made a quick, barebones, but no frills bionic text converter after seeing the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 May 2022 05:51:27 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I made the first promo video for my upcoming SaaS (Nuelink) – what do you think about it?]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uuthuy/i_made_the_first_promo_video_for_my_upcoming_saas/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuuthuy%2Fi_made_the_first_promo_video_for_my_upcoming_saas%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuuthuy%2Fi_made_the_first_promo_video_for_my_upcoming_saas%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uuthuy/i_made_the_first_promo_video_for_my_upcoming_saas/</guid><pubDate>Sun, 22 May 2022 05:27:25 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Made a bionic text converter after learning about bionic text on r/popular]]></title><description><![CDATA[I made a quick, barebones, but no frills bionic text converter after seeing the
 post on popular.
 
 I can't believe they've wrapped something simple like this behind a paid API so
@@ -355,20 +355,4 @@ Cheers !&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;- Carpenter landing page, manage inbound requests: &amp;lt;a href=&quot;https://dugapp.com/studio19/studio19-about&quot;&amp;gt;https://dugapp.com/studio19/studio19-about&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;- Psychologist new customers landing: &amp;lt;a href=&quot;https://dugapp.com/en/psy-francoise-matagnion/template-psy&quot;&amp;gt;https://dugapp.com/psy-francoise-matagnion/template-psy&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Breves.it : a service that can help you to avoid uninteresting job positions (and interviews)]]></title><description><![CDATA[Hi all,
-
-I've written a free service that can help you to avoid uninteresting job
-positions by asking the recruiter to answer your questionnaire.
-
-The service is completely free.
-
-The service is available here [https://breves.it/?campaign=redis_side]
-feedbacks are appreciated :)]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uorftp/brevesit_a_service_that_can_help_you_to_avoid/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuorftp%2Fbrevesit_a_service_that_can_help_you_to_avoid%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuorftp%2Fbrevesit_a_service_that_can_help_you_to_avoid%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uorftp/brevesit_a_service_that_can_help_you_to_avoid/</guid><pubDate>Fri, 13 May 2022 17:25:56 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi all,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve written a free service that can help you to avoid uninteresting job positions by asking the recruiter to answer your questionnaire.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The service is completely free.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The service is available &amp;lt;a href=&quot;https://breves.it/?campaign=redis_side&quot;&amp;gt;here&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;
-feedbacks are appreciated :)&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
