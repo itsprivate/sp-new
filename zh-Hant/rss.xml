@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 26 May 2022 12:07:48 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[在60秒內將UPI捐款選項添加到您的網站。]]></title><description><![CDATA[在60秒內將UPI捐款選項添加到您的網站。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 26 May 2022 15:48:39 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[現代React UI組件 - Float UI]]></title><description><![CDATA[如果你是一個公司的網絡開發人員，只是作爲一個自由職業者，或
+構建你的第一個創業公司，你當然需要一些東西來構建你的
+網站和網絡應用。
+
+像Material UI和React Bootstrap這樣的React UI庫是爲了幫助他人
+以節省時間，通過建立網絡應用。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uy6da3/the_modern_react_ui_components_float_ui/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuy6da3%2Fthe_modern_react_ui_components_float_ui%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuy6da3%2Fthe_modern_react_ui_components_float_ui%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uy6da3/the_modern_react_ui_components_float_ui/</guid><pubDate>Thu, 26 May 2022 15:03:49 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;If you are working as a web developer with a company, just as a freelancer, or building your first Start-Up of course you will need something to build your websites, web apps quickly.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The React UI libraries like material UI and React Bootstrap built to help others to save the time, by building web products quickly, and this is exactly what Float UI do.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;What is &amp;lt;strong&amp;gt;Float UI&amp;lt;/strong&amp;gt;?&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://floatui.com&quot;&amp;gt;Float UI&amp;lt;/a&amp;gt; is a collection of ready React components, such as CTA sections, Newsletters, Cards, Navbars, Footers, etc... the components are beautiful designed, expertly crafted components, that allow you to build a great UI/UX, and are easy to customize, you can use the components with Nextjs, if you want.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;Float UI Supports RTL Components.&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;When we released The first version of &amp;lt;a href=&quot;https://floatui.com&quot;&amp;gt;Float UI&amp;lt;/a&amp;gt;, the components were only supporting LTR ( Left To Right ) direction, then we thought of building this feature, to allowing people creating their products using both directions LTR and RTL, and also for reach out to more people to use Float UI components.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://floatui.com&quot;&amp;gt;Float UI&amp;lt;/a&amp;gt; supports RTL components very smoothly.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;ALRIGHT&amp;lt;/em&amp;gt;. &amp;lt;a href=&quot;https://floatui.com&quot;&amp;gt;Float UI&amp;lt;/a&amp;gt; keeps growing every day and we get a lot of comments about it and what we need to do to improve it. We&amp;amp;#39;d love to hear your opinion about Float UI.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Let&amp;amp;#39;s go, guys!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Url: &amp;lt;a href=&quot;https://floatui.com&quot;&amp;gt;https://floatui.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[在60秒內將UPI捐款選項添加到您的網站。]]></title><description><![CDATA[在60秒內將UPI捐款選項添加到您的網站。
 
 這是免費的，而且只需不到一分鐘。
 
@@ -244,16 +268,4 @@ https://allouo.com 任何人都可以免費註冊並給予或接受幫助。
 &amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Try: &amp;lt;a href=&quot;https://www.confessionally.xyz/message.php?id=d1a2454&quot;&amp;gt;https://www.confessionally.xyz&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我已經開發了一個創新的解決方案，名爲AI2sql，它允許你自動生成你的SQL查詢，而你的輸入量最小。]]></title><description><![CDATA[有了AI2sql，工程師和非工程師都可以輕鬆寫出高效、無誤的
-的SQL查詢，而無需瞭解SQL。
-它是數據庫工程師和非工程師一起工作的完美工具。
-許多偉大的機會隱藏在複雜的查詢背後，而這些查詢需要花費數小時來創建。
-創建。有了Al2sql，它...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/urtvob/ive_developed_an_innovative_solution_named_ai2sql/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Furtvob%2Five_developed_an_innovative_solution_named_ai2sql%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Furtvob%2Five_developed_an_innovative_solution_named_ai2sql%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/urtvob/ive_developed_an_innovative_solution_named_ai2sql/</guid><pubDate>Wed, 18 May 2022 05:52:24 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.&amp;lt;br/&amp;gt;
-It&amp;amp;#39;s the perfect tool for database engineers and non-engineers to work together. Many great opportunities are hidden behind complex queries that take hours to create. With Al2sql, it takes just 60 seconds to create accurate queries.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Check it out: &amp;lt;a href=&quot;http://app.ai2sql.io&quot;&amp;gt;http://app.ai2sql.io&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/r0m72csz43091.png?width=1430&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=c5ab211f0db5e872b62e76735b58f4d281bd2a18&quot;&amp;gt;https://preview.redd.it/r0m72csz43091.png?width=1430&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=c5ab211f0db5e872b62e76735b58f4d281bd2a18&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
