@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 26 May 2022 22:05:49 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個維基百科的文本格式化器，所以你不需要]]></title><description><![CDATA[我做了一個工具，可以從維基百科的文本中刪除討厭的字符和參考文獻，以使複製粘貼更容易。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 May 2022 12:08:44 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我們建立了一個Facebook聊天機器人來維持有意義的關係]]></title><description><![CDATA[嘿，Reddit。
+
+
+
+我的朋友有時會與他的伴侶出現溝通問題，他們只是
+不理解對方，不知道如何正確行事。
+
+所以我們做了一些研究，發現伴侶之間的相互理解和溝通問題是最大的問題之一。
+和伴侶之間的溝通是最大的問題之一。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uyr9dt/we_build_a_facebook_chatbot_to_maintain_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuyr9dt%2Fwe_build_a_facebook_chatbot_to_maintain_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuyr9dt%2Fwe_build_a_facebook_chatbot_to_maintain_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uyr9dt/we_build_a_facebook_chatbot_to_maintain_a/</guid><pubDate>Fri, 27 May 2022 11:06:39 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey Reddit,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My friend sometimes has communication problems with his partner when they just don&amp;amp;#39;t understand each other and don&amp;amp;#39;t know how to behave properly.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So we did some research and found out that the problem of mutual understanding and communication between partners is one of the biggest problems in relationships.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Since we find the topic of communication very interesting, we decided to develop a service that we ourselves can use to communicate better with our partners.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;We&amp;amp;#39;re looking for our first beta users.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How can you try it?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;For simplicity, our beta version works through Facebook Messenger.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;As a thank you to our early adopters, all features will be available for free for a year.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;All you&amp;amp;#39;ve to do is click on the link and follow the instructions.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Link:&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;http://m.me/nemlysapp&quot;&amp;gt;m.me/nemlysapp&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How does it work?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We want to help you build a meaningful connection with your partner by using the Nemlys bot for 5 minutes a day:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Daily Check-Up. About your emotions, feelings, and worries ✅&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Share Negatives. Calm down and discuss them with your partner in a non-judgmental way 🌱&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Track progress. Toward a better understanding in your partnership 📈&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Did you like the bot?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Share your feedback. If you want to suggest ideas - just write a comment here or a line in DM.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Try it out!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Our website:&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://www.nemlys.com/&quot;&amp;gt;https://www.nemlys.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個維基百科的文本格式化器，所以你不需要]]></title><description><![CDATA[我做了一個工具，可以從維基百科的文本中刪除討厭的字符和參考文獻，以使複製粘貼更容易。
 文本中刪除惱人的字符和參考文獻，以使複製粘貼更容易。我剛剛做了它，所以我還沒怎麼測試過它。
 但對於我的需要，它是有效的...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uygro4/i_made_a_wikipedia_text_formatter_so_you_dont/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuygro4%2Fi_made_a_wikipedia_text_formatter_so_you_dont%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuygro4%2Fi_made_a_wikipedia_text_formatter_so_you_dont%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uygro4/i_made_a_wikipedia_text_formatter_so_you_dont/</guid><pubDate>Thu, 26 May 2022 21:35:23 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I made a tool that removes annoying characters and references from Wikipedia texts to make copy-pasting easier. I just made it so I haven&amp;amp;#39;t tested it much, but for my needs, it worked well.&amp;lt;/p&amp;gt;
 
@@ -262,4 +319,4 @@ https://allouo.com 任何人都可以免費註冊並給予或接受幫助。
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://featurle.com&quot;&amp;gt;https://featurle.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/96rnpl4hx8091.png?width=840&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=2034dc03d62a7343e57503df68da87a6a0aa0c57&quot;&amp;gt;Featurle in light mode&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一個chrome擴展來分解網站。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/usjvre/i_built_a_chrome_extension_to_break_down_websites/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fusjvre%2Fi_built_a_chrome_extension_to_break_down_websites%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fusjvre%2Fi_built_a_chrome_extension_to_break_down_websites%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/usjvre/i_built_a_chrome_extension_to_break_down_websites/</guid><pubDate>Wed, 18 May 2022 19:36:12 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一個網絡工具，爲你的網站創建動態鏈接預覽圖像]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/usi18i/i_built_a_web_tool_to_create_dynamic_link_preview/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fusi18i%2Fi_built_a_web_tool_to_create_dynamic_link_preview%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fusi18i%2Fi_built_a_web_tool_to_create_dynamic_link_preview%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/usi18i/i_built_a_web_tool_to_create_dynamic_link_preview/</guid><pubDate>Wed, 18 May 2022 18:43:39 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一個chrome擴展來分解網站。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/usjvre/i_built_a_chrome_extension_to_break_down_websites/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fusjvre%2Fi_built_a_chrome_extension_to_break_down_websites%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fusjvre%2Fi_built_a_chrome_extension_to_break_down_websites%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/usjvre/i_built_a_chrome_extension_to_break_down_websites/</guid><pubDate>Wed, 18 May 2022 19:36:12 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
