@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 May 2022 23:25:23 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I created a SaaS to easily create a table with API access from a JSON or CSV file]]></title><description><![CDATA[Hey!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 28 May 2022 11:42:03 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[We made Macarons, a Slack app for random lunch and coffee meetings]]></title><description><![CDATA[My friends and I have a development studio, mostly focused on iOS dev, but on
+the side we've created this chat roulette app for Slack.
+
+https://preview.redd.it/m1xyv3nte6291.png?width=3016&format=png&auto=webp&s=33d3a0f5f2e0e79258446e67d44fc187bc1b9c0f
+
+Why?
+
+While there are already Slack apps…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uzixnj/we_made_macarons_a_slack_app_for_random_lunch_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuzixnj%2Fwe_made_macarons_a_slack_app_for_random_lunch_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuzixnj%2Fwe_made_macarons_a_slack_app_for_random_lunch_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uzixnj/we_made_macarons_a_slack_app_for_random_lunch_and/</guid><pubDate>Sat, 28 May 2022 11:19:24 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;My friends and I have a development studio, mostly focused on iOS dev, but on the side we&amp;amp;#39;ve created this chat roulette app for Slack.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/m1xyv3nte6291.png?width=3016&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=33d3a0f5f2e0e79258446e67d44fc187bc1b9c0f&quot;&amp;gt;https://preview.redd.it/m1xyv3nte6291.png?width=3016&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=33d3a0f5f2e0e79258446e67d44fc187bc1b9c0f&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Why?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;While there are already Slack apps doing that, we found most of them quite complicated to set up and configure since they come with tons of other features like statistics for HR or gamification. We just wanted something easy to use and simple to set up that matches 2 or more people randomly. And, we wanted funny icebreakers. So, we collected all features we use with other apps for a while and then started with the implementation.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It took us a few months (I think it was 4) but now we released &amp;lt;a href=&quot;https://macarons-roulette.app&quot;&amp;gt;Macarons&amp;lt;/a&amp;gt;. After adding Macarons to the workspace you have to invite it to a channel and then can configure how often people of that channel are matched. Additionally you can specify how big the match groups should be and everyone participating can adjust their participation rate. That&amp;amp;#39;s basically it. Since Macarons is not over-boarded with features we also reflected this in our pricing with only $0.99 per participating user.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Learning so far&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;If you want to support so called &amp;amp;quot;enterprise workspaces&amp;amp;quot; in Slack, the user management is pretty complicated. We did that before and documented our code, but still had a few moments where we got confused. &amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;We use PHP/Laravel and it&amp;amp;#39;s really a nice stack to rapidly develop web apps, no regrets here.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;We still have to learn so much about marketing and promotion but it&amp;amp;#39;s a side project and side projects are good for learning 😊&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I created a SaaS to easily create a table with API access from a JSON or CSV file]]></title><description><![CDATA[Hey!
 
 I've been working on a "startup" side project over the last few months to try
 out the Lean startup processes (ship fast, talk to users, repeat), and learn
@@ -352,4 +380,4 @@ you can filter by…]]></description><link>https://sideproject.buzzing.cc/en/red
 &amp;lt;p&amp;gt;The list of web analytic tools are sorted by creation year, name or size. Also, you can filter by multiple features like as open source, self-hosted, free trial, data export, custom events, API access, email reports... &amp;amp;quot;Metrics&amp;amp;quot; is available in English and Spanish. The list is created with no affiliates or sponsored links of any kind.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://usemetrics.eu/en/&quot;&amp;gt;https://usemetrics.eu/en/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I built a python script to help you find the best guess to make in Wordle.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/ut0a1g/i_built_a_python_script_to_help_you_find_the_best/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fut0a1g%2Fi_built_a_python_script_to_help_you_find_the_best%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fut0a1g%2Fi_built_a_python_script_to_help_you_find_the_best%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/ut0a1g/i_built_a_python_script_to_help_you_find_the_best/</guid><pubDate>Thu, 19 May 2022 12:53:02 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
