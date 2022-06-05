@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jun 2022 04:09:51 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Hey r/sideproject, made WhatToCook.org which is a simple recipie website]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/</guid><pubDate>Sun, 05 Jun 2022 03:44:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Built a web app that takes Kanye's voice and reads random bible verses]]></title><description><![CDATA[https://yeezus-gbertkim.vercel.app/
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jun 2022 06:40:54 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I spent 3 months building DocsToSite, a tool that lets you build a website out of Google Docs]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/v52fsn/i_spent_3_months_building_docstosite_a_tool_that/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv52fsn%2Fi_spent_3_months_building_docstosite_a_tool_that%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv52fsn%2Fi_spent_3_months_building_docstosite_a_tool_that%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/v52fsn/i_spent_3_months_building_docstosite_a_tool_that/</guid><pubDate>Sun, 05 Jun 2022 06:18:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Hey r/sideproject, made WhatToCook.org which is a simple recipie website]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/</guid><pubDate>Sun, 05 Jun 2022 03:44:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Built a web app that takes Kanye's voice and reads random bible verses]]></title><description><![CDATA[https://yeezus-gbertkim.vercel.app/
 
 Hello! I'm a bootcamp coder and built this project to learn TypeScript. I call
 on a Bible Api and Uberduck Api to generate audio of bible verses in the voice
@@ -448,43 +448,4 @@ If you are interested, here is how it went down and what I learned…]]></descri
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://twitter.com/AKASpencerScott/status/1529555867120685058&quot;&amp;gt;https://twitter.com/AKASpencerScott/status/1529555867120685058&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I hope you find this helpful... Let me know if you have any questions...&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I made superdesigner. A collection of design tools to generate patterns, backgrounds, shapes, colors and more with a few clicks.]]></title><description><![CDATA[Hello,
-
-I like to create simple design tools so I created a collection of tools to
-create unique designs elements and ended up creating Superdesigner
-[https://superdesigner.co].
-
-
-
-Design tools in super designer
-
-- Background generator: Create 10+ unique backgrounds
-
-- Pattern generator: Create…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uxcbe5/i_made_superdesigner_a_collection_of_design_tools/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuxcbe5%2Fi_made_superdesigner_a_collection_of_design_tools%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuxcbe5%2Fi_made_superdesigner_a_collection_of_design_tools%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/uxcbe5/i_made_superdesigner_a_collection_of_design_tools/</guid><pubDate>Wed, 25 May 2022 11:47:19 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I like to create simple design tools so I created a collection of tools to create unique designs elements and ended up creating &amp;lt;a href=&quot;https://superdesigner.co&quot;&amp;gt;Superdesigner&amp;lt;/a&amp;gt;.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Design tools in super designer&amp;lt;/strong&amp;gt;  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Background generator&amp;lt;/strong&amp;gt;: Create 10+ unique backgrounds &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Pattern generator&amp;lt;/strong&amp;gt;: Create unique patterns using 150+ shapes using a simple tile design &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Blob generator&amp;lt;/strong&amp;gt;: Create blobs with gradients, patterns, &amp;amp;amp; stacks &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Color generator&amp;lt;/strong&amp;gt;: Generate colors using 60-30-10 rule &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Shades generato&amp;lt;/strong&amp;gt;r: Generate shades between 2 colors &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Gradient generator&amp;lt;/strong&amp;gt;: Generate linear, radial &amp;amp;amp; conical gradients using multiple colors &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;CSS backgrounds&amp;lt;/strong&amp;gt;: 100+ customisable css backgrounds  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I hope you will find them useful. Made with lots of ❤️&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I just launched it on &amp;lt;a href=&quot;https://www.producthunt.com/posts/super-designer&quot;&amp;gt;Producthunt&amp;lt;/a&amp;gt; as well.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>

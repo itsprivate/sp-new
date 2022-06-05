@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jun 2022 04:09:51 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[嘿，r/sideproject，做了 WhatToCook.org，这是一个简单的食谱网站。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/</guid><pubDate>Sun, 05 Jun 2022 03:44:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[构建了一个网络应用，以坎耶的声音，随机阅读圣经经文]]></title><description><![CDATA[https://yeezus-gbertkim.vercel.app/
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jun 2022 06:40:54 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我花了3个月的时间建立了DocsToSite，一个让你用谷歌文档建立网站的工具。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v52fsn/i_spent_3_months_building_docstosite_a_tool_that/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv52fsn%2Fi_spent_3_months_building_docstosite_a_tool_that%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv52fsn%2Fi_spent_3_months_building_docstosite_a_tool_that%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v52fsn/i_spent_3_months_building_docstosite_a_tool_that/</guid><pubDate>Sun, 05 Jun 2022 06:18:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[嘿，r/sideproject，做了 WhatToCook.org，这是一个简单的食谱网站。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/</guid><pubDate>Sun, 05 Jun 2022 03:44:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[构建了一个网络应用，以坎耶的声音，随机阅读圣经经文]]></title><description><![CDATA[https://yeezus-gbertkim.vercel.app/
 
 你好! 我是一个训练营的程序员，建立这个项目是为了学习TypeScript。我调用
 圣经Api和Uberduck Api来生成坎耶声音的圣经经文的音频。
@@ -448,43 +448,4 @@ Url: ...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProje
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://twitter.com/AKASpencerScott/status/1529555867120685058&quot;&amp;gt;https://twitter.com/AKASpencerScott/status/1529555867120685058&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I hope you find this helpful... Let me know if you have any questions...&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了superdesigner。一套设计工具，只需点击几下就能生成图案、背景、形状、颜色等。]]></title><description><![CDATA[你好。
-
-我喜欢创建简单的设计工具，所以我创建了一个工具集来创建独特的设计元素。
-创作独特的设计元素，最后创建了Superdesigner
-[https://superdesigner.co]。
-
-
-
-超级设计师中的设计工具
-
-- 背景生成器。创建10多个独特的背景
-
-- 图案生成器。创建一个新的背景。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uxcbe5/i_made_superdesigner_a_collection_of_design_tools/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuxcbe5%2Fi_made_superdesigner_a_collection_of_design_tools%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuxcbe5%2Fi_made_superdesigner_a_collection_of_design_tools%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uxcbe5/i_made_superdesigner_a_collection_of_design_tools/</guid><pubDate>Wed, 25 May 2022 11:47:19 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I like to create simple design tools so I created a collection of tools to create unique designs elements and ended up creating &amp;lt;a href=&quot;https://superdesigner.co&quot;&amp;gt;Superdesigner&amp;lt;/a&amp;gt;.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Design tools in super designer&amp;lt;/strong&amp;gt;  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Background generator&amp;lt;/strong&amp;gt;: Create 10+ unique backgrounds &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Pattern generator&amp;lt;/strong&amp;gt;: Create unique patterns using 150+ shapes using a simple tile design &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Blob generator&amp;lt;/strong&amp;gt;: Create blobs with gradients, patterns, &amp;amp;amp; stacks &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Color generator&amp;lt;/strong&amp;gt;: Generate colors using 60-30-10 rule &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Shades generato&amp;lt;/strong&amp;gt;r: Generate shades between 2 colors &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;Gradient generator&amp;lt;/strong&amp;gt;: Generate linear, radial &amp;amp;amp; conical gradients using multiple colors &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- &amp;lt;strong&amp;gt;CSS backgrounds&amp;lt;/strong&amp;gt;: 100+ customisable css backgrounds  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I hope you will find them useful. Made with lots of ❤️&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I just launched it on &amp;lt;a href=&quot;https://www.producthunt.com/posts/super-designer&quot;&amp;gt;Producthunt&amp;lt;/a&amp;gt; as well.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
