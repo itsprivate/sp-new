@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jun 2022 03:39:17 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[構建了一個網絡應用，以坎耶的聲音，隨機閱讀聖經經文]]></title><description><![CDATA[https://yeezus-gbertkim.vercel.app/
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jun 2022 04:09:51 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[嘿，r/sideproject，做了 WhatToCook.org，這是一個簡單的食譜網站。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv4zus4%2Fhey_rsideproject_made_whattocookorg_which_is_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v4zus4/hey_rsideproject_made_whattocookorg_which_is_a/</guid><pubDate>Sun, 05 Jun 2022 03:44:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[構建了一個網絡應用，以坎耶的聲音，隨機閱讀聖經經文]]></title><description><![CDATA[https://yeezus-gbertkim.vercel.app/
 
 你好! 我是一個訓練營的程序員，建立這個項目是爲了學習TypeScript。我調用
 聖經Api和Uberduck Api來生成坎耶聲音的聖經經文的音頻。
@@ -487,21 +487,4 @@ Url: ...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/S
 &amp;lt;p&amp;gt;I hope you will find them useful. Made with lots of ❤️&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;I just launched it on &amp;lt;a href=&quot;https://www.producthunt.com/posts/super-designer&quot;&amp;gt;Producthunt&amp;lt;/a&amp;gt; as well.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[不同語言的WhatsApp對話。]]></title><description><![CDATA[嗨，夥計們
-
-我是一名外籍人士，我創建了一個有用的小工具，以幫助我在學習語言時進行西班牙
-WhatsApp對話，同時學習語言。
-
-使用BabelBot [https://www.babelbot.io/] 聊天機器人，每個人都用自己的語言寫下
-語言，而聊天機器人會自動添加翻譯，所以...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uwwssq/whatsapp_conversations_in_different_languages/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuwwssq%2Fwhatsapp_conversations_in_different_languages%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuwwssq%2Fwhatsapp_conversations_in_different_languages%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/uwwssq/whatsapp_conversations_in_different_languages/</guid><pubDate>Wed, 25 May 2022 03:52:33 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi guys&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m an ex-pat and I&amp;amp;#39;ve created a useful little tool to help me with Spanish WhatsApp conversations while I learn the language.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Using the &amp;lt;a href=&quot;https://www.babelbot.io/&quot;&amp;gt;BabelBot&amp;lt;/a&amp;gt; chatbot, everyone writes in their language and the chatbot automatically adds translations so everyone understands.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I think it will be useful for ex-pats, language learners, travelers, extended family, and foreign workers.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/87g4y0i8qg191.jpg?width=1080&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=43b5a6c856d7ffe3d60b3443d91c65a5711e3fa2&quot;&amp;gt;https://preview.redd.it/87g4y0i8qg191.jpg?width=1080&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=43b5a6c856d7ffe3d60b3443d91c65a5711e3fa2&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
