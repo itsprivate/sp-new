@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Jun 2022 22:38:39 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[一个帮助汽车维护的移动应用程序。寻找测试者]]></title><description><![CDATA[大家好。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Jun 2022 16:08:29 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[喜欢与朋友分享音乐（专辑、歌曲、播放列表）？看看 "Groupie: 发现、分享、聆听"--一个由我和我的朋友制作的免费手机应用 链接在个人资料上，可以下载!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v6wsnj/love_sharing_music_albums_songs_playlists_with/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv6wsnj%2Flove_sharing_music_albums_songs_playlists_with%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv6wsnj%2Flove_sharing_music_albums_songs_playlists_with%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v6wsnj/love_sharing_music_albums_songs_playlists_with/</guid><pubDate>Tue, 07 Jun 2022 15:35:59 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[一个帮助汽车维护的移动应用程序。寻找测试者]]></title><description><![CDATA[大家好。
 
 我目前正在开发一个针对个人车主的移动应用程序，它应该是
 帮助保持所有与汽车有关的约会/维护间隔，并
@@ -435,61 +435,4 @@ Elasticsearch）。这是我第一次用 "大数据 "来做项目。]]></descrip
 &amp;lt;p&amp;gt;So check out the app on our website: &amp;lt;a href=&quot;https://www.thepineapp.com?reddit-sideproject&quot;&amp;gt;https://www.thepineapp.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Hope you like it. Also would be awesome to hear what you think of it in the comments :) &amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我在Astro.js中用React制作了一个免费和开源的黑暗模板，非常适合用于投资组合或博客。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uyzmy8/i_made_a_free_and_open_source_dark_template_in/?score=12&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuyzmy8%2Fi_made_a_free_and_open_source_dark_template_in%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuyzmy8%2Fi_made_a_free_and_open_source_dark_template_in%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uyzmy8/i_made_a_free_and_open_source_dark_template_in/</guid><pubDate>Fri, 27 May 2022 18:24:56 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我们建立了一个Facebook聊天机器人来维持有意义的关系]]></title><description><![CDATA[嘿，Reddit。
-
-
-
-我的朋友有时会与他的伴侣出现沟通问题，他们只是
-不理解对方，不知道如何正确行事。
-
-所以我们做了一些研究，发现伴侣之间的相互理解和沟通问题是最大的问题之一。
-和伴侣之间的沟通是最大的问题之一。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uyr9dt/we_build_a_facebook_chatbot_to_maintain_a/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuyr9dt%2Fwe_build_a_facebook_chatbot_to_maintain_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuyr9dt%2Fwe_build_a_facebook_chatbot_to_maintain_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uyr9dt/we_build_a_facebook_chatbot_to_maintain_a/</guid><pubDate>Fri, 27 May 2022 11:06:39 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey Reddit,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;My friend sometimes has communication problems with his partner when they just don&amp;amp;#39;t understand each other and don&amp;amp;#39;t know how to behave properly.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So we did some research and found out that the problem of mutual understanding and communication between partners is one of the biggest problems in relationships.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Since we find the topic of communication very interesting, we decided to develop a service that we ourselves can use to communicate better with our partners.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;We&amp;amp;#39;re looking for our first beta users.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How can you try it?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;For simplicity, our beta version works through Facebook Messenger.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;As a thank you to our early adopters, all features will be available for free for a year.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;All you&amp;amp;#39;ve to do is click on the link and follow the instructions.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Link:&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;http://m.me/nemlysapp&quot;&amp;gt;m.me/nemlysapp&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How does it work?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We want to help you build a meaningful connection with your partner by using the Nemlys bot for 5 minutes a day:&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;Daily Check-Up. About your emotions, feelings, and worries ✅&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Share Negatives. Calm down and discuss them with your partner in a non-judgmental way 🌱&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Track progress. Toward a better understanding in your partnership 📈&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Did you like the bot?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Share your feedback. If you want to suggest ideas - just write a comment here or a line in DM.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Try it out!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Our website:&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://www.nemlys.com/&quot;&amp;gt;https://www.nemlys.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我在Astro.js中用React制作了一个免费和开源的黑暗模板，非常适合用于投资组合或博客。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uyzmy8/i_made_a_free_and_open_source_dark_template_in/?score=12&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuyzmy8%2Fi_made_a_free_and_open_source_dark_template_in%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuyzmy8%2Fi_made_a_free_and_open_source_dark_template_in%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uyzmy8/i_made_a_free_and_open_source_dark_template_in/</guid><pubDate>Fri, 27 May 2022 18:24:56 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
