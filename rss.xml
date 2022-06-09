@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jun 2022 06:52:50 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我为业主和物业经理建立了一个免费的物业管理SaaS系统]]></title><description><![CDATA[各位朋友，大家好
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jun 2022 15:26:45 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我们和我的女朋友一起创建了一个应用程序来记录我们的记忆]]></title><description><![CDATA[大家好。
+
+我们已经建立了一个iOS应用程序Couple Joy
+[https://apps.apple.com/us/app/couple-joy-journal-memories/id1624758651] 其中
+我们可以将我们的记忆与日期和地点联系起来，并将它们美丽地可视化。我们的
+我们的手机相册里通常充满了我们的猫的照片😅，随机的东西和
+屏幕截图...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v8h6jl/together_with_my_girlfriend_weve_created_an_app/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv8h6jl%2Ftogether_with_my_girlfriend_weve_created_an_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv8h6jl%2Ftogether_with_my_girlfriend_weve_created_an_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/v8h6jl/together_with_my_girlfriend_weve_created_an_app/</guid><pubDate>Thu, 09 Jun 2022 14:49:05 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi everyone,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We’ve built &amp;lt;a href=&quot;https://apps.apple.com/us/app/couple-joy-journal-memories/id1624758651&quot;&amp;gt;Couple Joy, an iOS app&amp;lt;/a&amp;gt; where we can add our memories with date &amp;amp;amp; location and beautifuly visualize them. Our phones’ gallery is usually very full of photos of our cat 😅, random stuff and screenshots and was hard for us to find the key events from our lives. It just takes few seconds to add a new memory. The location and date is autocompleted from photo&amp;amp;#39;s metadata (if available), so you just have to add a title. If you add location to a memory then you can see it on the map. We hope to fill the map with a lot of pins this year!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you have time to try it, let us know what you think about it!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://apps.apple.com/us/app/couple-joy-journal-memories/id1624758651&quot;&amp;gt;https://apps.apple.com/us/app/couple-joy-journal-memories/id1624758651&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Best, &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Cosmin&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/nx1pcmtpnl491.png?width=2160&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=25f2c48b330f90a433740e3207597c86954d2012&quot;&amp;gt;https://preview.redd.it/nx1pcmtpnl491.png?width=2160&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=25f2c48b330f90a433740e3207597c86954d2012&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我为业主和物业经理建立了一个免费的物业管理SaaS系统]]></title><description><![CDATA[各位朋友，大家好
 
 我为物业经理和业主建立了一个免费的SaaS，以帮助他们管理
 和跟踪他们的财产、租约和支出，此外，发票
@@ -336,34 +355,4 @@ Pastebin - good but it&amp;amp;#39;s not multiplayer.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://emu.oko.nyc/board&quot;&amp;gt;https://emu.oko.nyc/board&amp;lt;/a&amp;gt;
 &amp;lt;a href=&quot;https://github.com/elendee/emutab&quot;&amp;gt;https://github.com/elendee/emutab&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[doqs：按REST API填写你的PDF文件]]></title><description><![CDATA[https://preview.redd.it/iwlmem1o71291.png?width=2400&format=png&auto=webp&s=2a472ca03f167925159b5ba2d362a01491013665
-
-在过去的4个月里，我在我的副业doqs[https://doqs.dev]上工作。
-
-什么是doqs？
-doqs [https://doqs.dev] 是一个SaaS应用程序，允许其用户填写和定制他们的文件。
-他们的文件...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uz053u/doqs_fill_your_pdfs_per_rest_api/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuz053u%2Fdoqs_fill_your_pdfs_per_rest_api%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fuz053u%2Fdoqs_fill_your_pdfs_per_rest_api%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/uz053u/doqs_fill_your_pdfs_per_rest_api/</guid><pubDate>Sat, 28 May 2022 12:54:40 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/iwlmem1o71291.png?width=2400&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=2a472ca03f167925159b5ba2d362a01491013665&quot;&amp;gt;https://preview.redd.it/iwlmem1o71291.png?width=2400&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=2a472ca03f167925159b5ba2d362a01491013665&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I worked the last ~4 months on my side project &amp;lt;a href=&quot;https://doqs.dev&quot;&amp;gt;doqs&amp;lt;/a&amp;gt;.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;What is doqs?&amp;lt;/strong&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&quot;https://doqs.dev&quot;&amp;gt;doqs&amp;lt;/a&amp;gt; is a SaaS app allowing its users to fill and customize their documents with a single API calls.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You upload the base PDF document in our template builder and then configure the fields to be filled. We are currently working on a feature to automatically detect and pre-configure fields from the PDF.&amp;lt;br/&amp;gt;
-Afterwards you are set up for personalizing the configured template with any content you provide on the API call.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Who are we building it for?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://doqs.dev&quot;&amp;gt;doqs&amp;lt;/a&amp;gt; is tailor to the use case that you have a pre-defined, mostly external document that should be personalized with your client data, e.g. government documents or vendor forms.&amp;lt;br/&amp;gt;
-Those forms content can then be customized with the data provided on the API Call.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Any feedback is highly appreciated!&amp;lt;br/&amp;gt;
-I would be very interested in your opinion on pricing strategy. I will definitely go with a pay-per-use model and have not decided on a &amp;amp;quot;pay per document&amp;amp;quot; (8 cents per PDF) or a &amp;amp;quot;pay per document page&amp;amp;quot; (0.2 cents per PDF page). What would you prefer or recommend?  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Cheers,&amp;lt;br/&amp;gt;
-Dennis&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
