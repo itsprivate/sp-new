@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Jun 2022 10:40:12 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個工具，根據你的閱讀速度，將你在2022年能讀多少本書的日常習慣可視化出來]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ve90id/i_made_a_tool_to_visualize_how_many_books_you_can/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fve90id%2Fi_made_a_tool_to_visualize_how_many_books_you_can%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fve90id%2Fi_made_a_tool_to_visualize_how_many_books_you_can%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ve90id/i_made_a_tool_to_visualize_how_many_books_you_can/</guid><pubDate>Fri, 17 Jun 2022 10:17:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[GameScry，一個衆包的遊戲瀏覽器]]></title><description><![CDATA[我最近在我的愛好項目中增加/整合了很多功能，旨在
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Jun 2022 05:57:48 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Pivot--高效的時間跟蹤，有可靠的報告和目標]]></title><description><![CDATA[大家好!
+
+在過去的幾年裏，我一直在追蹤我是如何花費我的時間的。我已經嘗試了
+許多解決方案，但一直在努力尋找一個內置數據的應用程序
+可視化的應用程序 - 所以我做了一個。
+
+Pivot是一個專爲人工跟蹤而設計的應用程序，沒有任何的限制。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vejt8b/pivot_efficient_time_tracking_with_solid/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvejt8b%2Fpivot_efficient_time_tracking_with_solid%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvejt8b%2Fpivot_efficient_time_tracking_with_solid%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vejt8b/pivot_efficient_time_tracking_with_solid/</guid><pubDate>Sat, 18 Jun 2022 05:29:02 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey everyone!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For the last few years, I’ve been tracking how I spend my time. I have tried many solutions, but struggled to find an app that had built-in data visualization on par with what I could do using my laptop – so I made one.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Pivot is an app designed for manual tracking without the hassle. You can quickly switch between your activities and easily backfill time entries if you miss something. Dynamically updated and customizable charts allow you to effectively review your entries.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Time tracking is great if you want to change your habits. With Pivot, you can set goals against your timers, making it easier to take action. More features will be coming out soon, including notifications and widgets!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The app is available on Android and currently in open beta, with an official release in a couple of weeks! You can try it out here: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.pivot.android&quot;&amp;gt;https://play.google.com/store/apps/details?id=com.pivot.android&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I would be very interested to hear your feedback or suggestions. I’d also be happy to answer any questions about Pivot or the development process. Thank you!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[嘿，看看我的自建裝置。它是3D打印的，裏面有一個Arduino。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/veoqic/hey_check_out_my_self_build_set_up_its_3d_printed/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fveoqic%2Fhey_check_out_my_self_build_set_up_its_3d_printed%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fveoqic%2Fhey_check_out_my_self_build_set_up_its_3d_printed%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/veoqic/hey_check_out_my_self_build_set_up_its_3d_printed/</guid><pubDate>Sat, 18 Jun 2022 05:29:02 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個工具，根據你的閱讀速度，將你在2022年能讀多少本書的日常習慣可視化出來]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ve90id/i_made_a_tool_to_visualize_how_many_books_you_can/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fve90id%2Fi_made_a_tool_to_visualize_how_many_books_you_can%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fve90id%2Fi_made_a_tool_to_visualize_how_many_books_you_can%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/ve90id/i_made_a_tool_to_visualize_how_many_books_you_can/</guid><pubDate>Fri, 17 Jun 2022 10:17:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[GameScry，一個衆包的遊戲瀏覽器]]></title><description><![CDATA[我最近在我的愛好項目中增加/整合了很多功能，旨在
 瀏覽獨立遊戲和正在開發的遊戲。
 
 https://game-scry.online
@@ -475,113 +492,4 @@ RGB/A、HSL、HSV、CMYK，等等。你可以查看所有的陰影、色調、�
 &amp;lt;p&amp;gt;If that sounds interesting to you I would really appreciate if you consider to sign up for the alpha test of the Android app here: &amp;lt;a href=&quot;https://forms.office.com/r/pui0YudsQj&quot;&amp;gt;https://forms.office.com/r/pui0YudsQj&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Thank you for any support!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個抬頭顯示器，可以爲任何你能聽到的東西提供實時的封閉式字幕。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v6bkzw/i_made_a_heads_up_display_that_provides_closed/?score=21&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv6bkzw%2Fi_made_a_heads_up_display_that_provides_closed%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv6bkzw%2Fi_made_a_heads_up_display_that_provides_closed%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v6bkzw/i_made_a_heads_up_display_that_provides_closed/</guid><pubDate>Mon, 06 Jun 2022 20:28:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我爲開發者和設計者建立了一個簡單的參考圖像查看器]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v5ei36/i_built_a_simple_reference_image_viewer_for/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv5ei36%2Fi_built_a_simple_reference_image_viewer_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv5ei36%2Fi_built_a_simple_reference_image_viewer_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v5ei36/i_built_a_simple_reference_image_viewer_for/</guid><pubDate>Sun, 05 Jun 2022 20:24:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[私は、今見ているページについて人々が何を言っているかを知りたかったので、そのページに関連するHN &; Redditのディスカッションを見つけることができるChrome拡張機能を作りました。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v5e6rt/i_wanted_to_know_what_people_are_saying_about_the/?score=14&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv5e6rt%2Fi_wanted_to_know_what_people_are_saying_about_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv5e6rt%2Fi_wanted_to_know_what_people_are_saying_about_the%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v5e6rt/i_wanted_to_know_what_people_are_saying_about_the/</guid><pubDate>Sun, 05 Jun 2022 15:22:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[營銷中的作弊--WhatsApp、Reddit、亞馬遜、Paypal、Airbnb和LinkedIn是如何在其發展道路上作弊的]]></title><description><![CDATA[營銷有時意味着欺騙
-
-對一些人來說，濫用系統中的漏洞可能是有爭議的。
-
-對其他人來說，他們是足智多謀的典範--只要你沒有
-傷害任何人
-
-讓我們看看WhatsApp、Reddit、亞馬遜、Paypal和Airbnb是如何在他們的路上作弊的。
-了。
-
-
-
-
-1. WHATSAPP
-
-Koum...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v59mc4/cheating_in_marketing_how_whatsapp_reddit_amazon/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv59mc4%2Fcheating_in_marketing_how_whatsapp_reddit_amazon%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv59mc4%2Fcheating_in_marketing_how_whatsapp_reddit_amazon%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v59mc4/cheating_in_marketing_how_whatsapp_reddit_amazon/</guid><pubDate>Sun, 05 Jun 2022 12:12:31 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;h1&amp;gt;Marketing sometimes means CHEATING&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;Abusing loopholes in the systems for some might be controversial&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;For others, they are prime examples of resourcefulness - as long as you don&amp;amp;#39;t hurt anyone&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Let&amp;amp;#39;s see how WhatsApp, Reddit, Amazon, Paypal, and Airbnb cheated on their way up:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;1. WhatsApp&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;Koum and Acton took the advantage of an early App Store bug&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The “What&amp;amp;#39;s New” list saw WhatsApp as a “new” app whenever the creators changed its name on AppStore&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;They kept changing it, and it gave them the first 1,000 users because WhatsApp stayed at the top of the “What&amp;amp;#39;s New” list until Apple fixed that bug.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;2. Reddit&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;Steve and Alexis struggled with getting their first users&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;To solve that they created fake accounts and started faking traffic by posting links&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Reddit had no subreddits until real users began coming in&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The fake accounts got phased out over time&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;3. Amazon&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;Jeff came up with the name “Amazon” because website listings like Yahoo (which was THE INTERNET portal at the time) were organized alphabetically&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;At first, he thought about “Cadabra” but a name with “A” would pop up earlier on the list&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Other than that, when the team needed to stock, they ordered books from other stores, like Baker &amp;amp;amp; Taylor Jeff and his team, had one problem. The minimal number of books in one order was 10 It was too expensive&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;They found a workaround.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;They always ordered the book they wanted + 9 copies of a book about lichens that was constantly out of stock.The store would send that particular book and a note saying sorry for not sending the 9 books about lichens&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;4. Paypal&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;When PayPal appeared on eBay, the team made bots&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Their targeted eBay Power Sellers – the top 20k merchants on the platform&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The bots were buying stuff there and insisted on paying via PayPal&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;eBay sellers got interested in the service because it looked like there was an increasing demand for it&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This marketing stunt turned into a 33% market share after just 3 months!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;5. Airbnb&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;Airbnb created a bot that looked for room-renting offers on Craigslist, and then sent them emails It asked them to include AirBed&amp;amp;amp;Breakfast (MVP version of Airbnb) in their posts&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;When they got short on money, they released Obama O&amp;amp;#39;s and Cap&amp;amp;#39;n McCain&amp;amp;#39;s cereals during the 2008 elections&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;They got featured on CNN&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Within a week Obama O&amp;amp;#39;s &amp;amp;amp; Cap’n McCain&amp;amp;#39;s sold $30k worth of cereals - almost 4 times what the Airbnb core business had made before this moment&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;h1&amp;gt;6. LinkedIn&amp;lt;/h1&amp;gt;
-
-&amp;lt;p&amp;gt;In 2004 LinkedIn created a new feature - aggressive contact importing with the use of email lists. The platform browsed through users’ contacts and sent invitations. The team has even built an Outlook plugin for that.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Networking got much easier.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Later on, LinkedIn exploited the feature to the maximum. When it got access to your email contacts list, it spammed everyone in it, multiple times. They got even sued for that.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;------------------&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;(btw, you can read the longer version&amp;lt;a href=&quot;http://kickstartsidehustle.com/a-billion-dollar-mvp/&quot;&amp;gt; here&amp;lt;/a&amp;gt; - MVPs of 42 billion-dollar businesses and how they got their first 1k customers)&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我今天剛剛推出了我的第一個信息產品。109頁的電子書。]]></title><description><![CDATA[https://pascio.gumroad.com/l/0-1kfollowers]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v592ld/i_just_launched_my_first_ever_info_product_today/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv592ld%2Fi_just_launched_my_first_ever_info_product_today%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv592ld%2Fi_just_launched_my_first_ever_info_product_today%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v592ld/i_just_launched_my_first_ever_info_product_today/</guid><pubDate>Sun, 05 Jun 2022 12:12:31 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://pascio.gumroad.com/l/0-1kfollowers&quot;&amp;gt;https://pascio.gumroad.com/l/0-1kfollowers&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個抬頭顯示器，可以爲任何你能聽到的東西提供實時的封閉式字幕。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v6bkzw/i_made_a_heads_up_display_that_provides_closed/?score=21&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv6bkzw%2Fi_made_a_heads_up_display_that_provides_closed%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv6bkzw%2Fi_made_a_heads_up_display_that_provides_closed%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v6bkzw/i_made_a_heads_up_display_that_provides_closed/</guid><pubDate>Mon, 06 Jun 2022 20:28:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我爲開發者和設計者建立了一個簡單的參考圖像查看器]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v5ei36/i_built_a_simple_reference_image_viewer_for/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv5ei36%2Fi_built_a_simple_reference_image_viewer_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv5ei36%2Fi_built_a_simple_reference_image_viewer_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v5ei36/i_built_a_simple_reference_image_viewer_for/</guid><pubDate>Sun, 05 Jun 2022 20:24:04 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[私は、今見ているページについて人々が何を言っているかを知りたかったので、そのページに関連するHN &; Redditのディスカッションを見つけることができるChrome拡張機能を作りました。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v5e6rt/i_wanted_to_know_what_people_are_saying_about_the/?score=14&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv5e6rt%2Fi_wanted_to_know_what_people_are_saying_about_the%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv5e6rt%2Fi_wanted_to_know_what_people_are_saying_about_the%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v5e6rt/i_wanted_to_know_what_people_are_saying_about_the/</guid><pubDate>Sun, 05 Jun 2022 15:22:19 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
