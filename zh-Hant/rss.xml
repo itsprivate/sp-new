@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jun 2022 17:37:04 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個平臺來審查公司的招聘流程]]></title><description><![CDATA[這個想法可能很傻，但我至少在建立它時很開心。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jun 2022 21:35:11 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[流行的微型創業公司和獨立項目]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vh0fo8/trending_microstartups_and_indie_projects/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvh0fo8%2Ftrending_microstartups_and_indie_projects%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvh0fo8%2Ftrending_microstartups_and_indie_projects%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vh0fo8/trending_microstartups_and_indie_projects/</guid><pubDate>Tue, 21 Jun 2022 20:59:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我做了一個平臺來審查公司的招聘流程]]></title><description><![CDATA[這個想法可能很傻，但我至少在建立它時很開心。
 
 我在申請許多職位時，對許多公司在整個招聘過程中的溝通能力感到有些失望。
 公司在整個招聘過程中的溝通能力有些失望。
@@ -565,18 +565,4 @@ RGB/A、HSL、HSV、CMYK，等等。你可以查看所有的陰影、色調、�
 &amp;lt;/ul&amp;gt;
 
 &amp;lt;p&amp;gt;I wrote my own algorithm and tried a few of them, now I&amp;amp;#39;m focusing on my own algorithm and making it better. I focused on the US market and CNN only so far, it is my ground zero.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[PollTime.me - 找到你想見面的每個人的時間，而不必問 "你什麼時候有空"。由我製作的免費會議工具!]]></title><description><![CDATA[https://www.producthunt.com/posts/polltime-me
-
-大家好! 我想與大家分享我在過去幾個週末一直在做的這個免費使用的項目。
-在過去的幾個週末，我一直在做這個項目，名爲PollTime.me（請原諒這個名字
-請原諒這個名字聽起來像一個異國情調的舞者請求應用程序！) 因此，PollTime來自一個地方
-需要...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v8ioo4/polltimeme_find_when_everyone_you_want_to_meet/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv8ioo4%2Fpolltimeme_find_when_everyone_you_want_to_meet%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fv8ioo4%2Fpolltimeme_find_when_everyone_you_want_to_meet%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/v8ioo4/polltimeme_find_when_everyone_you_want_to_meet/</guid><pubDate>Thu, 09 Jun 2022 17:41:50 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.producthunt.com/posts/polltime-me&quot;&amp;gt;https://www.producthunt.com/posts/polltime-me&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Hey everyone! I wanted to share this free to use project I&amp;amp;#39;ve been working on over the past few weekends called PollTime.me (please excuse the fact the name sounds like an exotic dancer request app!)  So PollTime came from a place of necessity for me. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;After spending hours trying to get team members, clients and leads to get together for a Zoom call I wondered if there was anything easier than going back and forth to try and find a time that suited everyone. That was the start of PollTime.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I know there are similar tools out there such as Outlook&amp;amp;#39;s FindTime but as someone who doesn&amp;amp;#39;t use Microsoft mail services I could only find tools that kind-of fit the brief.  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I would love your feedback on PollTime, this is a new project and I&amp;amp;#39;ve been using it for the past few months now and it&amp;amp;#39;s working great for streamlining my meeting requests, I&amp;amp;#39;d love to know if it aids yours!  Any thoughts, comments or critiques welcome!&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
