@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jun 2022 05:33:23 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[readss - aggregating top tech news, thoughts, and opinions]]></title><description><![CDATA[hey!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jun 2022 08:39:16 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I made a free Telegram Poll Management Dashboard!]]></title><description><![CDATA[Hi, I’m Ryan and I’m enrolling in University (Singapore NUS) later this year
+(Computer Science course). I made Pollina as a side project to improve my coding
+skills.
+
+https://www.pollina.cloud [https://www.pollina.cloud/index]
+
+Pollina is a free Telegram Poll Bot made using Bootstrap 4 and Python.…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vkuceo/i_made_a_free_telegram_poll_management_dashboard/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvkuceo%2Fi_made_a_free_telegram_poll_management_dashboard%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvkuceo%2Fi_made_a_free_telegram_poll_management_dashboard%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vkuceo/i_made_a_free_telegram_poll_management_dashboard/</guid><pubDate>Sun, 26 Jun 2022 07:55:12 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi, I’m Ryan and I’m enrolling in University (Singapore NUS) later this year (Computer Science course). I made Pollina as a side project to improve my coding skills.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.pollina.cloud/index&quot;&amp;gt;https://www.pollina.cloud&amp;lt;/a&amp;gt; &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Pollina is a free Telegram Poll Bot made using Bootstrap 4 and Python. It provides Telegram Poll creation and management in a convenient web dashboard UI. I’m currently hosting it personally and would love for you guys to try it out and provide your feedback! &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Features&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Add `@pollina_telebot` to your Telegram Group to register it with Pollina&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Schedule native Telegram Polls per day (e.g. Mon, Tue, Wed @ 18:00 GMT+8)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Schedule native Telegram Polls on a specific date (e.g. 2022-06-26 @ 18:00 GMT+8)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Schedule Telegram messages per day&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Schedule Telegram messages on a specific date&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Get open-ended responses from verified voters&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;View poll vote results on dashboard&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Export poll vote results as Excel file (CSV)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Coming Soon&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Stats!&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Graphs!&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;I hope you guys will find this tool useful for managing your Polls/Announcements in your Telegram Groups! Let me know what you think. Thanks!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[readss - aggregating top tech news, thoughts, and opinions]]></title><description><![CDATA[hey!
 
 i built readss [https://readss.tech] to stay updated on the latest tech news and
 keep track of articles from influential thinkers in the tech space. The articles
@@ -393,4 +426,4 @@ Today, many of us…]]></description><link>https://sideproject.buzzing.cc/en/red
 &amp;lt;/ul&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;em&amp;gt;You can explore Breathhh and it&amp;amp;#39;s functionality right now by following the&amp;lt;/em&amp;gt; &amp;lt;a href=&quot;https://breathhh.app&quot;&amp;gt;&amp;lt;em&amp;gt;link&amp;lt;/em&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;em&amp;gt;.&amp;lt;/em&amp;gt;  &amp;lt;em&amp;gt;We will be extremely glad of your feedback!&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I made an email client for reading newsletters]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vb6cfm/i_made_an_email_client_for_reading_newsletters/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvb6cfm%2Fi_made_an_email_client_for_reading_newsletters%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvb6cfm%2Fi_made_an_email_client_for_reading_newsletters%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vb6cfm/i_made_an_email_client_for_reading_newsletters/</guid><pubDate>Mon, 13 Jun 2022 12:00:19 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
