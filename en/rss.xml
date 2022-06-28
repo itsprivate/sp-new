@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Jun 2022 20:24:41 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Workout Loop: Workout using YouTube videos, without navigating the YouTube UI]]></title><description><![CDATA[I built Workout Loop [https://www.plankido.com/loop] because I was frustrated
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Jun 2022 10:35:04 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Budg: Your Financial Buddy]]></title><description><![CDATA[Hello all 👋
+
+
+
+I'm Matthieu (https://twitter.com/twMatthieuH) an indie maker building Budg
+(https://budg.co).
+
+
+
+I’m someone that always tried to keep my finances healthy.
+
+Though I always struggled with finding proper tooling finding them complicated.
+And obviously, I was not wanting to use…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vmieva/budg_your_financial_buddy/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvmieva%2Fbudg_your_financial_buddy%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvmieva%2Fbudg_your_financial_buddy%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vmieva/budg_your_financial_buddy/</guid><pubDate>Tue, 28 Jun 2022 10:09:08 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello all 👋&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;m Matthieu (&amp;lt;a href=&quot;https://twitter.com/twMatthieuH&quot;&amp;gt;https://twitter.com/twMatthieuH&amp;lt;/a&amp;gt;) an indie maker building Budg (&amp;lt;a href=&quot;https://budg.co&quot;&amp;gt;https://budg.co&amp;lt;/a&amp;gt;).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I’m someone that always tried to keep my finances healthy.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Though I always struggled with finding proper tooling finding them complicated. And obviously, I was not wanting to use spreadsheets.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So I decided to build my own app that now I’m sharing hoping it will help others 🤞&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I’m introducing you Budg: a mobile application available on iOS and Android.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;From tracking expenses to creating budgets, the goal of Budg is to become your financial support right in your pocket!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I hope you will give Budg a try 🤗&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Any feedback is welcome so it can match your exact needs 🙏&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Budg on iOS: &amp;lt;a href=&quot;https://apps.apple.com/fr/app/budg/id1554878530&quot;&amp;gt;https://apps.apple.com/fr/app/budg/id1554878530&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Budg on Android: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=co.budg.mobile&quot;&amp;gt;https://play.google.com/store/apps/details?id=co.budg.mobile&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Workout Loop: Workout using YouTube videos, without navigating the YouTube UI]]></title><description><![CDATA[I built Workout Loop [https://www.plankido.com/loop] because I was frustrated
 with the experience of using the YouTube UI to do a workout video every morning.
 I had saved some workouts to a playlist, but it was still a pain to open up the
 app, navigate to the right playlist, and pick something, and…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vlwt9c/workout_loop_workout_using_youtube_videos_without/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvlwt9c%2Fworkout_loop_workout_using_youtube_videos_without%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvlwt9c%2Fworkout_loop_workout_using_youtube_videos_without%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vlwt9c/workout_loop_workout_using_youtube_videos_without/</guid><pubDate>Mon, 27 Jun 2022 19:53:43 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I built &amp;lt;a href=&quot;https://www.plankido.com/loop&quot;&amp;gt;Workout Loop&amp;lt;/a&amp;gt; because I was frustrated with the experience of using the YouTube UI to do a workout video every morning. I had saved some workouts to a playlist, but it was still a pain to open up the app, navigate to the right playlist, and pick something, and then when I finished my workout the next video would start playing which isn&amp;amp;#39;t what I want when I&amp;amp;#39;ve just finished my workout!&amp;lt;/p&amp;gt;
@@ -421,22 +466,4 @@ become available on both Apple and Android…]]></description><link>https://side
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;⏰ Push notifications (coming soon)&amp;lt;/strong&amp;gt; - In real-time, let your users know what&amp;amp;#39;s new. And keep them engaged.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Check us out and show your support on &amp;lt;a href=&quot;https://www.producthunt.com/posts/softr-mobile&quot;&amp;gt;Product Hunt&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Motivational Pet-Management App to Coordinate Better and Help Animal Shelters]]></title><description><![CDATA[Hey everyone, I'm currently a second-year university student who is developing
-an app for better pet management. After realizing the struggles facing animal
-shelters in the US and globally, I wanted to motivate pet owners and potential
-pet adopters of their options for obtaining a pet, financial…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vc78co/motivational_petmanagement_app_to_coordinate/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvc78co%2Fmotivational_petmanagement_app_to_coordinate%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvc78co%2Fmotivational_petmanagement_app_to_coordinate%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vc78co/motivational_petmanagement_app_to_coordinate/</guid><pubDate>Tue, 14 Jun 2022 19:53:09 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey everyone, I&amp;amp;#39;m currently a second-year university student who is developing an app for better pet management. After realizing the struggles facing animal shelters in the US and globally, I wanted to motivate pet owners and potential pet adopters of their options for obtaining a pet, financial options for caring for the pet, and motivating them to improve the pet&amp;amp;#39;s lifestyle.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The idea is currently in it&amp;amp;#39;s infant stages, but it&amp;amp;#39;s an app with a few features that I wanted to include based on feedback from others. If you want to, you can help me out by responding to this google form or in the comments.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Google Form: &amp;lt;a href=&quot;https://forms.gle/58t21Y6JsaA1j9GJ9&quot;&amp;gt;https://forms.gle/58t21Y6JsaA1j9GJ9&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;App Info:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- I wanted it to be cross-platform between iOS and Android, with a potential supporting website.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- I wanted to include pet profiles so people can customize the information in their feeds and discovery sections of the app.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- I was thinking of a shop if the idea was viable.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Do you think this idea is viable? I&amp;amp;#39;m open to all criticism, regardless of it being positive or negative.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
