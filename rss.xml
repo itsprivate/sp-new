@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 29 Jun 2022 03:32:31 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我做了一个强大的免费iOS任务管理应用程序。让我知道你的想法!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vn0ix1/i_made_a_powerful_free_ios_task_management_app/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvn0ix1%2Fi_made_a_powerful_free_ios_task_management_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvn0ix1%2Fi_made_a_powerful_free_ios_task_management_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vn0ix1/i_made_a_powerful_free_ios_task_management_app/</guid><pubDate>Wed, 29 Jun 2022 03:04:46 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[宣布Beast - 一个开源的Jeopardy风格的CTF创建和管理工具!]]></title><description><![CDATA[SDSLabs欣喜地宣布发布开源平台 "野兽"。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 29 Jun 2022 08:47:35 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[宣布playCTF - 一个开源的Jeopardy风格的CTF创建和管理平台!]]></title><description><![CDATA[CTFs不仅仅是一个活动或比赛，它们是一种冒险。
+而能够在一个伟大的开源平台上轻松地主持这些活动，更增加了
+乐趣。
+
+SDSLabs很自豪地宣布发布playCTF，一个Jeopardy风格的CTF
+挑战部署和管理平台。
+
+其...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vmv8wg/announcing_playctf_an_open_source_jeopardy_style/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvmv8wg%2Fannouncing_playctf_an_open_source_jeopardy_style%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvmv8wg%2Fannouncing_playctf_an_open_source_jeopardy_style%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vmv8wg/announcing_playctf_an_open_source_jeopardy_style/</guid><pubDate>Wed, 29 Jun 2022 08:21:07 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;CTFs are much more than just an event or a competition, they are an adventure. And being able to host them on a great open source platform with ease adds to the fun.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;SDSLabs is proud to announce the release of playCTF, a Jeopardy-style CTF challenge deployment and management platform.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Its intuitive and user-friendly deployment interface enables anyone to set up a CTF competition in a couple of minutes.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;playCTF incorporates BEAST, our CTF creation platform, which provides container-based isolation of each challenge.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Check it out on &amp;lt;a href=&quot;https://playctf.sdslabs.co&quot;&amp;gt;https://playctf.sdslabs.co&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Experience playCTF on the &amp;lt;a href=&quot;https://playground-playctf.sdslabs.co&quot;&amp;gt;playCTF playground&amp;lt;/a&amp;gt;, or have a peek at the &amp;lt;a href=&quot;https://github.com/sdslabs/playctf&quot;&amp;gt;source code&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Also, check out the &amp;lt;a href=&quot;https://github.com/sdslabs/beast&quot;&amp;gt;Beast GitHub repository&amp;lt;/a&amp;gt; and the 
+&amp;lt;a href=&quot;https://beast.sdslabs.co&quot;&amp;gt;Beast User Documentation&amp;lt;/a&amp;gt;,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Give it a chance, and Beast will surely live up to it&amp;amp;#39;s name for you! &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Made with 💖 by SDSLabs&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Intrigued and wanna chat more with the team behind it?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;(&amp;lt;a href=&quot;https://chat.sdslabs.co&quot;&amp;gt;https://chat.sdslabs.co&amp;lt;/a&amp;gt;) and our &amp;lt;a href=&quot;https://discord.gg/dXkVEgTPu9&quot;&amp;gt;Discord&amp;lt;/a&amp;gt; is open to all visitors and questions 😉&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一个强大的免费iOS任务管理应用程序。让我知道你的想法!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vn0ix1/i_made_a_powerful_free_ios_task_management_app/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvn0ix1%2Fi_made_a_powerful_free_ios_task_management_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvn0ix1%2Fi_made_a_powerful_free_ios_task_management_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vn0ix1/i_made_a_powerful_free_ios_task_management_app/</guid><pubDate>Wed, 29 Jun 2022 03:04:46 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[宣布Beast - 一个开源的Jeopardy风格的CTF创建和管理工具!]]></title><description><![CDATA[SDSLabs欣喜地宣布发布开源平台 "野兽"。
 来主持和管理CTF挑战的部署、生命周期和健康检查。
 
 Beast提供的功能包括基于容器的隔离、简单的配置、SSH
@@ -419,34 +448,4 @@ https://game-scry.online
 &amp;lt;p&amp;gt;I also added a MUDs only version with real time MSSP data at:&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://mud.game-scry.online&quot;&amp;gt;https://mud.game-scry.online&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[www.captionate.app - 自动转录和嵌入字幕到你的视频。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vdp2we/wwwcaptionateapp_transcribe_and_embed_subtitles/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvdp2we%2Fwwwcaptionateapp_transcribe_and_embed_subtitles%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvdp2we%2Fwwwcaptionateapp_transcribe_and_embed_subtitles%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vdp2we/wwwcaptionateapp_transcribe_and_embed_subtitles/</guid><pubDate>Thu, 16 Jun 2022 17:31:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Trici - 生产力工具，帮助开发人员在2分钟内从任何中断中恢复过来!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vddvwv/trici_productivity_tool_that_helps_developers/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvddvwv%2Ftrici_productivity_tool_that_helps_developers%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvddvwv%2Ftrici_productivity_tool_that_helps_developers%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vddvwv/trici_productivity_tool_that_helps_developers/</guid><pubDate>Thu, 16 Jun 2022 05:52:20 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我厌倦了做对外研究和销售的时间，所以设计了一个工具，为你做这些艰苦的工作。到目前为止，有200多个功能，而且还在不断增加。希望得到反馈，使事情更上一层楼。📈]]></title><description><![CDATA[嘿，r/SideProject [/r/SideProject] 👋
-
-我不知道这个子上有多少人做过对外销售，但这很糟糕。
-我浪费了很多时间去寻找新的潜在客户，给他们发电子邮件，只是为了
-我浪费了很多时间去寻找新的潜在客户，给他们发电子邮件，只是为了得到几个感兴趣的人的电话。所以我就去建立了COSLR
-(coseller)。
-
-这是一个...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vd2byv/i_was_sick_and_tired_of_the_time_it_took_to_do/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvd2byv%2Fi_was_sick_and_tired_of_the_time_it_took_to_do%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvd2byv%2Fi_was_sick_and_tired_of_the_time_it_took_to_do%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vd2byv/i_was_sick_and_tired_of_the_time_it_took_to_do/</guid><pubDate>Thu, 16 Jun 2022 04:08:13 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt; 👋&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I don&amp;amp;#39;t know how many people on this sub have done outbound sales, but it sucks.   I&amp;amp;#39;ve wasted so much time trying to find new prospects and emailing them, just to get a few interested people on the phone.  So I went ahead and built COSLR (coseller).  &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It&amp;amp;#39;s a platform that allows you to find companies in any category and the relevant contacts at the company with their contact info.  Then you can automatically email them your pitch. &amp;lt;strong&amp;gt;All within the platform.&amp;lt;/strong&amp;gt; &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;em&amp;gt;Use Cases:&amp;lt;/em&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Sales Reps and BDRs looking to grow a pipeline of leads.&amp;lt;br/&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;CEOs and CFOs looking to find venture capital&amp;lt;br/&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Technology companies looking to sell services to new startups &amp;lt;em&amp;gt;(daily domain list feature)&amp;lt;/em&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Marketers looking to run email cadences or newsletters&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve outlined all of &amp;lt;a href=&quot;https://coslr.com/solutions/&quot;&amp;gt;the features here&amp;lt;/a&amp;gt;, but COSLR does a lot!   You can research over 500M leads in the database or upload your own .CSV sheet of contacts and expand info on who you have.   There is also an API you can ping to verify the contact information.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Just released is a chatbot and social proof widget that you can drop on your website or landing page.  You can use the Chatbot as way to get people&amp;amp;#39;s contact info and give them a more personalized service.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Please check it out and leave leave any constructive feedback.  I plan to continue to build COSLR out and grow it, so would love to hear where the current services can be useful for you (and any additional features you would like to see).&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[www.captionate.app - 自动转录和嵌入字幕到你的视频。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vdp2we/wwwcaptionateapp_transcribe_and_embed_subtitles/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvdp2we%2Fwwwcaptionateapp_transcribe_and_embed_subtitles%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvdp2we%2Fwwwcaptionateapp_transcribe_and_embed_subtitles%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vdp2we/wwwcaptionateapp_transcribe_and_embed_subtitles/</guid><pubDate>Thu, 16 Jun 2022 17:31:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Trici - 生产力工具，帮助开发人员在2分钟内从任何中断中恢复过来!]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vddvwv/trici_productivity_tool_that_helps_developers/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvddvwv%2Ftrici_productivity_tool_that_helps_developers%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvddvwv%2Ftrici_productivity_tool_that_helps_developers%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vddvwv/trici_productivity_tool_that_helps_developers/</guid><pubDate>Thu, 16 Jun 2022 05:52:20 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
