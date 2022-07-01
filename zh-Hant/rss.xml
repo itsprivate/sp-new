@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 01 Jul 2022 05:31:05 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[烏克蘭開發商伸出援手]]></title><description><![CDATA[嘿，世界上的Rdditors!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 01 Jul 2022 14:00:43 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我採訪了30位微型創業公司的創始人。AMA!]]></title><description><![CDATA[嗨，側寫項目
+
+我最近採訪了30位創始人，他們正在建立自己的初創企業（或者我稱之爲
+我稱他們爲：微型創業公司）的創始人，他們都是單獨的開發者。我涉及了這四個問題。
+
+- 你是如何想到微型創業公司的想法的？
+- 你是如何找到你的第一批客戶的？
+- 你是如何找到你的...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vosz6b/i_interviewed_30_microstartup_founders_ama/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvosz6b%2Fi_interviewed_30_microstartup_founders_ama%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvosz6b%2Fi_interviewed_30_microstartup_founders_ama%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vosz6b/i_interviewed_30_microstartup_founders_ama/</guid><pubDate>Fri, 01 Jul 2022 13:30:54 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi SideProject&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I just recently interviewed 30 founders who are building their startups (or as I call them: microstartups) as solo developers. I covered these four questions:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- How did you come up with the microstartup idea?&amp;lt;br/&amp;gt;
+- How did you find your first customers?&amp;lt;br/&amp;gt;
+- How are you finding your customers today?&amp;lt;br/&amp;gt;
+- What&amp;amp;#39;s your advice for other microfounders who want to get started?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you&amp;amp;#39;re planning to start your own microstartup and you have any questions, I&amp;amp;#39;m happy to answer based on what I&amp;amp;#39;ve learned from these founders!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;PS. I put together a quick ebook with some of the main answers: &amp;lt;a href=&quot;https://microfounder.com/solo-developer-startup&quot;&amp;gt;https://microfounder.com/solo-developer-startup&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[烏克蘭開發商伸出援手]]></title><description><![CDATA[嘿，世界上的Rdditors!
 
 由於烏克蘭的戰爭，成千上萬的開發人員失去了工作。我和
 我和來自烏克蘭的同事們創建了一個由1200多名中高級開發人員組成的社區。
@@ -354,4 +373,4 @@ Pollina是一個免費的Telegram投票機器人，使用Bootstrap 4和Python...
 &amp;lt;p&amp;gt;Currently the app is only available on android, so unfortunately you will need an android device in order to use it. But if you want to try out the beta version, follow the link, &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.DeanWebb.Rose&quot;&amp;gt;Rose&amp;lt;/a&amp;gt;. If you wish to be a part in the closed alpha, which will be getting more frequent updates, message me.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Finally, I thank you all for reading this and I wish you all the best with your learning.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[iRISC - ARMv7彙編語言解釋器和計算機結構模擬器]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vf8slh/irisc_an_armv7_assembly_language_interpreter_and/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvf8slh%2Firisc_an_armv7_assembly_language_interpreter_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvf8slh%2Firisc_an_armv7_assembly_language_interpreter_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vf8slh/irisc_an_armv7_assembly_language_interpreter_and/</guid><pubDate>Sun, 19 Jun 2022 01:56:24 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
