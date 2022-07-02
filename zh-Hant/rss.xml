@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Jul 2022 08:18:51 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[反應事件與Javascript addEventListeners有什麼不同 | 面試問題]]></title><description><![CDATA[最近，我在一次面試中被問到這個問題，沒有足夠的
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 02 Jul 2022 14:19:09 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我建立了一個用於詢問和回答各種問題的應用程序]]></title><description><![CDATA[大家好，第一次來這裏 😄
+
+我建立了一個叫Qwestions的網絡應用（託管在這裏
+[https://qwestions.vercel.app/]），我把它描述爲 "一個無頭的
+我把它描述爲 "一個用於提出和回答各種問題的無頭應用程序"。頗爲類似於
+Reddit。
+
+基本上，你可以探索趨勢，流行或...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vpo0ey/i_build_an_app_for_asking_and_answering_questions/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvpo0ey%2Fi_build_an_app_for_asking_and_answering_questions%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvpo0ey%2Fi_build_an_app_for_asking_and_answering_questions%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vpo0ey/i_build_an_app_for_asking_and_answering_questions/</guid><pubDate>Sat, 02 Jul 2022 13:54:04 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hello guys, first time here 😄&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So i build this web app called &amp;lt;strong&amp;gt;Qwestions&amp;lt;/strong&amp;gt; (is hosted &amp;lt;a href=&quot;https://qwestions.vercel.app/&quot;&amp;gt;here&amp;lt;/a&amp;gt;), which i describe it as &amp;amp;quot;&amp;lt;em&amp;gt;an headless application for asking and answering questions of all kinds&amp;lt;/em&amp;gt;&amp;amp;quot;. Quite similar to Reddit.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Basically you can explore &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;Trendings&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt;, &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;Popular&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; or &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;Recents&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; questions or you can &amp;lt;strong&amp;gt;ask your own question&amp;lt;/strong&amp;gt; or &amp;lt;strong&amp;gt;answer some other question&amp;lt;/strong&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I build this app in my spare time, to improve my skill as web (full stack) developer, so i don&amp;amp;#39;t have so much hight expectations on it (like competing with other &amp;amp;quot;well-known&amp;amp;quot; apps 🤣).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I would simply like to get some feedback from you in order to improve it. So let me know what you think about it 😄&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;App is available here: &amp;lt;a href=&quot;https://qwestions.vercel.app/&quot;&amp;gt;https://qwestions.vercel.app/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Cheers!🍻👋🏻&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[反應事件與Javascript addEventListeners有什麼不同 | 面試問題]]></title><description><![CDATA[最近，我在一次面試中被問到這個問題，沒有足夠的
 知識來深入解釋它。經過一番研究，我終於明白了
 反應事件和JavaScript addeventlisteners之間的區別以及何時使用
 哪些情況下使用它們。其...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vpk9vr/how_react_events_are_different_from_javascript/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvpk9vr%2Fhow_react_events_are_different_from_javascript%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvpk9vr%2Fhow_react_events_are_different_from_javascript%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vpk9vr/how_react_events_are_different_from_javascript/</guid><pubDate>Sat, 02 Jul 2022 07:48:12 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Recently I was asked about this question in an interview and didn&amp;amp;#39;t have enough knowledge to explain it in depth. After some research I finally understood the difference between react events and JavaScript addeventlisteners and when to use each of them based on the use case scenario in react. Its very important to understand the concept behind each of them and how they affect your application based on performance, and how &amp;amp;quot;pooling&amp;amp;quot; makes react events special. This 3 minute video explains everything you need to know.&amp;lt;/p&amp;gt;
@@ -369,18 +389,4 @@ Pollina是一個免費的Telegram投票機器人，使用Bootstrap 4和Python...
 &amp;lt;p&amp;gt;here it is: &amp;lt;a href=&quot;http://eisberg.gg/&quot;&amp;gt;http://eisberg.gg&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;We’re wrapping up v1 and plan on adding more features + addressing other problems that exist. Have a try and let me know what you think. Reach out if you have any suggestions etc. thnx!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我的量化自我應用程序上線了]]></title><description><![CDATA[我一直在爲自己寫一個小的iOS應用，做量化的自我分析。原因是
-原因是我不想犧牲我的數據並將其存儲在一個商業
-服務。然而，有一些應用程序聲稱是尊重隱私的，但許多
-根本不支持iCloud同步。
-
-因此，"我 "這個應用程序被...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vg87gm/my_quantified_self_app_goes_online/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvg87gm%2Fmy_quantified_self_app_goes_online%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvg87gm%2Fmy_quantified_self_app_goes_online%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vg87gm/my_quantified_self_app_goes_online/</guid><pubDate>Mon, 20 Jun 2022 03:55:35 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I’ve been writing a small iOS app for myself to do quantified self analysis. The reason is that I don’t want to sacrifice my data and store it on a commercial service. Yet, there’re some apps that claim to be respecting privacy, but many don’t support iCloud Sync at all. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thus the app, “Me”, was created. So far, it supports basic location track with almost no extra battery cost in the background, and integrations with HealthKit on your iPhone to record activity data (such as sleep, steps, commute etc.). Last but not the least, it supports iCloud Sync out of the box for free, without compromise for our data privacy.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;BTW, it’s mostly written in SwiftUI! &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;You can visit &amp;lt;a href=&quot;https://thespecial.me&quot;&amp;gt;our website&amp;lt;/a&amp;gt; or &amp;lt;a href=&quot;https://apps.apple.com/us/app/me-personal-life-tracker/id1587707078&quot;&amp;gt;App Store page&amp;lt;/a&amp;gt; for more introduction or download.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Let me know how do you think about it. This is just a start, and I’m open to feedback and make it better.&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
