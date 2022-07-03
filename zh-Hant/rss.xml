@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jul 2022 13:57:53 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[Boardsite - 一個用於註釋/繪圖+與朋友分享/協作的React Web應用]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vqg0e6/boardsite_a_react_webapp_for_annotatingdrawing/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvqg0e6%2Fboardsite_a_react_webapp_for_annotatingdrawing%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvqg0e6%2Fboardsite_a_react_webapp_for_annotatingdrawing%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vqg0e6/boardsite_a_react_webapp_for_annotatingdrawing/</guid><pubDate>Sun, 03 Jul 2022 13:33:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一個Chrome擴展，用GPT-3來總結文章。]]></title><description><![CDATA[嘿，夥計們! 👋🏽
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jul 2022 17:12:57 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[世界上第一個基於地點的社交媒體應用程序]]></title><description><![CDATA[世界上第一個基於地點的社交媒體應用程序
+
+ 1. 創建多邊形地理圍欄
+ 2. 在其中發佈內容
+
+以前所未有的方式與世界聯繫。
+
+https://play.google.com/store/apps/details?id=com.places.android
+
+更新。
+
+我的最終目標是爲用戶提供有關世界上每個城市的統計數據。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vq2tgf/the_worlds_first_placebased_social_media_app/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvq2tgf%2Fthe_worlds_first_placebased_social_media_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvq2tgf%2Fthe_worlds_first_placebased_social_media_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vq2tgf/the_worlds_first_placebased_social_media_app/</guid><pubDate>Sun, 03 Jul 2022 16:46:06 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;The world&amp;amp;#39;s first place-based social media app&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;Create polygon geofences&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Post content within them&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;Connect with the world like never before.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.places.android&quot;&amp;gt;https://play.google.com/store/apps/details?id=com.places.android&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Update:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My end goal is to provide users with statistics about every city in the world, like what&amp;amp;#39;s going on in it right now, how active it is, where are people traveling from the most, where are people traveling to the most, what places are people going to the most, etc.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This will tell you everything going on in every city in the world right now.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I plan to have this feature done next week.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So for now, if you want, you can help get the ball rolling by creating geofences and posts.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Boardsite - 一個用於註釋/繪圖+與朋友分享/協作的React Web應用]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vqg0e6/boardsite_a_react_webapp_for_annotatingdrawing/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvqg0e6%2Fboardsite_a_react_webapp_for_annotatingdrawing%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvqg0e6%2Fboardsite_a_react_webapp_for_annotatingdrawing%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vqg0e6/boardsite_a_react_webapp_for_annotatingdrawing/</guid><pubDate>Sun, 03 Jul 2022 13:33:37 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我建立了一個Chrome擴展，用GPT-3來總結文章。]]></title><description><![CDATA[嘿，夥計們! 👋🏽
 
 我一直都很懶惰。幾個月前，我在做一份相當
 無聊的報告，其中主要是總結文章。作爲一個優秀的黑客，我
@@ -377,24 +408,4 @@ Pollina是一個免費的Telegram投票機器人，使用Bootstrap 4和Python...
 &amp;lt;p&amp;gt;iOS: &amp;lt;a href=&quot;https://apps.apple.com/app/id1592118437&quot;&amp;gt;https://apps.apple.com/app/id1592118437&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Android: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.yangmeistudios.charades&quot;&amp;gt;https://play.google.com/store/apps/details?id=com.yangmeistudios.charades&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[RobinWords - 每日字梯拼圖]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vigoks/robinwords_daily_word_ladder_puzzles/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvigoks%2Frobinwords_daily_word_ladder_puzzles%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvigoks%2Frobinwords_daily_word_ladder_puzzles%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vigoks/robinwords_daily_word_ladder_puzzles/</guid><pubDate>Wed, 22 Jun 2022 22:06:03 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[招聘人員，WTF？它生成了一個GMail過濾器，用於標記（和歸檔）來自招聘者的電子郵件，這樣他們就不會在你不找工作的時候污染你的收件箱。]]></title><description><![CDATA[有好的招聘人員，但也有很多壞的招聘人員，這就是爲什麼我
-創建了招聘人員，WTF? (http://recruiters.wtf) [https://recruiters.wtf]。
-來幫助你過濾掉他們。當你去那裏時，你選擇如何過濾
-應該...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vi8big/recruiters_wtf_it_generates_a_gmail_filter_to/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvi8big%2Frecruiters_wtf_it_generates_a_gmail_filter_to%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvi8big%2Frecruiters_wtf_it_generates_a_gmail_filter_to%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vi8big/recruiters_wtf_it_generates_a_gmail_filter_to/</guid><pubDate>Wed, 22 Jun 2022 17:36:50 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;There are good recruiters, but there are a lot of bad ones and that&amp;amp;#39;s why I created &amp;lt;a href=&quot;https://recruiters.wtf&quot;&amp;gt;Recruiters, WTF? (http://recruiters.wtf)&amp;lt;/a&amp;gt;, a thing to help you filter them out. When you go there you chose how the filter should work:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/057svnx247791.jpg?width=1038&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=fb6fd8a0e58a10ed7fd14834c039e638d7c49b62&quot;&amp;gt;https://preview.redd.it/057svnx247791.jpg?width=1038&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=fb6fd8a0e58a10ed7fd14834c039e638d7c49b62&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Hit &amp;amp;quot;Create Filter&amp;amp;quot; and you&amp;amp;#39;ll download it to your computer. Then you just need to import it into GMail.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I think a lot of bad recruiters just pop your email in a mailing list and send you all sorts of irrelevant job positions. Sometimes it&amp;amp;#39;s pretty much spam, like this:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/b0xl8j3p17791.jpg?width=1198&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=51807b8f3a3b68c3619b3b7c8176b8ec96f60263&quot;&amp;gt;J is not even my name&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;but if you mark them as spam, when you actually want to talk to recruiters, you&amp;amp;#39;ll have to go to the spam folder and find those emails among a lot of pure garbage. Also, you&amp;amp;#39;ll teach your spam filter to filter out keywords you care about. It&amp;amp;#39;s a mess (ask me how I know 🤦‍♂️).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;That&amp;amp;#39;s why I created &amp;lt;a href=&quot;https://recruiters.wtf&quot;&amp;gt;Recruiters, WTF?&amp;lt;/a&amp;gt; You select whether you want to label, archive or delete the emails from recruiters and it generates a filter that you can import into GMail, ta-da! Now it&amp;amp;#39;s easier to handle them.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Note: I&amp;amp;#39;m resubmitting this because reddit blocked my account and I just got it unlocked.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[RobinWords - 每日字梯拼圖]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vigoks/robinwords_daily_word_ladder_puzzles/?score=7&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvigoks%2Frobinwords_daily_word_ladder_puzzles%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvigoks%2Frobinwords_daily_word_ladder_puzzles%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vigoks/robinwords_daily_word_ladder_puzzles/</guid><pubDate>Wed, 22 Jun 2022 22:06:03 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
