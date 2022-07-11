@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Jul 2022 14:29:00 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[在开源的SuperTokens v3版本中推出了无密码登录（类似于概念）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vwf610/shipped_passwordless_loginsimilar_to_notion_in/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvwf610%2Fshipped_passwordless_loginsimilar_to_notion_in%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvwf610%2Fshipped_passwordless_loginsimilar_to_notion_in%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vwf610/shipped_passwordless_loginsimilar_to_notion_in/</guid><pubDate>Mon, 11 Jul 2022 13:59:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[面向UI和UX设计师的无代码网站建设工具 - Siter.io]]></title><description><![CDATA[大家好!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Jul 2022 20:51:57 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[[App - Readybot.io] RSS订阅到discord，一个新推出的副业项目!]]></title><description><![CDATA[我们的网站 - https://readybot.io/
+
+我们在早期alpha版本中针对RSS的一个真正的特定用例。
+直接向你的迪斯科服务器发送RSS提要!
+
+所有这些都是免费的! 我们确实有一个付费选项，但这更多地是针对强大的
+用户，其他大多数人都可以使用...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vw79p9/app_readybotio_rss_feed_to_discord_a_newly/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvw79p9%2Fapp_readybotio_rss_feed_to_discord_a_newly%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvw79p9%2Fapp_readybotio_rss_feed_to_discord_a_newly%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vw79p9/app_readybotio_rss_feed_to_discord_a_newly/</guid><pubDate>Mon, 11 Jul 2022 20:23:29 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Our website - &amp;lt;a href=&quot;https://readybot.io/&quot;&amp;gt;&amp;lt;strong&amp;gt;https://readybot.io/&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We are in early alpha release targeting a really specific use case with RSS. &amp;lt;strong&amp;gt;Sending RSS feeds straight to your discord server!&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;All for free! We do have a paid option, but that&amp;amp;#39;s more targeted towards power users and mostly everyone else should be able to use our free option without too many limitations or issues.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Features:&amp;lt;/strong&amp;gt; Discord RSS Bot&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Send RSS or ATOM feeds to a discord channel of your choice!&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Add Subreddits &amp;amp;amp; YouTube to get notifications of new submissions&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Add RSS feeds for news, blogs posts, Github releases, Youtube, reddit, job postings, open source software, gaming releases, anime releases.  &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;The use case is endless and up to your imagination and needs :)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;We have recommended feeds for the following categories: &amp;lt;strong&amp;gt;🚀Crypto ⚡ Crypto Exchanges 📦 Crypto Releases 📱 Technology 🎮 Gaming 📰 News 📈 Finance Reddit&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Coming Soon:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Easily add YouTube and subreddits without finding the RSS URL&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Social feed integration for twitter, twitch, and others..&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Advanced RSS discord bot features&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;About :&amp;lt;/strong&amp;gt; I spent a lot of time in discords and part of multiple communities from gaming, anime, nfts, and crypto related servers and had a hard time finding a reliable RSS to discord bot that had a reasonable free plan. So buddy and I created Readybot and wanted to share with the reddit community to see if anyone else would find it helpful for them and their discord communities.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If there&amp;amp;#39;s any feedback or features you&amp;amp;#39;d like to see please let us know, we plan to continue improving the bot based on community feedback and very excited to work on this project! Leave a comment or hop in our discord. Looking forward to what you guys think!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Membership for free!&amp;lt;/strong&amp;gt; Today for our alpha release, we wanted to give the first 20 people in the reddit community a membership for 3 months for free. Once you add a feed to your discord server hop into our &amp;lt;a href=&quot;https://discord.gg/AYgdaycUEt&quot;&amp;gt;discord&amp;lt;/a&amp;gt; and let us know your interested in a free membership and we&amp;amp;#39;ll upgrade your account for free! &amp;lt;a href=&quot;https://www.youtube.com/watch?v=Ix4EyWhDUUE&quot;&amp;gt;Here&amp;amp;#39;s a quick video on how to add a RSS feed to discord&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Follow us on our socials!&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://readybot.io/&quot;&amp;gt;&amp;lt;strong&amp;gt;Website&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;strong&amp;gt;|&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://twitter.com/Readybots&quot;&amp;gt;&amp;lt;strong&amp;gt;Twitter&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;strong&amp;gt;|&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://discord.gg/AYgdaycUEt&quot;&amp;gt;&amp;lt;strong&amp;gt;Join our Discord!&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;strong&amp;gt;|&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://www.youtube.com/channel/UCFgdzFLjtLgZrIa0RbWfJzQ/videos&quot;&amp;gt;&amp;lt;strong&amp;gt;Youtube&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[在开源的SuperTokens v3版本中推出了无密码登录（类似于概念）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vwf610/shipped_passwordless_loginsimilar_to_notion_in/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvwf610%2Fshipped_passwordless_loginsimilar_to_notion_in%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvwf610%2Fshipped_passwordless_loginsimilar_to_notion_in%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vwf610/shipped_passwordless_loginsimilar_to_notion_in/</guid><pubDate>Mon, 11 Jul 2022 13:59:19 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[面向UI和UX设计师的无代码网站建设工具 - Siter.io]]></title><description><![CDATA[大家好!
 
 今天我们在Product Hunt上发布了一个新项目，叫做Siter.io
 [https://siter.io/]。这是一个无代码的网站建设工具，允许你在没有任何代码的情况下设计
@@ -417,4 +457,4 @@ https://budget-estimator.vercel.app/ 来做这件事。
 &amp;lt;p&amp;gt;Attached is an example with identical offers (100k salary, 10k bonus) in Seattle and San Francisco being compared. You can hover over each category to see what it is (type of expense/net income and amount). Currently, the estimate only factors in taxes (which can differ based on income type, like how bonuses are taxed differently than salary, and how stocks are counted as salary) and rent based on &amp;lt;a href=&quot;https://www.huduser.gov/portal/datasets/fmr.html&quot;&amp;gt;https://www.huduser.gov/portal/datasets/fmr.html&amp;lt;/a&amp;gt;. I&amp;amp;#39;m hoping to add optional estimates like average cost of utilities, groceries, and gas to make the comparison even more detailed. And beyond comparing offers, I hope it can become a budgeting visualizer or just a way for people to see how much moving could benefit them, if applicable.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Tech stack is NextJS with D3 for visualization (my first D3 project, so it&amp;amp;#39;s not too elegant - I&amp;amp;#39;m hoping to add a sankey visualization form in the future). Open to any suggestions, and hope to make it open source once I clean things up and appreciate any help/feedback!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一个软件工程师的招聘网站，索引了16,000个工作。你可以按你想工作的技能、资历、行业和地点进行搜索| echojobs.io]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vq9qms/i_made_a_job_board_for_software_engineers_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvq9qms%2Fi_made_a_job_board_for_software_engineers_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvq9qms%2Fi_made_a_job_board_for_software_engineers_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vq9qms/i_made_a_job_board_for_software_engineers_and/</guid><pubDate>Sun, 03 Jul 2022 10:30:19 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
