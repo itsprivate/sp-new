@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 18 Jul 2022 07:18:18 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[非營利性職業諮詢平臺]]></title><description><![CDATA[大家好。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 18 Jul 2022 08:42:12 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我的傑作已經完成]]></title><description><![CDATA[5年的發展
+
+我終於創建了世界上第一個基於地點數據將你和社會聯繫起來的應用程序。
+場所數據的應用程序。
+
+以下是它的工作原理。
+
+ 1. 創建地理圍欄
+ 2. 檢查這些（和其他）地理圍欄
+ 3. 根據排名（和統計數據）加入帖子板塊
+
+這個應用特別適合旅行者....]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w1d0xk/my_masterpiece_is_complete/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1d0xk%2Fmy_masterpiece_is_complete%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1d0xk%2Fmy_masterpiece_is_complete%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w1d0xk/my_masterpiece_is_complete/</guid><pubDate>Mon, 18 Jul 2022 08:02:56 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;5 years of development&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I have finally created the world&amp;amp;#39;s first app to connect you with society based on place data.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here&amp;amp;#39;s how it works:&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;Create geofences&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Check into these (and other) geofences&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Join post boards based on rank (and statistics)&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;This app is especially for travelers. Every time you check into 5 geofences in a new city, you get 5 points. Using these points, you can become seen as a traveler in other cities, allowing you to connect with other travelers.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.places.android&quot;&amp;gt;https://play.google.com/store/apps/details?id=com.places.android&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[非營利性職業諮詢平臺]]></title><description><![CDATA[大家好。
 
 我們最近啓動了一個非營利性的職業諮詢平臺，名爲Best Foot Forward（BFF）。
 (BFF)的非營利性職業諮詢平臺，旨在指導未來的專業人士在找工作的過程中
@@ -449,4 +475,4 @@ Disbug 2.0給你 一個可視化的反饋工具，...]]></description><link>http
 &amp;lt;p&amp;gt;Website: &amp;lt;a href=&quot;https://secondfounder.com&quot;&amp;gt;https://secondfounder.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Best, Arvind&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Needl - 即時搜索、訪問和組織跨網絡應用的文件]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vvzi78/needl_search_access_and_organize_docs_across_web/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvvzi78%2Fneedl_search_access_and_organize_docs_across_web%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvvzi78%2Fneedl_search_access_and_organize_docs_across_web%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/vvzi78/needl_search_access_and_organize_docs_across_web/</guid><pubDate>Sun, 10 Jul 2022 21:22:50 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
