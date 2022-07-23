@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Jul 2022 06:56:22 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我做了一个工具，让无服务器功能变得简单、快速和社交化]]></title><description><![CDATA[https://reddit.com/link/w5fk4n/video/lttiv8dqh5d91/player]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w5fk4n/i_made_a_tool_that_makes_serverless_functions/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5fk4n%2Fi_made_a_tool_that_makes_serverless_functions%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5fk4n%2Fi_made_a_tool_that_makes_serverless_functions%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w5fk4n/i_made_a_tool_that_makes_serverless_functions/</guid><pubDate>Sat, 23 Jul 2022 06:31:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Jul 2022 09:30:05 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[网络应用程序的想法。项目管理平台，它不是一个巨大的工具袋，你必须涉足其中，但实际上是用一个框架引导非官方的项目经理完成项目（并解决其他一些问题）。]]></title><description><![CDATA[只是想对我不完整的想法寻求一点反馈/建议。在
+在那些由典型的工程经理领导的工程项目团队中工作后
+经理领导的工程项目团队后，我注意到一些趋势
+(无序和混乱）和目前的潜在差距。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w5ni5t/web_app_idea_project_management_platform_thats/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5ni5t%2Fweb_app_idea_project_management_platform_thats%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5ni5t%2Fweb_app_idea_project_management_platform_thats%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w5ni5t/web_app_idea_project_management_platform_thats/</guid><pubDate>Sat, 23 Jul 2022 08:56:38 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Just looking for a little feedback/suggestions on my incomplete idea. After working on engineering project teams that are lead by typical engineering managers with no project management background, I&amp;amp;#39;ve noticed a few trends (disorganization and confusion) and potential gaps in the current tools.&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;Background&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;Project Management (PJM) platforms like Asana, Monday, etc. have some fantastic tools but...&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;They don&amp;amp;#39;t really give you a good framework for when and how to use the tools and most people are not trained in managing projects.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;They don&amp;amp;#39;t help guide the manager with planned communication&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;They don&amp;amp;#39;t really have a system for generating project documentation with versioning to help track changes along the way.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;They don&amp;amp;#39;t  have good (or any) system for keeping track of team member workload.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;They don&amp;amp;#39;t have a good way to archive lessons learned throughout each project&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;They lack a strong visualization of baseline/task slippage&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;*Overall they seem geared towards software development teams&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;h1&amp;gt;Solution&amp;lt;/h1&amp;gt;
+
+&amp;lt;p&amp;gt;1-2. Build a platform for small/med sized projects (i.e. engineers need to retool part of a factory or an IT team is installing updated network equipment throughout an office) that&amp;amp;#39;s based on the &amp;lt;a href=&quot;https://P3.Express&quot;&amp;gt;P3.Express&amp;lt;/a&amp;gt; framework of management where it actually walks you through the process of managing the project in a gated &amp;amp;quot;hey you&amp;amp;#39;re at this step, create this document, communicate to stakeholders, schedule a meeting, etc...&amp;amp;quot;, which is very useful for the large number of unofficial project managers out there.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/2q81dluto6d91.png?width=2750&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=a45069544417f8a4e1286c5810325df64d720a98&quot;&amp;gt;p3&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Project documentation should be accessible through the UI instead of having to dig through your local file explorer to find things like your scope of work or your quotes that you got from contractors. It should have a version control system that allows the PJM to view change logs for reflection purposes.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Not sure how to solve this yet&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Create database tables for logging risks (before they occur), problems (once they occur), and lessons learned (at the project closing) so that the information can be resurfaced the next time a similar project is initiated in hopes of learning from past mistakes.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;Predecessor/successor task relationships should be allowed to force tasks to slip if not completed on time while showing (on a gantt chart for example) the baseline schedule for a quick visual of what is getting behind and by how much.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一个工具，让无服务器功能变得简单、快速和社交化]]></title><description><![CDATA[https://reddit.com/link/w5fk4n/video/lttiv8dqh5d91/player]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w5fk4n/i_made_a_tool_that_makes_serverless_functions/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5fk4n%2Fi_made_a_tool_that_makes_serverless_functions%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5fk4n%2Fi_made_a_tool_that_makes_serverless_functions%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w5fk4n/i_made_a_tool_that_makes_serverless_functions/</guid><pubDate>Sat, 23 Jul 2022 06:31:30 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://reddit.com/link/w5fk4n/video/lttiv8dqh5d91/player&quot;&amp;gt;https://reddit.com/link/w5fk4n/video/lttiv8dqh5d91/player&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[邮件：用TypeScript和React构建、测试、发送邮件]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w5hm7y/mailing_build_test_send_emails_with_typescript/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5hm7y%2Fmailing_build_test_send_emails_with_typescript%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5hm7y%2Fmailing_build_test_send_emails_with_typescript%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w5hm7y/mailing_build_test_send_emails_with_typescript/</guid><pubDate>Sat, 23 Jul 2022 03:52:13 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[🍜 RamenList - 我把创始人的最新MRR帖子列了出来。请自由提交!]]></title><description><![CDATA[👋 你好。
@@ -368,29 +404,4 @@ Boomerang是一个简单的、轻量级的、快速的扩展，它允许你在�
 &amp;lt;p&amp;gt;If you’ve got the time check it out, any suggestions always welcome!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://trajectry.co/&quot;&amp;gt;https://trajectry.co/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一个Wordle的翻版，其中的单词被包裹在一个圆圈中]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vzxyd6/i_made_a_wordle_ripoff_where_the_word_wraps_in_a/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvzxyd6%2Fi_made_a_wordle_ripoff_where_the_word_wraps_in_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvzxyd6%2Fi_made_a_wordle_ripoff_where_the_word_wraps_in_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vzxyd6/i_made_a_wordle_ripoff_where_the_word_wraps_in_a/</guid><pubDate>Sat, 16 Jul 2022 03:37:46 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[赠品时间--自3个月前在我的副业中加入付费选项以来，赚了3458.85美元]]></title><description><![CDATA[自从NomadList和RemoteOK的Pieter Levels给我发来DM后，已经过去3个月了。
-建议在招聘网站搜索中加入付费选项🔎。
-[https://jobboardsearch.com/] ，赚了3458.85美元💵，因为...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vzw9gm/time_to_giveaway_made_345885_since_adding_paid/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvzw9gm%2Ftime_to_giveaway_made_345885_since_adding_paid%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvzw9gm%2Ftime_to_giveaway_made_345885_since_adding_paid%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vzw9gm/time_to_giveaway_made_345885_since_adding_paid/</guid><pubDate>Sat, 16 Jul 2022 02:15:58 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It&amp;amp;#39;s been 3 months since Pieter Levels from NomadList &amp;amp;amp; RemoteOK sent me a DM suggesting including paid options to &amp;lt;a href=&quot;https://jobboardsearch.com/&quot;&amp;gt;Job Board Search 🔎&amp;lt;/a&amp;gt; , &amp;lt;strong&amp;gt;made $3458.85 💵 since 🥳&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/03z6spss4sb91.png?width=637&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=07cf08ae2abcb4833747a6d4ab511f988abdb844&quot;&amp;gt;https://preview.redd.it/03z6spss4sb91.png?width=637&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=07cf08ae2abcb4833747a6d4ab511f988abdb844&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Also:• 134k Pageviews 👀• 50k Unique visitors 🚦• 3️⃣0️⃣0️⃣ boards listed&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It&amp;amp;#39;s crazy how a simple DM from a person you admire can be so encouraging 🤩&amp;lt;/p&amp;gt;
-
-&amp;lt;h2&amp;gt;I want to give something back too 🎁, my followers on Twitter are:&amp;lt;/h2&amp;gt;
-
-&amp;lt;h2&amp;gt;1) Devs looking for a job.&amp;lt;/h2&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ll &amp;lt;strong&amp;gt;give away&amp;lt;/strong&amp;gt; the book by Anna Jean McDougall (Director Product &amp;amp;amp; Engineering at Axel Springer National Media and Tech) &amp;lt;em&amp;gt;&amp;amp;quot;You Belong in Tech: How to Go from Zero Programming Knowledge to Hired&amp;amp;quot;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;h2&amp;gt;2) Indiehackers / Solopreneurs.&amp;lt;/h2&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ll &amp;lt;strong&amp;gt;give away&amp;lt;/strong&amp;gt; the book by Arvid Kahl (Co-founded, bootstrapped, and sold FeedbackPanda) &amp;lt;em&amp;gt;&amp;amp;quot;The Embedded Entrepreneur. How to Build an Audience-Driven Business&amp;amp;quot;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;To be able to opt for any of the books you need to RT 🔄 &amp;amp;amp; like ❤ the tweet below &amp;amp;amp; follow. Comment your desired book title. I will randomly pick two winners 🍀&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://twitter.com/rrmdp/status/1547902087953932292?s=20&amp;amp;amp;t=Q7-bjzexrpiCbBdBz8qysA&quot;&amp;gt;https://twitter.com/rrmdp/status/1547902087953932292?s=20&amp;amp;amp;t=Q7-bjzexrpiCbBdBz8qysA&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一个Wordle的翻版，其中的单词被包裹在一个圆圈中]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vzxyd6/i_made_a_wordle_ripoff_where_the_word_wraps_in_a/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvzxyd6%2Fi_made_a_wordle_ripoff_where_the_word_wraps_in_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvzxyd6%2Fi_made_a_wordle_ripoff_where_the_word_wraps_in_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/vzxyd6/i_made_a_wordle_ripoff_where_the_word_wraps_in_a/</guid><pubDate>Sat, 16 Jul 2022 03:37:46 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
