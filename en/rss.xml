@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Jul 2022 09:30:05 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Web App Idea: Project management platform that's not a huge bag of tools that you have to wade through but actually walks unofficial project managers through projects using a framework (and solves a few other issues)]]></title><description><![CDATA[Just looking for a little feedback/suggestions on my incomplete idea. After
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Jul 2022 10:32:18 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[OfficerBreaker - pptx/docx/xlsx password remover]]></title><description><![CDATA[Hi everyone!
+
+In case you ever forget the password for any Microsoft Office file
+(pptx/xlsx/docx) you locked I built a tool
+[https://github.com/nedlir/OfficerBreaker] that removes the password from the
+file without cracking it.
+
+
+HOW DOES IT WORK?
+
+All pptx/xlsx/docx files are part of the Office…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/w5ygpp/officerbreaker_pptxdocxxlsx_password_remover/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5ygpp%2Fofficerbreaker_pptxdocxxlsx_password_remover%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5ygpp%2Fofficerbreaker_pptxdocxxlsx_password_remover%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/w5ygpp/officerbreaker_pptxdocxxlsx_password_remover/</guid><pubDate>Sat, 23 Jul 2022 10:00:31 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi everyone!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In case you ever forget the password for any Microsoft Office file (pptx/xlsx/docx) you locked I built a &amp;lt;a href=&quot;https://github.com/nedlir/OfficerBreaker&quot;&amp;gt;tool&amp;lt;/a&amp;gt; that removes the password from the file without cracking it.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;How does it work?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;All pptx/xlsx/docx files are part of the Office Open XML format family (for further reading please refer to &amp;lt;a href=&quot;https://www.loc.gov/preservation/digital/formats/fdd/fdd000395.shtml&quot;&amp;gt;OOXML Format Family -- ISO/IEC 29500 and ECMA 376
+&amp;lt;/a&amp;gt;).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;For example, a standard &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;.pptx&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; file will have the following file tree structure:
+&amp;lt;code&amp;gt;
+myFile.pptx
+.
+├── docProps
+│   ├── app.xml
+│   ├── core.xml
+│   ├── custom.xml
+│   └── thumbnail.jpeg
+├── ppt
+│   ├── handoutMasters
+│   ├── media
+│   ├── media
+│   ...
+│   ...
+│   ...
+│   └── presentation.xml
+├── _rels
+│   ├── .rels
+└── [Content_Types].xml
+&amp;lt;/code&amp;gt;
+We can see this structure by opening the file using a program like &amp;lt;a href=&quot;https://www.7-zip.org/&quot;&amp;gt;7zip&amp;lt;/a&amp;gt; or by changing the filetype to &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;.zip&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; and then opening it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Each OOXML file type contains an &amp;lt;strong&amp;gt;&amp;lt;em&amp;gt;.xml&amp;lt;/em&amp;gt;&amp;lt;/strong&amp;gt; file with settings and preferences, including read-only protection. In our example the security element will be located inside &amp;lt;code&amp;gt;presentation.xml&amp;lt;/code&amp;gt; file which is located inside the &amp;lt;code&amp;gt;ppt&amp;lt;/code&amp;gt; folder of &amp;lt;code&amp;gt;myFile.pptx&amp;lt;/code&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Inside &amp;lt;code&amp;gt;presentation.xml&amp;lt;/code&amp;gt; there is a specific element we will focus on called &amp;lt;strong&amp;gt;p:modifyVerifier&amp;lt;/strong&amp;gt; which should look like this:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;python
+&amp;amp;lt;p:modifyVerifier cryptProviderType=&amp;amp;quot;rsaAES&amp;amp;quot; cryptAlgorithmClass=&amp;amp;quot;hash&amp;amp;quot; cryptAlgorithmType=&amp;amp;quot;typeAny&amp;amp;quot; cryptAlgorithmSid=&amp;amp;quot;14&amp;amp;quot; spinCount=&amp;amp;quot;100000&amp;amp;quot; saltData=&amp;amp;quot;3R1lmtJocEj5GzEGRn3MHA==&amp;amp;quot; hashData=&amp;amp;quot;iR0jIUtVcGsTx62z/hqcbzaReLJemv$eZyqTlpWhl0Lph+osBKEiEYmyReJHmypMy6wj+VFmDGuNZvsMA9tX9g==&amp;amp;quot;/&amp;amp;gt;
+&amp;lt;/code&amp;gt;
+The file editing is protected by a password which was salted and hashed which makes it nearly impossible to crack within reasonable time. But instead of trying to crack the password, we can just... Remove it. :shrug:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Turns out that simply deleting the security element &amp;lt;strong&amp;gt;p:modifyVerifier&amp;lt;/strong&amp;gt; as a whole will make &amp;lt;code&amp;gt;myFile.pptx&amp;lt;/code&amp;gt; behave as if it never had any password at all. This kind of security measure is a bit like the photo in the title of this repository - a good lock placed on the door handle... :sweat_smile:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The program will create a copy of &amp;lt;code&amp;gt;presentation.xml&amp;lt;/code&amp;gt;, parse it and delete the security element. Once the element is deleted, the &amp;lt;em&amp;gt;copied&amp;lt;/em&amp;gt; &amp;lt;code&amp;gt;presentation.xml&amp;lt;/code&amp;gt; will be replaced with the &amp;lt;em&amp;gt;original&amp;lt;/em&amp;gt; &amp;lt;code&amp;gt;presentation.xml&amp;lt;/code&amp;gt; which will effectively remove the password from &amp;lt;code&amp;gt;myFile.pptx&amp;lt;/code&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;What makes this whole thing worse is the fact that we could simply remove the password created by the author, alter the file in some way and then return the original password of the author by inserting the same security element which was removed. This hurts the integrity of the whole OOXML format family.&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;Future changes / possible deprecation&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;Future versions of OOXML file type may make drastic changes of naming convention of elements or/and structure of the folders or/and files. This might make this repo deprecated but not obsolete if the same security measures will be taken in future versions.
+If a &amp;amp;quot;lock with different name&amp;amp;quot; (the hashing) will be placed on the &amp;amp;quot;door handle&amp;amp;quot; (removable &amp;lt;code&amp;gt;.xml&amp;lt;/code&amp;gt; element), the file still could be altered/edited without a password. All that&amp;amp;#39;s needed is to find the new security element and simply remove it from the file.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://github.com/nedlir/OfficerBreaker&quot;&amp;gt;https://github.com/nedlir/OfficerBreaker&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Web App Idea: Project management platform that's not a huge bag of tools that you have to wade through but actually walks unofficial project managers through projects using a framework (and solves a few other issues)]]></title><description><![CDATA[Just looking for a little feedback/suggestions on my incomplete idea. After
 working on engineering project teams that are lead by typical engineering
 managers with no project management background, I've noticed a few trends
 (disorganization and confusion) and potential gaps in the current…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/w5ni5t/web_app_idea_project_management_platform_thats/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5ni5t%2Fweb_app_idea_project_management_platform_thats%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw5ni5t%2Fweb_app_idea_project_management_platform_thats%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/w5ni5t/web_app_idea_project_management_platform_thats/</guid><pubDate>Sat, 23 Jul 2022 08:56:38 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Just looking for a little feedback/suggestions on my incomplete idea. After working on engineering project teams that are lead by typical engineering managers with no project management background, I&amp;amp;#39;ve noticed a few trends (disorganization and confusion) and potential gaps in the current tools.&amp;lt;/p&amp;gt;
@@ -404,4 +467,4 @@ done to ensure your cold…]]></description><link>https://sideproject.buzzing.cc
 &amp;lt;p&amp;gt;If you’ve got the time check it out, any suggestions always welcome!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://trajectry.co/&quot;&amp;gt;https://trajectry.co/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I made a Wordle ripoff where the word wraps in a circle]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vzxyd6/i_made_a_wordle_ripoff_where_the_word_wraps_in_a/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvzxyd6%2Fi_made_a_wordle_ripoff_where_the_word_wraps_in_a%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fvzxyd6%2Fi_made_a_wordle_ripoff_where_the_word_wraps_in_a%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/vzxyd6/i_made_a_wordle_ripoff_where_the_word_wraps_in_a/</guid><pubDate>Sat, 16 Jul 2022 03:37:46 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
