@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 Jul 2022 07:23:48 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[KPI仪表板 - mBoard.xyz]]></title><description><![CDATA[v1.0.5即将推出
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 Jul 2022 08:04:44 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[现在的世界比以往任何时候都更加直观。我建立了一个工具，以帮助作家（博客，通讯所有者......）在社交媒体上推广他们的内容。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w77ggm/the_world_is_now_more_visual_than_ever_before_i/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw77ggm%2Fthe_world_is_now_more_visual_than_ever_before_i%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw77ggm%2Fthe_world_is_now_more_visual_than_ever_before_i%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w77ggm/the_world_is_now_more_visual_than_ever_before_i/</guid><pubDate>Mon, 25 Jul 2022 07:18:31 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[KPI仪表板 - mBoard.xyz]]></title><description><![CDATA[v1.0.5即将推出
 
 https://preview.redd.it/matv0k0zvmd91.png?width=1440&format=png&auto=webp&s=40c0512c58ae9680c0ec0a59572d337644f9ba1c]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w7e7bj/kpi_dashboard_mboardxyz/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw7e7bj%2Fkpi_dashboard_mboardxyz%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw7e7bj%2Fkpi_dashboard_mboardxyz%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w7e7bj/kpi_dashboard_mboardxyz/</guid><pubDate>Mon, 25 Jul 2022 06:55:53 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;v1.0.5 is coming soon&amp;lt;/p&amp;gt;
 
@@ -441,18 +441,4 @@ Boomerang是一个简单的、轻量级的、快速的扩展，它允许你在�
 &amp;lt;p&amp;gt;what&amp;amp;#39;s your thought about it ?&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Give it a try&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[报价应用，有一个超过80万条报价的离线数据库（免费，开放源代码）]]></title><description><![CDATA[你好。
-
-我制作了 "即时报价 "应用程序，这是一个离线数据库，包含了28,675位作者的808,689条报价。
-作者。你可以用它来搜索带有所需关键词的报价或浏览
-所选作者的引言。
-
-报价数据库在你的设备上，因此不需要互联网连接。
-因此，有了这个软件，你就可以在你的设备上找到你想要的信息。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w0ml1a/quotes_app_with_an_offline_database_of_over/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw0ml1a%2Fquotes_app_with_an_offline_database_of_over%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw0ml1a%2Fquotes_app_with_an_offline_database_of_over%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w0ml1a/quotes_app_with_an_offline_database_of_over/</guid><pubDate>Sun, 17 Jul 2022 07:48:07 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I made the Instant Quotes app, an offline database of 808,689 quotes by 28,675 authors. You can use it to search for a quote with the desired keyword or browse quotes by a selected author.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The Quote database is on your device, so there is no need for an internet connection, thus there is an almost instantaneous response time while browsing/searching for a quote.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Instant Quotes is open source with NO advertisement available on &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.lifequotes.bestquotes&quot;&amp;gt;PlayStore&amp;lt;/a&amp;gt; and &amp;lt;a href=&quot;https://apps.apple.com/app/id1632816303&quot;&amp;gt;AppStore.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
