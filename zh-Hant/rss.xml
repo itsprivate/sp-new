@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 26 Jul 2022 08:24:09 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個活動服務，想分享一下]]></title><description><![CDATA[想想看，EventBridge沒有最大數量的規則集，Event Grid或Eventarc，但你可以與任何人集成。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 26 Jul 2022 10:30:49 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個網站，從超過11個來源收集遠程工作，這樣我就不必從一個網站切換到另一個網站。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w8cpv8/i_made_a_site_that_collects_remote_jobs_from_over/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw8cpv8%2Fi_made_a_site_that_collects_remote_jobs_from_over%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw8cpv8%2Fi_made_a_site_that_collects_remote_jobs_from_over%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w8cpv8/i_made_a_site_that_collects_remote_jobs_from_over/</guid><pubDate>Tue, 26 Jul 2022 09:54:47 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[所以我剛剛建立了一個由50hacks啓發的Upvote Board應用程序]]></title><description><![CDATA[所以我剛剛建立了一個由50hacks.co啓發的Upvote Board應用程序。
+[https://50hacks.co/]
+
+鏈接是https://board.linksight.app/，所以你可以試試。
+
+下面是我對如何利用它做SAAS的想法。
+
+- 員工反饋板--大公司可以在這裏聽到他們的
+員工反饋板--大公司可以聽到他們的員工和他們的...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w7vflr/so_i_just_built_an_upvote_board_application/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw7vflr%2Fso_i_just_built_an_upvote_board_application%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw7vflr%2Fso_i_just_built_an_upvote_board_application%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w7vflr/so_i_just_built_an_upvote_board_application/</guid><pubDate>Tue, 26 Jul 2022 09:54:47 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;So I just built an Upvote board application inspired by &amp;lt;a href=&quot;https://50hacks.co/&quot;&amp;gt;50hacks.co&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The link is &amp;lt;a href=&quot;https://board.linksight.app/&quot;&amp;gt;https://board.linksight.app/&amp;lt;/a&amp;gt; so you can try it out.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Here are my ideas on how to make SAAS from it:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;- Employee feedback board - a place where bigger companies can hear their employees and their problems (&amp;lt;a href=&quot;https://nolt.io/&quot;&amp;gt;https://nolt.io/&amp;lt;/a&amp;gt; for employees and companies)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;-  Freeboard creator app for anybody because I believe people want to make their upvote boards and I didn&amp;amp;#39;t find any competition here. But the problem here is I am not sure if I can make money from this?&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;-  Developer&amp;amp;#39;s confessions story - Board where developers can anonymously  confess their working sins so we can all have laughs together&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I Am really interested in your feedback on which direction I should move forward.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;**If you are interested I am open to partnerships as well.**&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個活動服務，想分享一下]]></title><description><![CDATA[想想看，EventBridge沒有最大數量的規則集，Event Grid或Eventarc，但你可以與任何人集成。
 或SQS，但不限制事件的延遲秒數。
 [https://preview.redd.it/zkip052zvtd91.png?width=756&format=png&auto=webp&s=5a41aad779dc88fb2f9e92c088f241148025410d]
 
@@ -455,35 +478,4 @@ Boomerang是一個簡單的、輕量級的、快速的擴展，它允許你在�
 &amp;lt;p&amp;gt;Thanks a bunch if you check it out! :)&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[用Netflix計算器找出你在Netflix上花費的時間]]></title><description><![CDATA[有沒有想過，你在Netflix上花了多少時間？現在你可以很容易地發現
 與https://netflixcalculator.com。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w1arlj/find_out_how_much_time_you_spend_on_netflix_with/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1arlj%2Ffind_out_how_much_time_you_spend_on_netflix_with%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1arlj%2Ffind_out_how_much_time_you_spend_on_netflix_with%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w1arlj/find_out_how_much_time_you_spend_on_netflix_with/</guid><pubDate>Mon, 18 Jul 2022 15:40:40 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Ever wondered how much time you spend on Netflix? Now you can easily find out with &amp;lt;a href=&quot;https://netflixcalculator.com&quot;&amp;gt;https://netflixcalculator.com&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[有200多個表格生成器，但它們都不能做程序員能做的事。所以我建立了我自己的。]]></title><description><![CDATA[因此，根據G2，有225個形式建設者
-[https://www.g2.com/categories/online-form-builder]。我沒有嘗試每一個
-都試過，但我確實試過前20名的免費計劃。他們都不能做
-我需要它們做的事情，也就是建立一個可以產生報價的表單或
-估算。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w20028/there_are_200_form_builders_but_none_of_them_can/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw20028%2Fthere_are_200_form_builders_but_none_of_them_can%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw20028%2Fthere_are_200_form_builders_but_none_of_them_can%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w20028/there_are_200_form_builders_but_none_of_them_can/</guid><pubDate>Mon, 18 Jul 2022 14:32:05 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;So &amp;lt;a href=&quot;https://www.g2.com/categories/online-form-builder&quot;&amp;gt;according to G2 there are 225 form builders&amp;lt;/a&amp;gt;. I have not tried every single one, but I did try the top 20 with a free plan. None of them could do what I needed them to do, which was build a form that could produce a quote or estimate for a service or product.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;While many form builders have something that you can do a calculation, very few can do conditional calculations. None of them seem capable of giving you control over order of operations. None of them allow you to set the value of an input more than once, so if you needed to apply a discount or an upcharge it&amp;amp;#39;s either difficult and labor intensive, or it&amp;amp;#39;s impossible. None of them can do dynamic HTML.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Also while there are at least 2 form builders that I know of that can do conditional calculations, it still requires a great deal of work on the part of the admin. It would be incredibly beneficial to be able to create a drop down or select tag or checkboxes that had more than just a one dimensional list of data. If you could create multiple columns for your selectable options, and then use those options values in other columns, that would be a game changer.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So I built my own. &amp;lt;a href=&quot;https://keenforms.com&quot;&amp;gt;It&amp;amp;#39;s called Keenforms.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;It&amp;amp;#39;s a form builder with a built in No Code Rules Engine.  The rules engine give you greater control over the order of operations and allows you to set complex conditions to determine if those rules run. It also has a feature called metadata that allows you do create additional values that can be association with your selectable options (drop downs, checkboxes, radio buttons, etc). It makes it possible for users to create the kinds of forms that I as a programmer can build, but without writing code from scratch.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here are some forms I&amp;amp;#39;ve built;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://keenforms.com/keenforms/rim5wfmidnnd&quot;&amp;gt;-Car loan calculator comparison with different payments based on loan amount and length of loan, from 24 to 84 months&amp;lt;/a&amp;gt;
-&amp;lt;a href=&quot;https://keenforms.com/keenforms/52iw4gqomvic&quot;&amp;gt;-Inches/Centimeters converter - editing one input will change the other similar to google&amp;lt;/a&amp;gt;
-&amp;lt;a href=&quot;https://keenforms.com/keenforms/33buwwxgtith&quot;&amp;gt;-Chipotle Burrito builder with nutritional info like calories/fat/carbs/protein and sticky footer via dynamic HTML and metadata&amp;lt;/a&amp;gt;
-&amp;lt;a href=&quot;https://keenforms.com/keenforms/oxqm4gqbpcss&quot;&amp;gt;-Car Make and Model dynamic filtering, i.e. show models of cars based on makes of cars selected&amp;lt;/a&amp;gt;
-&amp;lt;a href=&quot;https://keenforms.com/keenforms/7pmw5du4nxjy?src=ih&quot;&amp;gt;-Mortgage calculator&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you&amp;amp;#39;ve ever wanted to be able to use a  web based form builder, but were disappointed by the limitations, you might want to give Keenforms a try. You can create an account and create up to 5 forms for free. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you&amp;amp;#39;ve ever been frustrated with a form builder we&amp;amp;#39;d love to hear about your problems. If Keenforms doesn&amp;amp;#39;t have the features you need from a form builder, we&amp;amp;#39;d like to know about it and solve that problem as soon as possible. &amp;lt;a href=&quot;https://keenforms.com/users/sign_up&quot;&amp;gt;You can create an account by clicking here.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[用我們的工具的免費版本進入你的目標受衆面前（不需要信用卡信息）。]]></title><description><![CDATA[在數十億的其他創業公司和企業中，要想讓你的企業被人看到，就必須要有足夠的資源。
-你的目標受衆越來越難。你可能認爲，如果我的
-產品足夠好，我肯定它會在市場上建立自己的方式。
-不幸的是，它並不像那樣工作。如今，人們花了很多錢來購買產品。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w1tpo9/get_in_front_of_your_target_audience_with_free/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1tpo9%2Fget_in_front_of_your_target_audience_with_free%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1tpo9%2Fget_in_front_of_your_target_audience_with_free%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w1tpo9/get_in_front_of_your_target_audience_with_free/</guid><pubDate>Mon, 18 Jul 2022 10:45:35 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;With billions of other startups and businesses out there, getting seen by your target audience gets harder and harder every day. You probably think, if my product is good enough, I&amp;amp;#39;m sure it&amp;amp;#39;ll build its way through the market. Unfortunately, it doesn&amp;amp;#39;t work like that. Nowadays, people spend a small fortune on their marketing and advertising, and the competition is terrifying. Give yourself some slack and save your time, by using Market Roadie, our SEO tool that&amp;amp;#39;s a necessity for every startups and new business.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Access it over here &amp;lt;a href=&quot;https://marketroadie.com/&quot;&amp;gt;https://marketroadie.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
