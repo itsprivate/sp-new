@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 26 Jul 2022 04:08:47 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[全面管理网站的最新报价--它正在引起关注]]></title><description><![CDATA[一周前，我在r/SideProject [/r/SideProject]上发表了我对
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 26 Jul 2022 08:24:09 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我做了一个活动服务，想分享一下]]></title><description><![CDATA[想想看，EventBridge没有最大数量的规则集，Event Grid或Eventarc，但你可以与任何人集成。
+或SQS，但不限制事件的延迟秒数。
+[https://preview.redd.it/zkip052zvtd91.png?width=756&format=png&auto=webp&s=5a41aad779dc88fb2f9e92c088f241148025410d]
+
+我做了一个服务，使...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w88h2j/i_made_an_events_service_and_wanted_to_share/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw88h2j%2Fi_made_an_events_service_and_wanted_to_share%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw88h2j%2Fi_made_an_events_service_and_wanted_to_share%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w88h2j/i_made_an_events_service_and_wanted_to_share/</guid><pubDate>Tue, 26 Jul 2022 07:27:25 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/zkip052zvtd91.png?width=756&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5a41aad779dc88fb2f9e92c088f241148025410d&quot;&amp;gt;Think EventBridge without max number of rulesets, Event Grid or Eventarc but you can integrate with anyone, or SQS without limiting DelaySeconds on events.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I made a service to make software events for web enabled apps. I thought it might be cool to share, in case anyone might like to try it out in the early stages and give feedback.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;On my last software project, we had a lot of problems with our scheduler and that really motivated us to build this service.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My hope is this solves the same headache for others. You can try it out at the link below for free!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://anticipated.io&quot;&amp;gt;https://anticipated.io&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[全面管理网站的最新报价--它正在引起关注]]></title><description><![CDATA[一周前，我在r/SideProject [/r/SideProject]上发表了我对
 Webflow开发机构的看法。我获得了相当多的加注，一些评论。
 和一些PM。
 
@@ -471,30 +486,4 @@ Boomerang是一个简单的、轻量级的、快速的扩展，它允许你在�
 不幸的是，它并不像那样工作。如今，人们花了很多钱来购买产品。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w1tpo9/get_in_front_of_your_target_audience_with_free/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1tpo9%2Fget_in_front_of_your_target_audience_with_free%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1tpo9%2Fget_in_front_of_your_target_audience_with_free%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w1tpo9/get_in_front_of_your_target_audience_with_free/</guid><pubDate>Mon, 18 Jul 2022 10:45:35 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;With billions of other startups and businesses out there, getting seen by your target audience gets harder and harder every day. You probably think, if my product is good enough, I&amp;amp;#39;m sure it&amp;amp;#39;ll build its way through the market. Unfortunately, it doesn&amp;amp;#39;t work like that. Nowadays, people spend a small fortune on their marketing and advertising, and the competition is terrifying. Give yourself some slack and save your time, by using Market Roadie, our SEO tool that&amp;amp;#39;s a necessity for every startups and new business.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Access it over here &amp;lt;a href=&quot;https://marketroadie.com/&quot;&amp;gt;https://marketroadie.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我的杰作已经完成]]></title><description><![CDATA[5年的发展
-
-我终于创建了世界上第一个基于地点数据将你和社会联系起来的应用程序。
-场所数据的应用程序。
-
-以下是它的工作原理。
-
- 1. 创建地理围栏
- 2. 检查这些（和其他）地理围栏
- 3. 根据排名（和统计数据）加入帖子板块
-
-这个应用特别适合旅行者....]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w1d0xk/my_masterpiece_is_complete/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1d0xk%2Fmy_masterpiece_is_complete%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw1d0xk%2Fmy_masterpiece_is_complete%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w1d0xk/my_masterpiece_is_complete/</guid><pubDate>Mon, 18 Jul 2022 08:02:56 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;5 years of development&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I have finally created the world&amp;amp;#39;s first app to connect you with society based on place data.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Here&amp;amp;#39;s how it works:&amp;lt;/p&amp;gt;
-
-&amp;lt;ol&amp;gt;
-&amp;lt;li&amp;gt;Create geofences&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Check into these (and other) geofences&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;Join post boards based on rank (and statistics)&amp;lt;/li&amp;gt;
-&amp;lt;/ol&amp;gt;
-
-&amp;lt;p&amp;gt;This app is especially for travelers. Every time you check into 5 geofences in a new city, you get 5 points. Using these points, you can become seen as a traveler in other cities, allowing you to connect with other travelers.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=com.places.android&quot;&amp;gt;https://play.google.com/store/apps/details?id=com.places.android&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
