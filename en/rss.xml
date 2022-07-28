@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Jul 2022 02:36:59 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I am building a robotics startup to eliminate repetitive tasks in restaurants]]></title><description><![CDATA[Hi r/SideProject [/r/SideProject]
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Jul 2022 08:31:55 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Just launched Chord Genius app: karaoke for guitar!]]></title><description><![CDATA[Hey everyone!
+
+My team and I have just launched Chord Genius, an app that helps Guitar players
+learn songs faster and more fun by having chords and lyrics that move along. Use
+Spotify, YouTube, or Apple Music to stream music and have it automagically
+synced up with the chords and lyrics on the…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wa0s20/just_launched_chord_genius_app_karaoke_for_guitar/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwa0s20%2Fjust_launched_chord_genius_app_karaoke_for_guitar%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwa0s20%2Fjust_launched_chord_genius_app_karaoke_for_guitar%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wa0s20/just_launched_chord_genius_app_karaoke_for_guitar/</guid><pubDate>Thu, 28 Jul 2022 07:47:24 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey everyone!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My team and I have just launched Chord Genius, an app that helps Guitar players learn songs faster and more fun by having chords and lyrics that move along. Use Spotify, YouTube, or Apple Music to stream music and have it automagically synced up with the chords and lyrics on the screen.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://i.redd.it/xdmiu16rs8e91.gif&quot;&amp;gt;Chord Genius in action&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We&amp;amp;#39;ve had some hurdles along the way, but after years of hard work we are finally able to launch the app and bring it to market. We&amp;amp;#39;ve acquired a license for songs from Warner Chappell Music, and right now the current catalog of songs isn&amp;amp;#39;t large, but it includes some of their popular songs (Green Day, Paramore, Twenty One Pilots, Simple Plan, Nickelback, etc). One thing to note though, the license doesn&amp;amp;#39;t cover the Europe territory, so we&amp;amp;#39;re unable to launch in that region for now.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Visit our launch page and support us on &amp;lt;a href=&quot;https://www.producthunt.com/posts/chord-genius&quot;&amp;gt;Product Hunt&amp;lt;/a&amp;gt;, you&amp;amp;#39;ll find some promo codes there too 👀 A feedback on the post would be much appreciated!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Or else, just download the app right away:&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;iOS: &amp;lt;a href=&quot;https://apps.apple.com/us/app/chord-genius/id1625337241&quot;&amp;gt;https://apps.apple.com/us/app/chord-genius/id1625337241&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Android: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=app.chordgenius&quot;&amp;gt;https://play.google.com/store/apps/details?id=app.chordgenius&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Have a great day!&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I am building a robotics startup to eliminate repetitive tasks in restaurants]]></title><description><![CDATA[Hi r/SideProject [/r/SideProject]
 
 
 
@@ -427,14 +449,4 @@ attempt. We have a great time as a family with this little…]]></description><l
 
 &amp;lt;p&amp;gt;I&amp;amp;#39;d love to hear your feedback:
 &amp;lt;a href=&quot;https://woof-rodeo.vercel.app&quot;&amp;gt;https://woof-rodeo.vercel.app&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Introducing LexOpCit.com – the collected book and other references from the Lex Fridman Podcast]]></title><description><![CDATA[Thrilled to finally have enough to share. After countless half-baked side
-projects, I am old man who learned some new tricks in Django, and dusted off
-HTML knowledge from the late 90's. LexOpCit [https://www.lexopcit.com] is the
-result.
-
-Any Lex fans hopefully find some value, others, let me have…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/w3zez0/introducing_lexopcitcom_the_collected_book_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw3zez0%2Fintroducing_lexopcitcom_the_collected_book_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw3zez0%2Fintroducing_lexopcitcom_the_collected_book_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/w3zez0/introducing_lexopcitcom_the_collected_book_and/</guid><pubDate>Wed, 20 Jul 2022 23:22:20 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Thrilled to finally have enough to share. After countless half-baked side projects, I am old man who learned some new tricks in Django, and dusted off HTML knowledge from the late 90&amp;amp;#39;s. &amp;lt;a href=&quot;https://www.lexopcit.com&quot;&amp;gt;LexOpCit&amp;lt;/a&amp;gt; is the result.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Any Lex fans hopefully find some value, others, let me have it. I&amp;amp;#39;ve got critiques of my own work but would also love any feedback about features, usability, or approaches towards improving the site or driving some engagement from target audiences.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;All the best - keep up the magnificent work!&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
