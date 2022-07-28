@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Jul 2022 08:31:55 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[刚刚推出的Chord Genius应用程序：吉他卡拉OK]]></title><description><![CDATA[大家好!
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Jul 2022 16:42:44 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我做了一个快如闪电的技术栈搜索引擎来寻找公司（第二部分）--利用你的反馈的新功能! 对地点、技术和公司进行了新的过滤。我们还增加了5万多个新的数据源。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/wa9sdi/i_made_a_lightningfast_tech_stack_search_engine/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwa9sdi%2Fi_made_a_lightningfast_tech_stack_search_engine%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwa9sdi%2Fi_made_a_lightningfast_tech_stack_search_engine%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/wa9sdi/i_made_a_lightningfast_tech_stack_search_engine/</guid><pubDate>Thu, 28 Jul 2022 16:11:51 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我刚刚推出了一个简单的应用程序：输入2个域名&gt；找到25个竞争对手&gt；获得即时洞察力（你也可以粘贴你自己的自定义列表）。]]></title><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/wa5lc8/ive_just_launched_a_simple_app_enter_2_domains/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwa5lc8%2Five_just_launched_a_simple_app_enter_2_domains%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwa5lc8%2Five_just_launched_a_simple_app_enter_2_domains%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/wa5lc8/ive_just_launched_a_simple_app_enter_2_domains/</guid><pubDate>Thu, 28 Jul 2022 16:11:51 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[刚刚推出的Chord Genius应用程序：吉他卡拉OK]]></title><description><![CDATA[大家好!
 
 我和我的团队刚刚推出了Chord Genius，这个应用程序可以帮助吉他手
 更快、更有趣地学习歌曲，因为它有和弦和歌词，可以随心所欲。使用
@@ -421,32 +421,4 @@ https://ramenlist.co/
 &amp;lt;p&amp;gt;I’m working closely with a publishing agency manager who is interested in the service for their clients.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Any suggestions about features or ways to approach this new project?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[回旋镖：在最近的标签之间切换的一种更简单的方式]]></title><description><![CDATA[嘿，Reddit! 我的名字是Mitchell Mark-George，我是一个来自渥太华的开发者。
-加拿大的开发者。今天我推出了我的Chrome扩展程序Boomerang。
-
-Boomerang是一个简单的、轻量级的、快速的扩展，它允许你在你的前一个和当前的标签之间进行切换。
-在你的前一个和当前的标签之间以最快的速度切换。只需...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w3ln0c/boomerang_an_easier_way_to_switch_between_your/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw3ln0c%2Fboomerang_an_easier_way_to_switch_between_your%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw3ln0c%2Fboomerang_an_easier_way_to_switch_between_your%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w3ln0c/boomerang_an_easier_way_to_switch_between_your/</guid><pubDate>Wed, 20 Jul 2022 23:55:29 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey Reddit! My name is Mitchell Mark-George and I&amp;amp;#39;m a developer from Ottawa, Canada. Today I am launching my Chrome extension Boomerang.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Boomerang is a simple, lightweight, and fast extension that allows you to switch between your previous and current tab at the speed of thought. Simply press Command + Shift + Left Arrow Key and you are back to your previous tab in seconds! (Note: use the Control key on Windows instead of Command).&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Why is the extension called Boomerang? Using the shortcut, you can “go” to your previous tab and “return” back to the current one with incredible speed and ease, just like an actual boomerang 🪃.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Feel free to provide any feedback!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Extension Web Page: &amp;lt;a href=&quot;https://chrome.google.com/webstore/detail/boomerang/cimdclgcnpbgikdnjenhanopochepihp&quot;&amp;gt;https://chrome.google.com/webstore/detail/boomerang/cimdclgcnpbgikdnjenhanopochepihp&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[你怎么说呢？我为我的女孩们做了一个游戏]]></title><description><![CDATA[我通常和我4岁和6岁的女孩玩这个游戏，她们正在学习
-英语。我问她们如何用英语说X单词，她们非常喜欢尝试回答正确的单词。
-我还鼓励她们在每次尝试中学习新单词。
-尝试。我们一家人在这个小游戏中度过了一段美好的时光...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w3zz5h/how_do_you_say_it_i_built_a_game_for_my_girls/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw3zz5h%2Fhow_do_you_say_it_i_built_a_game_for_my_girls%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw3zz5h%2Fhow_do_you_say_it_i_built_a_game_for_my_girls%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w3zz5h/how_do_you_say_it_i_built_a_game_for_my_girls/</guid><pubDate>Wed, 20 Jul 2022 23:55:29 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I usually play this game with my 4 and 6 year old girls who are learning English. I ask them how to say X word in English and they really enjoy trying to answer the correct word and I also encourage them to learn new words with each attempt. We have a great time as a family with this little game.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;For a long time I was looking for a good idea on what to build related to this game.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I first thought of building an app so that they could play by themselves, earning points and levels, but I soon realized that it would be a lot of work and difficult to keep their attention. I was also concerned that this would be motivating them to use the phone more hours a day.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;But last Saturday night, while we were playing, an idea came to me: build something just to support the game, some cards that will show us random words grouped by themes, that will help me keep asking them for new and old words and to play as a family. So, I built it that night!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I think you could also use it to teach to your children Spanish!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;d love to hear your feedback:
-&amp;lt;a href=&quot;https://woof-rodeo.vercel.app&quot;&amp;gt;https://woof-rodeo.vercel.app&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
