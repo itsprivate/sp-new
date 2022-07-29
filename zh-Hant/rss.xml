@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 Jul 2022 05:04:14 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我們創建了一個在線課程的聚合器]]></title><description><![CDATA[嗨。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 Jul 2022 12:35:07 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個簡單的chrome擴展，通過在Youtube視頻上創建循環來快速學習歌曲]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/waztv7/i_made_a_simple_chrome_extension_for_learning/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwaztv7%2Fi_made_a_simple_chrome_extension_for_learning%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwaztv7%2Fi_made_a_simple_chrome_extension_for_learning%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/waztv7/i_made_a_simple_chrome_extension_for_learning/</guid><pubDate>Fri, 29 Jul 2022 11:42:14 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[利基提醒：通過API創建一個.ics（iCalendar）文件]]></title><description><![CDATA[大家好!
+
+我是一個小型企業自動化專家，在過去的幾年裏，我一直在幫助企業通過API建立
+在過去的幾年裏，我一直在幫助公司通過API建立自動化和工具。我爲一個客戶需要一個工具
+我需要一個工具，但找不到任何東西，所以我建立了它，把它清理了一下，現在把它託管在
+在RapidAPI上--一個真正的側面。]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wajinc/niche_alert_create_a_ics_icalendar_file_via_api/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwajinc%2Fniche_alert_create_a_ics_icalendar_file_via_api%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwajinc%2Fniche_alert_create_a_ics_icalendar_file_via_api%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wajinc/niche_alert_create_a_ics_icalendar_file_via_api/</guid><pubDate>Fri, 29 Jul 2022 11:42:14 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey everyone! &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;m a small business automation expert and I&amp;amp;#39;ve been helping companies set up automation and tools via API for the past few years. I needed a tool for one client and couldn&amp;amp;#39;t find anything so I built it, cleaned it up, and now host it on RapidAPI as well -- a true side-project! &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Check it out:&amp;lt;/strong&amp;gt; &amp;lt;a href=&quot;https://easyics.com&quot;&amp;gt;easyics.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In short, it&amp;amp;#39;s got a pretty simple JSON input allowing for time, location, guests, description, etc. Fill out the fields and then you can download/send the returned file to your client or user. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Working elements: &amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Title&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Start time&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;End time&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Description&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;URL&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Location&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Organizer&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Guests&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Coming soon (if anyone uses this)&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Time-zone support&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;All-day events&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Languages&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Make/Zapier Integration&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Other &amp;lt;a href=&quot;https://icalendar.org/&quot;&amp;gt;supported&amp;lt;/a&amp;gt; features&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;p&amp;gt;Most standard use case would be sending these files to customers for an event or appointment without having to send a calendar invite. If you have a concert with 500 people, you don&amp;amp;#39;t want 500 separate calendar invites in your own calendar. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Let me know if you have any questions! 🙂&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我們創建了一個在線課程的聚合器]]></title><description><![CDATA[嗨。
 
 https://preview.redd.it/jq8tmu1hsbe91.png?width=1403&format=png&auto=webp&s=116273af1146f230b33fe32b9ec387eaf4853d5b
 
@@ -416,29 +455,4 @@ https://ramenlist.co/
 &amp;lt;p&amp;gt;It&amp;amp;#39;s still a work-in-progress, but all feedback is welcome! Any ideas for new features?&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/sc3ytgwij1d91.png?width=1087&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=7c36218bf96bac49353a71780a510fc5e7be6412&quot;&amp;gt;U.S. Highpoint Guide&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[最後，我的小招聘網站現在可以從工作描述中解析出薪金了| echojobs.io]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w505xr/finally_my_little_job_board_can_parse_salaries/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw505xr%2Ffinally_my_little_job_board_can_parse_salaries%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw505xr%2Ffinally_my_little_job_board_can_parse_salaries%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w505xr/finally_my_little_job_board_can_parse_salaries/</guid><pubDate>Fri, 22 Jul 2022 05:03:40 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[AtomicSheets.com中的100個谷歌工作表模板]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4t9r0/100_google_sheet_templates_in_atomicsheetscom/?score=9&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4t9r0%2F100_google_sheet_templates_in_atomicsheetscom%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4t9r0%2F100_google_sheet_templates_in_atomicsheetscom%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4t9r0/100_google_sheet_templates_in_atomicsheetscom/</guid><pubDate>Fri, 22 Jul 2022 03:07:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我正在建立一個賽博朋克式的社交應用程序]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4nm8j/im_building_a_cyberpunkish_social_app/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4nm8j%2Fim_building_a_cyberpunkish_social_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4nm8j%2Fim_building_a_cyberpunkish_social_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4nm8j/im_building_a_cyberpunkish_social_app/</guid><pubDate>Thu, 21 Jul 2022 23:29:34 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[數據庫子集和關係型數據瀏覽工具。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4mqbr/database_subsetting_and_relational_data_browsing/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4mqbr%2Fdatabase_subsetting_and_relational_data_browsing%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4mqbr%2Fdatabase_subsetting_and_relational_data_browsing%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4mqbr/database_subsetting_and_relational_data_browsing/</guid><pubDate>Thu, 21 Jul 2022 20:19:01 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我將開發你需要的API]]></title><description><![CDATA[你好。
-
-我是一名網絡開發人員，我將開發一個你需要的API，但它。
-
-- 不存在
-
-- 不夠好
-
-- 它太貴了。
-
-
-
-如果你有任何想法，請在評論中提出來 :)]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w3wlyo/i_will_develop_the_api_you_need/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw3wlyo%2Fi_will_develop_the_api_you_need%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw3wlyo%2Fi_will_develop_the_api_you_need%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w3wlyo/i_will_develop_the_api_you_need/</guid><pubDate>Thu, 21 Jul 2022 12:33:18 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi, &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I am a web developer and I will develop an API that you need but it:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- doesn&amp;amp;#39;t exists&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- it&amp;amp;#39;s not good enough &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;- it&amp;amp;#39;s too expensive.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;If you have any ideas put them in comments :)&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[最後，我的小招聘網站現在可以從工作描述中解析出薪金了| echojobs.io]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w505xr/finally_my_little_job_board_can_parse_salaries/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw505xr%2Ffinally_my_little_job_board_can_parse_salaries%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw505xr%2Ffinally_my_little_job_board_can_parse_salaries%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w505xr/finally_my_little_job_board_can_parse_salaries/</guid><pubDate>Fri, 22 Jul 2022 05:03:40 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[AtomicSheets.com中的100個谷歌工作表模板]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4t9r0/100_google_sheet_templates_in_atomicsheetscom/?score=9&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4t9r0%2F100_google_sheet_templates_in_atomicsheetscom%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4t9r0%2F100_google_sheet_templates_in_atomicsheetscom%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4t9r0/100_google_sheet_templates_in_atomicsheetscom/</guid><pubDate>Fri, 22 Jul 2022 03:07:39 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我正在建立一個賽博朋克式的社交應用程序]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4nm8j/im_building_a_cyberpunkish_social_app/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4nm8j%2Fim_building_a_cyberpunkish_social_app%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw4nm8j%2Fim_building_a_cyberpunkish_social_app%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w4nm8j/im_building_a_cyberpunkish_social_app/</guid><pubDate>Thu, 21 Jul 2022 23:29:34 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
