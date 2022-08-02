@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Aug 2022 09:32:06 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我们建立了一个工具，自动删除你的YouTube视频中的垃圾评论，这样你就可以专注于重要的事情。]]></title><description><![CDATA[我们正在软启动Bustinger [https://bustinger.com] 🚀。一个SaaS，用于
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[业余项目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 02 Aug 2022 09:56:13 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[我们刚刚启动了我们的第一个PH活动! - 希望得到您的赞许!]]></title><description><![CDATA[Buddydoc，兽医之前的第一步!
+[https://preview.redd.it/1l7vuhvss8f91.jpg?width=2646&format=pjpg&auto=webp&s=f1754e572a9058e13dacadd271d2f215aed9ae42]
+
+嘿，r/SideProject [/r/SideProject] 我们刚刚启动了我们的第一个产品狩猎活动
+活动，希望能得到你的帮助。]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/we52os/we_just_launched_our_first_ph_campaign_would_love/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwe52os%2Fwe_just_launched_our_first_ph_campaign_would_love%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwe52os%2Fwe_just_launched_our_first_ph_campaign_would_love%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/we52os/we_just_launched_our_first_ph_campaign_would_love/</guid><pubDate>Tue, 02 Aug 2022 09:28:16 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/1l7vuhvss8f91.jpg?width=2646&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=f1754e572a9058e13dacadd271d2f215aed9ae42&quot;&amp;gt;Buddydoc, the first step before the vet!&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Hey &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt; we just launched our first Product Hunt campaign and would love a minute of your support!  &amp;lt;a href=&quot;https://www.producthunt.com/posts/buddydoc&quot;&amp;gt;https://www.producthunt.com/posts/buddydoc&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We aim to provide a free triage tool for pet parents everywhere to gain access to accurately check their pet’s symptom at home. Help demystify the judgment of our pet’s condition and guide them to give their pets the best care possible!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We have worked with over a dozen veterinarians since 2020 and created a database of over 150 of the most common symptoms pets experience and providing it to everyone free to use! We just want our furry little companions to live longer with us :)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Hope you try it out and at the least come on over and support us on our Product Hunt campaign!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thank you,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The Buddydoc Team&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我们建立了一个工具，自动删除你的YouTube视频中的垃圾评论，这样你就可以专注于重要的事情。]]></title><description><![CDATA[我们正在软启动Bustinger [https://bustinger.com] 🚀。一个SaaS，用于
 自动删除YouTube上的垃圾邮件。
 
 我们不可抗拒的报价是："免费使用Bustinger 14天，看着你的垃圾邮件
@@ -327,19 +344,4 @@ https://preview.redd.it/jq8tmu1hsbe91.png?width=1403&format=png&auto=webp&s=1162
 &amp;lt;p&amp;gt;I Am really interested in your feedback on which direction I should move forward.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;**If you are interested I am open to partnerships as well.**&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一个活动服务，想分享一下]]></title><description><![CDATA[想想看，EventBridge没有最大数量的规则集，Event Grid或Eventarc，但你可以与任何人集成。
-或SQS，但不限制事件的延迟秒数。
-[https://preview.redd.it/zkip052zvtd91.png?width=756&format=png&auto=webp&s=5a41aad779dc88fb2f9e92c088f241148025410d]
-
-我做了一个服务，使...]]></description><link>https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w88h2j/i_made_an_events_service_and_wanted_to_share/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw88h2j%2Fi_made_an_events_service_and_wanted_to_share%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw88h2j%2Fi_made_an_events_service_and_wanted_to_share%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/reddit/r/SideProject/comments/w88h2j/i_made_an_events_service_and_wanted_to_share/</guid><pubDate>Tue, 26 Jul 2022 07:27:25 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/zkip052zvtd91.png?width=756&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5a41aad779dc88fb2f9e92c088f241148025410d&quot;&amp;gt;Think EventBridge without max number of rulesets, Event Grid or Eventarc but you can integrate with anyone, or SQS without limiting DelaySeconds on events.&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I made a service to make software events for web enabled apps. I thought it might be cool to share, in case anyone might like to try it out in the early stages and give feedback.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;On my last software project, we had a lot of problems with our scheduler and that really motivated us to build this service.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;My hope is this solves the same headache for others. You can try it out at the link below for free!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://anticipated.io&quot;&amp;gt;https://anticipated.io&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
