@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 04 Aug 2022 03:27:57 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我建立了一種方法來爲你在工作中建立的任何東西創建啓動屏幕]]></title><description><![CDATA[我們的平臺叫做StartScreen，它可以讓你把登陸頁面添加到
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 04 Aug 2022 07:04:15 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[走出了我的舒適區，感覺很好]]></title><description><![CDATA[最近，我被提醒，挑戰自己和走出去是多麼重要。
+我的舒適區。我戰勝了自己的恐懼，收到了一個積極的結果。
+
+我和我的聯合創始人正帶着我們的創業公司Typogram申請y combinator。y combinator的申請要求
+y combinator的申請要求提供一個沒有腳本的創始人介紹...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wffly0/went_out_of_my_comfort_zone_and_it_feels_good/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwffly0%2Fwent_out_of_my_comfort_zone_and_it_feels_good%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwffly0%2Fwent_out_of_my_comfort_zone_and_it_feels_good%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wffly0/went_out_of_my_comfort_zone_and_it_feels_good/</guid><pubDate>Thu, 04 Aug 2022 06:37:12 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Recently I was reminded of how important it is to challenge myself and go out of my comfort zone. I conquered my fear and received a positive result.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My co-founder and I are applying to y combinator with our startup, Typogram. The y combinator application asks for an unscripted founder intro video.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Usually, my co-founder and I would write a short script outlining what we would say, memorize it, and recite it for the video. Although we have gotten feedback that it was robotic - we stayed with our recording method. It was easier and felt comfortable. We were worried we would look silly, blank out on words, and not be coherent.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This time around, we decide to challenge ourselves and try creating the video unscripted. To my surprise, the video took a shorter time to record, and I think it was more natural than the previously scripted one. I haven’t uploaded the video yet, but as far as I can tell, we sounded better and more human this time.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;So conclusion and lesson here: don’t be afraid to venture out of my comfort zone into unfamiliar territory. You may be closer to the finish line than you previously thought.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you enjoyed this post, I also write a newsletter sharing my journey of building my startup. &amp;lt;a href=&quot;https://build.typogram.co/&quot;&amp;gt;Subscribe&amp;lt;/a&amp;gt; if you feel like.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一種方法來爲你在工作中建立的任何東西創建啓動屏幕]]></title><description><![CDATA[我們的平臺叫做StartScreen，它可以讓你把登陸頁面添加到
 Airtables, dashboards, and more!
 
 StartScreen非常適用於解釋某些東西是如何工作的，無需使用Loom或
@@ -349,20 +364,4 @@ https://preview.redd.it/jq8tmu1hsbe91.png?width=1403&format=png&auto=webp&s=1162
 &amp;lt;p&amp;gt;Android: &amp;lt;a href=&quot;https://play.google.com/store/apps/details?id=app.chordgenius&quot;&amp;gt;https://play.google.com/store/apps/details?id=app.chordgenius&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Have a great day!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我正在建立一個機器人創業公司，以消除餐廳的重複性工作]]></title><description><![CDATA[嗨，r/SideProject [/r/SideProject]
-
-
-
-我正在建立http://www.restaurant-robotics.com/ 一家創業公司，以消除餐飲業中最重複的工作：食品輸送。
-餐館行業中最重複的工作：食品運輸。把一袋袋的
-運送食物給顧客，無論是在路邊還是在室內，都是一項不需要技巧和嚴重體力勞動的任務。
-認真的體力勞動...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w9hzlk/i_am_building_a_robotics_startup_to_eliminate/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw9hzlk%2Fi_am_building_a_robotics_startup_to_eliminate%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fw9hzlk%2Fi_am_building_a_robotics_startup_to_eliminate%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/w9hzlk/i_am_building_a_robotics_startup_to_eliminate/</guid><pubDate>Thu, 28 Jul 2022 02:03:42 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I am building &amp;lt;a href=&quot;http://www.restaurant-robotics.com/&quot;&amp;gt;http://www.restaurant-robotics.com/&amp;lt;/a&amp;gt; a startup to eliminate the most repetitive task in the restaurant industry: food conveyance. Taking bags of food to customers both curbside and indoors is a task that requires no skill and serious physical labor over an 8-hour shift, so replacing it with a robot is a no-brainer. I already have a customer willing to pilot it for a reduced monthly price, and a lead on another who can get us in 8 different restaurants. I am looking for a technical co-founder who can help me finish up the prototype, I am not super proficient in code for Arduino(c++) so if you are interested in working with me or just want to learn more I am happy to chat.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thanks&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Andrew&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
