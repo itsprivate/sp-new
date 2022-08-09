@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 08 Aug 2022 23:44:30 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[I have a social media tool idea and need honest feedback...]]></title><description><![CDATA[I am working on a tool that allows you to curate all of your favorite social
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 09 Aug 2022 04:40:11 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Finally releasing a project I was embarrassed of - Headway Journal]]></title><description><![CDATA[Hey all!
+
+Headway is a quick morning and evening accountability journal that helps you be
+more productive and satisfied. The app was inspired by an executive coach named
+Marshall Goldsmith who was recently featured on The Knowledge Project podcast.
+
+The evening system is taken from Marshall's book…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wjif23/finally_releasing_a_project_i_was_embarrassed_of/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwjif23%2Ffinally_releasing_a_project_i_was_embarrassed_of%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwjif23%2Ffinally_releasing_a_project_i_was_embarrassed_of%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wjif23/finally_releasing_a_project_i_was_embarrassed_of/</guid><pubDate>Tue, 09 Aug 2022 04:06:48 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey all!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Headway is a quick morning and evening accountability journal that helps you be more productive and satisfied. The app was inspired by an executive coach named Marshall Goldsmith who was recently featured on &amp;lt;em&amp;gt;The Knowledge Project&amp;lt;/em&amp;gt; podcast. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The evening system is taken from Marshall&amp;amp;#39;s book Triggers (with his permission), and the morning is a combination of questions from research I&amp;amp;#39;ve done. The result is ~4 mins/session, but the impact is huge.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;d love to hear what the group thinks of it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;iOS App Store:&amp;lt;/strong&amp;gt;  &amp;lt;a href=&quot;https://apps.apple.com/us/app/headway-journal/id1477254209&quot;&amp;gt;https://apps.apple.com/us/app/headway-journal/id1477254209&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Website&amp;lt;/strong&amp;gt;: &amp;lt;a href=&quot;https://www.getheadway.app/&quot;&amp;gt;https://www.getheadway.app/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Marshall Goldsmith on TKP&amp;lt;/strong&amp;gt;: &amp;lt;a href=&quot;https://fs.blog/knowledge-project-podcast/marshall-goldsmith/&quot;&amp;gt;https://fs.blog/knowledge-project-podcast/marshall-goldsmith/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;There&amp;amp;#39;s a 7-day free trial, but shoot me a DM and I&amp;amp;#39;ll hook up with a link to download it for free in the app store.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Embarrassment Confession&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This is sort of a main project that took a long time and I launched in the app store but never made an official social launch (here, Product Hunt, etc) because I was a little embarrassed. I&amp;amp;#39;m not technical, and I did a poor job managing the inexperienced dev shop I chose, which led to a late, buggy app. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The dev and subsequent debugging really crushed my momentum and bruised my ego pretty good. However, after listening to Marshall&amp;amp;#39;s interview, I realized the app and system are sound and other people might enjoy it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you&amp;amp;#39;ve ever produced something that&amp;amp;#39;s near and dear to your heart, then you understand the counterintuitive nature of my embarrassment. Much to my surprise, I had friends and other smart folks I respect laugh, tell me it wasn&amp;amp;#39;t a great idea, and often show no interest in even trying to use it. Because it was my first project (and launched right at the start of the pandemic), I took it all pretty hard and got pretty down on myself. Now that I have some distance from it, my ego isn&amp;amp;#39;t quite so attached and I&amp;amp;#39;d like to let this peacock fly, captain.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thx,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Dave&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I have a social media tool idea and need honest feedback...]]></title><description><![CDATA[I am working on a tool that allows you to curate all of your favorite social
 posts across all platforms. You will be able to filter, organize and leave notes
 on them.
 
@@ -304,21 +339,4 @@ price your crypto coin would have with another crypto's market cap.
 &amp;lt;li&amp;gt;Mobile friendly&amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;No ads, no spam&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[We just launched our first PH campaign! - Would LOVE your upvotes!]]></title><description><![CDATA[Buddydoc, the first step before the vet!
-[https://preview.redd.it/1l7vuhvss8f91.jpg?width=2646&format=pjpg&auto=webp&s=f1754e572a9058e13dacadd271d2f215aed9ae42]
-
-Hey r/SideProject [/r/SideProject] we just launched our first Product Hunt
-campaign and would love a minute of your…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/we52os/we_just_launched_our_first_ph_campaign_would_love/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwe52os%2Fwe_just_launched_our_first_ph_campaign_would_love%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwe52os%2Fwe_just_launched_our_first_ph_campaign_would_love%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/we52os/we_just_launched_our_first_ph_campaign_would_love/</guid><pubDate>Tue, 02 Aug 2022 09:28:16 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/1l7vuhvss8f91.jpg?width=2646&amp;amp;amp;format=pjpg&amp;amp;amp;auto=webp&amp;amp;amp;s=f1754e572a9058e13dacadd271d2f215aed9ae42&quot;&amp;gt;Buddydoc, the first step before the vet!&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Hey &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt; we just launched our first Product Hunt campaign and would love a minute of your support!  &amp;lt;a href=&quot;https://www.producthunt.com/posts/buddydoc&quot;&amp;gt;https://www.producthunt.com/posts/buddydoc&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We aim to provide a free triage tool for pet parents everywhere to gain access to accurately check their pet’s symptom at home. Help demystify the judgment of our pet’s condition and guide them to give their pets the best care possible!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We have worked with over a dozen veterinarians since 2020 and created a database of over 150 of the most common symptoms pets experience and providing it to everyone free to use! We just want our furry little companions to live longer with us :)&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Hope you try it out and at the least come on over and support us on our Product Hunt campaign!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thank you,&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;The Buddydoc Team&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
