@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Aug 2022 18:39:51 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我們通過分析YouTube的偏好來預測未來的職業]]></title><description><![CDATA[我們創建了一個實驗性功能，通過分析以下內容來預測未來的職業生涯
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Aug 2022 22:30:33 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我建立了一個電子郵件測試平臺，讓你用代碼接收電子郵件]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wl4hg5/i_built_an_email_testing_platform_that_lets_you/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwl4hg5%2Fi_built_an_email_testing_platform_that_lets_you%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwl4hg5%2Fi_built_an_email_testing_platform_that_lets_you%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wl4hg5/i_built_an_email_testing_platform_that_lets_you/</guid><pubDate>Wed, 10 Aug 2022 21:41:55 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我們通過分析YouTube的偏好來預測未來的職業]]></title><description><![CDATA[我們創建了一個實驗性功能，通過分析以下內容來預測未來的職業生涯
 Youtube的偏好 - https://unschooler.me/skills
 
 
@@ -530,19 +530,4 @@ y combinator的申請要求提供一個沒有腳本的創始人介紹...]]></des
 &amp;lt;p&amp;gt;So conclusion and lesson here: don’t be afraid to venture out of my comfort zone into unfamiliar territory. You may be closer to the finish line than you previously thought.&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;If you enjoyed this post, I also write a newsletter sharing my journey of building my startup. &amp;lt;a href=&quot;https://build.typogram.co/&quot;&amp;gt;Subscribe&amp;lt;/a&amp;gt; if you feel like.&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了一種方法來爲你在工作中建立的任何東西創建啓動屏幕]]></title><description><![CDATA[我們的平臺叫做StartScreen，它可以讓你把登陸頁面添加到
-Airtables, dashboards, and more!
-
-StartScreen非常適用於解釋某些東西是如何工作的，無需使用Loom或
-跳上一個電話。
-
-我們正處於早期測試階段，但請檢查我們，並讓我知道你的想法!
-
-https://startscreen.io...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wffjfz/i_built_a_way_to_create_start_screens_for/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwffjfz%2Fi_built_a_way_to_create_start_screens_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwffjfz%2Fi_built_a_way_to_create_start_screens_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wffjfz/i_built_a_way_to_create_start_screens_for/</guid><pubDate>Thu, 04 Aug 2022 02:52:17 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Our platform is called StartScreen and it lets you add landing pages to Airtables, dashboards, and more!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;StartScreen is great for explaining how something works without using Loom or hopping on a call.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;We&amp;amp;#39;re in early beta, but check us out and let me know your thoughts!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://startscreen.io/&quot;&amp;gt;https://startscreen.io&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
