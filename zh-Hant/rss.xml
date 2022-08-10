@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Aug 2022 17:29:56 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[從48小時到6個月--一個微型SaaS的小故事]]></title><description><![CDATA[在這篇文章中，我將告訴你自由職業者CRM的6個月故事
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Aug 2022 18:39:51 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我們通過分析YouTube的偏好來預測未來的職業]]></title><description><![CDATA[我們創建了一個實驗性功能，通過分析以下內容來預測未來的職業生涯
+Youtube的偏好 - https://unschooler.me/skills
+
+
+
+https://i.redd.it/x1482tj0ivg91.gif
+
+如何找到一種激情？我們採訪的每一個青少年都提到Youtube是一個
+學習來源。突然間，我們意識到，Youtube...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wkvauv/we_predict_a_future_career_by_analyzing_youtube/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwkvauv%2Fwe_predict_a_future_career_by_analyzing_youtube%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwkvauv%2Fwe_predict_a_future_career_by_analyzing_youtube%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wkvauv/we_predict_a_future_career_by_analyzing_youtube/</guid><pubDate>Wed, 10 Aug 2022 17:59:43 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;We created an experimental feature that predicts a future career by analyzing Youtube preferences —&amp;lt;a href=&quot;https://unschooler.me/skills&quot;&amp;gt;https://unschooler.me/skills&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://i.redd.it/x1482tj0ivg91.gif&quot;&amp;gt;https://i.redd.it/x1482tj0ivg91.gif&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;How to find a passion? Every teenager we spoke to mentioned Youtube as a learning source. Suddenly we realized that YouTube contains all information about interests, learning history, and answer search, underneath which lies their unique purpose. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;We came up with the idea to translate interests from Youtube into the career language and predict the probable specialization on the single Skills Map. &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;From the beginning, we compared the data with a control group of our friends, who had already known their passion. ★ &amp;lt;a href=&quot;https://unschooler.me/profile/alexander-dovksha-1102&quot;&amp;gt;Our designer&amp;amp;#39;s map&amp;lt;/a&amp;gt; matched his passion for 3D and generative graphics.  &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/0efvmfhxivg91.png?width=2812&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5e638dd558fb45647cffebd71720f7809dd8d18a&quot;&amp;gt;https://preview.redd.it/0efvmfhxivg91.png?width=2812&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=5e638dd558fb45647cffebd71720f7809dd8d18a&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Now we are moving carefully and show less but more precise information. ★ &amp;lt;a href=&quot;https://unschooler.me/profile/alexey-klimko-1034&quot;&amp;gt;This man&amp;lt;/a&amp;gt; is a software developer, and our algorithm showed us this before we even knew him.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;★ Our &amp;lt;a href=&quot;https://unschooler.me/profile/4nNgEXpj5TR5UDV9TxT7Wp0uTkG2-1733&quot;&amp;gt;social media manager&amp;lt;/a&amp;gt; leans more toward Design than Marketing.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;★ &amp;lt;a href=&quot;https://unschooler.me/profile/liliya-bohdan-1149&quot;&amp;gt;This girl&amp;lt;/a&amp;gt; is learning cosmetics from a chemistry perspective - however, our data showed her real passion and aptitude: interacting with people around these cosmetic topics.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Then people can try any recommended profession for 1 week and decide where their real passion lies. We send them real daily tasks from designers, programmers, bloggers, and photographers to encourage creating from day one. In the paid plan, we build a Career Guide with suggested professions and create a unique learning plan for you.    &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Share your feedback in the comments ↓&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[從48小時到6個月--一個微型SaaS的小故事]]></title><description><![CDATA[在這篇文章中，我將告訴你自由職業者CRM的6個月故事
 [https://freelancercrm.app/]。我的商業夥伴@kemalserbet
 [https://twitter.com/kemalserbet]和我參加了MicroSaas黑客馬拉松活動
 2022年1月，由Komunite[https://komunite.com.tr/]組織。在這次
@@ -514,4 +545,4 @@ https://startscreen.io...]]></description><link>https://sideproject.buzzing.cc/z
 &amp;lt;p&amp;gt;We&amp;amp;#39;re in early beta, but check us out and let me know your thoughts!&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://startscreen.io/&quot;&amp;gt;https://startscreen.io&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個腳本，可以獲得你的產品在谷歌上被提及的所有地方。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wfdwzz/i_made_a_script_that_gets_all_the_places_where/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwfdwzz%2Fi_made_a_script_that_gets_all_the_places_where%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwfdwzz%2Fi_made_a_script_that_gets_all_the_places_where%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wfdwzz/i_made_a_script_that_gets_all_the_places_where/</guid><pubDate>Wed, 03 Aug 2022 20:48:40 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
