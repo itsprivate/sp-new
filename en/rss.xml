@@ -1,4 +1,154 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 11 Aug 2022 15:17:19 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[🔥 I created a tool that automatically generates personalized messages and emails]]></title><description><![CDATA[How often do you receive irrelevant cold emails and messages which start from “I
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Buzzing on Side Project]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 11 Aug 2022 22:32:43 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[$3,000 LTD sales, $24 MRR, 600+ registered users after 6 months building KTool on the side. Here is everything I learned building and growing KTool.]]></title><description><![CDATA[Hi r/SideProject [/r/SideProject],
+
+Long time lurker, first time poster here 😅
+
+I'm Daniel [https://twitter.com/daniel_nguyenx] and I've been building ktool.io
+[http://ktool.io] on the side for 6 months. I just reached $3,000 LTD sales and
+currently at a modest $24 MRR. Here is everything I…]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wlr6bt/3000_ltd_sales_24_mrr_600_registered_users_after/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwlr6bt%2F3000_ltd_sales_24_mrr_600_registered_users_after%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwlr6bt%2F3000_ltd_sales_24_mrr_600_registered_users_after%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wlr6bt/3000_ltd_sales_24_mrr_600_registered_users_after/</guid><pubDate>Thu, 11 Aug 2022 22:04:47 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi &amp;lt;a href=&quot;/r/SideProject&quot;&amp;gt;r/SideProject&amp;lt;/a&amp;gt;,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Long time lurker, first time poster here 😅&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;m &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx&quot;&amp;gt;Daniel&amp;lt;/a&amp;gt; and I&amp;amp;#39;ve been building &amp;lt;a href=&quot;http://ktool.io&quot;&amp;gt;ktool.io&amp;lt;/a&amp;gt; on the side for 6 months. I just reached $3,000 LTD sales and currently at a modest $24 MRR. Here is everything I learned building and growing KTool.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/hp87uv8p33h91.png?width=1862&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=369a2c60b36cdc126ba4ca0c0fc3f228df7940b7&quot;&amp;gt;https://preview.redd.it/hp87uv8p33h91.png?width=1862&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=369a2c60b36cdc126ba4ca0c0fc3f228df7940b7&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;ll try to answer the questions that I often get asked&amp;lt;/p&amp;gt;
+
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;What is your product?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;How did you come up with the idea? How did you validate it?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;What is your tech stack?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;How did you find your first customers?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;How are you finding your customers today?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;How did you come up with your price?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;What you&amp;amp;#39;ve learned the most?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;What was your biggest mistake?&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+
+&amp;lt;h2&amp;gt;1.  What is your product?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;KTool is a browser extension that allow you to quickly send web articles, Twitter threads and newsletters to your Kindle.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;2.  How did you come up with the idea? How did you validate it?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;I didn&amp;amp;#39;t. Amazon supports this functionality for years but it recently stopped the development. Many users were frustrated and I was among them.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I saw the opportunity and decided to build a better version of it.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;My first idea was to send non-DRM ebooks, not just web articles. To &amp;amp;quot;validate&amp;amp;quot; it, I talked to people on &amp;lt;a href=&quot;https://www.reddit.com/r/kindle/comments/rsv70x/im_building_a_mini_tool_for_eink_kindle_looking/&quot;&amp;gt;Reddit&amp;lt;/a&amp;gt; and Twitter. Some people found it useful and so I started building it in public.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I shared my thought here : &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1504386455489376256&quot;&amp;gt;https://twitter.com/daniel_nguyenx/status/1504386455489376256&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/5ll3igga33h91.png?width=1178&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=0fd512a84d2d0a4fe041d2dde171323e2b74344e&quot;&amp;gt;How I come up with the idea &amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Key takeaway:&amp;lt;/strong&amp;gt; Validation is important. Even if you&amp;amp;#39;re building a product that is already on the market, do talk to potential customers to learn why would they use your product.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;3.  What is your tech stack?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;I use NextJS + TailwindCSS on the front-end and FeathersJS + PostgreSQL on the back-end.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Infrastructure wise: I use Cloudflare Pages for front-end, Heroku for API servers, Render for PostgreSQL hosting &amp;amp;amp; SendGrid for email handling.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The web extension is a mix of TailwindCSS, Typescript and Swift. It was a fork of &amp;lt;a href=&quot;https://github.com/yewsiang/tailwind-react-chrome-extension-template&quot;&amp;gt;this boilerplate&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;This stack is not sexy or whatever, but I&amp;amp;#39;ve been working with these exact stack for 5 years. I even developed a custom auth solution on top of FeathersJS auth. Would be much faster for me to reuse the code.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Key takeaway&amp;lt;/strong&amp;gt;: Use the stack you&amp;amp;#39;re most familiar with. It&amp;amp;#39;s fine to build a side project to learn new tech. But in my experience, learning new techs while building a side business usually increase your time-to-market.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;4.  How did you find your first customers?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;By building in public on Twitter.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I posted my &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1487415441975033859&quot;&amp;gt;crappy MVP&amp;lt;/a&amp;gt; on Twitter and got some initial positive feedback.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1489487731935776770&quot;&amp;gt;keep&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1490312277777518596&quot;&amp;gt;improving&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1500049921856393217&quot;&amp;gt;the&amp;lt;/a&amp;gt; &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1502902173184983040&quot;&amp;gt;product&amp;lt;/a&amp;gt; until one day I got super lucky. Someone mentioned KTool on Hacker News: &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1503382538383167492&quot;&amp;gt;https://twitter.com/daniel_nguyenx/status/1503382538383167492&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/y2pu4wcu33h91.png?width=1192&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=8b8a607491bf9e10d3839c449baff67ffe6e9409&quot;&amp;gt;KTool on Hacker News&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;And I got a couple of sales that day, completely from strangers on the Internet :D&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Fun fact&amp;lt;/em&amp;gt;: I haven&amp;amp;#39;t implemented payment integration when the tweet went viral. It showed the doge instead. People find it hilarious.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1499615174327926784&quot;&amp;gt;https://twitter.com/daniel_nguyenx/status/1499615174327926784&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I literally spend 1 hour live-coding :D&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Key takeaway&amp;lt;/strong&amp;gt;: Be consistent and don&amp;amp;#39;t stop tweeting about your product. With a little bit of luck, your first customers will come.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;5.  How are you finding your customers today?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;I continue to build in public on Twitter. I&amp;amp;#39;m super lucky as I got a lot of support from Twitter. KTool was mentioned by some big accounts: &amp;lt;a href=&quot;https://twitter.com/tdinh_me&quot;&amp;gt;Tony Dinh&amp;lt;/a&amp;gt;, Simon Hoiberg, &amp;lt;a href=&quot;https://twitter.com/dagorenouf&quot;&amp;gt;Dagobert&amp;lt;/a&amp;gt; and &amp;lt;a href=&quot;https://twitter.com/arvidkahl&quot;&amp;gt;Arvid Kahl&amp;lt;/a&amp;gt; (guys, thanks for your supports 🙌)&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I&amp;amp;#39;ve been doing more experiments on Twitter like &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1535265657264099328&quot;&amp;gt;posting memes&amp;lt;/a&amp;gt; every week, actively &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1519330353579958277&quot;&amp;gt;promoting&amp;lt;/a&amp;gt; KTool on &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1528015779462975494&quot;&amp;gt;big accounts&amp;lt;/a&amp;gt;&amp;amp;#39; threads.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;In my experience, memes are fun but not a good strategy to grow your Twitter account. I do it mostly for fun.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Promoting KTool on big accounts works great though. I even &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1530592603691167744&quot;&amp;gt;got a sales&amp;lt;/a&amp;gt; 10 minutes after posting one such self-promote tweet.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Twitter was my main acquisition channel but recently, word of mouth is taking over. I&amp;amp;#39;m happy that I don&amp;amp;#39;t have to spend too much time on Twitter like before.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I started to invest more time on SEO, Reddit &amp;amp;amp; maybe Indie Hackers this month 😅&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Key takeaway:&amp;lt;/strong&amp;gt; try to nail one channel before jumping to another. By focusing on Twitter, I got social proof built-in. People see my build in public journey and it builds trust. Also, don&amp;amp;#39;t afraid of self-promoting your product&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;6.  How did you come up with your price?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;This is where I&amp;amp;#39;m still struggling. I&amp;amp;#39;m going to do a lot more experiments to test.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;First, I set a number that I feel fair for me as a founder ($49 lifetime deal, for super early adopters).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Then I research other products and learned that a B2C product like KTool usually priced at $29-$99 per year.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I increased the price to $89. Then sales were flatlining. I did a survey to learn customers&amp;amp;#39; Willingness to Pay.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;And I found that at $8.9/mo it&amp;amp;#39;s becoming too expensive. $4.9/mo is OK. I ended up with the price $69 LTD and $49 per year.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I write a thread about the experiment here: &amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1540213134509719552&quot;&amp;gt;https://twitter.com/daniel_nguyenx/status/1540213134509719552&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/3mahtf1143h91.png?width=1184&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=169058f9f6466c7db3d207d5b1aaa2e3dbe98942&quot;&amp;gt;KTool pricing experiment&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Key takeaway:&amp;lt;/strong&amp;gt; Pricing is hard. Don&amp;amp;#39;t afraid of testing it constantly.&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;7.  What you&amp;amp;#39;ve learned the most?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;This is my first time building in public on Twitter. Learned a lot about building a good Twitter presence, what is build in public and how to do it effectively.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I got the exposure I never could imagine. Over the last 3 months, my tweets earned about 2.7M impressions :D&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/9fi5o3g343h91.png?width=1754&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=e38c11ed7e33f1dd2aa17c8e2f095395f4d04069&quot;&amp;gt;https://preview.redd.it/9fi5o3g343h91.png?width=1754&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=e38c11ed7e33f1dd2aa17c8e2f095395f4d04069&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;If you&amp;amp;#39;re just started on Twitter, definitely follow &amp;lt;a href=&quot;https://twitter.com/arvidkahl&quot;&amp;gt;Arvid Kahl&amp;lt;/a&amp;gt; and &amp;lt;a href=&quot;https://twitter.com/MeetKevon&quot;&amp;gt;Kevon Cheung&amp;lt;/a&amp;gt;!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Key takeaway:&amp;lt;/strong&amp;gt; Twitter is wonderful if you know how to do it right. Also having a supportive community is super important. I&amp;amp;#39;m grateful to receive so many support from the community 🙏&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;8.  What was your biggest mistake?&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;Not spending more time finding a good name. I learned a little late that KTool was associated with a scammer. I plan to rebrand KTool soon :D&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://twitter.com/daniel_nguyenx/status/1543970763174162432&quot;&amp;gt;https://twitter.com/daniel_nguyenx/status/1543970763174162432&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;#x200B;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://preview.redd.it/z057x8j543h91.png?width=1188&amp;amp;amp;format=png&amp;amp;amp;auto=webp&amp;amp;amp;s=34804934347995619d675a3706c8b11b47396356&quot;&amp;gt;KTool brand name 🤦‍♂️&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Also I should&amp;amp;#39;ve charged earlier. The doge dialog experiment was fun though!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Key takeaway:&amp;lt;/strong&amp;gt; you will make mistakes. Learn from it and improve in the future. I was disappointed at this for a while and it wasn&amp;amp;#39;t good.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I hope you find these learnings useful. If you have any questions, feel free to leave it below. I&amp;amp;#39;ll try my best to answer ❤️&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Also I&amp;amp;#39;m pretty active on &amp;lt;a href=&quot;http://twitter.com/daniel_nguyenx&quot;&amp;gt;Twitter&amp;lt;/a&amp;gt;, let&amp;amp;#39;s connect 👋&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[🔥 I created a tool that automatically generates personalized messages and emails]]></title><description><![CDATA[How often do you receive irrelevant cold emails and messages which start from “I
 came across your profile…", and "it seems, we're in the same industry"?
 
 I was getting tons of them every day.
@@ -558,4 +708,4 @@ publish free templates on…]]></description><link>https://sideproject.buzzing.c
 &amp;lt;p&amp;gt;Happy hacking 🚀&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[I built a free Spreadsheet to Dashboard Platform called Dataviz Studio]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wgl7v1/i_built_a_free_spreadsheet_to_dashboard_platform/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwgl7v1%2Fi_built_a_free_spreadsheet_to_dashboard_platform%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwgl7v1%2Fi_built_a_free_spreadsheet_to_dashboard_platform%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wgl7v1/i_built_a_free_spreadsheet_to_dashboard_platform/</guid><pubDate>Fri, 05 Aug 2022 05:20:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[We created a webapp to make managing and integrating videos on websites simple without having to modify the source code or add any video players.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wfvogd/we_created_a_webapp_to_make_managing_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwfvogd%2Fwe_created_a_webapp_to_make_managing_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwfvogd%2Fwe_created_a_webapp_to_make_managing_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wfvogd/we_created_a_webapp_to_make_managing_and/</guid><pubDate>Thu, 04 Aug 2022 23:50:36 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I have started a collection of newsletters covering the latest developments in AI, Blockchain, Robotics, AR, VR, XR, IoT and Web 3.0 through short news bites.]]></title><description><![CDATA[It's called Future Ready and all the newsletters are free. You can subscribe by
 going to https://futureready.substack.com/ .]]></description><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg1g7t/i_have_started_a_collection_of_newsletters/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg1g7t%2Fi_have_started_a_collection_of_newsletters%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg1g7t%2Fi_have_started_a_collection_of_newsletters%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg1g7t/i_have_started_a_collection_of_newsletters/</guid><pubDate>Thu, 04 Aug 2022 20:40:32 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;It&amp;amp;#39;s called Future Ready and all the newsletters are free. You can subscribe by going to &amp;lt;a href=&quot;https://futureready.substack.com/&quot;&amp;gt;https://futureready.substack.com/&amp;lt;/a&amp;gt; .&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Butt Mover - The butt triggered productivity and health timer is now open-source! Details in the comments.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg4k4z/butt_mover_the_butt_triggered_productivity_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg4k4z%2Fbutt_mover_the_butt_triggered_productivity_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg4k4z%2Fbutt_mover_the_butt_triggered_productivity_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg4k4z/butt_mover_the_butt_triggered_productivity_and/</guid><pubDate>Thu, 04 Aug 2022 16:28:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I created this free analytics tool to save time manually analyzing Tiktok accounts.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg3nff/i_created_this_free_analytics_tool_to_save_time/?score=13&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg3nff%2Fi_created_this_free_analytics_tool_to_save_time%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg3nff%2Fi_created_this_free_analytics_tool_to_save_time%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg3nff/i_created_this_free_analytics_tool_to_save_time/</guid><pubDate>Thu, 04 Aug 2022 16:28:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I made a web app that generates recipes for acrylic paints based on the colors you own 🎨🖌️]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wfgixu/i_made_a_web_app_that_generates_recipes_for/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwfgixu%2Fi_made_a_web_app_that_generates_recipes_for%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwfgixu%2Fi_made_a_web_app_that_generates_recipes_for%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wfgixu/i_made_a_web_app_that_generates_recipes_for/</guid><pubDate>Thu, 04 Aug 2022 10:38:28 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[Butt Mover - The butt triggered productivity and health timer is now open-source! Details in the comments.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg4k4z/butt_mover_the_butt_triggered_productivity_and/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg4k4z%2Fbutt_mover_the_butt_triggered_productivity_and%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg4k4z%2Fbutt_mover_the_butt_triggered_productivity_and%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg4k4z/butt_mover_the_butt_triggered_productivity_and/</guid><pubDate>Thu, 04 Aug 2022 16:28:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[I created this free analytics tool to save time manually analyzing Tiktok accounts.]]></title><link>https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg3nff/i_created_this_free_analytics_tool_to_save_time/?score=13&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg3nff%2Fi_created_this_free_analytics_tool_to_save_time%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwg3nff%2Fi_created_this_free_analytics_tool_to_save_time%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/en/reddit/r/SideProject/comments/wg3nff/i_created_this_free_analytics_tool_to_save_time/</guid><pubDate>Thu, 04 Aug 2022 16:28:49 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
