@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Aug 2022 23:46:45 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我建立了Power Tags，一個新穎的SaaS應用程序，讓你使用你的日曆來安排和發送警報、電子郵件、短信、電話、團隊消息和調用API/webhooks!]]></title><description><![CDATA[網絡應用：https://www.powertags.com [http://www.powertags.com/?via=sideproject]
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 15 Aug 2022 10:35:19 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我做了一個對話式的人工智能應用，幫助你學習數學、科學、歷史和計算機科學!]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wou0ly/i_made_an_conversational_ai_app_to_help_you_with/?score=8&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwou0ly%2Fi_made_an_conversational_ai_app_to_help_you_with%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwou0ly%2Fi_made_an_conversational_ai_app_to_help_you_with%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wou0ly/i_made_an_conversational_ai_app_to_help_you_with/</guid><pubDate>Mon, 15 Aug 2022 09:53:14 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[和我一起做你的副業。描述中的谷歌見面鏈接]]></title><description><![CDATA[嗨，我的名字是丹尼。
+
+我正在做一個副業，希望有一個責任小組來保持我的動力。
+我的動力。來吧，爲你的副業添磚加瓦，爲它工作，或者僅僅是放鬆一下。
+
+將在美國中部時間（現在）12-2點工作。
+
+https://meet.google.com/ada-oduz-wph?pli=1]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wocavb/work_on_your_side_project_with_me_google_meet/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwocavb%2Fwork_on_your_side_project_with_me_google_meet%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwocavb%2Fwork_on_your_side_project_with_me_google_meet%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wocavb/work_on_your_side_project_with_me_google_meet/</guid><pubDate>Mon, 15 Aug 2022 09:53:14 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hi my name is Danny,&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I am working on an side project and would like an accountability group to keep me motivated. Come along, plug your side project, work on it, or just chill! &amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Will work 12-2pm central US time (now).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://meet.google.com/ada-oduz-wph?pli=1&quot;&amp;gt;https://meet.google.com/ada-oduz-wph?pli=1&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我建立了Power Tags，一個新穎的SaaS應用程序，讓你使用你的日曆來安排和發送警報、電子郵件、短信、電話、團隊消息和調用API/webhooks!]]></title><description><![CDATA[網絡應用：https://www.powertags.com [http://www.powertags.com/?via=sideproject]
 
 快速視頻演示：https://youtu.be/csyDUcQ0LX4
 
@@ -666,30 +680,4 @@ domaingenerator.app...]]></description><link>https://sideproject.buzzing.cc/zh-H
 &amp;lt;p&amp;gt;The goal of this is to have a simple way to execute recurring tasks online, right from your browser, using a cron-like syntax. &amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Do you want to have a look? Any feedback is more than welcome&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我完全在網絡上覆制了一個20年前的win98聊天程序。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/whyaxy/i_have_replicated_a_20_year_old_win98_chat/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwhyaxy%2Fi_have_replicated_a_20_year_old_win98_chat%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwhyaxy%2Fi_have_replicated_a_20_year_old_win98_chat%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/whyaxy/i_have_replicated_a_20_year_old_win98_chat/</guid><pubDate>Sat, 06 Aug 2022 22:42:29 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[從這個行業休息了半年，專注於自我護理/改善。最終也在一邊學習React Native。分享我建立的應用程序，以幫助我保持正軌。希望聽到你的想法!]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/whf22w/took_a_halfyear_break_from_the_industry_to_focus/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwhf22w%2Ftook_a_halfyear_break_from_the_industry_to_focus%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwhf22w%2Ftook_a_halfyear_break_from_the_industry_to_focus%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/whf22w/took_a_halfyear_break_from_the_industry_to_focus/</guid><pubDate>Sat, 06 Aug 2022 22:19:49 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[有指導的記事。爲那些不能堅持寫日記的人服務]]></title><description><![CDATA[嗨，大家好。
-
-我目前正在建立一個免費的應用程序，以幫助人們把一些浪費的時間
-變成更積極的事情。
-
-我一直很喜歡寫日記的想法，但從未設法保持這個習慣。
-
-生活似乎總是在阻礙我，甚至當我保持它的時候......]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/whmlta/guidied_journaling_for_those_who_cant_journal/?score=5&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwhmlta%2Fguidied_journaling_for_those_who_cant_journal%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwhmlta%2Fguidied_journaling_for_those_who_cant_journal%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/whmlta/guidied_journaling_for_those_who_cant_journal/</guid><pubDate>Sat, 06 Aug 2022 15:35:53 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Hey all, &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;m currently building a free app to help people turn some of the wasted time scrolling on their phones into something more positive.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve always liked the idea of journaling but never managed to keep up the habit. &amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Life just always seems to get in the way and even when I do keep it up it tends to get a bit stale after a short while.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;This gave me the idea to come up with a guided journaling app so people journal anywhere (even on the toilet) and quickly.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Different questions each day, character limited answers, along with mood and habit trackers.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;I&amp;amp;#39;ve built a landing page to gauge if anyone is interested in this type of solution:&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://ToiletJournal.com&quot;&amp;gt;ToiletJournal.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Would love to hear some feedback!&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Thanks&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我完全在網絡上覆制了一個20年前的win98聊天程序。]]></title><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/whyaxy/i_have_replicated_a_20_year_old_win98_chat/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwhyaxy%2Fi_have_replicated_a_20_year_old_win98_chat%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwhyaxy%2Fi_have_replicated_a_20_year_old_win98_chat%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/whyaxy/i_have_replicated_a_20_year_old_win98_chat/</guid><pubDate>Sat, 06 Aug 2022 22:42:29 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
