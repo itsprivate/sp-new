@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Aug 2022 12:38:11 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[我爲前端開發者建立了一個平臺來準備技術面試回合]]></title><description><![CDATA[我建立了algochurn.com[https://algochurn.com]--一個前端開發人員可以在此練習摩斯的平臺。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[業餘項目分享交流]]></title><description><![CDATA[用中文浏览reddit业余项目讨论]]></description><link>https://sideproject.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Aug 2022 13:41:21 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[這位創始人在Airtable上建立了8600美元的MRR業務😱。]]></title><description><![CDATA[Notion和Airtable是這裏大多數人最喜歡的兩個工具。任何圍繞這兩個利基市場建立
+圍繞這兩個利基的產品都讓我感到興奮。
+
+我和建造DataFetcher的Andy在Twitter上聯繫了一段時間，但是
+但從未與他交談過。
+
+當我開始做Founder Beats - Founder Insights...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wrbmk3/this_founder_built_8600_mrr_business_on_airtable/?score=6&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwrbmk3%2Fthis_founder_built_8600_mrr_business_on_airtable%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwrbmk3%2Fthis_founder_built_8600_mrr_business_on_airtable%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wrbmk3/this_founder_built_8600_mrr_business_on_airtable/</guid><pubDate>Thu, 18 Aug 2022 12:56:51 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;Notion and Airtable are two favorite tools for most people here. Anyone building products around these two niches excite me.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I was connected with Andy building DataFetcher for some time on Twitter but never got into conversation with him.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;When I started &amp;lt;a href=&quot;https://founderbeats.com&quot;&amp;gt;Founder Beats - Founder Insights&amp;lt;/a&amp;gt;, Andy is one of the people who I have in mind to get on an interview.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Every IndieHacker has a strong story to share and I wanted to bring that story out.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Some interesting notes&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;How long did it take you to acquire your first 50 customers, and what was your growth strategy?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;It took about six months to reach the first 50 customers. Initially, I launched on forums, Product Hunt, Reddit etc. which got a handful of users.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Being early to a marketplace like Airtable means you get a handful of new users each day, even without doing any marketing. I think a big factor in converting these people was choosing a freemium pricing model. Some people would try Data Fetcher out on the free plan for months, then finally convert when they had a concrete use case.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A few months in, I realised Data Fetcher wasn&amp;amp;#39;t going to grow properly unless I found a more scalable marketing channel. As for many bootstrapped products, this turned out to be SEO. Specifically, I would take common Data Fetcher use cases and create YouTube videos &amp;amp;amp; written tutorials.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Today, 30%-40% of my customers come through our YouTube videos or blog posts, and this % has steadily increased. The interesting thing is the number of views on the videos/ blog posts is tiny (e.g. &amp;amp;lt;1000 total views for most videos), but the intent is super high, so the conversion rate is high.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Which technology stack are you using and what challenges and limitations does it pose?&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The backend is written in Node.js, TypeScript, PostgresQL, GraphQL and hosted on Heroku. The frontend is React.js, TypeScript and Airtable&amp;amp;#39;s Blocks SDK.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;I chose this stack because I was already familiar with it, which is the approach I&amp;amp;#39;d advise anyone to take.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;There haven&amp;amp;#39;t been any serious limitations, but there have certainly been some Heroku growing pains, now that Data Fetcher users are doing 10,000s of runs (an import/export) per day. I&amp;amp;#39;ve had to upgrade Heroku servers/ database in a hurry and add lots of monitoring to try and see this coming.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;The backend relies on Airtable&amp;amp;#39;s REST API. It&amp;amp;#39;s solid enough but has some quirks I&amp;amp;#39;ve had to build around. e.g. it uses names for tables rather than ids, which means when a user changes a table name their scheduled runs start failing. So gracious error handling and alerting the user has been very important.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;More founder insights around building profitable Micro SaaS around Airtable from Andy &amp;lt;a href=&quot;https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr&quot;&amp;gt;here&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我爲前端開發者建立了一個平臺來準備技術面試回合]]></title><description><![CDATA[我建立了algochurn.com[https://algochurn.com]--一個前端開發人員可以在此練習摩斯的平臺。
 開發人員可以在前端面試中練習最常問的機器編碼問題。
 前端面試環境中練習最常見的機器編碼問題。
 
@@ -664,16 +701,4 @@ Rithmm是一個針對體育博彩的個性化預測分析平臺，我們
 &amp;lt;p&amp;gt;We&amp;amp;#39;ll be launching our platform at the end of August, just in time for college football, and we are currently looking for beta users. If interested, please join our email list at: &amp;lt;a href=&quot;https://www.rithmm.com/&quot;&amp;gt;https://www.rithmm.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;Any questions, comments, and feedback are welcome. Thank you!&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item><item><title><![CDATA[我做了一個工具，可以將1800多個美國英語單詞一鍵換成國際英語的對應詞]]></title><description><![CDATA[我發現自己每週要搜索和替換數百個美國單詞。谷歌文檔和
-Word等都讓你對每個詞都點擊 "接受"，這很耗費時間
-這很耗時間。
-
-因此，我建立了一個東西，允許你粘貼富文本、純文本、markdown
-和HTML，並點擊一個...]]></description><link>https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wjv563/i_made_a_tool_that_swaps_1800_us_english_words_to/?score=9&amp;original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwjv563%2Fi_made_a_tool_that_swaps_1800_us_english_words_to%2F&amp;discuss_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSideProject%2Fcomments%2Fwjv563%2Fi_made_a_tool_that_swaps_1800_us_english_words_to%2F&amp;channel=SideProject&amp;sensitive=false</link><guid isPermaLink="false">https://sideproject.buzzing.cc/zh-Hant/reddit/r/SideProject/comments/wjv563/i_made_a_tool_that_swaps_1800_us_english_words_to/</guid><pubDate>Tue, 09 Aug 2022 08:55:31 GMT</pubDate><content:encoded>&amp;lt;!-- SC_OFF --&amp;gt;&amp;lt;div class=&quot;md&quot;&amp;gt;&amp;lt;p&amp;gt;I find myself search and replacing hundreds of US words a week. Google docs and Word, etc all make you click &amp;amp;#39;accept&amp;amp;#39; for every word, which is time consuming af.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;So I built something that allows you to paste rich text, plain text, markdown and HTML in and out and click one button.&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://www.fixspell.com&quot;&amp;gt;https://www.fixspell.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-
-&amp;lt;p&amp;gt;Let me know what you think!&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;&amp;lt;!-- SC_ON --&amp;gt;</content:encoded></item></channel></rss>
